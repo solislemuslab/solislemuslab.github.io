@@ -20,16 +20,16 @@ description: Solis-Lemus publications
 
 #### 2020
 
-Guerrero, V. and C. Soli&iacute;s-Lemus. 2020. A generalized measure of relative dispersion, Stat. and Prob. Letters.
+Guerrero, V. and C. Sol&iacute;s-Lemus. 2020. A generalized measure of relative dispersion, Stat. and Prob. Letters [doi: 10.1016/j.spl.2020.108806](https://www.sciencedirect.com/science/article/pii/S0167715220301097?dgcid=author)
 
 Sol&iacute;s-Lemus, C., S. T. Fischer, A. Todor, C. Liu, E. J. Leslie, D. J. Cutler, D. Ghosh and M. P. Epstein. 2020. Leveraging Family History in Case-Control Analyses of Rare Variation.
 [GENETICS](https://doi.org/10.1534/genetics.119.302846)
 
-M. Su, J. Lyles, R. A. Petit III, J. M. Peterson, M. Hargita, H .Tang, C. Solis-Lemus, C. Quave, T. D. Read. 2020. Genomic analysis of variability in delta-toxin levels between Staphylococcus aureus strains. PeerJ, doi:10.7717/peerj.8717
+M. Su, J. Lyles, R. A. Petit III, J. M. Peterson, M. Hargita, H .Tang, C. Solis-Lemus, C. Quave, T. D. Read. 2020. Genomic analysis of variability in delta-toxin levels between Staphylococcus aureus strains. [PeerJ doi:10.7717/peerj.8717](https://peerj.com/articles/8717/)
 
 #### 2019
 
-Sol&iacute;s-Lemus, C., Ma, X., Hostetter II, M., Kundu, S., Qiu, P., Pimentel-Alarc&oacute;n D., 2019. Prediction of functional markers of mass cytometry data via deep learning. Biostatistics and Bioinformatics, Springer.
+Sol&iacute;s-Lemus, C., Ma, X., Hostetter II, M., Kundu, S., Qiu, P., Pimentel-Alarc&oacute;n D., 2019. Prediction of functional markers of mass cytometry data via deep learning. Biostatistics and Bioinformatics, [Springer](https://link.springer.com/chapter/10.1007/978-3-030-33416-1_5).
 
 #### 2018
 
