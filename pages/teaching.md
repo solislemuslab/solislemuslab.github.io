@@ -7,7 +7,7 @@ description: Claudia Solis-Lemus' teaching
 <div class="navbar">
     <div class="navbar-inner">
         <ul class="nav">
-            <li><a href="#links">knowledge</a></li>
+            <li><a href="#knowledge">knowledge</a></li>
             <li><a href="#courses">courses</a></li>
             <li><a href="#tutorials">tutorials</a></li>
             <li><a href="#experience">past teaching</a></li>

@@ -1,28 +1,39 @@
 ---
 layout: page
 title: publications
-description: Claudia Solis-Lemus' publications
+description: Solis-Lemus publications
 ---
 
 <div class="navbar">
     <div class="navbar-inner">
         <ul class="nav">
+            <li><a href="#overview">overview</a></li>
             <li><a href="https://scholar.google.com/citations?user=GrUypj8AAAAJ&hl=en&oi=ao">google-scholar</a></li>
-            <li><a href="#thesis">dissertation</a></li>
+            <li><a href="#publications">publications</a></li>
         </ul>
     </div>
 </div>
 
-#### 2019
+### <a name="overview"></a>Overview
 
-Sol&iacute;s-Lemus, C., S. T. Fischer, A. Todor, C. Liu, E. J. Leslie, D. J. Cutler, D. Ghosh and M. P. Epstein. 2019. Leveraging Family History in Case-Control Analyses of Rare Variation.
+### <a name="publications"></a>Publications
+
+#### 2020
+
+Guerrero, V. and C. Soli&iacute;s-Lemus. 2020. A generalized measure of relative dispersion, Stat. and Prob. Letters.
+
+Sol&iacute;s-Lemus, C., S. T. Fischer, A. Todor, C. Liu, E. J. Leslie, D. J. Cutler, D. Ghosh and M. P. Epstein. 2020. Leveraging Family History in Case-Control Analyses of Rare Variation.
 [GENETICS](https://doi.org/10.1534/genetics.119.302846)
+
+M. Su, J. Lyles, R. A. Petit III, J. M. Peterson, M. Hargita, H .Tang, C. Solis-Lemus, C. Quave, T. D. Read. 2020. Genomic analysis of variability in delta-toxin levels between Staphylococcus aureus strains. PeerJ, doi:10.7717/peerj.8717
+
+#### 2019
 
 Sol&iacute;s-Lemus, C., Ma, X., Hostetter II, M., Kundu, S., Qiu, P., Pimentel-Alarc&oacute;n D., 2019. Prediction of functional markers of mass cytometry data via deep learning. Biostatistics and Bioinformatics, Springer.
 
 #### 2018
 
-Sol&iacute;s-Lemus, C., Pimentel-Alarc&oacute;n D.,. 2018. Breaking the Limits of Subspace Inference. [56th Annual Allerton Conference on
+Sol&iacute;s-Lemus, C., Pimentel-Alarc&oacute;n D., 2018. Breaking the Limits of Subspace Inference. [56th Annual Allerton Conference on
 Communication, Control, and Computing](http://allerton.csl.illinois.edu/)
 
 Spooner, D.M., Ruess, H., Arbizu, C.I., Rodriguez, F., Sol&iacute;s-Lemus. 2018. Greatly reduced phylogenetic structure in the cultivated potato clade (Solanum section Petota pro parte). [American Journal of Botany](http://onlinelibrary.wiley.com/doi/10.1002/ajb2.1008/abstract)
@@ -53,9 +64,6 @@ Pimentel-Alarc&oacute;n D., C. Sol&iacute;s-Lemus. 2016. Crime detection via cro
 #### 2015
 
 Sol&iacute;s-Lemus, C., L.L. Knowles and C. An&eacute;. 2015. Bayesian species delimitation combining multiple genes and traits in a unified framework. [Evolution](http://onlinelibrary.wiley.com/doi/10.1111/evo.12582/abstract)
-
-
-### <a name="thesis"></a>dissertation
 
 Sol&iacute;s-Lemus, C. (2015). Statistical methods to infer population structure with coalescence and gene flow.  PhD dissertation, Department of Statistics,
 University of Wisconsin-Madison
