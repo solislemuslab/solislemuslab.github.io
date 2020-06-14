@@ -32,6 +32,8 @@ description: Claudia Solis-Lemus' teaching
 - Julia for R programmmers: [cheatsheet](https://datascience-enthusiast.com/R/R_Julia_cheat_sheet.html)
 - Julia for Python/Matlab programmers: [cheatsheet](https://cheatsheets.quantecon.org/)
 
+---
+
 ## <a name="courses"></a>Courses
 
 #### Spring 2021
@@ -47,6 +49,8 @@ Upcoming UW-Madison class: PP/Botany 563 Phylogenetic Analysis of Molecular Data
 **Botany 563:** Guest lecture on Introduction to phylogenetic networks
   - [slides](http://www.stat.wisc.edu/~claudia/networks_talkBotany.pdf)
   - [code](http://www.stat.wisc.edu/~claudia/smallTutorialBotany.jl)
+
+---
 
 ## <a name="tutorials"></a>Tutorials
 
@@ -67,6 +71,7 @@ Phylogenomics symposium and software school: Introduction to PhyloNetworks and S
   - [julia code](http://www.stat.wisc.edu/~claudia/tutorial.jl)
   - [R code](http://www.stat.wisc.edu/~claudia/tutorial.r)
 
+---
 
 ## <a name="experience"></a>Other teaching experience
 
@@ -91,6 +96,8 @@ Phylogenomics symposium and software school: Introduction to PhyloNetworks and S
 - Spring 2010 Actuarial Mathematics I
 - Fall 2009 Actuarial Mathematics III
 - Spring 2010 Actuarial Mathematics III
+
+---
 
 ## <a name="mentoring"></a>Past Mentoring
 
