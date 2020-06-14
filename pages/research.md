@@ -8,8 +8,8 @@ description: Solis-Lemus publications
     <div class="navbar-inner">
         <ul class="nav">
             <li><a href="#overview">overview</a></li>
-            <li><a href="https://scholar.google.com/citations?user=GrUypj8AAAAJ&hl=en&oi=ao">google-scholar</a></li>
             <li><a href="#publications">publications</a></li>
+            <li><a href="https://scholar.google.com/citations?user=GrUypj8AAAAJ&hl=en&oi=ao">google-scholar</a></li>
         </ul>
     </div>
 </div>
@@ -22,7 +22,7 @@ Our work produces a collection of new statistical methods with solid theoretical
 
 #### Statistical phylogenomics
 
-![](../assets/pics/cui.jpeg)
+![](../assets/pics/cui.jpeg =100x20)
 
 intro paragraph
 
