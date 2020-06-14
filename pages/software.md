@@ -15,6 +15,27 @@ description: Claudia Solis-Lemus' software
 
 ---
 
+
+<div class="container">
+<h4><a name="PhyloNetworks"></a>PhyloNetworks</h4>
+
+    <div class="row-fluid">
+        <div class="span5">
+            [PhyloNetworks](https://github.com/crsl4/PhyloNetworks.jl): 
+            A [Julia](http://julialang.org/) package with tools for phylogenetic networks, including the maximum pseudolikelihood estimation method: SNaQ (Species Networks applying Quartets)
+
+            To receive announcements about updates to PhyloNetworks, join the
+            [PhyloNetworks google group](https://groups.google.com/forum/#!forum/phylonetworks-users).
+        </div>
+
+        <div class="span2">
+        <a href="../assets/pics/phylonetworks-logo.png">
+            <img src="../assets/pics/phylonetworks-logo.png"
+                  title="PhyloNetworks" alt="PhyloNetworks"/></a>
+        </div>
+    </div>
+</div>
+
 #### <a name="phylonetworks"></a>[PhyloNetworks](https://github.com/crsl4/PhyloNetworks.jl)
 
 A [Julia](http://julialang.org/) package with tools for phylogenetic networks, including the maximum pseudolikelihood estimation method: SNaQ (Species Networks applying Quartets)
