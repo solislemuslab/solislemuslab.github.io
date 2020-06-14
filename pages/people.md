@@ -107,10 +107,11 @@ In my spare time, I enjoy swimming, running, biking, climbing and yoga!
         </div>
 
         <div class="span5">
-            Brian Cheng is a senior undergraduate student in Computer Science. He is working on testing the applicability of neural network models to microbial genomic datasets to predict important phenotypes like those related to antibiotic resistance.
+            Songyang Cheng is a senior undergraduate student in Computer Science. He is working on testing the applicability of neural network models to microbial genomic datasets to predict important phenotypes like those related to antibiotic resistance.
         </div>
     </div>
 </div>
+
 
 <div class="container">
     <div class="row-fluid">
@@ -126,6 +127,67 @@ In my spare time, I enjoy swimming, running, biking, climbing and yoga!
     </div>
 </div>
 
+
+<div class="container">
+    <div class="row-fluid">
+        <div class="span2">
+        <a href="../assets/pics/yuzhou.png">
+            <img src="../assets/pics/yuzhou.png"
+                  title="YuzhouKang" alt="YuzhouKang"/></a>
+        </div>
+
+        <div class="span5">
+            Yuzhou Kang is a junior undergraduate student in Statistics and in Economics. He is reconstructing phylogenetic trees and ancestral sequences for _Potyvirus_ and _Picornavirus_.
+        </div>
+    </div>
+</div>
+
+
+<div class="container">
+    <div class="row-fluid">
+        <div class="span2">
+        <a href="../assets/pics/yizhou.png">
+            <img src="../assets/pics/yizhou.png"
+                  title="YizhouLiu" alt="YizhouLiu"/></a>
+        </div>
+
+        <div class="span5">
+            Yizhou Liu is a junior undergraduate student in Computer Science and in Mathematics. He is working on user-friendly open-source software to allow biologist to visualize complex phylogenetic networks.
+        </div>
+    </div>
+</div>
+
+
+<div class="container">
+    <div class="row-fluid">
+        <div class="span2">
+        <a href="../assets/pics/ritika.png">
+            <img src="../assets/pics/ritika.png"
+                  title="RitikaMittal" alt="RitikaMittal"/></a>
+        </div>
+
+        <div class="span5">
+            Ritika Mittal is a junior undergraduate student in Computer Science. She is working on user-friendly open-source software to allow biologist to visualize complex phylogenetic networks.
+        </div>
+    </div>
+</div>
+
+
+<div class="container">
+    <div class="row-fluid">
+        <div class="span2">
+        <a href="../assets/pics/junting.jpg">
+            <img src="../assets/pics/junting.jpg"
+                  title="JuntingWang" alt="JuntingWang"/></a>
+        </div>
+
+        <div class="span5">
+            Junting Wang is a senior undergraduate student in Statistics and in Mathematics. She is using neural network models to predict antibiotic-resistance phenotypes from genomic data in _Staphylococcus aureus_.
+        </div>
+    </div>
+</div>
+
+
 <div class="container">
     <div class="row-fluid">
         <div class="span2">
@@ -140,6 +202,7 @@ In my spare time, I enjoy swimming, running, biking, climbing and yoga!
     </div>
 </div>
 
+
 <div class="container">
     <div class="row-fluid">
         <div class="span2">
@@ -149,7 +212,7 @@ In my spare time, I enjoy swimming, running, biking, climbing and yoga!
         </div>
 
         <div class="span5">
-            Liule Yang is a junior undergraduate student in Computer Science, Mathematics and Statistics. She is testing the applicability of unsupervised and semi-supervised machine learning methods on microbial genomic datasets related to plant and soil health.
+            Liule Yang is a junior undergraduate student in Computer Science, Mathematics and Statistics. He is testing the applicability of unsupervised and semi-supervised machine learning methods on microbial genomic datasets related to plant and soil health.
         </div>
     </div>
 </div>
@@ -170,6 +233,19 @@ In my spare time, I enjoy swimming, running, biking, climbing and yoga!
 </div>
 
 
+<div class="container">
+    <div class="row-fluid">
+        <div class="span2">
+        <a href="../assets/pics/yuzheng.png">
+            <img src="../assets/pics/yuzheng.png"
+                  title="YuzhengZhang" alt="YuzhengZhang"/></a>
+        </div>
+
+        <div class="span5">
+            Yuzheng Zhang is a junior undergraduate student in Computer Science and in Mathematics. He is testing the scalability of phylogenetic network inference methods with applications to COVID19 data.
+        </div>
+    </div>
+</div>
 
 ---
 
