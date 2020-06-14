@@ -86,7 +86,7 @@ examples of collaborations
 
 [Solis-Lemus google scholar](https://scholar.google.com/citations?user=GrUypj8AAAAJ&hl=en&oi=ao)
 
-<button type="button" onclick="https://scholar.google.com/citations?user=GrUypj8AAAAJ&hl=en&oi=ao">Google Scholar</button>
+<button type="button" onclick="window.location.href='https://scholar.google.com/citations?user=GrUypj8AAAAJ&hl=en&oi=ao';">Google Scholar</button>
 
 #### 2020
 
