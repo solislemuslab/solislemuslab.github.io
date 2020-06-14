@@ -1,10 +1,17 @@
 ---
 layout: page
-title: talks
+title: selected talks
 description: Claudia Solis-Lemus' talks
 ---
 
-## Selected talks
+### 2020
+
+Microbiome Hub Seminar - WID: Scalable Inference of Phylogenetic Networks (_May 7_)
+
+Statistics seminar – UW-Madison: New challenges in phylogenetic inference (_Mar 4_)
+
+Illuminating connections – WID: Identifying Genetic Factors Driving Microbial Phenotypes Through
+the Power of Data Science (_Feb 12_)
 
 ### 2019
 
