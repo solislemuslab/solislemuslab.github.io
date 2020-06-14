@@ -25,6 +25,9 @@ description: Solis-Lemus publications
 - Our work produces a collection of new statistical methods with solid theoretical guarantees and efficient computational implementations that are adaptable to analyze the complex characteristics of modern big biological data
 - We do not live in a statistical bubble! We always welcome new collaborations that can help our research to be relevant and applied to real-life data
 
+#### Interested in joining the lab?
+Information in [Opportunities](https://solislemuslab.github.io//pages/people.html#opportunities).
+
 ---
 
 ## <a name="phylogenomics"></a>Statistical phylogenomics

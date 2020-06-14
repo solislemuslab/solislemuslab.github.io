@@ -4,6 +4,21 @@ title: about
 description: Claudia Sol&iacute;s-Lemus
 ---
 
+<div class="navbar">
+    <div class="navbar-inner">
+        <ul class="nav">
+            <li><a href="#postdocx">postdocs</a></li>
+            <li><a href="#graduate">graduate</a></li>
+            <li><a href="#undergraduate">undergraduate</a></li>
+            <li><a href="#past">past</a></li>
+            <li><a href="#opportunities">oppportunities</a></li>
+        </ul>
+    </div>
+</div>
+
+#### Interested in joining the lab?
+Information in [Opportunities](https://solislemuslab.github.io//pages/people.html#opportunities).
+
 I am an assistant professor at the [Wisconsin Institute for Discovery](https://wid.wisc.edu/) and the [Department of Plant Pathology](https://plantpath.wisc.edu/) at the [University of Wisconsin-Madison](http://www.wisc.edu).
 
 My research involves the development of statistical models to answer biological questions, balancing biological interpretability, theoretical guarantees, and computational tractability. In particular, my research deals with modern big data which are highly interconnected through graphical structures. Examples of my research involve the inference of phylogenetic networks to study reticulate evolution, comparative methods on networks to study the evolution of traits on hybrids, new sampling schemes to improve on Bayesian MCMC tools, as well as the application of such new tools to real-life datasets such as cultivated potato and carrot, _Pseudomonas aeruginosa_, _Staphylococcus aureus_, human endogenous retroviruses among others. Next generation sequencing creates a big data reality that can make current methodologies prohibitive due to computational restrictions. My work produces a collection of new statistical methods with solid theoretical guarantees and efficient computational implementations that are adaptable to analyze the complex characteristics of modern big biological data.
@@ -56,17 +71,28 @@ See the information in the "Opportunities" section (top right).
     </div>
 </div>
 
+## <a name="postdocs"></a>Postdoctoral researchers
+
+## <a name="graduate"></a>Graduate students
+
+## <a name="undergraduate"></a>Undergraduate students
+
+## <a name="past"></a>Past members
+- [Lareina Liu](https://www.linkedin.com/in/lareina-xiaoyu-liu-90553a140/) (BS Statistics, UW-Madison). She is starting ADS Masters Program at USC in Fall 2020
+- Yifan Wu (BS Computer Engineering, UW-Madison)
+
+## <a name="opportunities"></a>Opportunities
 
 My lab is located in the [Wisconsin Institute for Discovery](https://wid.wisc.edu/), which provides immense opportunities for interdisciplinary connections and networking for students and postdocs!
 
-## Current UW undergraduate/graduate students
+#### Current UW undergraduate/graduate students
 
 - **What:** Undergraduate/graduate/postdoc research positions in Data Science, Statistics, CS, Machine Learning
 - **Where:** Wisconsin Institute for Discovery at the University of Wisconsin-Madison (https://wid.wisc.edu/)
 - **Details:** Opportunities in different research projects like the development of scalable methods/software for high-dimensional big genomic data, graphical models to understand interactions in microbiome data related to human or plant health, neural networks/deep learning models to predict antibiotic-resistance, website visualization tools for biological networks, among others
 - **Contact:** Email me your CV and use "Data Science position" in email subject
 
-## Prospective postdocs
+#### Prospective postdocs
 
 I am interested in collaborating with postdocs with any research background: biology, computer science, statistics, mathematics from theoretical/computational work to empirical.
 
@@ -76,7 +102,7 @@ In addition, I am also excited to work with people interested in empirical resea
 
 In any scenario, I'd be happy to provide assistance in the application to fellowships and grants to support your own independent research agenda.
 
-## Prospective graduate students
+#### Prospective graduate students
 
 My research is multi-disciplinary! So, I welcome graduate students interested in different programs:
 - **PhD in Plant Pathology: Application deadline December 1, 2019** (email me regarding Spring admission). Application info [here](https://plantpath.wisc.edu/application-process/).
