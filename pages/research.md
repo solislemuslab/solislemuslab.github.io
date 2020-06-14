@@ -25,6 +25,8 @@ description: Solis-Lemus publications
 - Our work produces a collection of new statistical methods with solid theoretical guarantees and efficient computational implementations that are adaptable to analyze the complex characteristics of modern big biological data
 - We do not live in a statistical bubble! We always welcome new collaborations that can help our research to be relevant and applied to real-life data
 
+<div class="container">
+
 ## <a name="phylogenomics"></a>Statistical phylogenomics
 
 The Tree of Life is the graphical structure that represents the evolutionary process
@@ -47,6 +49,7 @@ Our work is not purely methodological. Among our current collaborations, we can 
 
 **Want to learn more about phylogenetics (especially networks)?** See [this list of resources](https://github.com/solislemuslab/lab-dynamics/blob/master/lit-review.md) that starts with introductory videos and then a small subset of relevant papers in the field.
 
+</div>
 
 ## <a name="genomics"></a>Statistical genomics
 

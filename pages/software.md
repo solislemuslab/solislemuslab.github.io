@@ -7,7 +7,8 @@ description: Claudia Solis-Lemus' software
 <div class="navbar">
     <div class="navbar-inner">
         <ul class="nav">
-            <li><a href="https://github.com/crsl4">github</a></li>
+            <li><a href="https://github.com/crsl4">github-crsl4</a></li>
+            <li><a href="https://github.com/solislemuslab">github-solislemuslab</a></li>
         </ul>
     </div>
 </div>
