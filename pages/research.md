@@ -8,6 +8,7 @@ description: Solis-Lemus publications
     <div class="navbar-inner">
         <ul class="nav">
             <li><a href="#phylogenomics">phylogenomics</a></li>
+            <li><a href="#genomics">genomics</a></li>
             <li><a href="#publications">publications</a></li>
             <li><a href="https://scholar.google.com/citations?user=GrUypj8AAAAJ&hl=en&oi=ao">google-scholar</a></li>
         </ul>
@@ -22,7 +23,9 @@ Our work produces a collection of new statistical methods with solid theoretical
 
 #### <a name="phylogenomics"></a>Statistical phylogenomics
 
-![](../assets/pics/cui.jpeg =200x)
+![](../assets/pics/cui.jpeg)
+
+<img src="../assets/pics/cui.jpeg" alt="drawing" width="200"/>
 
 intro paragraph
 
@@ -38,7 +41,7 @@ examples of collaborations:
 - grapes with 
 - we always welcome collaborations!
 
-#### Statistical genomics
+#### <a name="genomics"></a>Statistical genomics
 
 intro paragraph
 
