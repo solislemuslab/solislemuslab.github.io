@@ -65,9 +65,9 @@ In my spare time, I enjoy swimming, running, biking, climbing and yoga!
 <div class="container">
     <div class="row-fluid">
         <div class="span2">
-        <a href="https://github.com/crsl4/PhyloNetworks.jl">
-            <img src="../assets/pics/phylonetworks-logo.png"
-                  title="PhyloNetworks" alt="PhyloNetworks"/></a>
+        <a href="../assets/pics/arrigo2.png">
+            <img src="../assets/pics/arrigo2.png"
+                  title="ArrigoCoen" alt="ArrigoCoen"/></a>
         </div>
 
         <div class="span5">
