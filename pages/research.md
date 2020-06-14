@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Research
+title: research
 description: Solis-Lemus publications
 ---
 

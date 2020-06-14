@@ -1,37 +1,25 @@
 ---
 layout: page
-title: opportunities
-description: Claudia Solis-Lemus
+title: news
+description: Solis-Lemus lab
 ---
 
-My lab is located in the [Wisconsin Institute for Discovery](https://wid.wisc.edu/), which provides immense opportunities for interdisciplinary connections and networking for students and postdocs!
+### Upcoming
+- July 28-30, 2020: I will be giving a virtual talk at the [1st virtual meeting of Systematics, Biogeography and Evolution (SBE)](https://www.eventbrite.com.ar/e/first-virtual-meeting-of-systematic-biogeography-evolution-sbe-tickets-106645918814) on phylogenetic networks
+- August 4, 2020: I will be giving a virtual talk at the [Joint Statistical Meetings (JSM)](https://ww2.amstat.org/meetings/jsm/2020/onlineprogram/index.cfm) on the Section of Statistical Methods in Phylogenetics and Metagenomics
 
-## Current UW undergraduate/graduate students
+### 2020
 
-- **What:** Undergraduate/graduate/postdoc research positions in Data Science, Statistics, CS, Machine Learning
-- **Where:** Wisconsin Institute for Discovery at the University of Wisconsin-Madison (https://wid.wisc.edu/)
-- **Details:** Opportunities in different research projects like the development of scalable methods/software for high-dimensional big genomic data, graphical models to understand interactions in microbiome data related to human or plant health, neural networks/deep learning models to predict antibiotic-resistance, website visualization tools for biological networks, among others
-- **Contact:** Email me your CV and use "Data Science position" in email subject
+- Congratulations to Zhaoyi Zhang for winning the Hilldale Faculty/Undergraduate Research Fellowship of UW-Madison!
 
-## Prospective postdocs
+- Honored to have been elected to become part of the SSB Council! My 3-year term as Council member will start on January 2021
 
-I am interested in collaborating with postdocs with any research background: biology, computer science, statistics, mathematics from theoretical/computational work to empirical.
+- Thanks to Mackenzie Krumme for the [article about me](https://www.uwalumni.com/news/the-flip-of-a-coin/) at the Wisconsin Alumni Association website
 
-For people with computational biology/statistics/data science background, there are several opportunities to become involved in ongoing projects related to my research: phylogenetic networks, bayesian phylogenetic inference, high-dimensional highly-correlated regression models applied to genomic/biological data, neural networks to predict phenotypes like antibiotic-resistance, among others.
+- Excited to join the [Badger Talks](https://badgertalks.wisc.edu/speaker/claudia-solis-lemus/)
 
-In addition, I am also excited to work with people interested in empirical research by teaming up with other faculty in the department. 
+### 2019
 
-In any scenario, I'd be happy to provide assistance in the application to fellowships and grants to support your own independent research agenda.
+- Thanks eCALS for my [new faculty profile](https://ecals.cals.wisc.edu/2019/10/09/new-faculty-profile-claudia-solis-lemus-develops-statistical-models-to-answer-biological-questions/)
 
-## Prospective graduate students
-
-My research is multi-disciplinary! So, I welcome graduate students interested in different programs:
-- **PhD in Plant Pathology: Application deadline December 1, 2019** (email me regarding Spring admission). Application info [here](https://plantpath.wisc.edu/application-process/).
-- **PhD in Statistics: Application deadline December 1, 2019** (no admissions in Spring). Application info [here](https://stat.wisc.edu/graduate-studies/phd-program/)
-- **PhD in Computer Science: Application deadline December 15, 2019** (no admissions in Spring). Application info [here](https://www.cs.wisc.edu/graduate/ms-and-phd-program/)
-- **PhD in Mathematics: Application deadline December 15, 2019** (no admissions in Spring). Application info [here](https://www.math.wisc.edu/node/11)
-
-Feel free to email me if you are interested in working with me and have questions regarding the application.
-
-Even though my research is purely computational (dry lab), I am happy to co-advise students interested in empirical research, together with [another professor in the department](https://plantpath.wisc.edu/faculty-3/).
-
+- Launching my Wisconsin Institute for Discovery [website](https://wid.wisc.edu/people/claudia-solis-lemus/)
