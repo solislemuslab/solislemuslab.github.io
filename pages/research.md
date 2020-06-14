@@ -86,6 +86,8 @@ examples of collaborations
 
 [Solis-Lemus google scholar](https://scholar.google.com/citations?user=GrUypj8AAAAJ&hl=en&oi=ao)
 
+<button type="button" onclick="https://scholar.google.com/citations?user=GrUypj8AAAAJ&hl=en&oi=ao">Google Scholar</button>
+
 #### 2020
 
 Guerrero, V. and C. Sol&iacute;s-Lemus. 2020. A generalized measure of relative dispersion, [Stat. and Prob. Letters](https://www.sciencedirect.com/science/article/pii/S0167715220301097?dgcid=author)
