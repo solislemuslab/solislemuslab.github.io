@@ -23,9 +23,7 @@ Our work produces a collection of new statistical methods with solid theoretical
 
 #### <a name="phylogenomics"></a>Statistical phylogenomics
 
-![](../assets/pics/cui.jpeg)
-
-<img src="../assets/pics/cui.jpeg" alt="drawing" width="200"/>
+<img src="../assets/pics/cui.jpeg" alt="drawing" width="200" ALIGN="top"/>
 
 intro paragraph
 
