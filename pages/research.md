@@ -25,7 +25,7 @@ description: Solis-Lemus publications
 - Our work produces a collection of new statistical methods with solid theoretical guarantees and efficient computational implementations that are adaptable to analyze the complex characteristics of modern big biological data
 - We do not live in a statistical bubble! We always welcome new collaborations that can help our research to be relevant and applied to real-life data
 
-#### <a name="phylogenomics"></a>Statistical phylogenomics
+## <a name="phylogenomics"></a>Statistical phylogenomics
 
 The Tree of Life is the graphical structure that represents the evolutionary process
 from single-cell organisms at the origin of life to the vast biodiversity we see today.
@@ -45,8 +45,10 @@ Our work is not purely methodological. Among our current collaborations, we can 
 - reconstructing phylogenetic trees and networks of grapes and carrots and studying the evolution of traits related to climate resistance via comparative methods
 - reconstructing phylogenetic trees and networks of _Escovopsis_ and studying the evolution of vesicular shapes via comparative methods
 
+**Want to learn more about phylogenetics (especially networks)?** See [this list of resources](https://github.com/solislemuslab/lab-dynamics/blob/master/lit-review.md) that starts with introductory videos and then a small subset of relevant papers in the field.
 
-#### <a name="genomics"></a>Statistical genomics
+
+## <a name="genomics"></a>Statistical genomics
 
 One area of statistical genomics has focused on elucidating ties between genes and diseases (human diseases or plant diseases). Standard analytic methods typically consist of a regression of an individual SNP or genes on a phenotype, but these analyses face numerous challenges including small individual SNP effects, low power due to improper modeling of linkage disequilibrium (LD) patterns, and potential type-I error inflation due to unmodeled population structure or kinship. Furthermore, typical approaches involve single regression models followed by multiple test corrections, thus yielding very stringent cutoffs for significance so that very few SNPs are found to be associated with the phenotype. 
 
@@ -56,7 +58,7 @@ Examples of our research involve:
 - post selection inference and penalized regression models applied to GWAS on human disease
 - high dimensional models for the integration of different omics data types applied to human microbiome research and plant microbiome reseach
 
-#### <a name="microbiome"></a>Statistics in microbiome research
+## <a name="microbiome"></a>Statistics in microbiome research
 
 Microbial communities are among the main driving forces in the biosphere. Many critical biological processes inside and outside the human body are governed by microbes. Understanding the composition of microbial communities and what environmental factors play a role in shaping this composition is crucial to comprehend processes connected to human, plant and soil health, as well as to predict microbial responses to environmental perturbations such as climate change in a planet macroscopic scale or diet in a human microscopic scale.
 
@@ -73,7 +75,7 @@ Our work is not purely methodological. Among our current collaborations, we can 
 - studying how root microbial communities affect potato health and response to environmental changes
 - studying the effect of lung microbiome on health outcomes in cystic fibrosis patients
 
-#### <a name="dl"></a>Statistical view in deep learning
+## <a name="dl"></a>Statistical view in deep learning
 
 For the last decades, deep learning has enabled unprecedented prediction potential in a plethora
 of applications. In particular, neural networks (NNs) are already successfully used in computer
