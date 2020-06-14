@@ -34,12 +34,19 @@ description: Claudia Solis-Lemus' teaching
 
 ## <a name="courses"></a>Courses
 
-- 2019: Faculty member of the Marine Biological Laboratory workshop on Molecular Evolution. Lecture and tutorial on phylogenetic networks. Woods Hole, USA.
-    - [slides](https://www.stat.wisc.edu/~claudia/talk-networks-mbl.pdf)
-    - [wiki](https://github.com/crsl4/PhyloNetworks.jl/wiki)
-- 2016: Botany 563 Guest lecture: Introduction to phylogenetic networks
-    - [slides](http://www.stat.wisc.edu/~claudia/networks_talkBotany.pdf)
-    - [code](http://www.stat.wisc.edu/~claudia/smallTutorialBotany.jl)
+#### Spring 2021
+
+Upcoming UW-Madison class: PP/Botany 563 Phylogenetic Analysis Of Molecular Data
+
+#### 2019: Woods Hole
+Faculty member of the Marine Biological Laboratory workshop on Molecular Evolution. Lecture and tutorial on phylogenetic networks. Woods Hole, USA.
+  - [slides](https://www.stat.wisc.edu/~claudia/talk-networks-mbl.pdf)
+  - [wiki](https://github.com/crsl4/PhyloNetworks.jl/wiki)
+
+#### 2016: Botany 563 Guest lecture
+Introduction to phylogenetic networks
+  - [slides](http://www.stat.wisc.edu/~claudia/networks_talkBotany.pdf)
+  - [code](http://www.stat.wisc.edu/~claudia/smallTutorialBotany.jl)
 
 ## <a name="tutorials"></a>Tutorials
 
