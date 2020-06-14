@@ -36,30 +36,32 @@ description: Claudia Solis-Lemus' teaching
 
 #### Spring 2021
 
-Upcoming UW-Madison class: PP/Botany 563 Phylogenetic Analysis Of Molecular Data
+Upcoming UW-Madison class: PP/Botany 563 Phylogenetic Analysis of Molecular Data
 
-#### 2019: Woods Hole
-Faculty member of the Marine Biological Laboratory workshop on Molecular Evolution. Lecture and tutorial on phylogenetic networks. Woods Hole, USA.
+#### 2019 
+**Woods Hole:** Faculty member of the Marine Biological Laboratory workshop on Molecular Evolution. Lecture and tutorial on phylogenetic networks. Woods Hole, USA.
   - [slides](https://www.stat.wisc.edu/~claudia/talk-networks-mbl.pdf)
   - [wiki](https://github.com/crsl4/PhyloNetworks.jl/wiki)
 
-#### 2016: Botany 563 Guest lecture
-Introduction to phylogenetic networks
+#### 2016: 
+**Botany 563:** Guest lecture on Introduction to phylogenetic networks
   - [slides](http://www.stat.wisc.edu/~claudia/networks_talkBotany.pdf)
   - [code](http://www.stat.wisc.edu/~claudia/smallTutorialBotany.jl)
 
 ## <a name="tutorials"></a>Tutorials
 
-#### Nantucket developR 2019
-Tutorial on best computing practices using R: [mindful programming](https://github.com/crsl4/mindful-programming). Notes from other instructors [here](https://github.com/NantucketDevelopeR/2019Workshop).
+### 2019
+#### Nantucket developR
+Tutorial on best computing practices using R: [mindful programming](https://github.com/crsl4/mindful-programming/blob/master/lecture.md). Notes from other instructors [here](https://github.com/NantucketDevelopeR/2019Workshop).
 
-#### Molecular Evolution Workshop at Woods Hole 2019
-Tutorial on inference of phylogenetic networks using Julia package: [PhyloNetworks](https://github.com/crsl4/PhyloNetworks.jl/wiki)
+#### Molecular Evolution Workshop at Woods Hole
+Tutorial on inference of phylogenetic networks using Julia package: [PhyloNetworks](https://github.com/crsl4/PhyloNetworks.jl/wiki). Links above in Courses.
 
+### 2016
 #### Instituto de Biolog&iacute;a - UNAM
 Introduction to PhyloNetworks and SNaQ: Same tutorial as in Evolution 2016, links below.
 
-#### Evolution 2016
+#### Evolution
 Phylogenomics symposium and software school: Introduction to PhyloNetworks and SNaQ
 
 - [wiki](https://github.com/crsl4/PhyloNetworks.jl/wiki)
