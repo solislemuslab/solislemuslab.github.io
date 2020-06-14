@@ -71,7 +71,7 @@ In my spare time, I enjoy swimming, running, biking, climbing and yoga!
         </div>
 
         <div class="span5">
-            Arrigo Coen joined the lab in January 2020. He works in the inference of phylogenetic networks, focused on scalable tools for big datasets.
+            Arrigo Coen works on the inference of phylogenetic networks, focused on scalable tools for big datasets.
         </div>
     </div>
 </div>
@@ -79,6 +79,20 @@ In my spare time, I enjoy swimming, running, biking, climbing and yoga!
 ---
 
 ### <a name="graduate"></a>Graduate students
+
+<div class="container">
+    <div class="row-fluid">
+        <div class="span2">
+        <a href="../assets/pics/yunyi.png">
+            <img src="../assets/pics/yunyi.png"
+                  title="YunyiShen" alt="YunyiShen"/></a>
+        </div>
+
+        <div class="span5">
+            Yunyi Shen is a MS student in Wildlife Ecology and in Statistics. He works on spatially explicit occupancy models for species interactions.
+        </div>
+    </div>
+</div>
 
 ---
 
