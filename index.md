@@ -19,13 +19,11 @@ description: Sol&iacute;s-Lemus lab
 <tr>
   <td class="left">
     <a href="https://sammykatta.com/diversity">
-        <img src="assets/pics/lab-dna.png" alt="diversity" title="Diversity-Inclusion"/>
+        <img src="assets/pics/lab-dna.png" alt="diversity" title="Sammy Katta: Diversity-Inclusion"/>
     </a>
   </td>
   <td class="right">
-    <a href="https://github.com/crsl4/PhyloNetworks.jl">
-        <img src="assets/pics/phylonetworks-logo.png" alt="PhyloNetworks" title="PhyloNetworks"/>
-    </a>
+
   </td>
 </tr>
 </table>
