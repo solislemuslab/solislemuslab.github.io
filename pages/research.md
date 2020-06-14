@@ -17,27 +17,33 @@ description: Solis-Lemus publications
 
 ### Overview
 
-Research in the lab involves the development of statistical models to answer biological questions, balancing biological interpretability, theoretical guarantees, and computational tractability. In particular, we deal with modern big data which are highly interconnected through graphical structures. Examples of our research involve the inference of phylogenetic networks to study reticulate evolution, comparative methods on networks to study the evolution of traits on hybrids, new sampling schemes to improve on Bayesian MCMC tools, as well as the application of such new tools to real-life datasets provided by our collaborators. Next generation sequencing creates a big data reality that can make current methodologies prohibitive due to computational restrictions. 
+Research in the lab involves the development of statistical models to answer biological questions, balancing biological interpretability, theoretical guarantees, and computational tractability. In particular, we deal with modern big data which is highly interconnected through graphical structures: phylogenetic networks to study evolution, interaction networks to study microbial communities in soil and plants, neural networks to predict phenotypes from genotypes.  
 
 Our work produces a collection of new statistical methods with solid theoretical guarantees and efficient computational implementations that are adaptable to analyze the complex characteristics of modern big biological data.
 
 #### <a name="phylogenomics"></a>Statistical phylogenomics
 
-<img src="../assets/pics/cui.jpeg" alt="drawing" width="200" ALIGN="top"/>
+<img src="../assets/pics/cui.jpeg" alt="drawing" width="200"/>
 
-intro paragraph
+The Tree of Life is the graphical structure that represents the evolutionary process
+from single-cell organisms at the origin of life to the vast biodiversity we see today.
+Reconstructing this tree from genomic sequences is challenging due to the variety
+of biological forces that shape the signal in the data which constantly push the boundaries of statistical models. In addition, the big data reality can make inference methods obsolete due to their lack of scalability.
 
-example of research:
-- arrigo work
-- extension of network work to microbial
-- software for the analysis of big data
-- BHV space and network space
+In this lab, we work to produce novel statistical models and methods to reconstruct the Tree of Life by accounting for different biological processes like reticulation. Our goal is to produce tools that are theoretically sound yet computationally efficient and scalable to meet the ever-growing needs of biological bit data.
 
-examples of collaborations:
-- plant viruses with aurelie
-- carrot data with 
-- grapes with 
-- we always welcome collaborations!
+Examples of our current research involves:
+- extension of phylogenetic network inference methods to broader classes of networks 
+- robustness of phylogenetic inference to microbial datasets like bacteria and viruses
+- statistical properties of BHV tree space and possible extension to networks
+
+Our work is not purely methodological. Among our current collaborations, we can highlight:
+- studying the ancestral protein sequences of _Potyvirus_ and _Picornavirus_
+- reconstructing phylogenetic trees and networks and comparative methods to study the evolution of traits related to climate resistance on grapes and carrots
+- reconstructing phylogenetic trees and networks and comparative methods to study the evolution of vesicular shapes on _Escovopsis_
+
+We do not live in a statistical bubble! We always welcome new collaborations that can help our research be relevant and applied to real-life data.
+
 
 #### <a name="genomics"></a>Statistical genomics
 
