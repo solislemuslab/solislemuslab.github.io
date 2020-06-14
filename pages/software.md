@@ -21,11 +21,11 @@ description: Claudia Solis-Lemus' software
 
     <div class="row-fluid">
         <div class="span5">
-            [PhyloNetworks](https://github.com/crsl4/PhyloNetworks.jl): 
-            A [Julia](http://julialang.org/) package with tools for phylogenetic networks, including the maximum pseudolikelihood estimation method: SNaQ (Species Networks applying Quartets)
+            <a href="https://github.com/crsl4/PhyloNetworks.jl">PhyloNetworks</a><br/>
+            A <a href="http://julialang.org/">Julia</a> package with tools for phylogenetic networks, including the maximum pseudolikelihood estimation method: SNaQ (Species Networks applying Quartets)<br/>
 
-            To receive announcements about updates to PhyloNetworks, join the
-            [PhyloNetworks google group](https://groups.google.com/forum/#!forum/phylonetworks-users).
+            To receive announcements about updates to PhyloNetworks, join the<br/>
+            <a href="https://groups.google.com/forum/#!forum/phylonetworks-users">PhyloNetworks google group</a><br/>
         </div>
 
         <div class="span2">
