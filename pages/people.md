@@ -176,13 +176,13 @@ In my spare time, I enjoy swimming, running, biking, climbing and yoga!
 <div class="container">
     <div class="row-fluid">
         <div class="span2">
-        <a href="../assets/pics/junting.png">
-            <img src="../assets/pics/junting.png"
+        <a href="../assets/pics/junting.jpeg">
+            <img src="../assets/pics/junting.jpeg"
                   title="JuntingWang" alt="JuntingWang"/></a>
         </div>
 
         <div class="span5">
-            Junting Wang is a senior undergraduate student in Statistics and in Mathematics. She is using neural network models to predict antibiotic-resistance phenotypes from genomic data in _Staphylococcus aureus_.
+            Junting Wang is a senior undergraduate student in Statistics and in Mathematics. She is using neural network models to predict antibiotic-resistance phenotypes from genomic data in <em>Staphylococcus aureus<em>.
         </div>
     </div>
 </div>
