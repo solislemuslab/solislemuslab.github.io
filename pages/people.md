@@ -98,6 +98,20 @@ In my spare time, I enjoy swimming, running, biking, climbing and yoga!
 
 ### <a name="undergraduate"></a>Undergraduate students
 
+<div class="container">
+    <div class="row-fluid">
+        <div class="span2">
+        <a href="../assets/pics/zhaoyi2.png">
+            <img src="../assets/pics/zhaoyi2.png"
+                  title="ZhaoyiZhang" alt="ZhaoyiZhang"/></a>
+        </div>
+
+        <div class="span5">
+            Zhaoyi Zhang is a junior undergraduate student in Computer Science and in Data Science. He is working on testing the applicability of neural network models to microbial genomic datasets to predict important phenotypes like those related to antibiotic resistance.
+        </div>
+    </div>
+</div>
+
 ---
 
 ### <a name="past"></a>Past members
