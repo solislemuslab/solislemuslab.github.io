@@ -101,6 +101,63 @@ In my spare time, I enjoy swimming, running, biking, climbing and yoga!
 <div class="container">
     <div class="row-fluid">
         <div class="span2">
+        <a href="../assets/pics/brian.png">
+            <img src="../assets/pics/brian.png"
+                  title="BrianCheng" alt="BrianCheng"/></a>
+        </div>
+
+        <div class="span5">
+            Brian Cheng is a senior undergraduate student in Computer Science. He is working on testing the applicability of neural network models to microbial genomic datasets to predict important phenotypes like those related to antibiotic resistance.
+        </div>
+    </div>
+</div>
+
+<div class="container">
+    <div class="row-fluid">
+        <div class="span2">
+        <a href="../assets/pics/chunrong.png">
+            <img src="../assets/pics/chunrong.png"
+                  title="ChunrongHuang" alt="ChunrongHuang"/></a>
+        </div>
+
+        <div class="span5">
+            Chunrong Huang is a junior undergraduate student in Computer Science and in Mathematics. She is working on user-friendly open-source software to allow biologist to use unsupervised and semi-supervised machine learning methods on their genomic datasets.
+        </div>
+    </div>
+</div>
+
+<div class="container">
+    <div class="row-fluid">
+        <div class="span2">
+        <a href="../assets/pics/zhiwen.jpg">
+            <img src="../assets/pics/zhiwen.jpg"
+                  title="ZhiwenXu" alt="ZhiwenXu"/></a>
+        </div>
+
+        <div class="span5">
+            Zhiwen Xu is a junior undergraduate student in Statistics. She is testing the applicability of unsupervised and semi-supervised machine learning methods on microbial genomic datasets related to plant and soil health.
+        </div>
+    </div>
+</div>
+
+<div class="container">
+    <div class="row-fluid">
+        <div class="span2">
+        <a href="../assets/pics/liule.jpg">
+            <img src="../assets/pics/liule.jpg"
+                  title="LiuleYang" alt="LiuleYang"/></a>
+        </div>
+
+        <div class="span5">
+            Liule Yang is a junior undergraduate student in Computer Science, Mathematics and Statistics. She is testing the applicability of unsupervised and semi-supervised machine learning methods on microbial genomic datasets related to plant and soil health.
+        </div>
+    </div>
+</div>
+
+
+<div class="container">
+    <div class="row-fluid">
+        <div class="span2">
         <a href="../assets/pics/zhaoyi2.png">
             <img src="../assets/pics/zhaoyi2.png"
                   title="ZhaoyiZhang" alt="ZhaoyiZhang"/></a>
@@ -111,6 +168,8 @@ In my spare time, I enjoy swimming, running, biking, climbing and yoga!
         </div>
     </div>
 </div>
+
+
 
 ---
 
