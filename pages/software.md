@@ -22,7 +22,7 @@ description: Claudia Solis-Lemus' software
     <div class="row-fluid">
         <div class="span5">
             <a href="https://github.com/crsl4/PhyloNetworks.jl">PhyloNetworks</a><br/>
-            A <a href="http://julialang.org/">Julia</a> package with tools for phylogenetic networks, including the maximum pseudolikelihood estimation method: SNaQ (Species Networks applying Quartets)<br/>
+            A <a href="http://julialang.org/">Julia</a> package with tools for phylogenetic networks, including the maximum pseudolikelihood estimation method: SNaQ (Species Networks applying Quartets)<br/><br/>
 
             To receive announcements about updates to PhyloNetworks, join the<br/>
             <a href="https://groups.google.com/forum/#!forum/phylonetworks-users">PhyloNetworks google group</a><br/>
@@ -36,12 +36,7 @@ description: Claudia Solis-Lemus' software
     </div>
 </div>
 
-#### <a name="phylonetworks"></a>[PhyloNetworks](https://github.com/crsl4/PhyloNetworks.jl)
 
-A [Julia](http://julialang.org/) package with tools for phylogenetic networks, including the maximum pseudolikelihood estimation method: SNaQ (Species Networks applying Quartets)
-
-To receive announcements about updates to PhyloNetworks, join the
-[PhyloNetworks google group](https://groups.google.com/forum/#!forum/phylonetworks-users).
 
  <div class="photo"> <img src="../assets/pics/snaq.png"/> </div>
 ---

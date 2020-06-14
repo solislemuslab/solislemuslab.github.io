@@ -25,6 +25,7 @@ description: Solis-Lemus publications
 - Our work produces a collection of new statistical methods with solid theoretical guarantees and efficient computational implementations that are adaptable to analyze the complex characteristics of modern big biological data
 - We do not live in a statistical bubble! We always welcome new collaborations that can help our research to be relevant and applied to real-life data
 
+---
 
 ## <a name="phylogenomics"></a>Statistical phylogenomics
 
@@ -48,6 +49,7 @@ Our work is not purely methodological. Among our current collaborations, we can 
 
 **Want to learn more about phylogenetics (especially networks)?** See [this list of resources](https://github.com/solislemuslab/lab-dynamics/blob/master/lit-review.md) that starts with introductory videos and then a small subset of relevant papers in the field.
 
+---
 
 ## <a name="genomics"></a>Statistical genomics
 
@@ -58,6 +60,8 @@ In this lab, we work to produce novel methodologies that are centered on high-di
 Examples of our research involve:
 - post selection inference and penalized regression models applied to GWAS on human disease
 - high dimensional models for the integration of different omics data types applied to human microbiome research and plant microbiome reseach
+
+---
 
 ## <a name="microbiome"></a>Statistics in microbiome research
 
@@ -76,6 +80,8 @@ Our work is not purely methodological. Among our current collaborations, we can 
 - studying how root microbial communities affect potato health and response to environmental changes
 - studying the effect of lung microbiome on health outcomes in cystic fibrosis patients
 
+---
+
 ## <a name="dl"></a>Statistical view in deep learning
 
 For the last decades, deep learning has enabled unprecedented prediction potential in a plethora
@@ -90,7 +96,7 @@ Examples of our current research involve:
 - robustness of NN models to predict microbial phenotypes from genomic sequences: antibiotic-resistance on _Staphylococcus aureus_ and _Pseudomonas aeruginosa_ and hypovirulence potential of mycoviruses on _Sclerotinia_
 - connections of statistical concepts of uncertainty (confidence intervals or hypothesis testing) on NN models
 
-
+---
 
 ### <a name="publications"></a>Publications
 
