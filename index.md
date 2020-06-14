@@ -19,7 +19,7 @@ description: Sol&iacute;s-Lemus lab
 <tr>
   <td class="left">
     <a href="https://sammykatta.com/diversity">
-        <img src="assets/pics/LabPoster_vDNA.pdf" alt="diversity" title="Diversity-Inclusion"/>
+        <img src="assets/pics/lab-dna.png" alt="diversity" title="Diversity-Inclusion"/>
     </a>
   </td>
   <td class="right">
