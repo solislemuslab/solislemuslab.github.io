@@ -56,7 +56,6 @@ description: Claudia Solis-Lemus' software
 
 ---
 
-#### <a name="ibpp"></a>[iBPP](https://github.com/cecileane/iBPP/)
-
+<a href="https://github.com/cecileane/iBPP/">iBPP</a><br/>
 Bayesian species delimitation integrating genes and traits data.
 
