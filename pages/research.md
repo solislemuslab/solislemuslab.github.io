@@ -1,6 +1,6 @@
 ---
 layout: page
-title: publications
+title: Research
 description: Solis-Lemus publications
 ---
 
@@ -16,16 +16,70 @@ description: Solis-Lemus publications
 
 ### <a name="overview"></a>Overview
 
+Research in the lab involves the development of statistical models to answer biological questions, balancing biological interpretability, theoretical guarantees, and computational tractability. In particular, we deal with modern big data which are highly interconnected through graphical structures. Examples of our research involve the inference of phylogenetic networks to study reticulate evolution, comparative methods on networks to study the evolution of traits on hybrids, new sampling schemes to improve on Bayesian MCMC tools, as well as the application of such new tools to real-life datasets provided by our collaborators. Next generation sequencing creates a big data reality that can make current methodologies prohibitive due to computational restrictions. 
+
+Our work produces a collection of new statistical methods with solid theoretical guarantees and efficient computational implementations that are adaptable to analyze the complex characteristics of modern big biological data.
+
+#### Statistical phylogenomics
+
+![](../assets/pics/cui.jpeg)
+
+intro paragraph
+
+example of research:
+- arrigo work
+- extension of network work to microbial
+- software for the analysis of big data
+- BHV space and network space
+
+examples of collaborations:
+- plant viruses with aurelie
+- carrot data with 
+- grapes with 
+- we always welcome collaborations!
+
+#### Statistical genomics
+
+intro paragraph
+
+example of research
+- post selection
+- high dimensional: integration of different omics data types
+
+#### Statistical view in deep learning
+
+intro paragraph
+
+examples of research
+- robustness of NN on microbial datasets
+- connections of statistical concepts of uncertainty on nn
+
+examples of collaborations:
+- tim and sam
+- mycovirus
+
+### Statistics in microbiome research
+
+intro paragraph
+
+examples of research
+- spatial correlations ising model
+- metagenomes with daniel
+
+examples of collaborations
+- potato microbiome
+- human microbiome (sam)
+
 ### <a name="publications"></a>Publications
 
 #### 2020
 
-Guerrero, V. and C. Sol&iacute;s-Lemus. 2020. A generalized measure of relative dispersion, Stat. and Prob. Letters [doi: 10.1016/j.spl.2020.108806](https://www.sciencedirect.com/science/article/pii/S0167715220301097?dgcid=author)
+Guerrero, V. and C. Sol&iacute;s-Lemus. 2020. A generalized measure of relative dispersion, [Stat. and Prob. Letters](https://www.sciencedirect.com/science/article/pii/S0167715220301097?dgcid=author)
 
 Sol&iacute;s-Lemus, C., S. T. Fischer, A. Todor, C. Liu, E. J. Leslie, D. J. Cutler, D. Ghosh and M. P. Epstein. 2020. Leveraging Family History in Case-Control Analyses of Rare Variation.
 [GENETICS](https://doi.org/10.1534/genetics.119.302846)
 
-M. Su, J. Lyles, R. A. Petit III, J. M. Peterson, M. Hargita, H .Tang, C. Solis-Lemus, C. Quave, T. D. Read. 2020. Genomic analysis of variability in delta-toxin levels between Staphylococcus aureus strains. [PeerJ doi:10.7717/peerj.8717](https://peerj.com/articles/8717/)
+M. Su, J. Lyles, R. A. Petit III, J. M. Peterson, M. Hargita, H .Tang, C. Sol&iacute;s-Lemus, C. Quave, T. D. Read. 2020. Genomic analysis of variability in delta-toxin levels between Staphylococcus aureus strains. [PeerJ](https://peerj.com/articles/8717/)
 
 #### 2019
 
