@@ -1,7 +1,7 @@
 ---
 layout: page
-title: about
-description: Claudia Sol&iacute;s-Lemus
+title: people
+description: Sol&iacute;s-Lemus lab
 ---
 
 <div class="navbar">
@@ -19,31 +19,24 @@ description: Claudia Sol&iacute;s-Lemus
 #### Interested in joining the lab?
 Information in [Opportunities](https://solislemuslab.github.io//pages/people.html#opportunities).
 
-### Claudia Solis-Lemus
+### Claudia Sol&iacute;s-Lemus
 
-I am an assistant professor at the [Wisconsin Institute for Discovery](https://wid.wisc.edu/) and the [Department of Plant Pathology](https://plantpath.wisc.edu/) at the [University of Wisconsin-Madison](http://www.wisc.edu).
+I am an assistant professor at the [Wisconsin Institute for Discovery](https://wid.wisc.edu/) and the [Department of Plant Pathology](https://plantpath.wisc.edu/) at the [University of Wisconsin-Madison](http://www.wisc.edu). Originally from Mexico City, I did my Undergraduate degrees
+in Actuarial Sciences and Applied Mathematics at [ITAM](https://www.itam.mx/en). 
+Then, I did a MA in [Mathematics](http://www.math.wisc.edu) and a PhD in [Statistics](http://www.stat.wisc.edu) at the [University of Wisconsin-Madison](http://www.wisc.edu)
 In my spare time, I enjoy swimming, running, biking, climbing and yoga!
 
-#### Education
-- PhD in [Statistics](http://www.stat.wisc.edu) at the [University of Wisconsin-Madison](http://www.wisc.edu) with professor [Cécile Ané](http://www.stat.wisc.edu/~ane)
-- MA in [Mathematics](http://www.math.wisc.edu) at the [University of Wisconsin-Madison](http://www.wisc.edu)
-- Originally from Mexico City, I did my Undergraduate degrees
-in Actuarial Sciences and Applied Mathematics at [ITAM](https://www.itam.mx/en).
-
-
-[curriculum vitae ![CV as pdf](icons16/pdf-icon.png)](https://github.com/crsl4/crsl4.github.io/blob/master/assets/cv.pdf)
 
 <button type="button" onclick="window.location.href='https://github.com/crsl4/crsl4.github.io/blob/master/assets/cv.pdf';">cv</button>
 <button type="button" onclick="window.location.href='https://scholar.google.com/citations?user=GrUypj8AAAAJ&hl=en&oi=ao';">google scholar</button>
 <button type="button" onclick="window.location.href='https://github.com/crsl4';">github</button>
-
+<button type="button" onclick="window.location.href='https://www.athlinks.com/athletes/267606489';">athlinks</button>
 
 <div class="container">
 <h4><a name="contact"></a>contact</h4>
 
     <div class="row-fluid">
         <div class="span5">
-            Claudia Sol&iacute;s-Lemus<br/>
             Office 3164 <a href="https://wid.wisc.edu/">Wisconsin Institute for Discovery </a><br/>
             Office 476 <a href="https://plantpath.wisc.edu/">Department of Plant Pathology </a><br/>
             <a href="https://www.wisc.edu/">University of Wisconsin-Madison</a><br/>
@@ -72,6 +65,20 @@ in Actuarial Sciences and Applied Mathematics at [ITAM](https://www.itam.mx/en).
 ---
 
 ### <a name="postdocs"></a>Postdoctoral researchers
+
+<div class="container">
+    <div class="row-fluid">
+        <div class="span2">
+        <a href="https://github.com/crsl4/PhyloNetworks.jl">
+            <img src="../assets/pics/phylonetworks-logo.png"
+                  title="PhyloNetworks" alt="PhyloNetworks"/></a>
+        </div>
+
+        <div class="span5">
+            Arrigo Coen joined the lab in January 2020. He works in the inference of phylogenetic networks, focused on scalable tools for big datasets.
+        </div>
+    </div>
+</div>
 
 ---
 
