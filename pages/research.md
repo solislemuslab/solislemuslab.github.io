@@ -7,22 +7,22 @@ description: Solis-Lemus publications
 <div class="navbar">
     <div class="navbar-inner">
         <ul class="nav">
-            <li><a href="#overview">overview</a></li>
+            <li><a href="#phylogenomics">phylogenomics</a></li>
             <li><a href="#publications">publications</a></li>
             <li><a href="https://scholar.google.com/citations?user=GrUypj8AAAAJ&hl=en&oi=ao">google-scholar</a></li>
         </ul>
     </div>
 </div>
 
-### <a name="overview"></a>Overview
+### Overview
 
 Research in the lab involves the development of statistical models to answer biological questions, balancing biological interpretability, theoretical guarantees, and computational tractability. In particular, we deal with modern big data which are highly interconnected through graphical structures. Examples of our research involve the inference of phylogenetic networks to study reticulate evolution, comparative methods on networks to study the evolution of traits on hybrids, new sampling schemes to improve on Bayesian MCMC tools, as well as the application of such new tools to real-life datasets provided by our collaborators. Next generation sequencing creates a big data reality that can make current methodologies prohibitive due to computational restrictions. 
 
 Our work produces a collection of new statistical methods with solid theoretical guarantees and efficient computational implementations that are adaptable to analyze the complex characteristics of modern big biological data.
 
-#### Statistical phylogenomics
+#### <a name="phylogenomics"></a>Statistical phylogenomics
 
-![](../assets/pics/cui.jpeg =100x20)
+![](../assets/pics/cui.jpeg =200x)
 
 intro paragraph
 
