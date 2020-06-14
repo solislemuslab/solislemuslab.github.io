@@ -51,22 +51,21 @@ Upcoming UW-Madison class: PP/Botany 563 Phylogenetic Analysis of Molecular Data
 ## <a name="tutorials"></a>Tutorials
 
 ### 2019
-#### Nantucket developR
+- **Nantucket developR:**
 Tutorial on best computing practices using R: [mindful programming](https://github.com/crsl4/mindful-programming/blob/master/lecture.md). Notes from other instructors [here](https://github.com/NantucketDevelopeR/2019Workshop).
 
-#### Molecular Evolution Workshop at Woods Hole
-Tutorial on inference of phylogenetic networks using Julia package: [PhyloNetworks](https://github.com/crsl4/PhyloNetworks.jl/wiki). Links above in Courses.
+- **Molecular Evolution Workshop at Woods Hole:**
+Tutorial on inference of phylogenetic networks using Julia package: [PhyloNetworks](https://github.com/crsl4/PhyloNetworks.jl/wiki). Links above in [Courses](https://solislemuslab.github.io//pages/teaching.html#courses).
 
 ### 2016
-#### Instituto de Biolog&iacute;a - UNAM
+- **Instituto de Biolog&iacute;a - UNAM:**
 Introduction to PhyloNetworks and SNaQ: Same tutorial as in Evolution 2016, links below.
 
-#### Evolution
+- **Evolution:**
 Phylogenomics symposium and software school: Introduction to PhyloNetworks and SNaQ
-
-- [wiki](https://github.com/crsl4/PhyloNetworks.jl/wiki)
-- [julia code](http://www.stat.wisc.edu/~claudia/tutorial.jl)
-- [R code](http://www.stat.wisc.edu/~claudia/tutorial.r)
+  - [wiki](https://github.com/crsl4/PhyloNetworks.jl/wiki)
+  - [julia code](http://www.stat.wisc.edu/~claudia/tutorial.jl)
+  - [R code](http://www.stat.wisc.edu/~claudia/tutorial.r)
 
 
 ## <a name="experience"></a>Other teaching experience
