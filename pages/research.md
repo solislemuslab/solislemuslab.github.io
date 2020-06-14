@@ -9,10 +9,10 @@ description: Solis-Lemus publications
         <ul class="nav">
             <li><a href="#phylogenomics">phylogenomics</a></li>
             <li><a href="#genomics">genomics</a></li>
-            <li><a href="#dl">deep-learning</a></li>
+            <li><a href="#dl">deeplearning</a></li>
             <li><a href="#microbiome">microbiome</a></li>
             <li><a href="#publications">publications</a></li>
-            <li><a href="https://scholar.google.com/citations?user=GrUypj8AAAAJ&hl=en&oi=ao">google-scholar</a></li>
+            <li><a href="https://scholar.google.com/citations?user=GrUypj8AAAAJ&hl=en&oi=ao">googlescholar</a></li>
         </ul>
     </div>
 </div>
