@@ -9,19 +9,21 @@ description: Solis-Lemus publications
         <ul class="nav">
             <li><a href="#phylogenomics">phylogenomics</a></li>
             <li><a href="#genomics">genomics</a></li>
-            <li><a href="#dl">deep-learning</a></li>
             <li><a href="#microbiome">microbiome</a></li>
+            <li><a href="#dl">deep-learning</a></li>
             <li><a href="#publications">publications</a></li>
-            <li><a href="https://scholar.google.com/citations?user=GrUypj8AAAAJ&hl=en&oi=ao">google-scholar</a></li>
         </ul>
     </div>
 </div>
 
 ### Overview
 
-Research in the lab involves the development of statistical models to answer biological questions, balancing biological interpretability, theoretical guarantees, and computational tractability. In particular, we deal with modern big data which is highly interconnected through graphical structures: phylogenetic networks to study evolution, interaction networks to study microbial communities in soil and plants, neural networks to predict phenotypes from genotypes.  
+<button type="button" onclick="window.location.href='https://scholar.google.com/citations?user=GrUypj8AAAAJ&hl=en&oi=ao';">Google Scholar</button>
 
-Our work produces a collection of new statistical methods with solid theoretical guarantees and efficient computational implementations that are adaptable to analyze the complex characteristics of modern big biological data.
+- We work to develop statistical models to answer biological questions, balancing biological interpretability, theoretical guarantees, and computational tractability 
+- We deal with modern big data which is highly interconnected through graphical structures: phylogenetic networks to study evolution, interaction networks to study microbial communities in soil and plants, neural networks to predict phenotypes from genotypes
+- Our work produces a collection of new statistical methods with solid theoretical guarantees and efficient computational implementations that are adaptable to analyze the complex characteristics of modern big biological data
+- We do not live in a statistical bubble! We always welcome new collaborations that can help our research to be relevant and applied to real-life data
 
 #### <a name="phylogenomics"></a>Statistical phylogenomics
 
@@ -40,10 +42,8 @@ Examples of our current research involve:
 
 Our work is not purely methodological. Among our current collaborations, we can highlight:
 - studying the ancestral protein sequences of _Potyvirus_ and _Picornavirus_
-- reconstructing phylogenetic trees and networks and comparative methods to study the evolution of traits related to climate resistance on grapes and carrots
-- reconstructing phylogenetic trees and networks and comparative methods to study the evolution of vesicular shapes on _Escovopsis_
-
-We do not live in a statistical bubble! We always welcome new collaborations that can help our research to be relevant and applied to real-life data.
+- reconstructing phylogenetic trees and networks of grapes and carrots and studying the evolution of traits related to climate resistance via comparative methods
+- reconstructing phylogenetic trees and networks of _Escovopsis_ and studying the evolution of vesicular shapes via comparative methods
 
 
 #### <a name="genomics"></a>Statistical genomics
@@ -56,35 +56,40 @@ Examples of our research involve:
 - post selection inference and penalized regression models applied to GWAS on human disease
 - high dimensional models for the integration of different omics data types applied to human microbiome research and plant microbiome reseach
 
-We always welcome new collaborations that can help our research to be relevant and applied to real-life data.
+#### <a name="microbiome"></a>Statistics in microbiome research
+
+Microbial communities are among the main driving forces in the biosphere. Many critical biological processes inside and outside the human body are governed by microbes. Understanding the composition of microbial communities and what environmental factors play a role in shaping this composition is crucial to comprehend processes connected to human, plant and soil health, as well as to predict microbial responses to environmental perturbations such as climate change in a planet macroscopic scale or diet in a human microscopic scale.
+
+Many microbiome studies involve the comparison of microbial communities under different experimental treatments. Yet these studies are limited by their use of compositional data. Compositional data is inherently challenging due to the constraint to sum to 1 which affects how proportions behave in different experimental settings. Thus, changes in proportions in the microbial composition does not necessarily reflect actual biological changes in the interactions.
+
+In this lab, we work to produce tools to better represent microbial communities (via networks) and use the microbial communities as potential predictors of plant, soil or human health phenotypes.
+
+Examples of our current research involve:
+- estimation of microbial interactions accounting for spatial correlations via Ising models
+- network regression framework to understand the effects of microbial communities on a response
+- assembly of reads via novel hypothesis tests on kmer frequency compositions
+
+Our work is not purely methodological. Among our current collaborations, we can highlight:
+- studying how root microbial communities affect potato health and response to environmental changes
+- studying the effect of lung microbiome on health outcomes in cystic fibrosis patients
 
 #### <a name="dl"></a>Statistical view in deep learning
 
-intro paragraph
+For the last decades, deep learning has enabled unprecedented prediction potential in a plethora
+of applications. In particular, neural networks (NNs) are already successfully used in computer
+vision, astrophysics, and even in cancer histology. The main reason for their state-of-the-art accurate
+prediction is their flexibility, mutating its architecture to fit almost any type of data and any type of
+model. Yet, the poor generalization outside the training data, the lack of statistical guarantees of confidence, and the notion that they are a "black box" model have hampered their development in translational fields like personalized medicine where inaccurate predictions might result in grave consequences. Furthermore, NN methods are known for being "data-hungry", meaning huge amounts of data are required for training and validating. This requirement prohibits its use in fields with comparatively smaller sample sizes such as human health where restrictions on data sharing and privacy limit the researchers' ability to acquire large enough datasets for NN.
 
-examples of research
-- robustness of NN on microbial datasets
-- connections of statistical concepts of uncertainty on nn
+In this lab, we work to explore the potential of NN in biomedical areas. On one side, we work on data related to human health like precision medicine, or the emergence of antibiotic-resistance in infectious diseases. On the other side, we work on data related to soil and plant health like the use of biocontrol mycoviruses to fight against the emergence of fungicide-resistance crop pathogens.
 
-examples of collaborations:
-- tim and sam
-- mycovirus
+Examples of our current research involve:
+- robustness of NN models to predict microbial phenotypes from genomic sequences: antibiotic-resistance on _Staphylococcus aureus_ and _Pseudomonas aeruginosa_ and hypovirulence potential of mycoviruses on _Sclerotinia_
+- connections of statistical concepts of uncertainty (confidence intervals or hypothesis testing) on NN models
 
-#### <a name="microbiome"></a>Statistics in microbiome research
 
-intro paragraph
-
-examples of research
-- spatial correlations ising model
-- metagenomes with daniel
-
-examples of collaborations
-- potato microbiome
-- human microbiome (sam)
 
 ### <a name="publications"></a>Publications
-
-[Solis-Lemus google scholar](https://scholar.google.com/citations?user=GrUypj8AAAAJ&hl=en&oi=ao)
 
 <button type="button" onclick="window.location.href='https://scholar.google.com/citations?user=GrUypj8AAAAJ&hl=en&oi=ao';">Google Scholar</button>
 
