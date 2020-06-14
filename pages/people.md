@@ -146,8 +146,8 @@ In my spare time, I enjoy swimming, running, biking, climbing and yoga!
 <div class="container">
     <div class="row-fluid">
         <div class="span2">
-        <a href="../assets/pics/yizhou.png">
-            <img src="../assets/pics/yizhou.png"
+        <a href="../assets/pics/yizhou.jpeg">
+            <img src="../assets/pics/yizhou.jpeg"
                   title="YizhouLiu" alt="YizhouLiu"/></a>
         </div>
 
@@ -176,8 +176,8 @@ In my spare time, I enjoy swimming, running, biking, climbing and yoga!
 <div class="container">
     <div class="row-fluid">
         <div class="span2">
-        <a href="../assets/pics/junting.jpg">
-            <img src="../assets/pics/junting.jpg"
+        <a href="../assets/pics/junting.png">
+            <img src="../assets/pics/junting.png"
                   title="JuntingWang" alt="JuntingWang"/></a>
         </div>
 
