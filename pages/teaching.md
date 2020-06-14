@@ -50,14 +50,14 @@ Upcoming UW-Madison class: PP/Botany 563 Phylogenetic Analysis of Molecular Data
 
 ## <a name="tutorials"></a>Tutorials
 
-### 2019
+#### 2019
 - **Nantucket developR:**
 Tutorial on best computing practices using R: [mindful programming](https://github.com/crsl4/mindful-programming/blob/master/lecture.md). Notes from other instructors [here](https://github.com/NantucketDevelopeR/2019Workshop).
 
 - **Molecular Evolution Workshop at Woods Hole:**
 Tutorial on inference of phylogenetic networks using Julia package: [PhyloNetworks](https://github.com/crsl4/PhyloNetworks.jl/wiki). Links above in [Courses](https://solislemuslab.github.io//pages/teaching.html#courses).
 
-### 2016
+#### 2016
 - **Instituto de Biolog&iacute;a - UNAM:**
 Introduction to PhyloNetworks and SNaQ: Same tutorial as in Evolution 2016, links below.
 
