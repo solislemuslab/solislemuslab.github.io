@@ -107,7 +107,7 @@ In my spare time, I enjoy swimming, running, biking, climbing and yoga!
         </div>
 
         <div class="span5">
-            Songyang Cheng is a senior undergraduate student in Computer Science. He is working on testing the applicability of neural network models to microbial genomic datasets to predict important phenotypes like those related to antibiotic resistance.
+            Songyang Cheng is a senior undergraduate student in Computer Science. He is testing the applicability of neural network models to microbial genomic datasets to predict important phenotypes like those related to antibiotic resistance.
         </div>
     </div>
 </div>
@@ -137,7 +137,7 @@ In my spare time, I enjoy swimming, running, biking, climbing and yoga!
         </div>
 
         <div class="span5">
-            Yuzhou Kang is a junior undergraduate student in Statistics and in Economics. He is reconstructing phylogenetic trees and ancestral sequences for _Potyvirus_ and _Picornavirus_.
+            Yuzhou Kang is a junior undergraduate student in Statistics and in Economics. He is reconstructing phylogenetic trees and ancestral sequences for <em>Potyvirus</em> and <em>Picornavirus</em>.
         </div>
     </div>
 </div>
@@ -227,7 +227,7 @@ In my spare time, I enjoy swimming, running, biking, climbing and yoga!
         </div>
 
         <div class="span5">
-            Zhaoyi Zhang is a junior undergraduate student in Computer Science and in Data Science. He is working on testing the applicability of neural network models to microbial genomic datasets to predict important phenotypes like those related to antibiotic resistance.
+            Zhaoyi Zhang is a junior undergraduate student in Computer Science and in Data Science. He is testing the applicability of neural network models to microbial genomic datasets to predict important phenotypes like those related to antibiotic resistance.
         </div>
     </div>
 </div>
