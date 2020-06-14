@@ -7,7 +7,7 @@ description: Claudia Sol&iacute;s-Lemus
 <div class="navbar">
     <div class="navbar-inner">
         <ul class="nav">
-            <li><a href="#postdocx">postdocs</a></li>
+            <li><a href="#postdocs">postdocs</a></li>
             <li><a href="#graduate">graduate</a></li>
             <li><a href="#undergraduate">undergraduate</a></li>
             <li><a href="#past">past</a></li>
@@ -19,11 +19,10 @@ description: Claudia Sol&iacute;s-Lemus
 #### Interested in joining the lab?
 Information in [Opportunities](https://solislemuslab.github.io//pages/people.html#opportunities).
 
+### Claudia Solis-Lemus
+
 I am an assistant professor at the [Wisconsin Institute for Discovery](https://wid.wisc.edu/) and the [Department of Plant Pathology](https://plantpath.wisc.edu/) at the [University of Wisconsin-Madison](http://www.wisc.edu).
-
-My research involves the development of statistical models to answer biological questions, balancing biological interpretability, theoretical guarantees, and computational tractability. In particular, my research deals with modern big data which are highly interconnected through graphical structures. Examples of my research involve the inference of phylogenetic networks to study reticulate evolution, comparative methods on networks to study the evolution of traits on hybrids, new sampling schemes to improve on Bayesian MCMC tools, as well as the application of such new tools to real-life datasets such as cultivated potato and carrot, _Pseudomonas aeruginosa_, _Staphylococcus aureus_, human endogenous retroviruses among others. Next generation sequencing creates a big data reality that can make current methodologies prohibitive due to computational restrictions. My work produces a collection of new statistical methods with solid theoretical guarantees and efficient computational implementations that are adaptable to analyze the complex characteristics of modern big biological data.
-
-In my spare time, I enjoy swimming, running, biking and yoga!
+In my spare time, I enjoy swimming, running, biking, climbing and yoga!
 
 #### Education
 - PhD in [Statistics](http://www.stat.wisc.edu) at the [University of Wisconsin-Madison](http://www.wisc.edu) with professor [Cécile Ané](http://www.stat.wisc.edu/~ane)
@@ -34,11 +33,10 @@ in Actuarial Sciences and Applied Mathematics at [ITAM](https://www.itam.mx/en).
 
 [curriculum vitae ![CV as pdf](icons16/pdf-icon.png)](https://github.com/crsl4/crsl4.github.io/blob/master/assets/cv.pdf)
 
-#### Interested in joining the lab?
-See the information in the "Opportunities" section (top right).
+<button type="button" onclick="window.location.href='https://github.com/crsl4/crsl4.github.io/blob/master/assets/cv.pdf';">cv</button>
+<button type="button" onclick="window.location.href='https://scholar.google.com/citations?user=GrUypj8AAAAJ&hl=en&oi=ao';">google scholar</button>
+<button type="button" onclick="window.location.href='https://github.com/crsl4';">github</button>
 
-
----
 
 <div class="container">
 <h4><a name="contact"></a>contact</h4>
@@ -71,17 +69,27 @@ See the information in the "Opportunities" section (top right).
     </div>
 </div>
 
-## <a name="postdocs"></a>Postdoctoral researchers
+---
 
-## <a name="graduate"></a>Graduate students
+### <a name="postdocs"></a>Postdoctoral researchers
 
-## <a name="undergraduate"></a>Undergraduate students
+---
 
-## <a name="past"></a>Past members
+### <a name="graduate"></a>Graduate students
+
+---
+
+### <a name="undergraduate"></a>Undergraduate students
+
+---
+
+### <a name="past"></a>Past members
 - [Lareina Liu](https://www.linkedin.com/in/lareina-xiaoyu-liu-90553a140/) (BS Statistics, UW-Madison). She is starting ADS Masters Program at USC in Fall 2020
 - Yifan Wu (BS Computer Engineering, UW-Madison)
 
-## <a name="opportunities"></a>Opportunities
+---
+
+### <a name="opportunities"></a>Opportunities
 
 My lab is located in the [Wisconsin Institute for Discovery](https://wid.wisc.edu/), which provides immense opportunities for interdisciplinary connections and networking for students and postdocs!
 

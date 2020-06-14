@@ -27,7 +27,7 @@ description: Claudia Solis-Lemus' software
         </div>
 
         <div class="span2">
-        <a href="../assets/pics/phylonetworks-logo.png">
+        <a href="https://github.com/crsl4/PhyloNetworks.jl">
             <img src="../assets/pics/phylonetworks-logo.png"
                   title="PhyloNetworks" alt="PhyloNetworks"/></a>
         </div>
@@ -46,7 +46,7 @@ description: Claudia Solis-Lemus' software
         </div>
 
         <div class="span2">
-        <a href="../assets/pics/snaq.png">
+        <a href="https://github.com/crsl4/PhyloNetworks.jl">
             <img src="../assets/pics/snaq.png"
                   title="SNaQ" alt="SNaQ"/></a>
         </div>
