@@ -9,6 +9,8 @@ description: Solis-Lemus publications
         <ul class="nav">
             <li><a href="#phylogenomics">phylogenomics</a></li>
             <li><a href="#genomics">genomics</a></li>
+            <li><a href="#dl">deep-learning</a></li>
+            <li><a href="#microbiome">microbiome</a></li>
             <li><a href="#publications">publications</a></li>
             <li><a href="https://scholar.google.com/citations?user=GrUypj8AAAAJ&hl=en&oi=ao">google-scholar</a></li>
         </ul>
@@ -23,37 +25,40 @@ Our work produces a collection of new statistical methods with solid theoretical
 
 #### <a name="phylogenomics"></a>Statistical phylogenomics
 
-<img src="../assets/pics/cui.jpeg" alt="drawing" width="200"/>
-
 The Tree of Life is the graphical structure that represents the evolutionary process
 from single-cell organisms at the origin of life to the vast biodiversity we see today.
 Reconstructing this tree from genomic sequences is challenging due to the variety
 of biological forces that shape the signal in the data which constantly push the boundaries of statistical models. In addition, the big data reality can make inference methods obsolete due to their lack of scalability.
 
-In this lab, we work to produce novel statistical models and methods to reconstruct the Tree of Life by accounting for different biological processes like reticulation. Our goal is to produce tools that are theoretically sound yet computationally efficient and scalable to meet the ever-growing needs of biological bit data.
+In this lab, we work to produce novel statistical models and methods to reconstruct the Tree of Life that are theoretically sound yet computationally efficient and scalable to meet the ever-growing needs of biological bit data. We strive to accompany our theoretical work with open-source publicly available [software](https://solislemuslab.github.io//pages/software.html).
 
-Examples of our current research involves:
+Examples of our current research involve:
 - extension of phylogenetic network inference methods to broader classes of networks 
 - robustness of phylogenetic inference to microbial datasets like bacteria and viruses
-- statistical properties of BHV tree space and possible extension to networks
+- alternative sampling scheme to MCMC that is expected to produce more efficient bayesian phylogenetic estimation
+- statistical properties of [BHV space](https://www.sciencedirect.com/science/article/pii/S0196885801907596) and possible extension to networks
 
 Our work is not purely methodological. Among our current collaborations, we can highlight:
 - studying the ancestral protein sequences of _Potyvirus_ and _Picornavirus_
 - reconstructing phylogenetic trees and networks and comparative methods to study the evolution of traits related to climate resistance on grapes and carrots
 - reconstructing phylogenetic trees and networks and comparative methods to study the evolution of vesicular shapes on _Escovopsis_
 
-We do not live in a statistical bubble! We always welcome new collaborations that can help our research be relevant and applied to real-life data.
+We do not live in a statistical bubble! We always welcome new collaborations that can help our research to be relevant and applied to real-life data.
 
 
 #### <a name="genomics"></a>Statistical genomics
 
-intro paragraph
+One area of statistical genomics has focused on elucidating ties between genes and diseases (human diseases or plant diseases). Standard analytic methods typically consist of a regression of an individual SNP or genes on a phenotype, but these analyses face numerous challenges including small individual SNP effects, low power due to improper modeling of linkage disequilibrium (LD) patterns, and potential type-I error inflation due to unmodeled population structure or kinship. Furthermore, typical approaches involve single regression models followed by multiple test corrections, thus yielding very stringent cutoffs for significance so that very few SNPs are found to be associated with the phenotype. 
 
-example of research
-- post selection
-- high dimensional: integration of different omics data types
+In this lab, we work to produce novel methodologies that are centered on high-dimensional statistical models like penalized regression and post selection inference that can simultaneously model all genes across the genome. Our work incorporates multiple layers of correlations due to relatedness, inbreeding, population structure, spatial structure, or interacting components.
 
-#### Statistical view in deep learning
+Examples of our research involve:
+- post selection inference and penalized regression models applied to GWAS on human disease
+- high dimensional models for the integration of different omics data types applied to human microbiome research and plant microbiome reseach
+
+We always welcome new collaborations that can help our research to be relevant and applied to real-life data.
+
+#### <a name="dl"></a>Statistical view in deep learning
 
 intro paragraph
 
@@ -65,7 +70,7 @@ examples of collaborations:
 - tim and sam
 - mycovirus
 
-### Statistics in microbiome research
+#### <a name="microbiome"></a>Statistics in microbiome research
 
 intro paragraph
 
