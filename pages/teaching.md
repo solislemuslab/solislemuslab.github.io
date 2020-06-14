@@ -7,31 +7,32 @@ description: Claudia Solis-Lemus' teaching
 <div class="navbar">
     <div class="navbar-inner">
         <ul class="nav">
-            <li><a href="#knowledge">knowledge</a></li>
+            <li><a href="#knowledge">useful links</a></li>
             <li><a href="#courses">courses</a></li>
             <li><a href="#tutorials">tutorials</a></li>
             <li><a href="#experience">past teaching</a></li>
-            <li><a href="#mentoring">mentoring</a></li>
+            <li><a href="#mentoring">past mentoring</a></li>
         </ul>
     </div>
 </div>
 
-### <a name="knowledge"></a>Useful links
+## <a name="knowledge"></a>Useful links
 
 #### Reprodubility and data science
-- My notes on [mindful programming](https://github.com/crsl4/mindful-programming)
+- My notes on [mindful programming](https://github.com/crsl4/mindful-programming/blob/master/lecture.md)
 - Karl Broman's [notes](http://kbroman.org/Tools4RR/) on reproducible research
 - Version control: [notes](https://uw-madison-aci.github.io/2018-01-10-uwmadison-swc/) from Software Carpentry at UW-Madison (there might be more recent notes out there)
 - Tukey (1962) [The future of data analysis](https://projecteuclid.org/euclid.aoms/1177704711)
 - R Markdown: [The Definite Guide](https://bookdown.org/yihui/rmarkdown/)
 - Rich Edwards (2015) [Bioinformatics is just like bench science and should be treated as such](http://cabbagesofdoom.blogspot.com/2015/08/bioinformatics-is-just-like-bench.html)
+- Basic principles of data in spreadsheets [paper](https://www.tandfonline.com/doi/full/10.1080/00031305.2017.1375989)
 
 #### Learning Julia
 - Learn X in Y minutes: [julia](https://learnxinyminutes.com/docs/julia/)
 - Julia for R programmmers: [cheatsheet](https://datascience-enthusiast.com/R/R_Julia_cheat_sheet.html)
 - Julia for Python/Matlab programmers: [cheatsheet](https://cheatsheets.quantecon.org/)
 
-### <a name="courses"></a>Recent courses
+## <a name="courses"></a>Courses
 
 - 2019: Faculty member of the Marine Biological Laboratory workshop on Molecular Evolution. Lecture and tutorial on phylogenetic networks. Woods Hole, USA.
     - [slides](https://www.stat.wisc.edu/~claudia/talk-networks-mbl.pdf)
@@ -40,7 +41,7 @@ description: Claudia Solis-Lemus' teaching
     - [slides](http://www.stat.wisc.edu/~claudia/networks_talkBotany.pdf)
     - [code](http://www.stat.wisc.edu/~claudia/smallTutorialBotany.jl)
 
-### <a name="tutorials"></a>Tutorials
+## <a name="tutorials"></a>Tutorials
 
 #### Nantucket developR 2019
 Tutorial on best computing practices using R: [mindful programming](https://github.com/crsl4/mindful-programming). Notes from other instructors [here](https://github.com/NantucketDevelopeR/2019Workshop).
@@ -59,7 +60,7 @@ Phylogenomics symposium and software school: Introduction to PhyloNetworks and S
 - [R code](http://www.stat.wisc.edu/~claudia/tutorial.r)
 
 
-### <a name="experience"></a>Other teaching experience
+## <a name="experience"></a>Other teaching experience
 
 #### Teaching Assistant ([UW-Madison](http://www.wisc.edu/))
 
@@ -73,8 +74,6 @@ Phylogenomics symposium and software school: Introduction to PhyloNetworks and S
 - Fall 2010 Introduction to Theory and Methods of Mathematical Statistics I (STAT 311) (professor [Zhengjun Zhang](https://www.stat.wisc.edu/~zjz/))
 
 
-
-
 #### Instructor ([ITAM](https://www.itam.mx/en))
 
 - Summer 2010 Advanced Algebra
@@ -85,7 +84,9 @@ Phylogenomics symposium and software school: Introduction to PhyloNetworks and S
 - Fall 2009 Actuarial Mathematics III
 - Spring 2010 Actuarial Mathematics III
 
-### <a name="mentoring"></a>Mentoring experience
+## <a name="mentoring"></a>Past Mentoring
+
+For members of Solis-Lemus lab, see [People](https://solislemuslab.github.io//pages/people.html)
 
 ##### 2019 
 - Software Development Project, **Fast reconstruction and visualization of phylogenetic networks**, Harnoor Singh and Naman Kanwar – Georgia State University.
