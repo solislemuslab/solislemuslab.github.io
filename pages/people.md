@@ -102,13 +102,15 @@ In my spare time, I enjoy swimming, running, biking, climbing and yoga!
 <div class="container">
     <div class="row-fluid">
         <div class="span2">
-        <a href="../assets/pics/brian.png">
-            <img src="../assets/pics/brian.png"
+        <a href="../assets/pics/brian.jpg">
+            <img src="../assets/pics/brian.jpg"
                   title="BrianCheng" alt="BrianCheng"/></a>
         </div>
 
         <div class="span5">
             Songyang Cheng is a senior undergraduate student in Computer Science. He is testing the applicability of neural network models to microbial genomic datasets to predict important phenotypes like those related to antibiotic resistance.
+
+            <button type="button" onclick="window.location.href='https://csy99.github.io/Notes/#/';">website</button>
         </div>
     </div>
 </div>
@@ -181,13 +183,13 @@ In my spare time, I enjoy swimming, running, biking, climbing and yoga!
 <div class="container">
     <div class="row-fluid">
         <div class="span2">
-        <a href="../assets/pics/junting.jpeg">
-            <img src="../assets/pics/junting.jpeg"
+        <a href="../assets/pics/junting.png">
+            <img src="../assets/pics/junting.png"
                   title="JuntingWang" alt="JuntingWang"/></a>
         </div>
 
         <div class="span5">
-            Junting Wang is a senior undergraduate student in Statistics and in Mathematics. She is using neural network models to predict antibiotic-resistance phenotypes from genomic data in <em>Staphylococcus aureus</em>.
+            Junting Wang is a senior undergraduate student in Statistics and in Mathematics. She is using neural network models to predict antibiotic-resistance phenotypes from genomic data in <em>Staphylococcus aureus</em>. For her future plan, she will go to UMichigan and study statistics PhD program this fall.
         </div>
     </div>
 </div>
