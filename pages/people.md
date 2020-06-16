@@ -84,8 +84,8 @@ In my spare time, I enjoy swimming, running, biking, climbing and yoga!
 <div class="container">
     <div class="row-fluid">
         <div class="span2">
-        <a href="../assets/pics/yunyi.png">
-            <img src="../assets/pics/yunyi.png"
+        <a href="../assets/pics/yunyi.JPG">
+            <img src="../assets/pics/yunyi.JPG"
                   title="YunyiShen" alt="YunyiShen"/></a>
         </div>
 
