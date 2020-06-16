@@ -130,6 +130,13 @@ In my spare time, I enjoy swimming, running, biking, climbing and yoga!
 
         <div class="span5">
             Chunrong Huang is a junior undergraduate student in Computer Science and in Mathematics. She is working on user-friendly open-source software to allow biologist to use unsupervised and semi-supervised machine learning methods on their genomic datasets.
+            <button type="button" onclick="window.location.href='www.linkedin.com/in/chunrongalicehuang';">linkedin</button>
+
+            <div id="hide_email">
+            Email: <code>chuang</code><b>I</b><code>278</code><b>don't</b><code>@</code><b>want</b><code></code><b>spam!
+            </b><code>w</code><b>So</b><code>i</code><b>please</b><code>s</code><b>leave
+            </b><code>c</code><b>me</b><code>.</code><b>alone</b><code>e</code><b>!</b><code>du</code><br/>           
+            </div>
         </div>
     </div>
 </div>
@@ -168,8 +175,8 @@ In my spare time, I enjoy swimming, running, biking, climbing and yoga!
 <div class="container">
     <div class="row-fluid">
         <div class="span2">
-        <a href="../assets/pics/ritika.png">
-            <img src="../assets/pics/ritika.png"
+        <a href="../assets/pics/ritika.jpg">
+            <img src="../assets/pics/ritika.jpg"
                   title="RitikaMittal" alt="RitikaMittal"/></a>
         </div>
 
