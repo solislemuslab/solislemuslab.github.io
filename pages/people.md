@@ -130,7 +130,7 @@ In my spare time, I enjoy swimming, running, biking, climbing and yoga!
 
         <div class="span5">
             Chunrong Huang is a junior undergraduate student in Computer Science and in Mathematics. She is working on user-friendly open-source software to allow biologist to use unsupervised and semi-supervised machine learning methods on their genomic datasets.
-            <button type="button" onclick="window.location.href='www.linkedin.com/in/chunrongalicehuang';">linkedin</button>
+            <button type="button" onclick="window.location.href='https://www.linkedin.com/in/chunrongalicehuang';">linkedin</button>
 
             <div id="hide_email">
             Email: <code>chuang</code><b>I</b><code>278</code><b>don't</b><code>@</code><b>want</b><code></code><b>spam!
