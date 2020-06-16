@@ -90,7 +90,7 @@ In my spare time, I enjoy swimming, running, biking, climbing and yoga!
         </div>
 
         <div class="span5">
-            Yunyi Shen is a MS student in Wildlife Ecology and in Statistics. He works on spatially explicit occupancy models for species interactions.
+            Yunyi Shen is a MS student in Wildlife Ecology and in Statistics. He works on Bayesian regression models that reconstruct network from observations and their applications in community ecology of mammals/plants/microbs. He did his undergradate degree in Physical Biology at <a href="http://english.pku.edu.cn/">Peking University</a><br/>. 
         </div>
     </div>
 </div>
