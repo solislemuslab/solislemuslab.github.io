@@ -90,7 +90,7 @@ In my spare time, I enjoy swimming, running, biking, climbing and yoga!
         </div>
 
         <div class="span5">
-            Yunyi Shen is a MS student in Wildlife Ecology and in Statistics. He works on Bayesian regression models that reconstruct network from observations and their applications in community ecology of mammals/plants/microbs. He did his undergradate degree in Physical Biology at <a href="http://english.pku.edu.cn/">Peking University</a><br/>. 
+            Yunyi Shen is a MS student in Wildlife Ecology and in Statistics. He works on Bayesian regression models that reconstruct network from observations and their applications in the community ecology of mammals/plants/microbes. He did his undergraduate degree in Physical Biology at <a href="http://english.pku.edu.cn/">Peking University</a><br/>. 
         </div>
     </div>
 </div>
