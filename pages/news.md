@@ -10,6 +10,8 @@ description: Solis-Lemus lab
 
 ### 2020
 
+- Thank you to Deisy Angarita and Andres Cuervo from Universidad Nacional de Colombia for inviting me to their phylogenetics class (via zoom)!
+
 - Congratulations to Zhaoyi Zhang for winning the Hilldale Faculty/Undergraduate Research Fellowship of UW-Madison!
 
 - Honored to have been elected to become part of the SSB Council! My 3-year term as Council member will start on January 2021
