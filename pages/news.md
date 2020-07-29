@@ -5,10 +5,14 @@ description: Solis-Lemus lab
 ---
 
 ### Upcoming
-- July 28-30, 2020: I will be giving a virtual talk at the [1st virtual meeting of Systematics, Biogeography and Evolution (SBE)](https://www.eventbrite.com.ar/e/first-virtual-meeting-of-systematic-biogeography-evolution-sbe-tickets-106645918814) on phylogenetic networks
+
 - August 4, 2020: I will be giving a virtual talk at the [Joint Statistical Meetings (JSM)](https://ww2.amstat.org/meetings/jsm/2020/onlineprogram/index.cfm) on the Section of Statistical Methods in Phylogenetics and Metagenomics
 
 ### 2020
+
+- Grateful to receive [DOE award](https://science.osti.gov/-/media/ber/pdf/Awards/Computational_Tool_Development_List_of_Awards-DE-FOA-0002217.pdf?la=en&hash=F863703E5FA6B0889E8F29BF791312F4310B9629) for computational biology tools!] I will be recruiting a postdoc soon!
+
+- Thanks for the invitation to give a talk at the [1st virtual meeting of Systematics, Biogeography and Evolution (SBE)](https://www.eventbrite.com.ar/e/first-virtual-meeting-of-systematic-biogeography-evolution-sbe-tickets-106645918814) on phylogenetic networks. See talk [here](https://www.youtube.com/watch?v=4ByqoDnpVew)
 
 - Thank you to Deisy Angarita and Andres Cuervo from Universidad Nacional de Colombia for inviting me to their phylogenetics class (via zoom)!
 

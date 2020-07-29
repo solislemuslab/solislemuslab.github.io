@@ -6,6 +6,8 @@ description: Claudia Solis-Lemus' talks
 
 ### 2020
 
+Methods in phylogenetic inference - [SBE Meeting](https://sbemeeting.weebly.com/schedule.html): What are phylogenetic networks and why should we care? (_Jul 28_). [YouTube](https://www.youtube.com/watch?v=4ByqoDnpVew)
+
 Microbiome Hub Seminar - WID: Scalable Inference of Phylogenetic Networks (_May 7_)
 
 Statistics seminar – UW-Madison: New challenges in phylogenetic inference (_Mar 4_)
