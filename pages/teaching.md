@@ -26,6 +26,7 @@ description: Claudia Solis-Lemus' teaching
 - R Markdown: [The Definite Guide](https://bookdown.org/yihui/rmarkdown/)
 - Rich Edwards (2015) [Bioinformatics is just like bench science and should be treated as such](http://cabbagesofdoom.blogspot.com/2015/08/bioinformatics-is-just-like-bench.html)
 - Basic principles of data in spreadsheets [paper](https://www.tandfonline.com/doi/full/10.1080/00031305.2017.1375989)
+- JSM 2020 [Panel on version control with git in stat cources](https://github.com/mdbeckman/JSM2020-Virtual)
 
 #### Learning Julia
 - Learn X in Y minutes: [julia](https://learnxinyminutes.com/docs/julia/)
