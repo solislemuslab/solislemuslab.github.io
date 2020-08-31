@@ -6,9 +6,11 @@ description: Solis-Lemus lab
 
 ### Upcoming
 
-- August 4, 2020: I will be giving a virtual talk at the [Joint Statistical Meetings (JSM)](https://ww2.amstat.org/meetings/jsm/2020/onlineprogram/index.cfm) on the Section of Statistical Methods in Phylogenetics and Metagenomics
+
 
 ### 2020
+
+- Recruiting a postdoc! Details [here](https://jobrxiv.org/job/university-of-wisconsin-madison-27778-postdoctoral-researcher-in-statistical-machine-learning-methods-for-high-dimensional-omics-data/). To apply, send me an email with CV, short research statement (<=1 page), and github username. Subject "Postdoc application".
 
 - Grateful to receive [DOE award](https://science.osti.gov/-/media/ber/pdf/Awards/Computational_Tool_Development_List_of_Awards-DE-FOA-0002217.pdf?la=en&hash=F863703E5FA6B0889E8F29BF791312F4310B9629) for computational biology tools! See the [WID News](https://wid.wisc.edu/solis-lemus-awarded-grant-to-develop-statistical-theory-for-soil-data/). I will be recruiting a postdoc soon!
 

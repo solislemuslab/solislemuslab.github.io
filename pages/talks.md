@@ -6,6 +6,8 @@ description: Claudia Solis-Lemus' talks
 
 ### 2020
 
+[Virtual talk](https://amstat-jsm.conferencecontent.net/paper/313478) at the [Joint Statistical Meetings (JSM)](https://ww2.amstat.org/meetings/jsm/2020/onlineprogram/index.cfm) on the Section of Statistical Methods in Phylogenetics and Metagenomics (_Aug 4_)
+
 Methods in phylogenetic inference - [SBE Meeting](https://sbemeeting.weebly.com/schedule.html): What are phylogenetic networks and why should we care? (_Jul 28_). [YouTube](https://www.youtube.com/watch?v=4ByqoDnpVew)
 
 Microbiome Hub Seminar - WID: Scalable Inference of Phylogenetic Networks (_May 7_)

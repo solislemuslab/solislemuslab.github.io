@@ -290,6 +290,10 @@ In addition, I am also excited to work with people interested in empirical resea
 
 In any scenario, I'd be happy to provide assistance in the application to fellowships and grants to support your own independent research agenda.
 
+##### New position: Postdoctoral Researcher in statistical/machine-learning methods for high-dimensional omics data
+
+Details [here](https://jobrxiv.org/job/university-of-wisconsin-madison-27778-postdoctoral-researcher-in-statistical-machine-learning-methods-for-high-dimensional-omics-data/). To apply, send me an email with CV, short research statement (<=1 page), and github username. Subject "Postdoc application".
+
 #### Prospective graduate students
 
 My research is multi-disciplinary! So, I welcome graduate students interested in different programs:
