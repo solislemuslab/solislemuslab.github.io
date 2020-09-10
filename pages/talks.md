@@ -33,7 +33,7 @@ Currently, we do not have the manpower to guarantee that all comments will be po
 **I want to give a talk or nominate someone to give a talk?**
 Great! Please fill out [this google form](https://forms.gle/1kpZE1XrKe9YS9cHA)
 
-<p></p>
+--------------------
 
 ## <a name="talks"></a>Solis-Lemus selected talks
 
