@@ -7,8 +7,8 @@ description: Claudia Solis-Lemus' talks
 <div class="navbar">
     <div class="navbar-inner">
         <ul class="nav">
-            <li><a href="#talks">talks</a></li>
             <li><a href="#zoominario">el-zoominario</a></li>
+            <li><a href="#talks">talks</a></li>
         </ul>
     </div>
 </div>
@@ -33,7 +33,9 @@ Currently, we do not have the manpower to guarantee that all comments will be po
 **I want to give a talk or nominate someone to give a talk?**
 Great! Please fill out [this google form](https://forms.gle/1kpZE1XrKe9YS9cHA)
 
-## <a name="talks"></a>Selected talks
+<p></p>
+
+## <a name="talks"></a>Solis-Lemus selected talks
 
 ### 2020
 
