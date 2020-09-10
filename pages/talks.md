@@ -1,8 +1,39 @@
 ---
 layout: page
-title: selected talks
+title: science communication
 description: Claudia Solis-Lemus' talks
 ---
+
+<div class="navbar">
+    <div class="navbar-inner">
+        <ul class="nav">
+            <li><a href="#talks">talks</a></li>
+            <li><a href="#zoominario">el-zoominario</a></li>
+        </ul>
+    </div>
+</div>
+
+## <a name="zoominario"></a>El Zoominario FAQ
+
+**What is El Zoominario?**
+It is a seminar series of short scientific talks given by Latinx in STEM. The talks are meant to be accessible to people of any field (as opposed to e.g. microbiologists giving a talk that only other microbiologists can understand)
+
+**What is the format of the talks?**
+The talks are 15-20 minutes long of a scientific topic explained in accessible terms to a broad audience. At the end of the talk, the speaker chooses to share interesting facts about their Latinx culture
+
+**How can I watch?**
+Currently, live attendance is restricted to students at UW-Madison. Anybody can watch the recorded talks in the [youtube channel](https://www.youtube.com/playlist?list=PL1AfUDnwvYbOA9rfrvyA2nR9SR0VYbklx)
+
+**I am at UW-Madison, how can I watch the talks live?**
+You need to join the UW google group "el-zoominario" (or email me) to be added to the mailing list. Emails to the group will contain login information
+
+**Why are the youtube comments disabled?**
+Currently, we do not have the manpower to guarantee that all comments will be polite, respectful and family-friendly. Since we want to make these talks accessible to any audience, we prefer to block comments for now
+
+**I want to give a talk or nominate someone to give a talk?**
+Great! Please fill out [this google form](https://forms.gle/1kpZE1XrKe9YS9cHA)
+
+## <a name="talks"></a>Selected talks
 
 ### 2020
 
