@@ -39,6 +39,8 @@ Great! Please fill out [this google form](https://forms.gle/1kpZE1XrKe9YS9cHA)
 
 ### 2020
 
+WID Symposium: Statistical methods for biological applications (_Aug 27_)
+
 [Virtual talk](https://amstat-jsm.conferencecontent.net/paper/313478) at the [Joint Statistical Meetings (JSM)](https://ww2.amstat.org/meetings/jsm/2020/onlineprogram/index.cfm) on the Section of Statistical Methods in Phylogenetics and Metagenomics (_Aug 4_)
 
 Methods in phylogenetic inference - [SBE Meeting](https://sbemeeting.weebly.com/schedule.html): What are phylogenetic networks and why should we care? (_Jul 28_). [YouTube](https://www.youtube.com/watch?v=4ByqoDnpVew)
