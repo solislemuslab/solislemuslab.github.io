@@ -10,6 +10,8 @@ description: Solis-Lemus lab
 
 ### 2020
 
+- Excited to see my project summary in the list of 2020 awards for the DOE Computational Tool Development for Integrative Systems Biology Data Analysis [here](https://genomicscience.energy.gov/compbio/2020Awards.shtml)
+
 - We are launching [El Zoominario](https://solislemuslab.github.io/pages/talks.html#zoominario)! Thanks eCALS for the [news](https://ecals.cals.wisc.edu/2020/09/21/new-seminar-series-to-feature-short-scientific-talks-by-latinx-researchers/) to advertise it!
 
 - Recruiting a postdoc! Details [here](https://jobrxiv.org/job/university-of-wisconsin-madison-27778-postdoctoral-researcher-in-statistical-machine-learning-methods-for-high-dimensional-omics-data/). To apply, send me an email with CV, short research statement (<=1 page), and github username. Subject "Postdoc application".
