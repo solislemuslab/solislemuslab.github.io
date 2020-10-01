@@ -39,6 +39,8 @@ Great! Please fill out [this google form](https://forms.gle/1kpZE1XrKe9YS9cHA)
 
 ### 2020
 
+STAT 609/849 Guest lecture: Statistical methods for biological applications (_Oct 1_) [![pdf](icons16/pdf-icon.png)](https://www.stat.wisc.edu/~claudia/claudia-stat-609-849.pdf)
+
 WID Symposium: Statistical methods for biological applications (_Aug 27_)
 
 [Virtual talk](https://amstat-jsm.conferencecontent.net/paper/313478) at the [Joint Statistical Meetings (JSM)](https://ww2.amstat.org/meetings/jsm/2020/onlineprogram/index.cfm) on the Section of Statistical Methods in Phylogenetics and Metagenomics (_Aug 4_)
