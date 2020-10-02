@@ -297,10 +297,9 @@ Details [here](https://jobrxiv.org/job/university-of-wisconsin-madison-27778-pos
 #### Prospective graduate students
 
 My research is multi-disciplinary! So, I welcome graduate students interested in different programs:
-- **PhD in Plant Pathology: Application deadline December 1, 2019** (email me regarding Spring admission). Application info [here](https://plantpath.wisc.edu/application-process/).
-- **PhD in Statistics: Application deadline December 1, 2019** (no admissions in Spring). Application info [here](https://stat.wisc.edu/graduate-studies/phd-program/)
-- **PhD in Computer Science: Application deadline December 15, 2019** (no admissions in Spring). Application info [here](https://www.cs.wisc.edu/graduate/ms-and-phd-program/)
-- **PhD in Mathematics: Application deadline December 15, 2019** (no admissions in Spring). Application info [here](https://www.math.wisc.edu/node/11)
+- **PhD in Plant Pathology: Application deadline December 1** (email me regarding Spring admission). Application info [here](https://plantpath.wisc.edu/application-process/).
+- **PhD in Statistics: Application deadline December 1** (no admissions in Spring). Application info [here](https://stat.wisc.edu/graduate-studies/phd-program/)
+- **PhD in Mathematics: Application deadline December 15** (no admissions in Spring). Application info [here](https://www.math.wisc.edu/node/11)
 
 Feel free to email me if you are interested in working with me and have questions regarding the application.
 
