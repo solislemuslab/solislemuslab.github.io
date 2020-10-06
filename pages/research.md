@@ -107,6 +107,9 @@ Examples of our current research involve:
 
 #### 2020
 
+Solis-Lemus, C., Arrigo Coen and Cecile Ane. 2020. On the identifiability of phylogenetic 
+networks under a pseudolikelihood model, [arxiv:2010.01758](https://arxiv.org/abs/2010.01758)
+
 Guerrero, V. and C. Sol&iacute;s-Lemus. 2020. A generalized measure of relative dispersion, [Stat. and Prob. Letters](https://www.sciencedirect.com/science/article/pii/S0167715220301097?dgcid=author)
 
 Sol&iacute;s-Lemus, C., S. T. Fischer, A. Todor, C. Liu, E. J. Leslie, D. J. Cutler, D. Ghosh and M. P. Epstein. 2020. Leveraging Family History in Case-Control Analyses of Rare Variation.
