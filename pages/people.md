@@ -49,7 +49,8 @@ In my spare time, I enjoy swimming, running, biking, climbing and yoga!
             </b><code>le</code><b>So</b><code>m</code><b>please</b><code>u</code><b>leave
             </b><code>s</code><b>me</b><code>l</code><b>alone</b><code>a</code><b>!</b><code>b</code><br/>            
             </div>
-        </div>    
+        </div>
+
         <div class="span2">
         <a href="../assets/pics/claudia.jpg">
             <img src="../assets/pics/claudiaSmall1.png"
@@ -108,6 +109,7 @@ In my spare time, I enjoy swimming, running, biking, climbing and yoga!
 
         <div class="span5">
             Songyang Cheng is a senior undergraduate student in Computer Science. He is testing the applicability of neural network models to microbial genomic datasets to predict important phenotypes like those related to antibiotic resistance.
+
             <button type="button" onclick="window.location.href='https://csy99.github.io/Notes/#/';">website</button>
         </div>
     </div>
@@ -129,6 +131,7 @@ In my spare time, I enjoy swimming, running, biking, climbing and yoga!
         <div class="span5">
             Chunrong Huang is a junior undergraduate student in Computer Science and in Mathematics. She is working on user-friendly open-source software to allow biologist to use unsupervised and semi-supervised machine learning methods on their genomic datasets.
             <button type="button" onclick="window.location.href='https://www.linkedin.com/in/chunrongalicehuang';">linkedin</button>
+
             <div id="hide_email">
             Email: <code>chuang</code><b>I</b><code>278</code><b>don't</b><code>@</code><b>want</b><code></code><b>spam!
             </b><code>w</code><b>So</b><code>i</code><b>please</b><code>s</code><b>leave
@@ -258,6 +261,7 @@ In my spare time, I enjoy swimming, running, biking, climbing and yoga!
     </div>
 </div>
 
+
 <div class="container">
     <div class="row-fluid">
         <div class="span2">
@@ -273,8 +277,6 @@ In my spare time, I enjoy swimming, running, biking, climbing and yoga!
         </div>
     </div>
 </div>
-
-
 
 ---
 
