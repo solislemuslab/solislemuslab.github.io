@@ -32,6 +32,7 @@ description: Claudia Solis-Lemus' teaching
 - Learn X in Y minutes: [julia](https://learnxinyminutes.com/docs/julia/)
 - Julia for R programmmers: [cheatsheet](https://datascience-enthusiast.com/R/R_Julia_cheat_sheet.html)
 - Julia for Python/Matlab programmers: [cheatsheet](https://cheatsheets.quantecon.org/)
+- Julia for Data Science [workshop](https://github.com/crsl4/julia-workshop)
 
 ---
 
