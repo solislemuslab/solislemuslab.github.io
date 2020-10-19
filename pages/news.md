@@ -6,7 +6,7 @@ description: Solis-Lemus lab
 
 ### Upcoming
 
-- Julia workshop for Data Science organized by CIMAT on October 26-27, 2020. Thank you Leticia Ramirez for inviting me!
+- Julia workshop for Data Science organized by CIMAT on October 26-27, 2020. Thank you Leticia Ramirez for inviting me! Details [here](http://mcd.eventos.cimat.mx/)
 
 ### 2020
 
