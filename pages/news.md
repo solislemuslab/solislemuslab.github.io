@@ -6,9 +6,11 @@ description: Solis-Lemus lab
 
 ### Upcoming
 
-
+- Julia workshop for Data Science organized by CIMAT on October 26-27, 2020. Thank you Leticia Ramirez for inviting me!
 
 ### 2020
+
+- Thank you Cedarburg Public library for inviting me to give a talk at the [NEA Big Read: Ozaukee County 2020](https://cedarburglibrary.org/connect/cedarburg-friends-of-the-library/cedarburg-reads/)
 
 - Excited to see my project summary in the list of 2020 awards for the DOE Computational Tool Development for Integrative Systems Biology Data Analysis [here](https://genomicscience.energy.gov/compbio/2020Awards.shtml)
 
