@@ -16,7 +16,7 @@ description: Solis-Lemus lab
 
 - We are launching [El Zoominario](https://solislemuslab.github.io/pages/talks.html#zoominario)! Thanks eCALS for the [news](https://ecals.cals.wisc.edu/2020/09/21/new-seminar-series-to-feature-short-scientific-talks-by-latinx-researchers/) to advertise it!
 
-- Recruiting a postdoc! Details [here](https://jobrxiv.org/job/university-of-wisconsin-madison-27778-postdoctoral-researcher-in-statistical-machine-learning-methods-for-high-dimensional-omics-data/). To apply, send me an email with CV, short research statement (<=1 page), and github username. Subject "Postdoc application".
+- Recruiting a postdoc! Details [here](https://jobrxiv.org/job/university-of-wisconsin-madison-27778-postdoctoral-researcher-in-statistical-machine-learning-methods-for-high-dimensional-omics-data-2/). To apply, send me an email with CV, short research statement (<=1 page), and github username. Subject "Postdoc application".
 
 - Grateful to receive [DOE award](https://science.osti.gov/-/media/ber/pdf/Awards/Computational_Tool_Development_List_of_Awards-DE-FOA-0002217.pdf?la=en&hash=F863703E5FA6B0889E8F29BF791312F4310B9629) for computational biology tools! See the [WID News](https://wid.wisc.edu/solis-lemus-awarded-grant-to-develop-statistical-theory-for-soil-data/). I will be recruiting a postdoc soon!
 
