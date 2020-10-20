@@ -12,7 +12,7 @@ description: Solis-Lemus lab
 
 - Thank you Cedarburg Public library for inviting me to give a talk at the [NEA Big Read: Ozaukee County 2020](https://cedarburglibrary.org/connect/cedarburg-friends-of-the-library/cedarburg-reads/)
 
-- Excited to see my project summary in the list of 2020 awards for the DOE Computational Tool Development for Integrative Systems Biology Data Analysis [here](https://genomicscience.energy.gov/compbio/2020Awards.shtml)
+- Excited to see my project summary in the list of 2020 awards for the DOE Computational Tool Development for Integrative Systems Biology Data Analysis [here](https://genomicscience.energy.gov/compbio/2020Awards.shtml) and awards brochure PDF [here](https://genomicscience.energy.gov/research/funding.shtml)
 
 - We are launching [El Zoominario](https://solislemuslab.github.io/pages/talks.html#zoominario)! Thanks eCALS for the [news](https://ecals.cals.wisc.edu/2020/09/21/new-seminar-series-to-feature-short-scientific-talks-by-latinx-researchers/) to advertise it!
 
