@@ -129,3 +129,18 @@ Subject: PhD/Postdoc positions at University of Wisconsin-Madison
 - PI: Claudia Solis-Lemus' research involves the development of statistical models to answer biological questions, balancing biological interpretability, theoretical guarantees, and computational tractability. More details here: http://crsl4.github.io/pages/news.html
 - Research project: Open to discussion! Several opportunities in ongoing projects: high-dimensional highly-correlated regression models and post selection inference applied to omics data, statistical properties and guarantees on neural networks/deep learning models.
 - Contact info here: http://crsl4.github.io/pages/about.html (email CV and one/two paragraph(s) of research experience)
+
+----------------
+jobrxiv
+
+What: Postdoctoral position in the intersection of omics microbiome, data science, computational biology, statistics. Full-time, two-years funding with potential for extension based on performance/funding
+Where: Wisconsin Institute for Discovery at the University of Wisconsin-Madison (https://wid.wisc.edu) at Solis-Lemus lab (https://solislemuslab.github.io/)
+When: ASAP (negotiable)
+Qualifications: Strong quantitative background (sparse learning, high-dimensional models) and programming skills. Candidates must hold a PhD at the time of the appointment
+
+Research project: Understanding the composition of microbial communities and what environmental factors play a role in shaping this composition is crucial to comprehend soil biological processes and to predict microbial responses to environmental changes. The objective of this project is to develop novel statistical theory (accompanied by open-source software) to analyze soil omics data. Our novel statistical methods will 1) inherently account for high-dimensional highly interconnected data, 2) produce valid adaptive model selection through post selection inference, and 3) will be implemented in open-source publicly available software
+
+The objective of this project is to develop novel statistical theory (accompanied by open-source software) to analyze soil omics data and predict how the microbial responses to environmental changes drive biological processes. Our novel statistical methods will 1) inherently account for high-dimensional highly interconnected data, 2) produce valid adaptive model selection through post selection inference, and 3) will be implemented in open-source publicly available software
+
+Apply: Send an email with CV, short research statement (<1page) and github username to PI's contact info in https://solislemuslab.github.io/
+Deadline: Candidates will be considered until position is filled
