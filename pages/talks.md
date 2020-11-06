@@ -16,7 +16,7 @@ description: Claudia Solis-Lemus' talks
 ## <a name="zoominario"></a>El Zoominario FAQ
 
 **What is El Zoominario?**
-It is a seminar series of short scientific talks given by Latinx in STEM. The talks are meant to be accessible to people of any field (as opposed to e.g. microbiologists giving a talk that only other microbiologists can understand)
+It is a seminar series of scientific short talks given by Latinx in STEM. The talks are meant to be accessible to people of any field (as opposed to e.g. microbiologists giving a talk that only other microbiologists can understand)
 
 **What is the format of the talks?**
 The talks are 15-20 minutes long of a scientific topic explained in accessible terms to a broad audience. At the end of the talk, the speaker chooses to share interesting facts about their Latinx culture
