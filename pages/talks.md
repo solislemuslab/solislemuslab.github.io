@@ -39,6 +39,17 @@ Great! Please fill out [this google form](https://forms.gle/1kpZE1XrKe9YS9cHA)
 
 ### 2020
 
+Department of Statistics -- University of British Columbia:
+Scalable inference of phylogenetic networks (_Nov 10_)
+
+Biology seminar -- University of Central Florida: Comparative methods on phylogenetic networks (_Nov 9_)
+
+The Biology Department -- George Washington University: Scalable inference of phylogenetic networks (_Oct 30_ )
+
+BadgerTalk -- Cedarburg Public Library: Through the looking glass of Data Science (_Oct 15_)
+
+Department of Biological Sciences, Auburn University: Scalable inference of phylogenetic networks (_Sept 24_)
+
 STAT 609/849 Guest lecture: Statistical methods for biological applications (_Oct 1_) [![pdf](icons16/pdf-icon.png)](https://www.stat.wisc.edu/~claudia/claudia-stat-609-849.pdf)
 
 WID Symposium: Statistical methods for biological applications (_Aug 27_)

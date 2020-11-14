@@ -42,6 +42,9 @@ description: Claudia Solis-Lemus' teaching
 
 Upcoming UW-Madison class: PP/Botany 563 Phylogenetic Analysis of Molecular Data
 
+#### Fall 2020
+**Mexicanas en Ciencias de Datos:** Julia workshop for Data Science (virtual). [github](https://github.com/crsl4/julia-workshop)
+
 #### 2019 
 **Woods Hole:** Faculty member of the Marine Biological Laboratory workshop on Molecular Evolution. Lecture and tutorial on phylogenetic networks. Woods Hole, USA.
   - [slides](https://www.stat.wisc.edu/~claudia/talk-networks-mbl.pdf)
