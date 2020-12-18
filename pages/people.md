@@ -261,6 +261,23 @@ In my spare time, I enjoy swimming, running, biking, climbing and yoga!
     </div>
 </div>
 
+
+<div class="container">
+    <div class="row-fluid">
+        <div class="span2">
+        <a href="../assets/pics/yuren.jpg">
+            <img src="../assets/pics/yuren.jpg"
+                  title="YurenSun" alt="YurenSun"/></a>
+        </div>
+
+        <div class="span5">
+            Yuren Sun is a junior undergraduate student in Computer Sciences, Economics, and Mathematics. She works on the applications of the neural network models in the classifications of animals with the sounds.
+    
+            <button type="button" onclick="window.location.href='https://pages.cs.wisc.edu/~yuren/';">website</button>
+        </div>
+    </div>
+</div>
+
 ---
 
 ### <a name="past"></a>Past members
