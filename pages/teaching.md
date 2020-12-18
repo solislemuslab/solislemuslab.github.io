@@ -43,6 +43,8 @@ description: Claudia Solis-Lemus' teaching
 - Botany 563 Phylogenetic Analysis of Molecular Data: [website](https://github.com/crsl4/phylogenetics-class); 3 credits; TR 1:00-2:15pm (virtual over zoom)
 - Plant Path 875 Readings in Phylogenomics: [website](https://github.com/crsl4/phylogenetics-class/tree/master/PP875); 1 credit; F 8:55-9:45am (virtual over zoom)
 
+![ ](../assets/pics/bot563-phylogenetics.jpeg)
+
 #### Fall 2020
 **Mexicanas en Ciencias de Datos:** Julia workshop for Data Science (virtual). [github](https://github.com/crsl4/julia-workshop)
 
