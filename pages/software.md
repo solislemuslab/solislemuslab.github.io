@@ -59,3 +59,13 @@ description: Claudia Solis-Lemus' software
 <a href="https://github.com/cecileane/iBPP/">iBPP</a><br/>
 Bayesian species delimitation integrating genes and traits data.
 
+---
+
+[WI Fast Stats](https://wi-fast-stats.wid.wisc.edu/): Integrated web page with access to all available web apps
+
+Specific web apps: Each web app is tailored at a specific WI Fast Plants dataset and webinar. Currently, we have implemented web apps for the following webinars:
+
+[August 2020](https://wi-fast-stats.wid.wisc.edu/cotyledon/): New WI Fast Plants polycot selection data
+
+[December 2020](https://wi-fast-stats.wid.wisc.edu/ecosystem/): Hands-on WI Fast Plants study on ecosystem
+
