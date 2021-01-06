@@ -61,24 +61,6 @@ In my spare time, I enjoy swimming, running, biking, climbing and yoga!
 
 ---
 
-### <a name="postdocs"></a>Postdoctoral researchers
-
-<div class="container">
-    <div class="row-fluid">
-        <div class="span2">
-        <a href="../assets/pics/arrigo2.png">
-            <img src="../assets/pics/arrigo2.png"
-                  title="ArrigoCoen" alt="ArrigoCoen"/></a>
-        </div>
-
-        <div class="span5">
-            Arrigo Coen works on the inference of phylogenetic networks, focused on scalable tools for big datasets.
-        </div>
-    </div>
-</div>
-
----
-
 ### <a name="graduate"></a>Graduate students
 
 <div class="container">
