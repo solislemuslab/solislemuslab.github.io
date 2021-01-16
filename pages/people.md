@@ -76,6 +76,19 @@ In my spare time, I enjoy swimming, running, biking, climbing and yoga!
         </div>
     </div>
 </div>
+<div class="container">
+    <div class="row-fluid">
+        <div class="span2">
+            <a href="../assets/pics/sam.jpg">
+            <img src="../assets/pics/sam.jpg"
+                  title="SamOzminkowski" alt="SamOzminkowski">
+            </a>
+        </div>
+        <div class="span5">
+            Sam Ozminkowski is a MS student in Statistics. His work is focused on using Bayesian models with network predictors, specifically focusing on microbiome networks. He earned his undergraduate degree in Computer Science at the University of Michigan. 
+        </div>
+    </div>
+</div>
 
 ---
 
