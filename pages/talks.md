@@ -37,6 +37,18 @@ Great! Please fill out [this google form](https://forms.gle/1kpZE1XrKe9YS9cHA)
 
 ## <a name="talks"></a>Solis-Lemus selected talks
 
+### 2021
+
+CIBM – UW-Madison, New challenges in phylogenetic inference (_Jan 26_)
+
+Bioinformatics Institute – University of North Carolina, Scalable inference of phylogenetic networks (_Jan 22_)
+
+Department of Ecology and Evolutionary Biology – Ohio State University, Scalable inference of phylogenetic networks (_Jan 21_)
+
+Wednesday at the Lab – University of Wisconsin-Madison, Through the looking glass of Data Science (_Jan 20_)
+
+El Zoominario: Learning the Tree of Life (_Jan 8_) [YouTube](https://www.youtube.com/watch?v=lAP8kpPa288&list=PL1AfUDnwvYbOA9rfrvyA2nR9SR0VYbklx&index=4&t=4s)
+
 ### 2020
 
 Department of Statistics -- University of British Columbia:
