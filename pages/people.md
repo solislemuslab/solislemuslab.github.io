@@ -89,6 +89,19 @@ In my spare time, I enjoy swimming, running, biking, climbing and yoga!
         </div>
     </div>
 </div>
+<div class="container">
+    <div class="row-fluid">
+        <div class="span2">
+        <a href="../assets/pics/marianne.JPG">
+            <img src="../assets/pics/marianne.JPG"
+                  title="MarianneBjørner" alt="MarianneBjørner"/></a>
+        </div>
+
+        <div class="span5">
+            Marianne Bjørner is a MS student in Computer Sciences. They work on phylogenetic tree reconstruction as applied to large microbial datasets. They completed their undergraduate degree in Microbiology at the University of Washington. 
+        </div>
+    </div>
+</div>
 
 ---
 
