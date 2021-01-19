@@ -102,6 +102,19 @@ In my spare time, I enjoy swimming, running, biking, climbing and yoga!
         </div>
     </div>
 </div>
+<div class="container">
+    <div class="row-fluid">
+        <div class="span2">
+        <a href="../assets/pics/ShengwenYangPic1.jpg">
+            <img src="../assets/pics/ShengwenYangPic1.jpg"
+                  title="ShengwenYang" alt="ShengwenYang"/></a>
+        </div>
+
+        <div class="span5">
+            Shengwen Yang is a MS student in Statistics: Data Science. His work is focused on using a trained Neural Network model to improve computation speed on maximum likelihood inference for a given tree. He earned his undergraduate degree in Computer Science and Mathematics at the University of Wisconsin, Madison. 
+        </div>
+    </div>
+</div>
 
 ---
 
