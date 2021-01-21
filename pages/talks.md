@@ -45,7 +45,7 @@ Bioinformatics Institute – University of North Carolina, Scalable inference of
 
 Department of Ecology and Evolutionary Biology – Ohio State University, Scalable inference of phylogenetic networks (_Jan 21_)
 
-Wednesday at the Lab – University of Wisconsin-Madison, Through the looking glass of Data Science (_Jan 20_)
+Wednesday at the Lab – University of Wisconsin-Madison, Through the looking glass of Data Science (_Jan 20_) [YouTube](https://www.youtube.com/watch?v=CdzIGGumW5k) (talk starts around minute 19); [Ishtmus article](https://isthmus.com/events/wntl-jan-20/)
 
 El Zoominario: Learning the Tree of Life (_Jan 8_) [YouTube](https://www.youtube.com/watch?v=lAP8kpPa288&list=PL1AfUDnwvYbOA9rfrvyA2nR9SR0VYbklx&index=4&t=4s)
 
