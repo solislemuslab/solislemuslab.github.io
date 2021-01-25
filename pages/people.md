@@ -292,9 +292,8 @@ In my spare time, I enjoy swimming, running, biking, climbing and yoga!
 
 ### <a name="past"></a>Past members
 
-- [Ritika Mittal](https://www.linkedin.com/in/ritika-mittal-011ab2178/) (BS Computer Science, UW-Madison 2022)
-  Worked on a user-friendly open-source software [PhyloKnit](https://github.com/ritikam30/PhylogeneticsNetwork) that would allow biologists to visualize complex phylogenetic networks.
-- [Lareina Liu](https://www.linkedin.com/in/lareina-xiaoyu-liu-90553a140/) (BS Statistics, UW-Madison). She is starting ADS Masters Program at USC in Fall 2020
+- [Ritika Mittal](https://www.linkedin.com/in/ritika-mittal-011ab2178/) (BS Computer Science, UW-Madison 2022) worked on user-friendly open-source software that would allow biologists to visualize complex phylogenetic networks.
+- [Lareina Liu](https://www.linkedin.com/in/lareina-xiaoyu-liu-90553a140/) (BS Statistics, UW-Madison 2020). She is starting ADS Masters Program at USC in Fall 2020
 - Yifan Wu (BS Computer Engineering, UW-Madison)
 
 ---
