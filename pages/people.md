@@ -19,11 +19,10 @@ description: Sol&iacute;s-Lemus lab
 ### Claudia Sol&iacute;s-Lemus
 
 I am an assistant professor at the [Wisconsin Institute for Discovery](https://wid.wisc.edu/) and the [Department of Plant Pathology](https://plantpath.wisc.edu/) at the [University of Wisconsin-Madison](http://www.wisc.edu). Originally from Mexico City, I did my Undergraduate degrees
-in Actuarial Sciences and Applied Mathematics at [ITAM](https://www.itam.mx/en). 
+in Actuarial Sciences and Applied Mathematics at [ITAM](https://www.itam.mx/en).
 Then, I did a MA in [Mathematics](http://www.math.wisc.edu) and a PhD in [Statistics](http://www.stat.wisc.edu) at the [University of Wisconsin-Madison](http://www.wisc.edu).
 
 In my spare time, I enjoy swimming, running, biking, climbing and yoga!
-
 
 <button type="button" onclick="window.location.href='https://github.com/crsl4/crsl4.github.io/blob/master/assets/cv.pdf';">cv</button>
 <button type="button" onclick="window.location.href='https://scholar.google.com/citations?user=GrUypj8AAAAJ&hl=en&oi=ao';">google scholar</button>
@@ -47,7 +46,7 @@ In my spare time, I enjoy swimming, running, biking, climbing and yoga!
             </b><code>c</code><b>me</b><code>.</code><b>alone</b><code>e</code><b>!</b><code>du</code><br/>
             Twitter: <code>@</code><b>I</b><code>sol</code><b>don't</b><code>is</code><b>want</b><code></code><b>spam!
             </b><code>le</code><b>So</b><code>m</code><b>please</b><code>u</code><b>leave
-            </b><code>s</code><b>me</b><code>l</code><b>alone</b><code>a</code><b>!</b><code>b</code><br/>            
+            </b><code>s</code><b>me</b><code>l</code><b>alone</b><code>a</code><b>!</b><code>b</code><br/>
             </div>
         </div>
 
@@ -57,6 +56,7 @@ In my spare time, I enjoy swimming, running, biking, climbing and yoga!
                   title="Claudia Sol&iacute;s-Lemus" alt="Claudia Sol&iacute;s.Lemus"/></a>
         </div>
     </div>
+
 </div>
 
 ---
@@ -72,9 +72,10 @@ In my spare time, I enjoy swimming, running, biking, climbing and yoga!
         </div>
 
         <div class="span5">
-            Yunyi Shen is a MS student in Wildlife Ecology and in Statistics. He works on Bayesian regression models that reconstruct network from observations and their applications in the community ecology of mammals/plants/microbes. He did his undergraduate degree in Physical Biology at <a href="http://english.pku.edu.cn/">Peking University</a>.<br/> 
+            Yunyi Shen is a MS student in Wildlife Ecology and in Statistics. He works on Bayesian regression models that reconstruct network from observations and their applications in the community ecology of mammals/plants/microbes. He did his undergraduate degree in Physical Biology at <a href="http://english.pku.edu.cn/">Peking University</a>.<br/>
         </div>
     </div>
+
 </div>
 <div class="container">
     <div class="row-fluid">
@@ -98,9 +99,10 @@ In my spare time, I enjoy swimming, running, biking, climbing and yoga!
         </div>
 
         <div class="span5">
-            Marianne Bjørner is a MS student in Computer Sciences. They work on phylogenetic tree reconstruction as applied to large microbial datasets. They completed their undergraduate degree in Microbiology at the University of Washington. 
+            Marianne Bjørner is a MS student in Computer Sciences. They work on phylogenetic tree reconstruction as applied to large microbial datasets. They completed their undergraduate degree in Microbiology at the University of Washington.
         </div>
     </div>
+
 </div>
 <div class="container">
     <div class="row-fluid">
@@ -111,9 +113,10 @@ In my spare time, I enjoy swimming, running, biking, climbing and yoga!
         </div>
 
         <div class="span5">
-            Shengwen Yang is a MS student in Statistics: Data Science. His work is focused on using a trained Neural Network model to improve computation speed on maximum likelihood inference for a given tree. He earned his undergraduate degree in Computer Science and Mathematics at the University of Wisconsin, Madison. 
+            Shengwen Yang is a MS student in Statistics: Data Science. His work is focused on using a trained Neural Network model to improve computation speed on maximum likelihood inference for a given tree. He earned his undergraduate degree in Computer Science and Mathematics at the University of Wisconsin, Madison.
         </div>
     </div>
+
 </div>
 
 ---
@@ -134,10 +137,10 @@ In my spare time, I enjoy swimming, running, biking, climbing and yoga!
             <button type="button" onclick="window.location.href='https://csy99.github.io/Notes/#/';">website</button>
         </div>
     </div>
+
 </div>
 
 <div>
-
 
 </div>
 
@@ -156,12 +159,12 @@ In my spare time, I enjoy swimming, running, biking, climbing and yoga!
             <div id="hide_email">
             Email: <code>chuang</code><b>I</b><code>278</code><b>don't</b><code>@</code><b>want</b><code></code><b>spam!
             </b><code>w</code><b>So</b><code>i</code><b>please</b><code>s</code><b>leave
-            </b><code>c</code><b>me</b><code>.</code><b>alone</b><code>e</code><b>!</b><code>du</code><br/>           
+            </b><code>c</code><b>me</b><code>.</code><b>alone</b><code>e</code><b>!</b><code>du</code><br/>
             </div>
         </div>
     </div>
-</div>
 
+</div>
 
 <div class="container">
     <div class="row-fluid">
@@ -175,8 +178,8 @@ In my spare time, I enjoy swimming, running, biking, climbing and yoga!
             Yuzhou Kang is a junior undergraduate student in Statistics and in Economics. He is reconstructing phylogenetic trees and ancestral sequences for <em>Potyvirus</em> and <em>Picornavirus</em>.
         </div>
     </div>
-</div>
 
+</div>
 
 <div class="container">
     <div class="row-fluid">
@@ -190,23 +193,8 @@ In my spare time, I enjoy swimming, running, biking, climbing and yoga!
             Yizhou Liu is a junior undergraduate student in Computer Science and in Mathematics. He is working on user-friendly open-source software to allow biologist to visualize complex phylogenetic networks.
         </div>
     </div>
+
 </div>
-
-
-<div class="container">
-    <div class="row-fluid">
-        <div class="span2">
-        <a href="../assets/pics/ritika.jpg">
-            <img src="../assets/pics/ritika.jpg"
-                  title="RitikaMittal" alt="RitikaMittal"/></a>
-        </div>
-
-        <div class="span5">
-            Ritika Mittal is a junior undergraduate student in Computer Science. She is working on user-friendly open-source software to allow biologist to visualize complex phylogenetic networks.
-        </div>
-    </div>
-</div>
-
 
 <div class="container">
     <div class="row-fluid">
@@ -220,8 +208,8 @@ In my spare time, I enjoy swimming, running, biking, climbing and yoga!
             Junting Wang is a senior undergraduate student in Statistics and in Mathematics. She is using neural network models to predict antibiotic-resistance phenotypes from genomic data in <em>Staphylococcus aureus</em>. For her future plan, she will go to UMichigan and study statistics PhD program this fall.
         </div>
     </div>
-</div>
 
+</div>
 
 <div class="container">
     <div class="row-fluid">
@@ -235,8 +223,8 @@ In my spare time, I enjoy swimming, running, biking, climbing and yoga!
             Zhiwen Xu is a junior undergraduate student in Statistics. She is testing the applicability of unsupervised and semi-supervised machine learning methods on microbial genomic datasets related to plant and soil health.
         </div>
     </div>
-</div>
 
+</div>
 
 <div class="container">
     <div class="row-fluid">
@@ -250,8 +238,8 @@ In my spare time, I enjoy swimming, running, biking, climbing and yoga!
             Liule Yang is a junior undergraduate student in Computer Science, Mathematics and Statistics. He is testing the applicability of unsupervised and semi-supervised machine learning methods on microbial genomic datasets related to plant and soil health.
         </div>
     </div>
-</div>
 
+</div>
 
 <div class="container">
     <div class="row-fluid">
@@ -265,8 +253,8 @@ In my spare time, I enjoy swimming, running, biking, climbing and yoga!
             Zhaoyi Zhang is a junior undergraduate student in Computer Science and in Data Science. He is testing the applicability of neural network models to microbial genomic datasets to predict important phenotypes like those related to antibiotic resistance.
         </div>
     </div>
-</div>
 
+</div>
 
 <div class="container">
     <div class="row-fluid">
@@ -280,8 +268,8 @@ In my spare time, I enjoy swimming, running, biking, climbing and yoga!
             Yuzheng Zhang is a junior undergraduate student in Computer Science and in Mathematics. He is testing the scalability of phylogenetic network inference methods with applications to COVID19 data.
         </div>
     </div>
-</div>
 
+</div>
 
 <div class="container">
     <div class="row-fluid">
@@ -293,15 +281,19 @@ In my spare time, I enjoy swimming, running, biking, climbing and yoga!
 
         <div class="span5">
             Yuren Sun is a junior undergraduate student in Computer Sciences, Economics, and Mathematics. She works on the applications of the neural network models in the classifications of animals with the sounds.
-    
+
             <button type="button" onclick="window.location.href='https://pages.cs.wisc.edu/~yuren/';">website</button>
         </div>
     </div>
+
 </div>
 
 ---
 
 ### <a name="past"></a>Past members
+
+- [Ritika Mittal](https://www.linkedin.com/in/ritika-mittal-011ab2178/) (BS Computer Science, UW-Madison 2022)
+  Worked on a user-friendly open-source software [PhyloKnit](https://github.com/ritikam30/PhylogeneticsNetwork) that would allow biologists to visualize complex phylogenetic networks.
 - [Lareina Liu](https://www.linkedin.com/in/lareina-xiaoyu-liu-90553a140/) (BS Statistics, UW-Madison). She is starting ADS Masters Program at USC in Fall 2020
 - Yifan Wu (BS Computer Engineering, UW-Madison)
 
@@ -324,7 +316,7 @@ I am interested in collaborating with postdocs with any research background: bio
 
 For people with computational biology/statistics/data science background, there are several opportunities to become involved in ongoing projects related to my research: phylogenetic networks, bayesian phylogenetic inference, high-dimensional highly-correlated regression models applied to genomic/biological data, neural networks to predict phenotypes like antibiotic-resistance, among others.
 
-In addition, I am also excited to work with people interested in empirical research by teaming up with other faculty in the department. 
+In addition, I am also excited to work with people interested in empirical research by teaming up with other faculty in the department.
 
 In any scenario, I'd be happy to provide assistance in the application to fellowships and grants to support your own independent research agenda.
 
@@ -335,6 +327,7 @@ Details [here](https://jobrxiv.org/job/university-of-wisconsin-madison-27778-pos
 #### Prospective graduate students
 
 My research is multi-disciplinary! So, I welcome graduate students interested in different programs:
+
 - **PhD in Plant Pathology: Application deadline December 1** (email me regarding Spring admission). Application info [here](https://plantpath.wisc.edu/application-process/).
 - **PhD in Statistics: Application deadline December 1** (no admissions in Spring). Application info [here](https://stat.wisc.edu/graduate-studies/phd-program/)
 - **PhD in Mathematics: Application deadline December 15** (no admissions in Spring). Application info [here](https://www.math.wisc.edu/node/11)
