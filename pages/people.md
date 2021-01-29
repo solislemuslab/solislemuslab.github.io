@@ -199,21 +199,6 @@ In my spare time, I enjoy swimming, running, biking, climbing and yoga!
 <div class="container">
     <div class="row-fluid">
         <div class="span2">
-        <a href="../assets/pics/junting.png">
-            <img src="../assets/pics/junting.png"
-                  title="JuntingWang" alt="JuntingWang"/></a>
-        </div>
-
-        <div class="span5">
-            Junting Wang is a senior undergraduate student in Statistics and in Mathematics. She is using neural network models to predict antibiotic-resistance phenotypes from genomic data in <em>Staphylococcus aureus</em>. For her future plan, she will go to UMichigan and study statistics PhD program this fall.
-        </div>
-    </div>
-
-</div>
-
-<div class="container">
-    <div class="row-fluid">
-        <div class="span2">
         <a href="../assets/pics/zhiwen.jpg">
             <img src="../assets/pics/zhiwen.jpg"
                   title="ZhiwenXu" alt="ZhiwenXu"/></a>
@@ -259,21 +244,6 @@ In my spare time, I enjoy swimming, running, biking, climbing and yoga!
 <div class="container">
     <div class="row-fluid">
         <div class="span2">
-        <a href="../assets/pics/yuzheng.png">
-            <img src="../assets/pics/yuzheng.png"
-                  title="YuzhengZhang" alt="YuzhengZhang"/></a>
-        </div>
-
-        <div class="span5">
-            Yuzheng Zhang is a junior undergraduate student in Computer Science and in Mathematics. He is testing the scalability of phylogenetic network inference methods with applications to COVID19 data.
-        </div>
-    </div>
-
-</div>
-
-<div class="container">
-    <div class="row-fluid">
-        <div class="span2">
         <a href="../assets/pics/yuren.jpg">
             <img src="../assets/pics/yuren.jpg"
                   title="YurenSun" alt="YurenSun"/></a>
@@ -292,6 +262,7 @@ In my spare time, I enjoy swimming, running, biking, climbing and yoga!
 
 ### <a name="past"></a>Past members
 
+- Junting Wang is attending UMichigan at the Statistics PhD program
 - [Ritika Mittal](https://www.linkedin.com/in/ritika-mittal-011ab2178/) (BS Computer Science, UW-Madison 2022) worked on user-friendly open-source software that would allow biologists to visualize complex phylogenetic networks.
 - [Lareina Liu](https://www.linkedin.com/in/lareina-xiaoyu-liu-90553a140/) (BS Statistics, UW-Madison 2020). She is starting ADS Masters Program at USC in Fall 2020
 - Yifan Wu (BS Computer Engineering, UW-Madison)
