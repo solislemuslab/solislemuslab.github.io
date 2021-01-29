@@ -266,7 +266,7 @@ In my spare time, I enjoy swimming, running, biking, climbing and yoga!
 - [Ritika Mittal](https://www.linkedin.com/in/ritika-mittal-011ab2178/) (BS Computer Science, UW-Madison 2022) worked on user-friendly open-source software that would allow biologists to visualize complex phylogenetic networks.
 - [Lareina Liu](https://www.linkedin.com/in/lareina-xiaoyu-liu-90553a140/) (BS Statistics, UW-Madison 2020). She is starting ADS Masters Program at USC in Fall 2020
 - Yifan Wu (BS Computer Engineering, UW-Madison)
-
+- Yuzheng Zhang (BS Computer Sciences, UW-Madison)
 ---
 
 ### <a name="opportunities"></a>Opportunities
