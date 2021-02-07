@@ -105,12 +105,25 @@ Examples of our current research involve:
 
 <button type="button" onclick="window.location.href='https://scholar.google.com/citations?user=GrUypj8AAAAJ&hl=en&oi=ao';">Google Scholar</button>
 
+#### 2021
+
+Abraham G. Moller, Kyle Winston, Shiyu Ji, Junting Wang*, Michelle N. Hargita Davis, Claudia R. Solís-Lemus, Timothy D. Read. (2021). Genes Influencing Phage Host Range in _Staphylococcus aureus_ on a Species-Wide Scale, [mSphere](https://msphere.asm.org/content/6/1/e01263-20#sec-9), [github repo](https://github.com/solislemuslab/staph-nn)
+
 #### 2020
+
+Shen, Y.*, Sol&iacute;s-Lemus, C. (2020). Bayesian Conditional Auto-Regressive LASSO Models to Learn Sparse Networks with Predictors, [arXiv:2012.08397](https://arxiv.org/abs/2012.08397)
+
+Zhang, Z.* , Cheng, S.*, Sol&iacute;s-Lemus, C. (2020). Towards a robust out-of-the-box neural network model for genomic data, [arXiv:2012.05995](https://arxiv.org/abs/2012.05995), [gihub repo](https://github.com/solislemuslab/dna-nn-theory)
+
+Liu, Y.∗, Sol&iacute;s-Lemus, C. (2020). WI Fast Stats: a collection of web apps for the visualization and analysis of WI Fast Plants data, [arXiv:2012.03290](https://arxiv.org/abs/2012.03290), [WI Fast Stats website](https://wi-fast-stats.wid.wisc.edu/), [github repo](https://github.com/crsl4/fast-stats)
+
+Sol&iacute;s-Lemus, C., Arrigo Coen* and Cecile An&eacute;. 2020. On the identifiability of phylogenetic 
+networks under a pseudolikelihood model, [arxiv:2010.01758](https://arxiv.org/abs/2010.01758), [github repo](https://github.com/solislemuslab/snaq-identifiability)
 
 Guerrero, V. and C. Sol&iacute;s-Lemus. 2020. A generalized measure of relative dispersion, [Stat. and Prob. Letters](https://www.sciencedirect.com/science/article/pii/S0167715220301097?dgcid=author)
 
 Sol&iacute;s-Lemus, C., S. T. Fischer, A. Todor, C. Liu, E. J. Leslie, D. J. Cutler, D. Ghosh and M. P. Epstein. 2020. Leveraging Family History in Case-Control Analyses of Rare Variation.
-[GENETICS](https://doi.org/10.1534/genetics.119.302846)
+[GENETICS](https://doi.org/10.1534/genetics.119.302846), [github repo](https://github.com/crsl4/ordinal-gamut)
 
 M. Su, J. Lyles, R. A. Petit III, J. M. Peterson, M. Hargita, H .Tang, C. Sol&iacute;s-Lemus, C. Quave, T. D. Read. 2020. Genomic analysis of variability in delta-toxin levels between Staphylococcus aureus strains. [PeerJ](https://peerj.com/articles/8717/)
 

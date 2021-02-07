@@ -1,10 +1,74 @@
 ---
 layout: page
-title: selected talks
+title: science communication
 description: Claudia Solis-Lemus' talks
 ---
 
+<div class="navbar">
+    <div class="navbar-inner">
+        <ul class="nav">
+            <li><a href="#zoominario">el-zoominario</a></li>
+            <li><a href="#talks">talks</a></li>
+        </ul>
+    </div>
+</div>
+
+## <a name="zoominario"></a>El Zoominario FAQ
+
+**What is El Zoominario?**
+It is a seminar series of scientific short talks given by Latinx in STEM. The talks are meant to be accessible to people of any field (as opposed to e.g. microbiologists giving a talk that only other microbiologists can understand)
+
+**What is the format of the talks?**
+The talks are 15-20 minutes long of a scientific topic explained in accessible terms to a broad audience. At the end of the talk, the speaker chooses to share interesting facts about their Latinx culture
+
+**How can I watch?**
+Currently, live attendance is restricted to students at UW-Madison. Anybody can watch the recorded talks in the [youtube channel](https://www.youtube.com/playlist?list=PL1AfUDnwvYbOA9rfrvyA2nR9SR0VYbklx)
+
+**I am at UW-Madison, how can I watch the talks live?**
+You need to join the UW google group "el-zoominario" (or email me) to be added to the mailing list. Emails to the group will contain login information
+
+**Why are the youtube comments disabled?**
+Currently, we do not have the manpower to guarantee that all comments will be polite, respectful and family-friendly. Since we want to make these talks accessible to any audience, we prefer to block comments for now
+
+**I want to give a talk or nominate someone to give a talk?**
+Great! Please fill out [this google form](https://forms.gle/1kpZE1XrKe9YS9cHA)
+
+--------------------
+
+## <a name="talks"></a>Solis-Lemus selected talks
+
+### 2021
+
+CIBM – UW-Madison, New challenges in phylogenetic inference (_Jan 26_)
+
+Bioinformatics Institute – University of North Carolina, Scalable inference of phylogenetic networks (_Jan 22_)
+
+Department of Ecology and Evolutionary Biology – Ohio State University, Scalable inference of phylogenetic networks (_Jan 21_)
+
+Wednesday at the Lab – University of Wisconsin-Madison, Through the looking glass of Data Science (_Jan 20_) [YouTube](https://www.youtube.com/watch?v=CdzIGGumW5k) (talk starts around minute 19); [Ishtmus article](https://isthmus.com/events/wntl-jan-20/)
+
+El Zoominario: Learning the Tree of Life (_Jan 8_) [YouTube](https://www.youtube.com/watch?v=lAP8kpPa288&list=PL1AfUDnwvYbOA9rfrvyA2nR9SR0VYbklx&index=4&t=4s)
+
 ### 2020
+
+Department of Statistics -- University of British Columbia:
+Scalable inference of phylogenetic networks (_Nov 10_)
+
+Biology seminar -- University of Central Florida: Comparative methods on phylogenetic networks (_Nov 9_)
+
+The Biology Department -- George Washington University: Scalable inference of phylogenetic networks (_Oct 30_ )
+
+BadgerTalk -- Cedarburg Public Library: Through the looking glass of Data Science (_Oct 15_)
+
+Department of Biological Sciences, Auburn University: Scalable inference of phylogenetic networks (_Sept 24_)
+
+STAT 609/849 Guest lecture: Statistical methods for biological applications (_Oct 1_) [![pdf](icons16/pdf-icon.png)](https://www.stat.wisc.edu/~claudia/claudia-stat-609-849.pdf)
+
+WID Symposium: Statistical methods for biological applications (_Aug 27_)
+
+[Virtual talk](https://amstat-jsm.conferencecontent.net/paper/313478) at the [Joint Statistical Meetings (JSM)](https://ww2.amstat.org/meetings/jsm/2020/onlineprogram/index.cfm) on the Section of Statistical Methods in Phylogenetics and Metagenomics (_Aug 4_)
+
+Methods in phylogenetic inference - [SBE Meeting](https://sbemeeting.weebly.com/schedule.html): What are phylogenetic networks and why should we care? (_Jul 28_). [YouTube](https://www.youtube.com/watch?v=4ByqoDnpVew)
 
 Microbiome Hub Seminar - WID: Scalable Inference of Phylogenetic Networks (_May 7_)
 

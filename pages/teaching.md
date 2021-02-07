@@ -26,11 +26,13 @@ description: Claudia Solis-Lemus' teaching
 - R Markdown: [The Definite Guide](https://bookdown.org/yihui/rmarkdown/)
 - Rich Edwards (2015) [Bioinformatics is just like bench science and should be treated as such](http://cabbagesofdoom.blogspot.com/2015/08/bioinformatics-is-just-like-bench.html)
 - Basic principles of data in spreadsheets [paper](https://www.tandfonline.com/doi/full/10.1080/00031305.2017.1375989)
+- JSM 2020 [Panel on version control with git in stat cources](https://github.com/mdbeckman/JSM2020-Virtual)
 
 #### Learning Julia
 - Learn X in Y minutes: [julia](https://learnxinyminutes.com/docs/julia/)
 - Julia for R programmmers: [cheatsheet](https://datascience-enthusiast.com/R/R_Julia_cheat_sheet.html)
 - Julia for Python/Matlab programmers: [cheatsheet](https://cheatsheets.quantecon.org/)
+- Julia for Data Science [workshop](https://github.com/crsl4/julia-workshop)
 
 ---
 
@@ -38,7 +40,13 @@ description: Claudia Solis-Lemus' teaching
 
 #### Spring 2021
 
-Upcoming UW-Madison class: PP/Botany 563 Phylogenetic Analysis of Molecular Data
+- Botany 563 Phylogenetic Analysis of Molecular Data: [website](https://github.com/crsl4/phylogenetics-class); 3 credits; TR 1:00-2:15pm (virtual over zoom)
+- Plant Path 875 Readings in Phylogenomics: [website](https://github.com/crsl4/phylogenetics-class/tree/master/PP875); 1 credit; F 8:55-9:45am (virtual over zoom)
+
+![ ](../assets/pics/bot563-phylogenetics.jpeg)
+
+#### Fall 2020
+**Mexicanas en Ciencias de Datos:** Julia workshop for Data Science (virtual). [github](https://github.com/crsl4/julia-workshop)
 
 #### 2019 
 **Woods Hole:** Faculty member of the Marine Biological Laboratory workshop on Molecular Evolution. Lecture and tutorial on phylogenetic networks. Woods Hole, USA.
