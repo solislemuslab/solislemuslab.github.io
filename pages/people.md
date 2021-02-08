@@ -19,13 +19,13 @@ description: Sol&iacute;s-Lemus lab
 
 <div class="row">
   <div class="column">
-    <img src="../assets/pics/labpoll2021.png" width="350"/>
+    <img src="../assets/pics/labpoll2021.png" width="250"/>
   </div>
   <div class="column">
-    <img src="../assets/pics/labpoll2021-2.png" width="350"/>
+    <img src="../assets/pics/labpoll2021-2.png" width="250"/>
   </div>
   <div class="column">
-    <img src="../assets/pics/labpoll2021-3.png" width="350"/>
+    <img src="../assets/pics/labpoll2021-3.png" width="250"/>
   </div>
 </div>
 
