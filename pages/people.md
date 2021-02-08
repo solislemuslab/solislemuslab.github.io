@@ -16,7 +16,7 @@ description: Sol&iacute;s-Lemus lab
     </div>
 </div>
 
-### Lab survey
+### Lab composition
 
 <div class="image123">
     <img src="../assets/pics/labpoll2021.png" width="200">
