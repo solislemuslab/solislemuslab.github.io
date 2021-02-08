@@ -18,9 +18,9 @@ description: Sol&iacute;s-Lemus lab
 
 
 <div class="image123">
-    <img src="../assets/pics/labpoll2021.png" height="200" style="float:left">
-    <img class="middle-img" src="../assets/pics/labpoll2021-2.png"/ height="200">
-    <img src="../assets/pics/labpoll2021-3.png"/ height="200">
+    <img src="../assets/pics/labpoll2021.png" height="100" style="float:left">
+    <img class="middle-img" src="../assets/pics/labpoll2021-2.png" height="100">
+    <img src="../assets/pics/labpoll2021-3.png" height="100">
 </div>
 
 ---
