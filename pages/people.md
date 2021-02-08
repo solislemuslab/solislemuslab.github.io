@@ -11,11 +11,25 @@ description: Sol&iacute;s-Lemus lab
             <li><a href="#graduate">graduate</a></li>
             <li><a href="#undergraduate">undergraduate</a></li>
             <li><a href="#past">past</a></li>
-            <li><a href="#lab">lab composition</a></li>
             <li><a href="#opportunities">oppportunities</a></li>
         </ul>
     </div>
 </div>
+
+
+<div class="row">
+  <div class="column">
+    <img src="../assets/pics/labpoll2021.png" width="350"/>
+  </div>
+  <div class="column">
+    <img src="../assets/pics/labpoll2021-2.png" width="350"/>
+  </div>
+  <div class="column">
+    <img src="../assets/pics/labpoll2021-3.png" width="350"/>
+  </div>
+</div>
+
+---
 
 ### Claudia Sol&iacute;s-Lemus
 
@@ -274,12 +288,6 @@ In my spare time, I enjoy swimming, running, biking, climbing and yoga!
 
 ---
 
-### <a name="lab"></a>Lab composition
-
-<div style="text-align:center"><img src="../assets/pics/labpoll2021.png" width="350"/></div>
-
-
----
 
 ### <a name="opportunities"></a>Opportunities
 
