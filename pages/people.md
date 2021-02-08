@@ -11,6 +11,7 @@ description: Sol&iacute;s-Lemus lab
             <li><a href="#graduate">graduate</a></li>
             <li><a href="#undergraduate">undergraduate</a></li>
             <li><a href="#past">past</a></li>
+            <li><a href="#lab">lab composition</a></li>
             <li><a href="#opportunities">oppportunities</a></li>
         </ul>
     </div>
@@ -22,7 +23,7 @@ I am an assistant professor at the [Wisconsin Institute for Discovery](https://w
 in Actuarial Sciences and Applied Mathematics at [ITAM](https://www.itam.mx/en).
 Then, I did a MA in [Mathematics](http://www.math.wisc.edu) and a PhD in [Statistics](http://www.stat.wisc.edu) at the [University of Wisconsin-Madison](http://www.wisc.edu).
 
-Pronous: she/her
+Pronouns: she/her
 
 In my spare time, I enjoy swimming, running, biking, climbing and yoga!
 
@@ -269,6 +270,13 @@ In my spare time, I enjoy swimming, running, biking, climbing and yoga!
 - [Lareina Liu](https://www.linkedin.com/in/lareina-xiaoyu-liu-90553a140/) (BS Statistics, UW-Madison 2020). She is starting ADS Masters Program at USC in Fall 2020
 - Yifan Wu (BS Computer Engineering, UW-Madison)
 - Yuzheng Zhang (BS Computer Sciences, UW-Madison)
+
+
+---
+
+### <a name="lab"></a>Lab composition
+
+<div style="text-align:center"><img src="../assets/pics/labpoll2021.png" width="350"/></div>
 
 
 ---

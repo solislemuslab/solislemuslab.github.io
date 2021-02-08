@@ -64,14 +64,7 @@ Bayesian species delimitation integrating genes and traits data.
     <div class="row-fluid">
         <div class="span5">
             <a href="https://wi-fast-stats.wid.wisc.edu/">WI Fast Stats</a><br/>
-            Integrated web page with access to all available web apps<br/><br/>
-
-           Each web app is tailored at a specific WI Fast Plants dataset and webinar. Currently, we have implemented web apps for the following webinars:
-
-           <a href="https://wi-fast-stats.wid.wisc.edu/cotyledon/">August 2020</a>: New WI Fast Plants polycot selection data
-
-           <a href="(https://wi-fast-stats.wid.wisc.edu/ecosystem/">
-           December 2020</a>: Hands-on WI Fast Plants study on ecosystem
+            Integrated web page with access to all available web apps for data visualization of <a href="https://fastplants.org/">WI Fast Plants</a><br/><br/>
         </div>
 
         <div class="span2">
