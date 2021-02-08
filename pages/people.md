@@ -22,6 +22,8 @@ I am an assistant professor at the [Wisconsin Institute for Discovery](https://w
 in Actuarial Sciences and Applied Mathematics at [ITAM](https://www.itam.mx/en).
 Then, I did a MA in [Mathematics](http://www.math.wisc.edu) and a PhD in [Statistics](http://www.stat.wisc.edu) at the [University of Wisconsin-Madison](http://www.wisc.edu).
 
+Pronous: she/her
+
 In my spare time, I enjoy swimming, running, biking, climbing and yoga!
 
 <button type="button" onclick="window.location.href='https://github.com/crsl4/crsl4.github.io/blob/master/assets/cv.pdf';">cv</button>
