@@ -10,6 +10,8 @@ description: Solis-Lemus lab
 
 ### 2020
 
+- Thanks to [Casey Dunn](http://dunnlab.org/) for inviting me to participate in his code conversations! Here is the [YouTube link](https://www.youtube.com/watch?v=Byhc0tksgSk)
+
 - Student poll during my [phylogenetic class](https://github.com/crsl4/phylogenetics-class): what software have you used? (January 26, 2021)
 
 <div style="text-align:center"><img src="../assets/pics/poll2021.png" width="350"/></div>
