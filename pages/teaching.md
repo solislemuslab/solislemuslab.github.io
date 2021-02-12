@@ -45,8 +45,10 @@ description: Claudia Solis-Lemus' teaching
 
 ![ ](../assets/pics/bot563-phylogenetics.jpeg)
 
+**Julia workshop for Data Science** co-organized with Doug Bates for the [2021 Data Science Research Bazaar](https://datascience.wisc.edu/data-science-research-bazaar/) on February 10th, 2021. [GitHub](https://github.com/crsl4/julia-workshop)
+
 #### Fall 2020
-**Mexicanas en Ciencias de Datos:** Julia workshop for Data Science (virtual). [github](https://github.com/crsl4/julia-workshop)
+**Mexicanas en Ciencias de Datos:** Julia workshop for Data Science. [github](https://github.com/crsl4/julia-workshop)
 
 #### 2019 
 **Woods Hole:** Faculty member of the Marine Biological Laboratory workshop on Molecular Evolution. Lecture and tutorial on phylogenetic networks. Woods Hole, USA.

@@ -6,15 +6,18 @@ description: Solis-Lemus lab
 
 ### Upcoming
 
-- Julia workshop for Data Science co-organized with Doug Bates for the [2021 Data Science Research Bazaar](https://datascience.wisc.edu/data-science-research-bazaar/) on February 10th, 2021
 
-### 2020
+### 2021
+
+- Julia workshop for Data Science co-organized with Doug Bates for the [2021 Data Science Research Bazaar](https://datascience.wisc.edu/data-science-research-bazaar/) on February 10th, 2021. [GitHub](https://github.com/crsl4/julia-workshop)
 
 - Thanks to [Casey Dunn](http://dunnlab.org/) for inviting me to participate in his code conversations! Here is the [YouTube link](https://www.youtube.com/watch?v=Byhc0tksgSk)
 
 - Student poll during my [phylogenetic class](https://github.com/crsl4/phylogenetics-class): what software have you used? (January 26, 2021)
 
 <div style="text-align:center"><img src="../assets/pics/poll2021.png" width="350"/></div>
+
+### 2020
 
 - Julia workshop for Data Science organized by CIMAT on October 26-27, 2020. Thank you Leticia Ramirez for inviting me! Details [here](http://mcd.eventos.cimat.mx/)
 
