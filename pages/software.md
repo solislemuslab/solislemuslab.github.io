@@ -64,7 +64,7 @@ Bayesian species delimitation integrating genes and traits data.
     <div class="row-fluid">
         <div class="span5">
             <a href="https://wi-fast-stats.wid.wisc.edu/">WI Fast Stats</a><br/>
-            Integrated web page with access to all available web apps for data visualization of <a href="https://fastplants.org/">WI Fast Plants</a><br/><br/>
+            Integrated web page with access to all available web apps for data visualization of <a href="https://fastplants.org/">WI Fast Plants</a><br/><a href="https://youtu.be/6vX3mVXcK4s">YouTube short tutorial</a><br/><br/>
         </div>
 
         <div class="span2">

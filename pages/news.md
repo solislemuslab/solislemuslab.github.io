@@ -9,6 +9,8 @@ description: Solis-Lemus lab
 
 ### 2021
 
+- Short tutorial for WI Fast Stats on [YouTube](https://youtu.be/6vX3mVXcK4s)
+
 - Julia workshop for Data Science co-organized with Doug Bates for the [2021 Data Science Research Bazaar](https://datascience.wisc.edu/data-science-research-bazaar/) on February 10th, 2021. [GitHub](https://github.com/crsl4/julia-workshop)
 
 - Thanks to [Casey Dunn](http://dunnlab.org/) for inviting me to participate in his code conversations! Here is the [YouTube link](https://www.youtube.com/watch?v=Byhc0tksgSk)
