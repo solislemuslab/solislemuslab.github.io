@@ -9,6 +9,10 @@ description: Solis-Lemus lab
 
 ### 2021
 
+- The Solis-Lemus lab helped plant 5 trees by holding lab meetings in [whereby](https://whereby.com/org/signup) in February!
+
+<div style="text-align:center"><img src="../assets/pics/whereby-trees.png" width="350"/></div>
+
 - Short tutorial for WI Fast Stats on [YouTube](https://youtu.be/6vX3mVXcK4s)
 
 - Julia workshop for Data Science co-organized with Doug Bates for the [2021 Data Science Research Bazaar](https://datascience.wisc.edu/data-science-research-bazaar/) on February 10th, 2021. [GitHub](https://github.com/crsl4/julia-workshop)
