@@ -9,6 +9,8 @@ description: Solis-Lemus lab
 
 ### 2021
 
+- Thank you for inviting me to join the Editorial Board of Phylogenetics, Phylogenomics, and Systematics as Review Editor for Frontiers in Ecology and Evolution
+
 - The Solis-Lemus lab helped plant 5 trees by holding lab meetings in [whereby](https://whereby.com/org/signup) in February!
 
 <div style="text-align:center"><img src="../assets/pics/whereby-trees.png" width="350"/></div>
