@@ -39,6 +39,10 @@ Great! Please fill out [this google form](https://forms.gle/1kpZE1XrKe9YS9cHA)
 
 ### 2021
 
+[Algorithms and Complexity in Phylogenetics seminar](https://simonelinz.wordpress.com/online-seminar/), Scalable inference of phylogenetic networks (_Mar 11_)
+
+Department of Statistics – Ohio State University, Scalable inference of phylogenetic networks (_Feb 25_)
+
 Code conversations with [Casey Dunn](http://dunnlab.org/) (_Feb 8_) [YouTube](https://www.youtube.com/watch?v=Byhc0tksgSk)
 
 CIBM – UW-Madison, New challenges in phylogenetic inference (_Jan 26_)
