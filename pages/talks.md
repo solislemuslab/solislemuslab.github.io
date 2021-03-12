@@ -39,7 +39,7 @@ Great! Please fill out [this google form](https://forms.gle/1kpZE1XrKe9YS9cHA)
 
 ### 2021
 
-[Algorithms and Complexity in Phylogenetics seminar](https://simonelinz.wordpress.com/online-seminar/), Scalable inference of phylogenetic networks (_Mar 11_)
+[Algorithms and Complexity in Phylogenetics seminar](https://simonelinz.wordpress.com/online-seminar/), Scalable inference of phylogenetic networks (_Mar 11_) [YouTube](https://www.youtube.com/watch?v=wxG7avXjgTs)
 
 Department of Statistics – Ohio State University, Scalable inference of phylogenetic networks (_Feb 25_)
 
