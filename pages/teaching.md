@@ -45,6 +45,8 @@ description: Claudia Solis-Lemus' teaching
 
 ![ ](../assets/pics/bot563-phylogenetics.jpeg)
 
+**Julia para Ciencias de Datos** organized by Seminario de Investigacion de la Escuela de Estadistica de la Universidad de Los Andes, Merida, Venezuela. [Github](https://github.com/crsl4/julia-workshop/blob/main/one-hour-spanish/lecture-notes.md)
+
 **Julia workshop for Data Science** co-organized with Doug Bates for the [2021 Data Science Research Bazaar](https://datascience.wisc.edu/data-science-research-bazaar/) on February 10th, 2021. [GitHub](https://github.com/crsl4/julia-workshop)
 
 #### Fall 2020
