@@ -18,11 +18,10 @@ description: Claudia Solis-Lemus' teaching
 
 ## <a name="knowledge"></a>Useful links
 
-#### Reprodubility and data science
+#### Reprodubility, computing practices and open science
 - My notes on [mindful programming](https://github.com/crsl4/mindful-programming/blob/master/lecture.md)
 - Karl Broman's [notes](http://kbroman.org/Tools4RR/) on reproducible research
 - Version control: [notes](https://uw-madison-aci.github.io/2018-01-10-uwmadison-swc/) from Software Carpentry at UW-Madison (there might be more recent notes out there)
-- Tukey (1962) [The future of data analysis](https://projecteuclid.org/euclid.aoms/1177704711)
 - R Markdown: [The Definite Guide](https://bookdown.org/yihui/rmarkdown/)
 - Rich Edwards (2015) [Bioinformatics is just like bench science and should be treated as such](http://cabbagesofdoom.blogspot.com/2015/08/bioinformatics-is-just-like-bench.html)
 - Basic principles of data in spreadsheets [paper](https://www.tandfonline.com/doi/full/10.1080/00031305.2017.1375989)
@@ -33,6 +32,11 @@ description: Claudia Solis-Lemus' teaching
 - Julia for R programmmers: [cheatsheet](https://datascience-enthusiast.com/R/R_Julia_cheat_sheet.html)
 - Julia for Python/Matlab programmers: [cheatsheet](https://cheatsheets.quantecon.org/)
 - Julia for Data Science [workshop](https://github.com/crsl4/julia-workshop)
+
+#### Learning Statistics
+- Tukey (1962) [The future of data analysis](https://projecteuclid.org/euclid.aoms/1177704711)
+- [StatQuest](https://www.youtube.com/c/joshstarmer/featured): YouTube channel with short videos to explain important concepts in Statistics and Data Science
+
 
 ---
 
