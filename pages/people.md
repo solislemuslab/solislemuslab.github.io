@@ -34,6 +34,8 @@ Then, I did a MA in [Mathematics](http://www.math.wisc.edu) and a PhD in [Statis
 
 Pronouns: she/her
 
+Name pronunciation: [namedrop.io/claudiasolislemus](https://namedrop.io/claudiasolislemus)
+
 In my spare time, I enjoy swimming, running, biking, climbing and yoga!
 
 <button type="button" onclick="window.location.href='https://github.com/crsl4/crsl4.github.io/blob/master/assets/cv.pdf';">cv</button>
