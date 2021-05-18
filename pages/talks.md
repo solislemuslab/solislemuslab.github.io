@@ -40,6 +40,10 @@ Great! Please fill out [this google form](https://forms.gle/1kpZE1XrKe9YS9cHA)
 
 ### 2021
 
+[Evolution 2021](https://www.evolutionmeetings.org/) -- Behind the scenes of phylogenetic reconstruction with SNaQ (_June 21-25_)
+
+[BISP12](https://bisp12.imati.cnr.it/home_page.php) -- Bayesian CAR-LASSO model to learn sparse networks with predictors (_May 28_)
+
 INFORMS en espanol -- Biologica evolutiva a traves de los ojos de ciencias de datos (_Mar 18_) [YouTube](https://www.youtube.com/watch?v=xfbU6pvSUwI)
 
 [Algorithms and Complexity in Phylogenetics seminar](https://simonelinz.wordpress.com/online-seminar/), Scalable inference of phylogenetic networks (_Mar 11_) [YouTube](https://www.youtube.com/watch?v=wxG7avXjgTs)
