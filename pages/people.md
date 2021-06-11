@@ -141,27 +141,6 @@ In my spare time, I enjoy swimming, running, biking, climbing and yoga!
 
 </div>
 
-<div class="container">
-    <div class="row-fluid">
-        <div class="span2">
-        <a href="../assets/pics/chunrong.png">
-            <img src="../assets/pics/chunrong.png"
-                  title="ChunrongHuang" alt="ChunrongHuang"/></a>
-        </div>
-
-        <div class="span5">
-            Chunrong Huang is a junior undergraduate student in Computer Science and in Mathematics. She is working on user-friendly open-source software to allow biologist to use unsupervised and semi-supervised machine learning methods on their genomic datasets.
-            <button type="button" onclick="window.location.href='https://www.linkedin.com/in/chunrongalicehuang';">linkedin</button>
-
-            <div id="hide_email">
-            Email: <code>chuang</code><b>I</b><code>278</code><b>don't</b><code>@</code><b>want</b><code></code><b>spam!
-            </b><code>w</code><b>So</b><code>i</code><b>please</b><code>s</code><b>leave
-            </b><code>c</code><b>me</b><code>.</code><b>alone</b><code>e</code><b>!</b><code>du</code><br/>
-            </div>
-        </div>
-    </div>
-
-</div>
 
 <div class="container">
     <div class="row-fluid">
@@ -188,36 +167,6 @@ In my spare time, I enjoy swimming, running, biking, climbing and yoga!
 
         <div class="span5">
             Yizhou Liu is a junior undergraduate student in Computer Science and in Mathematics. He is working on user-friendly open-source software to allow biologist to visualize complex phylogenetic networks.
-        </div>
-    </div>
-
-</div>
-
-<div class="container">
-    <div class="row-fluid">
-        <div class="span2">
-        <a href="../assets/pics/zhiwen.jpg">
-            <img src="../assets/pics/zhiwen.jpg"
-                  title="ZhiwenXu" alt="ZhiwenXu"/></a>
-        </div>
-
-        <div class="span5">
-            Zhiwen Xu is a junior undergraduate student in Statistics. She is testing the applicability of unsupervised and semi-supervised machine learning methods on microbial genomic datasets related to plant and soil health.
-        </div>
-    </div>
-
-</div>
-
-<div class="container">
-    <div class="row-fluid">
-        <div class="span2">
-        <a href="../assets/pics/liule.jpg">
-            <img src="../assets/pics/liule.jpg"
-                  title="LiuleYang" alt="LiuleYang"/></a>
-        </div>
-
-        <div class="span5">
-            Liule Yang is a junior undergraduate student in Computer Science, Mathematics and Statistics. He is testing the applicability of unsupervised and semi-supervised machine learning methods on microbial genomic datasets related to plant and soil health.
         </div>
     </div>
 
@@ -258,6 +207,9 @@ In my spare time, I enjoy swimming, running, biking, climbing and yoga!
 ---
 
 ### <a name="past"></a>Past members
+- Liule Yang
+- Zhiwen Xu
+- Chunrong Huang
 - [Songyang Cheng](https://csy99.github.io/Blog/) (BBA, Information Systems + Computer Science, UW-Madison 2021). He tested the applicability of neural network models to microbial genomic datasets to predict important phenotypes like those related to antibiotic resistance. He is attending MEng EECS program at UC-Berkeley. 
 - Junting Wang is attending UMichigan at the Statistics PhD program
 - [Ritika Mittal](https://www.linkedin.com/in/ritika-mittal-011ab2178/) (BS Computer Science, UW-Madison 2022) worked on user-friendly open-source software that would allow biologists to visualize complex phylogenetic networks.
