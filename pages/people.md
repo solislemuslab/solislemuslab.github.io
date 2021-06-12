@@ -204,6 +204,20 @@ In my spare time, I enjoy swimming, running, biking, climbing and yoga!
 
 </div>
 
+<div class="container">
+    <div class="row-fluid">
+        <div class="span2">
+        <a href="../assets/pics/zhaoxingWu.jpg">
+            <img src="../assets/pics/zhaoxingWu.jpg"
+                  title="ZhaoxingWu" alt="ZhaoxingWu"/></a>
+        </div>
+
+        <div class="span5">
+            Zhaoxing Wu is a sophomore undergraduate student in Computer Science, Data Science, and Statistics. She works on the microbial data analysis of dollar spot disturbance.
+        </div>
+    </div>
+</div>
+
 ---
 
 ### <a name="past"></a>Past members
