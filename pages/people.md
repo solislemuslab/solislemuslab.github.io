@@ -218,6 +218,21 @@ In my spare time, I enjoy swimming, running, biking, climbing and yoga!
     </div>
 </div>
 
+
+<div class="container">
+    <div class="row-fluid">
+        <div class="span2">
+        <a href="../assets/pics/Elaine.jpg">
+            <img src="../assets/pics/Elaine.jpg"
+                  title="Elaine" alt="Elaine"/></a>
+        </div>
+
+        <div class="span5">
+            Elaine Wu is a senior undergraduate student in Computer Science and Math. She works on the data analysis and visualization code for the potato seed certification database.
+        </div>
+    </div>
+</div>
+
 <div class="container">
     <div class="row-fluid">
         <div class="span2">
@@ -231,6 +246,7 @@ In my spare time, I enjoy swimming, running, biking, climbing and yoga!
         </div>
     </div>
 </div>
+
 
 ---
 
