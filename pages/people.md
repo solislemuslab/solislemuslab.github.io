@@ -232,6 +232,22 @@ In my spare time, I enjoy swimming, running, biking, climbing and yoga!
         </div>
     </div>
 </div>
+
+<div class="container">
+    <div class="row-fluid">
+        <div class="span2">
+        <a href="../assets/pics/yukewu.JPG">
+            <img src="../assets/pics/yukewu.JPG"
+                  title="YukeWu" alt="YukeWu"/></a>
+        </div>
+
+        <div class="span5">
+            Yuke Wu is a junior undergraduate student in Computer Science, Mathematics, and Statistics. She works on testing and debugging the existing web app https://bioklustering.wid.wisc.edu/ on a variety of real life datasets.
+        </div>
+    </div>
+</div>
+
+
 ---
 
 ### <a name="past"></a>Past members
