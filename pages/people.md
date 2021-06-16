@@ -138,10 +138,7 @@ In my spare time, I enjoy swimming, running, biking, climbing and yoga!
 ### <a name="undergraduate"></a>Undergraduate students
 
 <div>
-
 </div>
-
-
 <div class="container">
     <div class="row-fluid">
         <div class="span2">
@@ -222,8 +219,8 @@ In my spare time, I enjoy swimming, running, biking, climbing and yoga!
 <div class="container">
     <div class="row-fluid">
         <div class="span2">
-        <a href="../assets/pics/Elaine.jpg">
-            <img src="../assets/pics/Elaine.jpg"
+        <a href="../assets/pics/elaine.jpg">
+            <img src="../assets/pics/elaine.jpg"
                   title="Elaine" alt="Elaine"/></a>
         </div>
 
@@ -242,7 +239,7 @@ In my spare time, I enjoy swimming, running, biking, climbing and yoga!
         </div>
 
         <div class="span5">
-            Yuke Wu is a junior undergraduate student in Computer Science, Mathematics, and Statistics. She works on testing and debugging the existing web app https://bioklustering.wid.wisc.edu/ on a variety of real life datasets.
+            Yuke Wu is a junior undergraduate student in Computer Science, Mathematics, and Statistics. She works on testing and debugging the BioKlustering web app on a variety of real life datasets.
         </div>
     </div>
 </div>
