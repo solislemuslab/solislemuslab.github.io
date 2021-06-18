@@ -219,8 +219,8 @@ In my spare time, I enjoy swimming, running, biking, climbing and yoga!
 <div class="container">
     <div class="row-fluid">
         <div class="span2">
-        <a href="../assets/pics/elaine.jpg">
-            <img src="../assets/pics/elaine.jpg"
+        <a href="../assets/pics/elaine.JPG">
+            <img src="../assets/pics/elaine.JPG"
                   title="Elaine" alt="Elaine"/></a>
         </div>
 
