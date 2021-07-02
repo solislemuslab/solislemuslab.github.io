@@ -243,6 +243,22 @@ In my spare time, I enjoy swimming, running, biking, climbing and yoga!
         </div>
     </div>
 </div>
+<div class="container">
+    <div class="row-fluid">
+        <div class="span2">
+        <a href="../assets/pics/fardeen.jpeg">
+            <img src="../assets/pics/fardeen.jpeg"
+                  title="Fardeen Meeran " alt="Fardeen Meeran"/></a>
+        </div>
+
+        <div class="span5">
+            Fardeen Meeran is a senior undergraduate student majoring in Computer Science. He currently is taking part in the development and testing of the Phylogenetic network visualization application. 
+
+            <button type="button" onclick="window.location.href='https://meerxn.github.io/MyPersonalCV/';">website</button>
+        </div>
+    </div>
+
+</div>
 
 
 ---
