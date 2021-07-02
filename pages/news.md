@@ -9,6 +9,8 @@ description: Solis-Lemus lab
 
 ### 2021
 
+- Thanks GROW magazine for featuring me in an article in the [Summer 2021 edition](https://grow.cals.wisc.edu/departments/living-science/the-tree-of-life-is-rooted-in-math)!
+
 - Thanks WID for featuring me in the #WomenHistoryMonth 1-minute chats on [YouTube](https://www.youtube.com/watch?v=agnLh41aEfg)
 
 - Thank you for inviting me to join the Editorial Board of Phylogenetics, Phylogenomics, and Systematics as Review Editor for Frontiers in Ecology and Evolution
