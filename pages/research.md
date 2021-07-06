@@ -107,6 +107,8 @@ Examples of our current research involve:
 
 #### 2021
 
+Shen, Y.*, Sol&iacute;s-Lemus, C. (2021). The Effect of the Prior and the Experimental Design on the Inference of the Precision Matrix in Gaussian Chain Graph Models, [arXiv:2107.01306](https://arxiv.org/abs/2107.01306)
+
 Tiley, George P., Andrew A. Crowl, Paul S. Manos, Emily B. Sessa, Claudia Solis-Lemus, Anne D. Yoder, and J. Gordon Burleigh (2021) Phasing Alleles Improves Network Inference with Allopolyploids. [bioRxiv:10.1101/2021.05.04.442457](https://doi.org/10.1101/2021.05.04.442457)
 
 Abraham G. Moller, Kyle Winston, Shiyu Ji, Junting Wang*, Michelle N. Hargita Davis, Claudia R. Solis-Lemus, Timothy D. Read (2021) Genes Influencing Phage Host Range in _Staphylococcus aureus_ on a Species-Wide Scale, [mSphere](https://msphere.asm.org/content/6/1/e01263-20#sec-9), [github repo](https://github.com/solislemuslab/staph-nn)
