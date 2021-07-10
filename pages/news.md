@@ -31,6 +31,8 @@ description: Solis-Lemus lab
 
 ### 2020
 
+- The SNaQ paper (Solis-Lemus et al, 2017) was included in the PLOS Genetics Top 10% curated collection!
+
 - Julia workshop for Data Science organized by CIMAT on October 26-27, 2020. Thank you Leticia Ramirez for inviting me! Details [here](http://mcd.eventos.cimat.mx/)
 
 - Thank you Cedarburg Public library for inviting me to give a talk at the [NEA Big Read: Ozaukee County 2020](https://cedarburglibrary.org/connect/cedarburg-friends-of-the-library/cedarburg-reads/)
