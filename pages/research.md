@@ -54,30 +54,19 @@ Our work is not purely methodological. Among our current collaborations, we can 
 
 ---
 
-## <a name="genomics"></a>Statistical genomics
-
-One area of statistical genomics has focused on elucidating ties between genes and diseases (human diseases or plant diseases). Standard analytic methods typically consist of a regression of an individual SNP or genes on a phenotype, but these analyses face numerous challenges including small individual SNP effects, low power due to improper modeling of linkage disequilibrium (LD) patterns, and potential type-I error inflation due to unmodeled population structure or kinship. Furthermore, typical approaches involve single regression models followed by multiple test corrections, thus yielding very stringent cutoffs for significance so that very few SNPs are found to be associated with the phenotype. 
-
-In this lab, we work to produce novel methodologies that are centered on high-dimensional statistical models like penalized regression and post selection inference that can simultaneously model all genes across the genome. Our work incorporates multiple layers of correlations due to relatedness, inbreeding, population structure, spatial structure, or interacting components.
-
-Examples of our research involve:
-- post selection inference and penalized regression models applied to GWAS on human disease
-- high dimensional models for the integration of different omics data types applied to human microbiome research and plant microbiome reseach
-
----
-
 ## <a name="microbiome"></a>Statistics in microbiome research
 
 Microbial communities are among the main driving forces in the biosphere. Many critical biological processes inside and outside the human body are governed by microbes. Understanding the composition of microbial communities and what environmental factors play a role in shaping this composition is crucial to comprehend processes connected to human, plant and soil health, as well as to predict microbial responses to environmental perturbations such as climate change in a planet macroscopic scale or diet in a human microscopic scale.
 
 Many microbiome studies involve the comparison of microbial communities under different experimental treatments. Yet these studies are limited by their use of compositional data. Compositional data is inherently challenging due to the constraint to sum to 1 which affects how proportions behave in different experimental settings. Thus, changes in proportions in the microbial composition does not necessarily reflect actual biological changes in the interactions.
 
-In this lab, we work to produce tools to better represent microbial communities (via networks) and use the microbial communities as potential predictors of plant, soil or human health phenotypes.
+In this lab, we work to produce tools to better represent microbial communities (via networks) and use the microbial communities as potential predictors of plant, soil or human health phenotypes. New models are centered on high-dimensional statistical models like penalized regression and post selection inference that can simultaneously model all microbes across the microbiome.
 
 Examples of our current research involve:
 - estimation of microbial interactions accounting for spatial correlations via Ising models
 - network regression framework to understand the effects of microbial communities on a response
-- assembly of reads via novel hypothesis tests on kmer frequency compositions
+- post selection inference and penalized regression models applied to human or plant disease
+- high dimensional models for the integration of different omics data types applied to human microbiome research and plant microbiome reseach
 
 Our work is not purely methodological. Among our current collaborations, we can highlight:
 - studying how root microbial communities affect potato health and response to environmental changes
