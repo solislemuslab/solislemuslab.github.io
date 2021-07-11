@@ -61,6 +61,7 @@ In my spare time, I enjoy swimming, running, biking, climbing and yoga!
             Twitter: <code>@</code><b>I</b><code>sol</code><b>don't</b><code>is</code><b>want</b><code></code><b>spam!
             </b><code>le</code><b>So</b><code>m</code><b>please</b><code>u</code><b>leave
             </b><code>s</code><b>me</b><code>l</code><b>alone</b><code>a</code><b>!</b><code>b</code><br/>
+            Affiliations at UW-Madison: <a href="https://evolution.wisc.edu/">JF Crow Institute for the Study of Evolution</a>, <a href="https://qbi.wisc.edu/">Quantitative Biology Initiative</a><br/>
             </div>
         </div>
 
