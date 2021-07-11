@@ -8,7 +8,6 @@ description: Solis-Lemus publications
     <div class="navbar-inner">
         <ul class="nav">
             <li><a href="#phylogenomics">phylogenomics</a></li>
-            <li><a href="#genomics">genomics</a></li>
             <li><a href="#microbiome">microbiome</a></li>
             <li><a href="#dl">deep-learning</a></li>
             <li><a href="#publications">publications</a></li>
