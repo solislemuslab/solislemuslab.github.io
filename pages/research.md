@@ -95,6 +95,8 @@ Examples of our current research involve:
 
 #### 2021
 
+Su M, Davis MH, Peterson J, Sol&iacute;s-Lemus C, Satola SW, Read TD. 2021. Effect of genetic background on the evolution of Vancomycin-Intermediate Staphylococcus aureus (VISA) [PeerJ 9:e11764](https://doi.org/10.7717/peerj.11764)
+
 Shen, Y.*, Sol&iacute;s-Lemus, C. (2021). The Effect of the Prior and the Experimental Design on the Inference of the Precision Matrix in Gaussian Chain Graph Models, [arXiv:2107.01306](https://arxiv.org/abs/2107.01306)
 
 Tiley, George P., Andrew A. Crowl, Paul S. Manos, Emily B. Sessa, Claudia Solis-Lemus, Anne D. Yoder, and J. Gordon Burleigh (2021) Phasing Alleles Improves Network Inference with Allopolyploids. [bioRxiv:10.1101/2021.05.04.442457](https://doi.org/10.1101/2021.05.04.442457)
