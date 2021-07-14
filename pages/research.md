@@ -67,11 +67,24 @@ Our work is not purely methodological. Among our current collaborations, we can 
 
 ---
 
-## <a name="microbiome"></a>Statistics in microbiome research
+## <a name="microbiome"></a>Statistics in genomics and microbiome
 
-Microbial communities are among the main driving forces in the biosphere. Many critical biological processes inside and outside the human body are governed by microbes. Understanding the composition of microbial communities and what environmental factors play a role in shaping this composition is crucial to comprehend processes connected to human, plant and soil health, as well as to predict microbial responses to environmental perturbations such as climate change in a planet macroscopic scale or diet in a human microscopic scale.
 
-Many microbiome studies involve the comparison of microbial communities under different experimental treatments. Yet these studies are limited by their use of compositional data. Compositional data is inherently challenging due to the constraint to sum to 1 which affects how proportions behave in different experimental settings. Thus, changes in proportions in the microbial composition does not necessarily reflect actual biological changes in the interactions.
+<div class="container">
+    <div class="row-fluid">
+        <div class="span3">
+        <iframe width="250" height="200"
+            src="https://youtube.com/embed/qxlag89GmPU">
+        </iframe>
+        </div>
+
+        <div class="span4">
+            Microbial communities are among the main driving forces in the biosphere. Many critical biological processes inside and outside the human body are governed by microbes. Understanding the composition of microbial communities and what environmental factors play a role in shaping this composition is crucial to comprehend processes connected to human, plant and soil health, as well as to predict microbial responses to environmental perturbations such as climate change in a planet macroscopic scale or diet in a human microscopic scale.
+        </div>
+    </div>
+
+</div>
+
 
 In this lab, we work to produce tools to better represent microbial communities (via networks) and use the microbial communities as potential predictors of plant, soil or human health phenotypes. New models are centered on high-dimensional statistical models like penalized regression and post selection inference that can simultaneously model all microbes across the microbiome.
 
