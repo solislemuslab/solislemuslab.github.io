@@ -34,8 +34,8 @@ Information in [Opportunities](https://solislemuslab.github.io//pages/people.htm
 <div class="container">
     <div class="row-fluid">
         <div class="span2">
-        <iframe width="420" height="315"
-            src="https://youtu.be/7CpCC4OyzaE">
+        <iframe width="210" height="157"
+            src="https://www.youtube.com/watch?v=7CpCC4OyzaE">
         </iframe>
         </div>
 
