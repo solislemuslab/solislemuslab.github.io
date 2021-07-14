@@ -39,7 +39,7 @@ Information in [Opportunities](https://solislemuslab.github.io//pages/people.htm
         </iframe>
         </div>
 
-        <div class="span4">
+        <div class="span5">
             The Tree of Life is the graphical structure that represents the evolutionary process
             from single-cell organisms at the origin of life to the vast biodiversity we see today.
             Reconstructing this tree from genomic sequences is challenging due to the variety
