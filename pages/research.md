@@ -31,10 +31,24 @@ Information in [Opportunities](https://solislemuslab.github.io//pages/people.htm
 
 ## <a name="phylogenomics"></a>Statistical phylogenomics
 
-The Tree of Life is the graphical structure that represents the evolutionary process
-from single-cell organisms at the origin of life to the vast biodiversity we see today.
-Reconstructing this tree from genomic sequences is challenging due to the variety
-of biological forces that shape the signal in the data which constantly push the boundaries of statistical models. In addition, the big data reality can make inference methods obsolete due to their lack of scalability.
+<div class="container">
+    <div class="row-fluid">
+        <div class="span2">
+        <iframe width="420" height="315"
+            src="https://youtu.be/7CpCC4OyzaE">
+        </iframe>
+        </div>
+
+        <div class="span5">
+            The Tree of Life is the graphical structure that represents the evolutionary process
+            from single-cell organisms at the origin of life to the vast biodiversity we see today.
+            Reconstructing this tree from genomic sequences is challenging due to the variety
+            of biological forces that shape the signal in the data which constantly push the boundaries of statistical models. In addition, the big data reality can make inference methods obsolete due to their lack of scalability.
+        </div>
+    </div>
+
+</div>
+
 
 In this lab, we work to produce novel statistical models and methods to reconstruct the Tree of Life that are theoretically sound yet computationally efficient and scalable to meet the ever-growing needs of biological bit data. We strive to accompany our theoretical work with open-source publicly available [software](https://solislemuslab.github.io//pages/software.html).
 
