@@ -9,6 +9,10 @@ description: Solis-Lemus lab
 
 ### 2021
 
+- Two talks at [JuliaCon2021](https://pretalx.com/juliacon2021/schedule/) from the lab:
+    - [PhyloNetworks.jl](https://pretalx.com/juliacon2021/speaker/GRHU7U/) led by me
+    - [Bayesian Network Regression](https://pretalx.com/juliacon2021/speaker/X8DQ9H/) led by Sam Ozminkowski
+
 - Thanks GROW magazine for featuring me in an article in the [Summer 2021 edition](https://grow.cals.wisc.edu/departments/living-science/the-tree-of-life-is-rooted-in-math)!
 
 - Thanks WID for featuring me in the #WomenHistoryMonth 1-minute chats on [YouTube](https://www.youtube.com/watch?v=agnLh41aEfg)
