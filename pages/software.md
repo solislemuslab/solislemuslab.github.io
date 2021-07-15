@@ -75,5 +75,25 @@ Bayesian species delimitation integrating genes and traits data.
     </div>
 </div>
 
+---
+
+
+<div class="container">
+    <div class="row-fluid">
+        <div class="span5">
+            <a href="https://github.com/YunyiShen/CAR-LASSO">CARlasso</a><br/>
+            An R package for fitting Conditional Auto-Regressive LASSO, a class of models that infers (sparse) Gaussian chain graph with predictor and response nodes as well as its extensions<br/><br/>
+
+            Also please see the <br/>
+            <a href="https://yunyishen.ml/CAR-LASSO/dev/">documentations and tutorials.</a><br/>
+        </div>
+
+        <div class="span2">
+        <a href="https://yunyishen.ml/CAR-LASSO/dev/">
+            <img src="https://github.com/YunyiShen/CAR-LASSO/raw/dev/CARlasso.png"
+                  title="CARlasso" alt="CARlasso"/></a>
+        </div>
+    </div>
+</div>
 
 
