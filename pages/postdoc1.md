@@ -1,3 +1,20 @@
+RA/PA positions in Stat, Math, CS or DS at the Wisconsin Institute for Discovery
+
+Ideal candidate: PhD or Master student in Statistics, Mathematics, Data Science or CS. Two options: RA-ship available for students interested in doing master research project or dissertation in the Solis-Lemus lab or PA-ship position for students already doing research on another lab, but that need funding.
+
+Two possible projects: 1) post selection inference in high dimensional penalized regression framework (with applications to microbiome research) or 2) inference of phylogenetic networks from genomic data (with application to virus and bacteria evolution). The project can be tailored to the student’s interests (e.g. more theoretical for Math/Stat students or more applied for CS/DS students).
+
+More details about the lab: https://solislemuslab.github.io/
+
+Send an email with "Data Science position" as the email subject and include CV and transcript.
+
+
+
+
+
+
+———————
+
 evoldir@evol.biology.McMaster.CA
 Postdoc: Wisconsin Institute for Discovery
 

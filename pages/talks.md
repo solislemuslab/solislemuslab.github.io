@@ -9,6 +9,7 @@ description: Claudia Solis-Lemus' talks
         <ul class="nav">
             <li><a href="#zoominario">el-zoominario</a></li>
             <li><a href="#talks">talks</a></li>
+            <li><a href="https://www.youtube.com/channel/UCcBcmxIYYGC6Z04p9SC7hwg/featured">youtube-channel</a></li>
         </ul>
     </div>
 </div>
@@ -38,6 +39,18 @@ Great! Please fill out [this google form](https://forms.gle/1kpZE1XrKe9YS9cHA)
 ## <a name="talks"></a>Solis-Lemus selected talks
 
 ### 2021
+
+[Evolution 2021](https://www.evolutionmeetings.org/) -- Behind the scenes of phylogenetic reconstruction with SNaQ (_June 21-25_)
+
+[BISP12](https://bisp12.imati.cnr.it/home_page.php) -- Bayesian CAR-LASSO model to learn sparse networks with predictors (_May 28_)
+
+INFORMS en espanol -- Biologica evolutiva a traves de los ojos de ciencias de datos (_Mar 18_) [YouTube](https://www.youtube.com/watch?v=xfbU6pvSUwI)
+
+[Algorithms and Complexity in Phylogenetics seminar](https://simonelinz.wordpress.com/online-seminar/), Scalable inference of phylogenetic networks (_Mar 11_) [YouTube](https://www.youtube.com/watch?v=wxG7avXjgTs)
+
+Department of Statistics – Ohio State University, Scalable inference of phylogenetic networks (_Feb 25_)
+
+Code conversations with [Casey Dunn](http://dunnlab.org/) (_Feb 8_) [YouTube](https://www.youtube.com/watch?v=Byhc0tksgSk)
 
 CIBM – UW-Madison, New challenges in phylogenetic inference (_Jan 26_)
 

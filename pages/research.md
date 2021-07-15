@@ -8,7 +8,6 @@ description: Solis-Lemus publications
     <div class="navbar-inner">
         <ul class="nav">
             <li><a href="#phylogenomics">phylogenomics</a></li>
-            <li><a href="#genomics">genomics</a></li>
             <li><a href="#microbiome">microbiome</a></li>
             <li><a href="#dl">deep-learning</a></li>
             <li><a href="#publications">publications</a></li>
@@ -32,10 +31,24 @@ Information in [Opportunities](https://solislemuslab.github.io//pages/people.htm
 
 ## <a name="phylogenomics"></a>Statistical phylogenomics
 
-The Tree of Life is the graphical structure that represents the evolutionary process
-from single-cell organisms at the origin of life to the vast biodiversity we see today.
-Reconstructing this tree from genomic sequences is challenging due to the variety
-of biological forces that shape the signal in the data which constantly push the boundaries of statistical models. In addition, the big data reality can make inference methods obsolete due to their lack of scalability.
+<div class="container">
+    <div class="row-fluid">
+        <div class="span3">
+        <iframe width="250" height="200"
+            src="https://youtube.com/embed/7CpCC4OyzaE">
+        </iframe>
+        </div>
+
+        <div class="span4">
+            The Tree of Life is the graphical structure that represents the evolutionary process
+            from single-cell organisms at the origin of life to the vast biodiversity we see today.
+            Reconstructing this tree from genomic sequences is challenging due to the variety
+            of biological forces that shape the signal in the data which constantly push the boundaries of statistical models. In addition, the big data reality can make inference methods obsolete due to their lack of scalability.
+        </div>
+    </div>
+
+</div>
+
 
 In this lab, we work to produce novel statistical models and methods to reconstruct the Tree of Life that are theoretically sound yet computationally efficient and scalable to meet the ever-growing needs of biological bit data. We strive to accompany our theoretical work with open-source publicly available [software](https://solislemuslab.github.io//pages/software.html).
 
@@ -54,30 +67,32 @@ Our work is not purely methodological. Among our current collaborations, we can 
 
 ---
 
-## <a name="genomics"></a>Statistical genomics
+## <a name="microbiome"></a>Statistics in genomics and microbiome
 
-One area of statistical genomics has focused on elucidating ties between genes and diseases (human diseases or plant diseases). Standard analytic methods typically consist of a regression of an individual SNP or genes on a phenotype, but these analyses face numerous challenges including small individual SNP effects, low power due to improper modeling of linkage disequilibrium (LD) patterns, and potential type-I error inflation due to unmodeled population structure or kinship. Furthermore, typical approaches involve single regression models followed by multiple test corrections, thus yielding very stringent cutoffs for significance so that very few SNPs are found to be associated with the phenotype. 
 
-In this lab, we work to produce novel methodologies that are centered on high-dimensional statistical models like penalized regression and post selection inference that can simultaneously model all genes across the genome. Our work incorporates multiple layers of correlations due to relatedness, inbreeding, population structure, spatial structure, or interacting components.
+<div class="container">
+    <div class="row-fluid">
+        <div class="span3">
+        <iframe width="250" height="200"
+            src="https://youtube.com/embed/qxlag89GmPU">
+        </iframe>
+        </div>
 
-Examples of our research involve:
-- post selection inference and penalized regression models applied to GWAS on human disease
-- high dimensional models for the integration of different omics data types applied to human microbiome research and plant microbiome reseach
+        <div class="span4">
+            Microbial communities are among the main driving forces in the biosphere. Many critical biological processes inside and outside the human body are governed by microbes. Understanding the composition of microbial communities and what environmental factors play a role in shaping this composition is crucial to comprehend processes connected to human, plant and soil health, as well as to predict microbial responses to environmental perturbations such as climate change in a planet macroscopic scale or diet in a human microscopic scale.
+        </div>
+    </div>
 
----
+</div>
 
-## <a name="microbiome"></a>Statistics in microbiome research
 
-Microbial communities are among the main driving forces in the biosphere. Many critical biological processes inside and outside the human body are governed by microbes. Understanding the composition of microbial communities and what environmental factors play a role in shaping this composition is crucial to comprehend processes connected to human, plant and soil health, as well as to predict microbial responses to environmental perturbations such as climate change in a planet macroscopic scale or diet in a human microscopic scale.
-
-Many microbiome studies involve the comparison of microbial communities under different experimental treatments. Yet these studies are limited by their use of compositional data. Compositional data is inherently challenging due to the constraint to sum to 1 which affects how proportions behave in different experimental settings. Thus, changes in proportions in the microbial composition does not necessarily reflect actual biological changes in the interactions.
-
-In this lab, we work to produce tools to better represent microbial communities (via networks) and use the microbial communities as potential predictors of plant, soil or human health phenotypes.
+In this lab, we work to produce tools to better represent microbial communities (via networks) and use the microbial communities as potential predictors of plant, soil or human health phenotypes. New models are centered on high-dimensional statistical models like penalized regression and post selection inference that can simultaneously model all microbes across the microbiome.
 
 Examples of our current research involve:
 - estimation of microbial interactions accounting for spatial correlations via Ising models
 - network regression framework to understand the effects of microbial communities on a response
-- assembly of reads via novel hypothesis tests on kmer frequency compositions
+- post selection inference and penalized regression models applied to human or plant disease
+- high dimensional models for the integration of different omics data types applied to human microbiome research and plant microbiome reseach
 
 Our work is not purely methodological. Among our current collaborations, we can highlight:
 - studying how root microbial communities affect potato health and response to environmental changes
@@ -107,7 +122,13 @@ Examples of our current research involve:
 
 #### 2021
 
-Abraham G. Moller, Kyle Winston, Shiyu Ji, Junting Wang*, Michelle N. Hargita Davis, Claudia R. Solís-Lemus, Timothy D. Read. (2021). Genes Influencing Phage Host Range in _Staphylococcus aureus_ on a Species-Wide Scale, [mSphere](https://msphere.asm.org/content/6/1/e01263-20#sec-9), [github repo](https://github.com/solislemuslab/staph-nn)
+Su M, Davis MH, Peterson J, Sol&iacute;s-Lemus C, Satola SW, Read TD. 2021. Effect of genetic background on the evolution of Vancomycin-Intermediate Staphylococcus aureus (VISA) [PeerJ 9:e11764](https://doi.org/10.7717/peerj.11764)
+
+Shen, Y.*, Sol&iacute;s-Lemus, C. (2021). The Effect of the Prior and the Experimental Design on the Inference of the Precision Matrix in Gaussian Chain Graph Models, [arXiv:2107.01306](https://arxiv.org/abs/2107.01306)
+
+Tiley, George P., Andrew A. Crowl, Paul S. Manos, Emily B. Sessa, Claudia Solis-Lemus, Anne D. Yoder, and J. Gordon Burleigh (2021) Phasing Alleles Improves Network Inference with Allopolyploids. [bioRxiv:10.1101/2021.05.04.442457](https://doi.org/10.1101/2021.05.04.442457)
+
+Abraham G. Moller, Kyle Winston, Shiyu Ji, Junting Wang*, Michelle N. Hargita Davis, Claudia R. Solis-Lemus, Timothy D. Read (2021) Genes Influencing Phage Host Range in _Staphylococcus aureus_ on a Species-Wide Scale, [mSphere](https://msphere.asm.org/content/6/1/e01263-20#sec-9), [github repo](https://github.com/solislemuslab/staph-nn)
 
 #### 2020
 

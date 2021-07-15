@@ -16,13 +16,25 @@ description: Sol&iacute;s-Lemus lab
     </div>
 </div>
 
+### Lab composition
+
+<div class="image123">
+    <img src="../assets/pics/labpoll2021.png" width="200">
+    <img src="../assets/pics/labpoll2021-2.png" width="200">
+    <img src="../assets/pics/labpoll2021-3.png" width="200">
+</div>
+
+---
+
 ### Claudia Sol&iacute;s-Lemus
 
 I am an assistant professor at the [Wisconsin Institute for Discovery](https://wid.wisc.edu/) and the [Department of Plant Pathology](https://plantpath.wisc.edu/) at the [University of Wisconsin-Madison](http://www.wisc.edu). Originally from Mexico City, I did my Undergraduate degrees
 in Actuarial Sciences and Applied Mathematics at [ITAM](https://www.itam.mx/en).
-Then, I did a MA in [Mathematics](http://www.math.wisc.edu) and a PhD in [Statistics](http://www.stat.wisc.edu) at the [University of Wisconsin-Madison](http://www.wisc.edu).
+Then, I did a MA in [Mathematics](http://www.math.wisc.edu) and a PhD in [Statistics](http://www.stat.wisc.edu) at the [University of Wisconsin-Madison](http://www.wisc.edu). In my spare time, I enjoy swimming, running, biking, climbing and yoga!
 
-In my spare time, I enjoy swimming, running, biking, climbing and yoga!
+Pronouns: she/her
+
+Name pronunciation: [namedrop.io/claudiasolislemus](https://namedrop.io/claudiasolislemus)
 
 <button type="button" onclick="window.location.href='https://github.com/crsl4/crsl4.github.io/blob/master/assets/cv.pdf';">cv</button>
 <button type="button" onclick="window.location.href='https://scholar.google.com/citations?user=GrUypj8AAAAJ&hl=en&oi=ao';">google scholar</button>
@@ -47,6 +59,7 @@ In my spare time, I enjoy swimming, running, biking, climbing and yoga!
             Twitter: <code>@</code><b>I</b><code>sol</code><b>don't</b><code>is</code><b>want</b><code></code><b>spam!
             </b><code>le</code><b>So</b><code>m</code><b>please</b><code>u</code><b>leave
             </b><code>s</code><b>me</b><code>l</code><b>alone</b><code>a</code><b>!</b><code>b</code><br/>
+            Affiliations at UW-Madison: <a href="https://evolution.wisc.edu/">JF Crow Institute for the Study of Evolution</a>, <a href="https://qbi.wisc.edu/">Quantitative Biology Initiative</a><br/>
             </div>
         </div>
 
@@ -123,49 +136,8 @@ In my spare time, I enjoy swimming, running, biking, climbing and yoga!
 
 ### <a name="undergraduate"></a>Undergraduate students
 
-<div class="container">
-    <div class="row-fluid">
-        <div class="span2">
-        <a href="../assets/pics/brian.jpg">
-            <img src="../assets/pics/brian.jpg"
-                  title="BrianCheng" alt="BrianCheng"/></a>
-        </div>
-
-        <div class="span5">
-            Songyang Cheng is a senior undergraduate student in Computer Science. He is testing the applicability of neural network models to microbial genomic datasets to predict important phenotypes like those related to antibiotic resistance.
-
-            <button type="button" onclick="window.location.href='https://csy99.github.io/Notes/#/';">website</button>
-        </div>
-    </div>
-
-</div>
-
 <div>
-
 </div>
-
-<div class="container">
-    <div class="row-fluid">
-        <div class="span2">
-        <a href="../assets/pics/chunrong.png">
-            <img src="../assets/pics/chunrong.png"
-                  title="ChunrongHuang" alt="ChunrongHuang"/></a>
-        </div>
-
-        <div class="span5">
-            Chunrong Huang is a junior undergraduate student in Computer Science and in Mathematics. She is working on user-friendly open-source software to allow biologist to use unsupervised and semi-supervised machine learning methods on their genomic datasets.
-            <button type="button" onclick="window.location.href='https://www.linkedin.com/in/chunrongalicehuang';">linkedin</button>
-
-            <div id="hide_email">
-            Email: <code>chuang</code><b>I</b><code>278</code><b>don't</b><code>@</code><b>want</b><code></code><b>spam!
-            </b><code>w</code><b>So</b><code>i</code><b>please</b><code>s</code><b>leave
-            </b><code>c</code><b>me</b><code>.</code><b>alone</b><code>e</code><b>!</b><code>du</code><br/>
-            </div>
-        </div>
-    </div>
-
-</div>
-
 <div class="container">
     <div class="row-fluid">
         <div class="span2">
@@ -191,36 +163,6 @@ In my spare time, I enjoy swimming, running, biking, climbing and yoga!
 
         <div class="span5">
             Yizhou Liu is a junior undergraduate student in Computer Science and in Mathematics. He is working on user-friendly open-source software to allow biologist to visualize complex phylogenetic networks.
-        </div>
-    </div>
-
-</div>
-
-<div class="container">
-    <div class="row-fluid">
-        <div class="span2">
-        <a href="../assets/pics/zhiwen.jpg">
-            <img src="../assets/pics/zhiwen.jpg"
-                  title="ZhiwenXu" alt="ZhiwenXu"/></a>
-        </div>
-
-        <div class="span5">
-            Zhiwen Xu is a junior undergraduate student in Statistics. She is testing the applicability of unsupervised and semi-supervised machine learning methods on microbial genomic datasets related to plant and soil health.
-        </div>
-    </div>
-
-</div>
-
-<div class="container">
-    <div class="row-fluid">
-        <div class="span2">
-        <a href="../assets/pics/liule.jpg">
-            <img src="../assets/pics/liule.jpg"
-                  title="LiuleYang" alt="LiuleYang"/></a>
-        </div>
-
-        <div class="span5">
-            Liule Yang is a junior undergraduate student in Computer Science, Mathematics and Statistics. He is testing the applicability of unsupervised and semi-supervised machine learning methods on microbial genomic datasets related to plant and soil health.
         </div>
     </div>
 
@@ -258,10 +200,73 @@ In my spare time, I enjoy swimming, running, biking, climbing and yoga!
 
 </div>
 
+<div class="container">
+    <div class="row-fluid">
+        <div class="span2">
+        <a href="../assets/pics/zhaoxingWu.jpg">
+            <img src="../assets/pics/zhaoxingWu.jpg"
+                  title="ZhaoxingWu" alt="ZhaoxingWu"/></a>
+        </div>
+
+        <div class="span5">
+            Zhaoxing Wu is a sophomore undergraduate student in Computer Science, Data Science, and Statistics. She works on the microbial data analysis of dollar spot disturbance.
+        </div>
+    </div>
+</div>
+
+
+<div class="container">
+    <div class="row-fluid">
+        <div class="span2">
+        <a href="../assets/pics/elaine.JPG">
+            <img src="../assets/pics/elaine.JPG"
+                  title="Elaine" alt="Elaine"/></a>
+        </div>
+
+        <div class="span5">
+            Elaine Wu is a senior undergraduate student in Computer Science and Math. She works on the data analysis and visualization code for the potato seed certification database.
+        </div>
+    </div>
+</div>
+
+<div class="container">
+    <div class="row-fluid">
+        <div class="span2">
+        <a href="../assets/pics/yukewu.JPG">
+            <img src="../assets/pics/yukewu.JPG"
+                  title="YukeWu" alt="YukeWu"/></a>
+        </div>
+
+        <div class="span5">
+            Yuke Wu is a junior undergraduate student in Computer Science, Mathematics, and Statistics. She works on testing and debugging the BioKlustering web app on a variety of real life datasets.
+        </div>
+    </div>
+</div>
+<div class="container">
+    <div class="row-fluid">
+        <div class="span2">
+        <a href="../assets/pics/fardeen.jpeg">
+            <img src="../assets/pics/fardeen.jpeg"
+                  title="Fardeen Meeran " alt="Fardeen Meeran"/></a>
+        </div>
+
+        <div class="span5">
+            Fardeen Meeran is a senior undergraduate student majoring in Computer Science. He currently is taking part in the development and testing of the Phylogenetic network visualization application. 
+
+            <button type="button" onclick="window.location.href='https://meerxn.github.io/MyPersonalCV/';">website</button>
+        </div>
+    </div>
+
+</div>
+
+
 ---
 
 ### <a name="past"></a>Past members
-
+- Liule Yang
+- Zhiwen Xu
+- Chunrong Huang
+- [Songyang Cheng](https://csy99.github.io/Blog/) (BBA, Information Systems + Computer Science, UW-Madison 2021). He tested the applicability of neural network models to microbial genomic datasets to predict important phenotypes like those related to antibiotic resistance. He is attending MEng EECS program at UC-Berkeley. 
 - Junting Wang is attending UMichigan at the Statistics PhD program
 - [Ritika Mittal](https://www.linkedin.com/in/ritika-mittal-011ab2178/) (BS Computer Science, UW-Madison 2022) worked on user-friendly open-source software that would allow biologists to visualize complex phylogenetic networks.
 - [Lareina Liu](https://www.linkedin.com/in/lareina-xiaoyu-liu-90553a140/) (BS Statistics, UW-Madison 2020). She is starting ADS Masters Program at USC in Fall 2020
@@ -270,6 +275,7 @@ In my spare time, I enjoy swimming, running, biking, climbing and yoga!
 
 
 ---
+
 
 ### <a name="opportunities"></a>Opportunities
 
@@ -291,10 +297,6 @@ For people with computational biology/statistics/data science background, there 
 In addition, I am also excited to work with people interested in empirical research by teaming up with other faculty in the department.
 
 In any scenario, I'd be happy to provide assistance in the application to fellowships and grants to support your own independent research agenda.
-
-##### New position: Postdoctoral Researcher in statistical/machine-learning methods for high-dimensional omics data
-
-Details [here](https://jobrxiv.org/job/university-of-wisconsin-madison-27778-postdoctoral-researcher-in-statistical-machine-learning-methods-for-high-dimensional-omics-data-2/). To apply, send me an email with CV. Subject "Postdoc application".
 
 #### Prospective graduate students
 

@@ -6,13 +6,32 @@ description: Solis-Lemus lab
 
 ### Upcoming
 
-- Julia workshop for Data Science co-organized with Doug Bates for the [2021 Data Science Research Bazaar](https://datascience.wisc.edu/data-science-research-bazaar/) on February 10th, 2021
 
-### 2020
+### 2021
+
+- Thanks GROW magazine for featuring me in an article in the [Summer 2021 edition](https://grow.cals.wisc.edu/departments/living-science/the-tree-of-life-is-rooted-in-math)!
+
+- Thanks WID for featuring me in the #WomenHistoryMonth 1-minute chats on [YouTube](https://www.youtube.com/watch?v=agnLh41aEfg)
+
+- Thank you for inviting me to join the Editorial Board of Phylogenetics, Phylogenomics, and Systematics as Review Editor for Frontiers in Ecology and Evolution
+
+- The Solis-Lemus lab helped plant 5 trees by holding lab meetings in [whereby](https://whereby.com/org/signup) in February!
+
+<div style="text-align:center"><img src="../assets/pics/whereby-trees.png" width="350"/></div>
+
+- Short tutorial for WI Fast Stats on [YouTube](https://youtu.be/6vX3mVXcK4s)
+
+- Julia workshop for Data Science co-organized with Doug Bates for the [2021 Data Science Research Bazaar](https://datascience.wisc.edu/data-science-research-bazaar/) on February 10th, 2021. [GitHub](https://github.com/crsl4/julia-workshop)
+
+- Thanks to [Casey Dunn](http://dunnlab.org/) for inviting me to participate in his code conversations! Here is the [YouTube link](https://www.youtube.com/watch?v=Byhc0tksgSk)
 
 - Student poll during my [phylogenetic class](https://github.com/crsl4/phylogenetics-class): what software have you used? (January 26, 2021)
 
 <div style="text-align:center"><img src="../assets/pics/poll2021.png" width="350"/></div>
+
+### 2020
+
+- The SNaQ paper (Solis-Lemus et al, 2017) was included in the PLOS Genetics Top 10% curated collection!
 
 - Julia workshop for Data Science organized by CIMAT on October 26-27, 2020. Thank you Leticia Ramirez for inviting me! Details [here](http://mcd.eventos.cimat.mx/)
 
