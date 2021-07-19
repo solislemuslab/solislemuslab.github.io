@@ -27,6 +27,10 @@ description: Solis-Lemus publications
 #### Interested in joining the lab?
 Information in [Opportunities](https://solislemuslab.github.io//pages/people.html#opportunities).
 
+#### Funding
+
+The lab is currently funded by the following [awards](https://solislemuslab.github.io//pages/research.html#awards).
+
 ---
 
 ## <a name="phylogenomics"></a>Statistical phylogenomics
@@ -189,3 +193,6 @@ Sol&iacute;s-Lemus, C., L.L. Knowles and C. An&eacute;. 2015. Bayesian species d
 Sol&iacute;s-Lemus, C. (2015). Statistical methods to infer population structure with coalescence and gene flow.  PhD dissertation, Department of Statistics,
 University of Wisconsin-Madison
 [![pdf (653k)](icons16/pdf-icon.png)](https://www.stat.wisc.edu/~claudia/thesis.pdf)
+
+
+# Awards
