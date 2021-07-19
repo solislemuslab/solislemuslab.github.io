@@ -208,13 +208,13 @@ University of Wisconsin-Madison
         </div>
 
         <div class="span5">
-           - <a href="https://genomicscience.energy.gov/compbio/2020Awards.shtml">DE-FOA-0002217</a>
+           - <a href="https://genomicscience.energy.gov/compbio/2020Awards.shtml">DE-FOA-0002217</a> <br/>
             - Title: Harnessing the power of big omics data: Novel statistical tools to study the
-            role of microbial communities in fundamental biological processes
-            - Dates: September 14, 2020 to September 14, 2022
-            - Personnel
-                - PI: Claudia Solis-Lemus
-                - Sam Ozminkowski (MS student in Statistics)
+            role of microbial communities in fundamental biological processes <br/>
+            - Dates: September 14, 2020 to September 14, 2022 <br/>
+            - Personnel <br/>
+                - PI: Claudia Solis-Lemus <br/>
+                - Sam Ozminkowski (MS student in Statistics) <br/>
                 - Marianne Bjorner (MS student in CS)
         </div>
     </div>
