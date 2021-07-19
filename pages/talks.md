@@ -223,6 +223,12 @@ Currently, we do not have the manpower to guarantee that all comments will be po
 **I want to give a talk or nominate someone to give a talk?**
 Great! Please fill out [this google form](https://forms.gle/1kpZE1XrKe9YS9cHA)
 
+### Talks topics and countries
+<div class="image123">
+    <img src="../assets/pics/topics.png" width="200">
+    <img src="../assets/pics/countries.png" width="200">
+</div>
+
 ### Schedule
 
 | Date | Speaker | Title (YouTube link) | 
