@@ -199,14 +199,29 @@ University of Wisconsin-Madison
 
 ### DOE: Computational Tool Development for Integrative Systems Biology Data Analysis
 
-- [DE-FOA-0002217](https://genomicscience.energy.gov/compbio/2020Awards.shtml)
-- Title: Harnessing the power of big omics data: Novel statistical tools to study the
-role of microbial communities in fundamental biological processes
-- Dates: September 14, 2020 to September 14, 2022
-- Personnel
-    - PI: Claudia Solis-Lemus
-    - Sam Ozminkowski (MS student in Statistics)
-    - Marianne Bjorner (MS student in CS)
+<div class="container">
+    <div class="row-fluid">
+        <div class="span2">
+        <a href="../assets/pics/doe.jpeg">
+            <img src="../assets/pics/doe.jpeg"
+                  title="DOE" alt="DOE"/></a>
+        </div>
+
+        <div class="span5">
+           - <a href="https://genomicscience.energy.gov/compbio/2020Awards.shtml">DE-FOA-0002217</a>
+            - Title: Harnessing the power of big omics data: Novel statistical tools to study the
+            role of microbial communities in fundamental biological processes
+            - Dates: September 14, 2020 to September 14, 2022
+            - Personnel
+                - PI: Claudia Solis-Lemus
+                - Sam Ozminkowski (MS student in Statistics)
+                - Marianne Bjorner (MS student in CS)
+        </div>
+    </div>
+
+</div>
+
+
 
 #### Project summary
 
