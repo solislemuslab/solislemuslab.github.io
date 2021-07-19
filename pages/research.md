@@ -196,3 +196,61 @@ University of Wisconsin-Madison
 
 
 # Awards
+
+## Current funding
+
+### DOE: Computational Tool Development for Integrative Systems Biology Data Analysis
+
+- [DE-FOA-0002217](https://genomicscience.energy.gov/compbio/2020Awards.shtml)
+- Title: Harnessing the power of big omics data: Novel statistical tools to study the
+role of microbial communities in fundamental biological processes
+- Dates: September 14, 2020 to September 14, 2022
+- Personnel
+    - PI: Claudia Solis-Lemus
+    - Sam Ozminkowski (MS student in Statistics)
+    - Marianne Bjorner (MS student in CS)
+
+#### Project summary
+
+Microbial communities are among the main driving forces of biogeochemical processes in the biosphere. In particular, many critical soil processes such as mineral weathering, and soil cycling of mineral-sorbed organic matter are governed by mineral-associated microbes. Understanding the composition of microbial communities and what environmental factors play a role in shaping this composition is crucial to comprehend soil biological processes and to predict microbial responses to environmental changes.
+In order to identify the driving factors in soil biological processes, we need robust statistical tools that are able to connect a set of predictors with a specific phenotype. Yet, the innovation in the statistical theory for biochemical and biophysical processes has not matched the increasing complexity of soil data. Indeed, existing statistical techniques have four main drawbacks: 1) they perform poorly on high-dimensional highly sparse data, such as soil metagenomics; 2) they ignore spatial correlation structure which can be a key component in soil-related data; 3) they do not provide valid p-values under high-dimensional settings making them unable to detect significant factors driving the phenotype of interest, and 4) they tend to focus on abundance matrices to represent microbial compositions which can be flawed due to its compositional nature (sum to 1 restriction) that affects how proportions behave in different experimental settings (e.g. changes in proportions in the microbial composition does not necessarily reflect actual biological changes in the interactions).
+The overall objective of this proposal is to pioneer the development of the next generation of statistical theory (accompanied by open-source publicly available software) for soil omics data. Our novel statistical methods will overcome existing challenges in standard approaches in three ways: 1) they will inherently account for high-dimensional highly interconnected data through the development of novel mixed-effects sparse learning models; 2) they will produce valid adaptive p-values through post selection inference, and 3) they will be implemented in open-source publicly available software that will serve the broader scientific community.
+
+#### Publications supported by the award
+- Shen and Solis-Lemus (2020) [arXiv:2012.08397](https://arxiv.org/abs/2012.08397)
+- Zhang et al (2020) [arXiv:2012.05995](https://arxiv.org/abs/2012.05995)
+- Liu and Solis-Lemus (2020) [arXiv:2012.03290](https://arxiv.org/abs/2012.03290)
+- Shen and Solis-Lemus (2021) [arXiv:2107.01306](https://arxiv.org/abs/2107.01306)
+
+### USDA-NIFA: hatch project 1023699
+
+- Title: Novel interaction and network statistical models for microbiome data
+- Dates: October 1, 2020 to September 30 2022
+- Personnel
+    - PI: Claudia Solis-Lemus
+    - Yunyi Shen (MS student in Statistics)
+
+#### Project summary
+
+The growing food demand can only be sustained through rigorous and consistent support of plant and soil health worldwide.
+Recognizing the microbial, environmental and agricultural factors that drive plant and soil phenotypes is crucial to comprehend
+processes connected to plant and soil health, to identify global practices of sustainable agriculture, as well as to predict plant and soil responses to environmental perturbations such as climate change.
+In order to identify the driving factors in plant and soil health, we need robust statistical tools that are able to connect a set of predictors with a specific phenotype. Yet, the innovation in the methodological data science tools for agricultural practices has not matched the increasing complexity of soil and plant data. The overall objective of this project is to develop a next generation of statistical theory (accompanied by open-source publicly available software) for soil and plant data by exploiting the high- dimensional highly interconnected data through the development of novel microbiome interaction models. By harnessing the power of big data through new statistical theory in sparse learning, and network regression models, our work will produce tools that can better understand the drivers in soil and plant health to aid in the adoption of global practices of sustainable agriculture, which are vital to meet the ever-increasing need for food availability in the XXI century.
+
+#### Publications supported by the award
+- Shen and Solis-Lemus (2020) [arXiv:2012.08397](https://arxiv.org/abs/2012.08397)
+- Shen and Solis-Lemus (2021) [arXiv:2107.01306](https://arxiv.org/abs/2107.01306)
+
+
+### Wisconsin Potato and Vegetable Growers Association, Inc.
+
+- Title: Development of bioinformatic tools to leverage certification data for enhanced seed potato production
+- Dates: March 15, 2021 to June 30, 2022
+- Personnel:
+    - PI: Claudia Solis-Lemus
+    - co-PI: Renee Rioux
+    - Haoming Chen (undergraduate student in CS)
+    - Elaine Wu (undergraduate student in CS)
+
+#### Project summary
+The overarching objective of this proposal is to initiate development of a virtual tool for analyzing and visualizing field data collected each year by the Wisconsin Seed Potato Certification Program (WSPCP) for use on the plant health certificate. Specific objectives include: 1) Creating an enhanced cloud-based database to house seed certification program data, 2) Developing visualization tools for interacting with seed potato certification program data, and 3) Generating data analytics capability to extrapolate from trends in the available data.
