@@ -197,8 +197,6 @@ University of Wisconsin-Madison
 
 # Awards
 
-## Current funding
-
 ### DOE: Computational Tool Development for Integrative Systems Biology Data Analysis
 
 - [DE-FOA-0002217](https://genomicscience.energy.gov/compbio/2020Awards.shtml)
@@ -222,6 +220,8 @@ The overall objective of this proposal is to pioneer the development of the next
 - Liu and Solis-Lemus (2020) [arXiv:2012.03290](https://arxiv.org/abs/2012.03290)
 - Shen and Solis-Lemus (2021) [arXiv:2107.01306](https://arxiv.org/abs/2107.01306)
 
+------------------------------------
+
 ### USDA-NIFA: hatch project 1023699
 
 - Title: Novel interaction and network statistical models for microbiome data
@@ -241,6 +241,7 @@ In order to identify the driving factors in plant and soil health, we need robus
 - Shen and Solis-Lemus (2020) [arXiv:2012.08397](https://arxiv.org/abs/2012.08397)
 - Shen and Solis-Lemus (2021) [arXiv:2107.01306](https://arxiv.org/abs/2107.01306)
 
+------------------------------------
 
 ### Wisconsin Potato and Vegetable Growers Association, Inc.
 
