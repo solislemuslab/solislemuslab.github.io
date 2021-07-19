@@ -208,11 +208,11 @@ University of Wisconsin-Madison
         </div>
 
         <div class="span5">
-           - <a href="https://genomicscience.energy.gov/compbio/2020Awards.shtml">DE-FOA-0002217</a> <br/>
-            - Title: Harnessing the power of big omics data: Novel statistical tools to study the
+           <a href="https://genomicscience.energy.gov/compbio/2020Awards.shtml">DE-FOA-0002217</a> <br/>
+            Title: Harnessing the power of big omics data: Novel statistical tools to study the
             role of microbial communities in fundamental biological processes <br/>
-            - Dates: September 14, 2020 to September 14, 2022 <br/>
-            - Personnel <br/>
+            Dates: September 14, 2020 to September 14, 2022 <br/>
+            Personnel: <br/>
                 - PI: Claudia Solis-Lemus <br/>
                 - Sam Ozminkowski (MS student in Statistics) <br/>
                 - Marianne Bjorner (MS student in CS)
@@ -239,11 +239,26 @@ The overall objective of this proposal is to pioneer the development of the next
 
 ### USDA-NIFA: hatch project 1023699
 
-- Title: Novel interaction and network statistical models for microbiome data
-- Dates: October 1, 2020 to September 30 2022
-- Personnel
-    - PI: Claudia Solis-Lemus
-    - Yunyi Shen (MS student in Statistics)
+<div class="container">
+    <div class="row-fluid">
+        <div class="span2">
+        <a href="../assets/pics/usda.png">
+            <img src="../assets/pics/usda.png"
+                  title="USDA" alt="USDA"/></a>
+        </div>
+
+        <div class="span5">
+            Title: Novel interaction and network statistical models for microbiome data <br/>
+            Dates: October 1, 2020 to September 30 2022 <br/>
+            Personnel <br/>
+                - PI: Claudia Solis-Lemus <br/>
+                - Yunyi Shen (MS student in Statistics) <br/>
+        </div>
+    </div>
+
+</div>
+
+
 
 #### Project summary
 
@@ -260,13 +275,28 @@ In order to identify the driving factors in plant and soil health, we need robus
 
 ### Wisconsin Potato and Vegetable Growers Association, Inc.
 
-- Title: Development of bioinformatic tools to leverage certification data for enhanced seed potato production
-- Dates: March 15, 2021 to June 30, 2022
-- Personnel:
-    - PI: Claudia Solis-Lemus
-    - co-PI: Renee Rioux
-    - Haoming Chen (undergraduate student in CS)
-    - Elaine Wu (undergraduate student in CS)
+<div class="container">
+    <div class="row-fluid">
+        <div class="span2">
+        <a href="../assets/pics/wpvga_logo.png">
+            <img src="../assets/pics/wpvga_logo.png"
+                  title="WPVGA" alt="WPVGA"/></a>
+        </div>
+
+        <div class="span5">
+            Title: Development of bioinformatic tools to leverage certification data for enhanced seed potato production <br/>
+            Dates: March 15, 2021 to June 30, 2022 <br/>
+            Personnel: <br/>
+            - PI: Claudia Solis-Lemus <br/>
+            - co-PI: Renee Rioux <br/>
+            - Haoming Chen (undergraduate student in CS) <br/>
+            - Elaine Wu (undergraduate student in CS) <br/>
+        </div>
+    </div>
+
+</div>
+
+
 
 #### Project summary
 The overarching objective of this proposal is to initiate development of a virtual tool for analyzing and visualizing field data collected each year by the Wisconsin Seed Potato Certification Program (WSPCP) for use on the plant health certificate. Specific objectives include: 1) Creating an enhanced cloud-based database to house seed certification program data, 2) Developing visualization tools for interacting with seed potato certification program data, and 3) Generating data analytics capability to extrapolate from trends in the available data.
