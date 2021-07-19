@@ -288,7 +288,7 @@ Name pronunciation: [namedrop.io/claudiasolislemus](https://namedrop.io/claudias
         </div>
 
         <div class="span4">
-            The Solis-Lemus lab is located in the [Wisconsin Institute for Discovery](https://wid.wisc.edu/), which provides immense opportunities for interdisciplinary connections and networking for students and postdocs!
+            The Solis-Lemus lab is located in the <a href="https://wid.wisc.edu/">Wisconsin Institute for Discovery</a><br/>, which provides immense opportunities for interdisciplinary connections and networking for students and postdocs!
         </div>
     </div>
 
