@@ -194,6 +194,7 @@ Sol&iacute;s-Lemus, C. (2015). Statistical methods to infer population structure
 University of Wisconsin-Madison
 [![pdf (653k)](icons16/pdf-icon.png)](https://www.stat.wisc.edu/~claudia/thesis.pdf)
 
+------------------------------------
 
 # Awards
 
