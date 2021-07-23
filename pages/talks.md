@@ -19,6 +19,8 @@ description: Claudia Solis-Lemus' talks
 
 ### 2021
 
+[ClubEcoEvo Latinoamerica]() -- Metodos estadisticos para estudiar comunidades microbianas (_July 23_) [YouTube](https://www.youtube.com/watch?v=PKXf1W4bocQ)
+
 [Evolution 2021](https://www.evolutionmeetings.org/) -- Behind the scenes of phylogenetic reconstruction with SNaQ (_June 21-25_)
 
 [BISP12](https://bisp12.imati.cnr.it/home_page.php) -- Bayesian CAR-LASSO model to learn sparse networks with predictors (_May 28_)

@@ -9,6 +9,8 @@ description: Solis-Lemus lab
 
 ### 2021
 
+- Gracias ClubEcoEvo Latinoamérica por la invitación a dar una platica (en español) de mi investigación: [YouTube](https://www.youtube.com/watch?v=PKXf1W4bocQ)
+
 - Two talks at [JuliaCon2021](https://pretalx.com/juliacon2021/schedule/) from the lab:
     - [PhyloNetworks.jl](https://pretalx.com/juliacon2021/speaker/GRHU7U/) led by me
     - [Bayesian Network Regression](https://pretalx.com/juliacon2021/speaker/X8DQ9H/) led by Sam Ozminkowski
