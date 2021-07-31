@@ -11,6 +11,7 @@ description: Solis-Lemus publications
             <li><a href="#microbiome">microbiome</a></li>
             <li><a href="#dl">deep-learning</a></li>
             <li><a href="#publications">publications</a></li>
+            <li><a href="#awards">awards</a></li>
         </ul>
     </div>
 </div>
@@ -126,6 +127,8 @@ Examples of our current research involve:
 
 #### 2021
 
+Shen, Y.*, Sol&iacute;s-Lemus, C. (2021). CARlasso: An R package for the estimation of sparse microbial networks with predictors, [arXiv:2107.13763](https://arxiv.org/abs/2107.13763)
+
 Su M, Davis MH, Peterson J, Sol&iacute;s-Lemus C, Satola SW, Read TD. 2021. Effect of genetic background on the evolution of Vancomycin-Intermediate Staphylococcus aureus (VISA) [PeerJ 9:e11764](https://doi.org/10.7717/peerj.11764)
 
 Shen, Y.*, Sol&iacute;s-Lemus, C. (2021). The Effect of the Prior and the Experimental Design on the Inference of the Precision Matrix in Gaussian Chain Graph Models, [arXiv:2107.01306](https://arxiv.org/abs/2107.01306)
@@ -235,6 +238,7 @@ The overall objective of this proposal is to pioneer the development of the next
 - Zhang et al (2020) [arXiv:2012.05995](https://arxiv.org/abs/2012.05995)
 - Liu and Solis-Lemus (2020) [arXiv:2012.03290](https://arxiv.org/abs/2012.03290)
 - Shen and Solis-Lemus (2021) [arXiv:2107.01306](https://arxiv.org/abs/2107.01306)
+- Shen and Solis-Lemus (2021) [arXiv:2107.13763](https://arxiv.org/abs/2107.13763)
 
 ------------------------------------
 

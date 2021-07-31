@@ -42,6 +42,10 @@ description: Claudia Solis-Lemus' teaching
 
 ## <a name="courses"></a>Courses
 
+#### Summer 2021
+
+- Virtual species delimitation workshop at the National Museum of Natural History (NMNH); August 16-19, 2021. [iBPP wiki](https://github.com/cecileane/iBPP/wiki)
+
 #### Spring 2021
 
 - Botany 563 Phylogenetic Analysis of Molecular Data: [website](https://github.com/crsl4/phylogenetics-class); 3 credits; TR 1:00-2:15pm (virtual over zoom)
