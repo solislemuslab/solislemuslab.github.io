@@ -19,7 +19,9 @@ description: Claudia Solis-Lemus' talks
 
 ### 2021
 
-[ClubEcoEvo Latinoamerica]() -- Metodos estadisticos para estudiar comunidades microbianas (_July 23_) [YouTube](https://www.youtube.com/watch?v=PKXf1W4bocQ)
+Think STEM! -- Learning the Tree of Life with Data Science (_Aug 2_) [![pdf](icons16/pdf-icon.png)](https://www.stat.wisc.edu/~claudia/talk-stem.pdf)
+
+ClubEcoEvo Latinoamerica -- Metodos estadisticos para estudiar comunidades microbianas (_July 23_) [YouTube](https://www.youtube.com/watch?v=PKXf1W4bocQ)
 
 [Evolution 2021](https://www.evolutionmeetings.org/) -- Behind the scenes of phylogenetic reconstruction with SNaQ (_June 21-25_)
 
