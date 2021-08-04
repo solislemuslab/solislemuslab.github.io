@@ -249,17 +249,16 @@ Name pronunciation: [namedrop.io/claudiasolislemus](https://namedrop.io/claudias
 ---
 
 ### <a name="past"></a>Past members
+- [Songyang Cheng](https://csy99.github.io/Blog/) (BBA, Information Systems + Computer Science, UW-Madison 2021). He tested the applicability of neural network models to microbial genomic datasets to predict important phenotypes like those related to antibiotic resistance. He is attending MEng EECS program at UC-Berkeley. 
+- Junting Wang (BS Statistics, UW-Madison 2020) is attending UMichigan at the Statistics PhD program
+- [Ritika Mittal](https://www.linkedin.com/in/ritika-mittal-011ab2178/) (BS Computer Science, UW-Madison 2022) worked on user-friendly open-source software that would allow biologists to visualize complex phylogenetic networks.
+- [Lareina Liu](https://www.linkedin.com/in/lareina-xiaoyu-liu-90553a140/) (BS Statistics, UW-Madison 2020). She is starting ADS Masters Program at USC in Fall 2020
+- Yizhou Liu (BS Computer Science + Mathematics, UW-Madison 2021) worked on user-friendly open-source software for WI Fast Plants. He is attending INI program at CMU
+- Yifan Wu (BS Computer Engineering, UW-Madison 2020)
+- Yuzheng Zhang (BS Computer Sciences, UW-Madison 2021)
 - Liule Yang
 - Zhiwen Xu
 - Chunrong Huang
-- [Songyang Cheng](https://csy99.github.io/Blog/) (BBA, Information Systems + Computer Science, UW-Madison 2021). He tested the applicability of neural network models to microbial genomic datasets to predict important phenotypes like those related to antibiotic resistance. He is attending MEng EECS program at UC-Berkeley. 
-- Junting Wang is attending UMichigan at the Statistics PhD program
-- [Ritika Mittal](https://www.linkedin.com/in/ritika-mittal-011ab2178/) (BS Computer Science, UW-Madison 2022) worked on user-friendly open-source software that would allow biologists to visualize complex phylogenetic networks.
-- [Lareina Liu](https://www.linkedin.com/in/lareina-xiaoyu-liu-90553a140/) (BS Statistics, UW-Madison 2020). She is starting ADS Masters Program at USC in Fall 2020
-- Yifan Wu (BS Computer Engineering, UW-Madison)
-- Yuzheng Zhang (BS Computer Sciences, UW-Madison)
-- Yizhou Liu is a junior undergraduate student in Computer Science and in Mathematics. He is working on user-friendly open-source software to allow biologist to visualize complex phylogenetic networks. He is attending INI program at CMU.
-
 
 ---
 
