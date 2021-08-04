@@ -153,20 +153,6 @@ Name pronunciation: [namedrop.io/claudiasolislemus](https://namedrop.io/claudias
 
 </div>
 
-<div class="container">
-    <div class="row-fluid">
-        <div class="span2">
-        <a href="../assets/pics/yizhou.jpeg">
-            <img src="../assets/pics/yizhou.jpeg"
-                  title="YizhouLiu" alt="YizhouLiu"/></a>
-        </div>
-
-        <div class="span5">
-            Yizhou Liu is a junior undergraduate student in Computer Science and in Mathematics. He is working on user-friendly open-source software to allow biologist to visualize complex phylogenetic networks.
-        </div>
-    </div>
-
-</div>
 
 <div class="container">
     <div class="row-fluid">
@@ -272,6 +258,7 @@ Name pronunciation: [namedrop.io/claudiasolislemus](https://namedrop.io/claudias
 - [Lareina Liu](https://www.linkedin.com/in/lareina-xiaoyu-liu-90553a140/) (BS Statistics, UW-Madison 2020). She is starting ADS Masters Program at USC in Fall 2020
 - Yifan Wu (BS Computer Engineering, UW-Madison)
 - Yuzheng Zhang (BS Computer Sciences, UW-Madison)
+- Yizhou Liu is a junior undergraduate student in Computer Science and in Mathematics. He is working on user-friendly open-source software to allow biologist to visualize complex phylogenetic networks. He is attending INI program at CMU.
 
 
 ---
