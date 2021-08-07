@@ -247,7 +247,7 @@ Great! Please fill out [this google form](https://forms.gle/1kpZE1XrKe9YS9cHA)
 | 7 May 2021 | Fabricia Nascimento | [Simulation framework for HIV epidemics](https://youtu.be/6hr47tzxihw) |
 | 4 June 2021 | Vianey Leos Barajas | [Latent structures in ecological and environmental data](https://youtu.be/RZ1StdDDFFU) |
 | 2 July 2021 | Ariadna Gonzalez-Solis | [Plant membrane lipids, a tale of life and death](https://youtu.be/8_BDS0_YHFY) |
-| 6 August 2021 | Victor Zavala | Sustainability Challenges in the Dairy Industry |
+| 6 August 2021 | Victor Zavala | [Sustainability Challenges in the Dairy Industry](https://www.youtube.com/watch?v=0NxHs_YeHsI) |
 | 3 September 2021 | Stephanie Colon-Santos | |
 | 1 October 2021 | Leonardo Zepeda Nuñez | |
 | 5 November 2021 | Fernando Campos | |
