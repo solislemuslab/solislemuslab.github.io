@@ -127,6 +127,8 @@ Examples of our current research involve:
 
 #### 2021
 
+Sol&iacute;s-Lemus, C., A. M. Holleman, A. Todor, B. Bradley, K. J. Ressler, D. Ghosh, M. P. Epstein. (2021). A Kernel Method for Dissecting Genetic Signals in Tests of High-Dimensional Phenotypes [bioRxiv 2021.07.29.454336](https://doi.org/10.1101/2021.07.29.454336)
+
 Shen, Y.*, Sol&iacute;s-Lemus, C. (2021). CARlasso: An R package for the estimation of sparse microbial networks with predictors, [arXiv:2107.13763](https://arxiv.org/abs/2107.13763)
 
 Su M, Davis MH, Peterson J, Sol&iacute;s-Lemus C, Satola SW, Read TD. 2021. Effect of genetic background on the evolution of Vancomycin-Intermediate Staphylococcus aureus (VISA) [PeerJ 9:e11764](https://doi.org/10.7717/peerj.11764)
