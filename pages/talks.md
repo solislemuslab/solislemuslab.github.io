@@ -252,7 +252,7 @@ Great! Please fill out [this google form](https://forms.gle/1kpZE1XrKe9YS9cHA)
 | 1 October 2021 | Leonardo Zepeda Nuñez | |
 | 5 November 2021 | Fernando Campos | |
 | 3 December 2021 | Leticia Ramirez | |
-| 7 January 2022 |  | |
+| 7 January 2022 | Ana Salgado | |
 | 4 February 2022 | Adriana Romero-Olivares | |
 | 4 March 2022 |  | |
 | 1 April 2022 | Juliana Gonzalez Tobon | |
