@@ -237,7 +237,7 @@ Great! Please fill out [this google form](https://forms.gle/1kpZE1XrKe9YS9cHA)
 
 | Date | Speaker | Title (YouTube link) | 
 | :---   | :--- | :--- | :---       |
-| 2 October 2020 | Daniel Pimentel-Alarcon | [Machine-learning, inside the black-box](https://youtu.be/W1zxOj6895I) |
+| 2 October 2020 | Daniel Pimentel-Alarcon 🇲🇽 | [Machine-learning, inside the black-box](https://youtu.be/W1zxOj6895I) |
 | 6 November 2020 | Jose Alonso Solis-Lemus | [Supporting 2 patients with 1 ventilator](https://youtu.be/MeFT0wUmkvw) |
 | 4 December 2020 | Rosana Zenil-Ferguson | [Impact of polyploidy and biome on fern diversification](https://youtu.be/6H9z6vuKWfo) |
 | 8 January 2021 | Claudia Solis-Lemus | [Learning the Tree of Life](https://youtu.be/lAP8kpPa288) |
