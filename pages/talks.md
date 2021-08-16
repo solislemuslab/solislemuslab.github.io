@@ -210,13 +210,13 @@ Seminario aleatorio: El papel de la Estad&iacute;stica en la inferencia del &aac
 ## <a name="zoominario"></a>El Zoominario FAQ
 
 **What is El Zoominario?**
-It is a seminar series of scientific short talks given by Latinx in STEM. The talks are meant to be accessible to people of any field (as opposed to e.g. microbiologists giving a talk that only other microbiologists can understand)
+It is a seminar series of scientific short talks given by Latinx in STEM. The goal is to increase visibility of Latinx people in STEM and inspire the next generation of Latinx scientists. The talks are meant to be accessible to the general audience.
 
 **What is the format of the talks?**
 The talks are 15-20 minutes long of a scientific topic explained in accessible terms to a broad audience. At the end of the talk, the speaker chooses to share interesting facts about their Latinx culture
 
 **How can I watch?**
-Currently, live attendance is restricted to students at UW-Madison. Anybody can watch the recorded talks in the [youtube channel](https://www.youtube.com/playlist?list=PL1AfUDnwvYbOA9rfrvyA2nR9SR0VYbklx)
+Currently, live attendance is restricted to people at UW-Madison and close collaborators. Anybody can watch the recorded talks in the [youtube channel](https://www.youtube.com/playlist?list=PL1AfUDnwvYbOA9rfrvyA2nR9SR0VYbklx)
 
 **I am at UW-Madison, how can I watch the talks live?**
 You need to join the UW google group "el-zoominario" (or email me) to be added to the mailing list. Emails to the group will contain login information
