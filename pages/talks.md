@@ -256,5 +256,12 @@ Great! Please fill out [this google form](https://forms.gle/1kpZE1XrKe9YS9cHA)
 | 4 February 2022 | Adriana Romero-Olivares 🇲🇽 | |
 | 4 March 2022 |  | |
 | 1 April 2022 | Juliana Gonzalez Tobon 🇨🇴 | |
-
+| 6 May 2022 |  | |
+| 3 June 2022 |  | |
+| 1 July 2022 |  | |
+| 5 August 2022 |  | |
+| 2 September 2022 |  | |
+| 7 October 2022 |  | |
+| 4 November 2022 |  | |
+| 2 December 2022 |  | |
 
