@@ -44,7 +44,7 @@ description: Claudia Solis-Lemus' teaching
 
 #### Summer 2021
 
-- Virtual species delimitation workshop at the National Museum of Natural History (NMNH); August 16-19, 2021. [iBPP wiki](https://github.com/cecileane/iBPP/wiki)
+- Virtual species delimitation workshop at the National Museum of Natural History (NMNH); August 16-19, 2021. [iBPP wiki](https://github.com/cecileane/iBPP/wiki), [YouTube video](https://www.youtube.com/watch?v=_Q53Q8eKw48)
 
 #### Spring 2021
 
