@@ -281,32 +281,14 @@ Name pronunciation: [namedrop.io/claudiasolislemus](https://namedrop.io/claudias
 </div>
 
 
+- If you are an undergraduate student:
+    - currently enrolled at UW-Madison looking for research experience, read [here](https://github.com/solislemuslab/lab-dynamics/blob/master/interest-in-lab.md#undergrad)
+    - wanting to apply to grad school at UW-Madison, read [here](https://github.com/solislemuslab/lab-dynamics/blob/master/interest-in-lab.md#apply)
+- If you are a graduate student:
+    - currently enrolled (or soon to start) at UW-Madison interested in joining the lab or doing a rotation, read [here](https://github.com/solislemuslab/lab-dynamics/blob/master/interest-in-lab.md#grad)
+    - wanting to apply to grad school at UW-Madison, read [here](https://github.com/solislemuslab/lab-dynamics/blob/master/interest-in-lab.md#apply)
+    - wanting to apply for a postdoc position, read [here](https://github.com/solislemuslab/lab-dynamics/blob/master/interest-in-lab.md#applypostdoc)
+- If you are a postdoc:
+    - wanting to apply for a postdoc position in the lab, read [here](https://github.com/solislemuslab/lab-dynamics/blob/master/interest-in-lab.md#applypostdoc)
+    - wanting to apply to your own funding with me as supervisor, read [here](https://github.com/solislemuslab/lab-dynamics/blob/master/interest-in-lab.md#postdocfunds)
 
-#### Current UW undergraduate/graduate students
-
-- **What:** Undergraduate/graduate/postdoc research positions in Data Science, Statistics, CS, Machine Learning
-- **Where:** Wisconsin Institute for Discovery at the University of Wisconsin-Madison (https://wid.wisc.edu/)
-- **Details:** Opportunities in different research projects like the development of scalable methods/software for high-dimensional big genomic data, graphical models to understand interactions in microbiome data related to human or plant health, neural networks/deep learning models to predict antibiotic-resistance, website visualization tools for biological networks, among others
-- **Contact:** Email me your CV and use "Data Science position" in email subject
-
-#### Prospective postdocs
-
-I am interested in collaborating with postdocs with any research background: biology, computer science, statistics, mathematics from theoretical/computational work to empirical.
-
-For people with computational biology/statistics/data science background, there are several opportunities to become involved in ongoing projects related to my research: phylogenetic networks, bayesian phylogenetic inference, high-dimensional highly-correlated regression models applied to genomic/biological data, neural networks to predict phenotypes like antibiotic-resistance, among others.
-
-In addition, I am also excited to work with people interested in empirical research by teaming up with other faculty in the department.
-
-In any scenario, I'd be happy to provide assistance in the application to fellowships and grants to support your own independent research agenda.
-
-#### Prospective graduate students
-
-My research is multi-disciplinary! So, I welcome graduate students interested in different programs:
-
-- **PhD in Plant Pathology: Application deadline December 1** (email me regarding Spring admission). Application info [here](https://plantpath.wisc.edu/application-process/).
-- **PhD in Statistics: Application deadline December 1** (no admissions in Spring). Application info [here](https://stat.wisc.edu/graduate-studies/phd-program/)
-- **PhD in Mathematics: Application deadline December 15** (no admissions in Spring). Application info [here](https://www.math.wisc.edu/node/11)
-
-Feel free to email me if you are interested in working with me and have questions regarding the application.
-
-Even though my research is purely computational (dry lab), I am happy to co-advise students interested in empirical research, together with [another professor in the department](https://plantpath.wisc.edu/faculty-3/).
