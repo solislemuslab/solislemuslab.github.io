@@ -239,6 +239,24 @@ Name pronunciation: [namedrop.io/claudiasolislemus](https://namedrop.io/claudias
         <div class="span5">
             Fardeen Meeran is a senior undergraduate student majoring in Computer Science. He currently is taking part in the development and testing of the Phylogenetic network visualization application. 
 
+          
+<div class="container">
+    <div class="row-fluid">
+        <div class="span2">
+        <a href="../assets/pics/nicole.jpeg">
+            <img src="../assets/pics/nicole.jpeg"
+                  title="Nicole Athanasiou" alt="Nicole Athanasiou"/></a>
+        </div>
+
+        <div class="span5">
+            Nicole Athanasiou is a senior undergraduate student majoring in Applied Mathematics, Statistics, and Environmental Studies. She is programming simulations and data analyses as an extension of a work involving a gene mapping model of multiple variants with multiple phenotypes. 
+![nicole jpeg](https://user-images.githubusercontent.com/78574074/131154804-0fbd4358-efd8-4b6c-be8d-24b62cd45a50.jpeg)
+
+            <button type="button" onclick="window.location.href='https://pages.cs.wisc.edu/~yuren/';">website</button>
+        </div>
+    </div>
+
+</div>
             <button type="button" onclick="window.location.href='https://meerxn.github.io/MyPersonalCV/';">website</button>
         </div>
     </div>
