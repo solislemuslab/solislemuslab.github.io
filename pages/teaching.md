@@ -19,7 +19,7 @@ description: Claudia Solis-Lemus' teaching
 ## <a name="knowledge"></a>Useful links
 
 #### Reprodubility, computing practices and open science
-- My notes on [mindful programming](https://github.com/crsl4/mindful-programming/blob/master/lecture.md)
+- My notes on [mindful programming](https://github.com/crsl4/mindful-programming/blob/master/lecture.md) and accompanying [YouTube video](https://youtu.be/7KCqpL0cde8)
 - Karl Broman's [notes](http://kbroman.org/Tools4RR/) on reproducible research
 - Version control: [notes](https://uw-madison-aci.github.io/2018-01-10-uwmadison-swc/) from Software Carpentry at UW-Madison (there might be more recent notes out there)
 - R Markdown: [The Definite Guide](https://bookdown.org/yihui/rmarkdown/)
