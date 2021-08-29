@@ -239,6 +239,7 @@ Name pronunciation: [namedrop.io/claudiasolislemus](https://namedrop.io/claudias
         <div class="span5">
             Fardeen Meeran is a senior undergraduate student majoring in Computer Science. He currently is taking part in the development and testing of the Phylogenetic network visualization application. 
             
+            <button type="button" onclick="window.location.href='https://meerxn.github.io/MyPersonalCV/';">website</button>
      </div>
     </div>
 
