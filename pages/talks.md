@@ -212,7 +212,7 @@ Seminario aleatorio: El papel de la Estad&iacute;stica en la inferencia del &aac
 ## <a name="zoominario"></a>El Zoominario FAQ
 
 **What is El Zoominario?**
-It is a seminar series of scientific short talks given by Latinx in STEM. The goal is to increase visibility of Latinx people in STEM and inspire the next generation of Latinx scientists. The talks are meant to be accessible to the general audience.
+It is a seminar series of scientific short talks (in English) given by Latinx in STEM. The goal is to increase visibility of Latinx people in STEM and inspire the next generation of Latinx scientists. The talks are meant to be accessible to the general audience.
 
 **What is the format of the talks?**
 The talks are 15-20 minutes long of a scientific topic explained in accessible terms to a broad audience. At the end of the talk, the speaker chooses to share interesting facts about their Latinx culture
