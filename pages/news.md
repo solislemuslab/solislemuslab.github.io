@@ -9,6 +9,10 @@ description: Solis-Lemus lab
 
 ### 2021
 
+- Thanks [@WomenInStat](https://twitter.com/WomenInStat?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor) for inviting me to curate the twitter account the week of Sept 13-17, 2021
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">As Latinx in Stat, I want to focus today on Latinx visibility and amplifying Latinx voices. Excited to introduce <a href="https://twitter.com/hashtag/LatinxInStat?src=hash&amp;ref_src=twsrc%5Etfw">#LatinxInStat</a> <a href="https://twitter.com/hashtag/LatinxInDataSci?src=hash&amp;ref_src=twsrc%5Etfw">#LatinxInDataSci</a> 🎉🎉🎉<br><br>Please introduce yourself 👋 and tag others. Feel free to reply in any language.<br>I&#39;ll start 👇</p>&mdash; Women in Statistics and Data Science (@WomenInStat) <a href="https://twitter.com/WomenInStat/status/1437404461635342342?ref_src=twsrc%5Etfw">September 13, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 - Gracias ClubEcoEvo Latinoamérica por la invitación a dar una platica (en español) de mi investigación: [YouTube](https://www.youtube.com/watch?v=PKXf1W4bocQ)
 
 - Two talks at [JuliaCon2021](https://pretalx.com/juliacon2021/schedule/) from the lab:
