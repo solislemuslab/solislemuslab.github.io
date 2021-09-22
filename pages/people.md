@@ -261,6 +261,20 @@ Name pronunciation: [namedrop.io/claudiasolislemus](https://namedrop.io/claudias
 </div>
 
 
+<div class="container">
+    <div class="row-fluid">
+        <div class="span2">
+        <a href="../assets/pics/reed.jpg">
+            <img src="../assets/pics/reed.jpg"
+                  title="Reed Nelson" alt="Reed Nelson"/></a>
+        </div>
+
+        <div class="span5">
+            Reed Nelson is a junior undergraduate student majoring in Computer Science, Mathematics, and Philosophy. He is building a self-sustaining database of Latinx in Statistics and Data Science for the <a href="https://www.amstat.org/">American Statistical Association</a>. 
+     </div>
+    </div>
+</div>
+
 ---
 
 ### <a name="past"></a>Past members
