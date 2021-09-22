@@ -138,21 +138,6 @@ Name pronunciation: [namedrop.io/claudiasolislemus](https://namedrop.io/claudias
 
 <div>
 </div>
-<div class="container">
-    <div class="row-fluid">
-        <div class="span2">
-        <a href="../assets/pics/yuzhou.png">
-            <img src="../assets/pics/yuzhou.png"
-                  title="YuzhouKang" alt="YuzhouKang"/></a>
-        </div>
-
-        <div class="span5">
-            Yuzhou Kang is a junior undergraduate student in Statistics and in Economics. He is reconstructing phylogenetic trees and ancestral sequences for <em>Potyvirus</em> and <em>Picornavirus</em>.
-        </div>
-    </div>
-
-</div>
-
 
 <div class="container">
     <div class="row-fluid">
