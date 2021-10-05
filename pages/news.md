@@ -9,6 +9,8 @@ description: Solis-Lemus lab
 
 ### 2021
 
+- Thanks to [@mujeres.haciendo.ciencia](https://www.instagram.com/mujeres.haciendo.ciencia/) for inviting me to publish about me and about my work. Very honored!
+
 - Thanks [@WomenInStat](https://twitter.com/WomenInStat?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor) for inviting me to curate the twitter account the week of Sept 13-17, 2021
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">This week, our <a href="https://twitter.com/hashtag/RoCur?src=hash&amp;ref_src=twsrc%5Etfw">#RoCur</a> is <a href="https://twitter.com/solislemuslab?ref_src=twsrc%5Etfw">@solislemuslab</a> of <a href="https://twitter.com/UWMadison?ref_src=twsrc%5Etfw">@uwmadison</a>! <a href="https://twitter.com/hashtag/WSDS?src=hash&amp;ref_src=twsrc%5Etfw">#WSDS</a> <a href="https://twitter.com/hashtag/Statistics?src=hash&amp;ref_src=twsrc%5Etfw">#Statistics</a> <a href="https://twitter.com/hashtag/DataScience?src=hash&amp;ref_src=twsrc%5Etfw">#DataScience</a><br><br>Claudia is an Assistant Professor whose research deals with modern <a href="https://twitter.com/hashtag/bigdata?src=hash&amp;ref_src=twsrc%5Etfw">#bigdata</a> which is highly interconnected through graphical structures.<br><br>💻 <a href="https://t.co/pQm2ZnpfFf">https://t.co/pQm2ZnpfFf</a> <a href="https://t.co/VMSgSUuMfJ">pic.twitter.com/VMSgSUuMfJ</a></p>&mdash; Women in Statistics and Data Science (@WomenInStat) <a href="https://twitter.com/WomenInStat/status/1437385579038007300?ref_src=twsrc%5Etfw">September 13, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
