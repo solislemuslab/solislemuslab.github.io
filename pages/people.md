@@ -163,9 +163,13 @@ Name pronunciation: [namedrop.io/claudiasolislemus](https://namedrop.io/claudias
         </div>
 
         <div class="span5">
-            Yuren Sun is a junior undergraduate student in Computer Sciences, Economics, and Mathematics. She works on the applications of the neural network models in the classifications of animals with the sounds.
+            <p>
+            Yuren Sun is a senior undergraduate student in Computer Sciences, Economics, and Mathematics. She works on the applications of neural network models in the classifications of animals with sounds.
+            </p>
+            <p>Pronouns: she/her</p>
 
-            <button type="button" onclick="window.location.href='https://pages.cs.wisc.edu/~yuren/';">website</button>
+            <button type="button" onclick="window.open('https://yurensun.github.io/','_blank')">Website</button>
+            <button type="button" onclick="window.open('https://namedrop.io/yurensun','_blank')">Name pronunciation</button>
         </div>
     </div>
 
