@@ -19,6 +19,8 @@ description: Claudia Solis-Lemus' talks
 
 ### 2021
 
+Biology seminar series (U. Florida) -- From phylogenetic networks to microbial networks: statistical tools for networked data (_Oct 12_)
+
 Kenneth B. Raper Symposium (UW-Madison) -- Novel methods to reconstruct microbial networks with environmental or experimental predictors (_Sept 3_)
 
 Think STEM! -- Learning the Tree of Life with Data Science (_Aug 2_) [![pdf](icons16/pdf-icon.png)](https://www.stat.wisc.edu/~claudia/talk-stem.pdf)
