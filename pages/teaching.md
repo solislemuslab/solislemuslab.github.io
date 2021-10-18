@@ -42,6 +42,10 @@ description: Claudia Solis-Lemus' teaching
 
 ## <a name="courses"></a>Courses
 
+#### Fall 2021
+
+**STAT 609/849 Guest lecture:** Statistical methods for biological applications (_Oct 19_)
+
 #### Summer 2021
 
 - Virtual species delimitation workshop at the National Museum of Natural History (NMNH); August 16-19, 2021. [iBPP wiki](https://github.com/cecileane/iBPP/wiki), [YouTube video](https://www.youtube.com/watch?v=_Q53Q8eKw48)
@@ -59,6 +63,8 @@ description: Claudia Solis-Lemus' teaching
 
 #### Fall 2020
 **Mexicanas en Ciencias de Datos:** Julia workshop for Data Science. [github](https://github.com/crsl4/julia-workshop)
+
+**STAT 609/849 Guest lecture:** Statistical methods for biological applications (_Oct 1_) [![pdf](icons16/pdf-icon.png)](https://www.stat.wisc.edu/~claudia/claudia-stat-609-849.pdf)
 
 #### 2019 
 **Woods Hole:** Faculty member of the Marine Biological Laboratory workshop on Molecular Evolution. Lecture and tutorial on phylogenetic networks. Woods Hole, USA.
