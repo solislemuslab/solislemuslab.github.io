@@ -48,7 +48,7 @@ description: Claudia Solis-Lemus' teaching
 - Optional background reading: 
   - [HAL Chapter 2.1](https://hal.inria.fr/PGE/hal-02535366)
   - [Phylogenomics — principles, opportunities and pitfalls of big-data phylogenetics](https://onlinelibrary.wiley.com/doi/full/10.1111/syen.12406)
-- Lecture notes (_Oct 26_):
+- Lecture notes (_Oct 26_): [slides](https://www.stat.wisc.edu/~claudia/lecture-phylo.pdf)
 - Paper discussion (_Nov 3_): [Multispecies coalescent and its applications to infer species phylogenies and cross-species gene flow](https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwab127/6321855)
 - Learn more about phylogenomics:
   - [HAL open access book](https://hal.inria.fr/PGE/page/table-of-contents) Chapters 1.1, 1.2, 1.4, 3.1 and 3.3
