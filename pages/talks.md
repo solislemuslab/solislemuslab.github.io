@@ -19,6 +19,10 @@ description: Claudia Solis-Lemus' talks
 
 ### 2021
 
+[American Math Society Special Session on Phylogenetic Networks](https://meetings.ams.org/math/fall2021w/meetingapp.cgi/Session/3956): Identifiability of phylogenetic networks (_Oct 24_)
+
+[WI Science Festival Delta Beer Lab](https://www.wisconsinsciencefest.org/event/the-adventure-of-the-statisticians-rule-of-thumb/): The adventures of the statistician's rule of thumg (_Oct 21_)
+
 Biology seminar series (U. Florida) -- From phylogenetic networks to microbial networks: statistical tools for networked data (_Oct 12_)
 
 Kenneth B. Raper Symposium (UW-Madison) -- Novel methods to reconstruct microbial networks with environmental or experimental predictors (_Sept 3_)
