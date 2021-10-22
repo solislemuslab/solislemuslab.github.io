@@ -9,6 +9,8 @@ description: Solis-Lemus lab
 
 ### 2021
 
+- Thanks to PBS Meet the Lab for featuring the Solis-Lemus lab as [Data Decoders](https://pbswisconsineducation.org/lab/data-decoders/)
+
 - Thanks to [Delta Beer Lab](https://www.delta.beer/) for hosting my talk at the [WI Science Festival](https://www.wisconsinsciencefest.org/). Details of the talk [here](https://www.wisconsinsciencefest.org/event/the-adventure-of-the-statisticians-rule-of-thumb/)
 
 - Thanks to [@mujeres.haciendo.ciencia](https://www.instagram.com/mujeres.haciendo.ciencia/) for inviting me to publish about me and about my work. Very honored!
