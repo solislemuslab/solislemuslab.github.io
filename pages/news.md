@@ -4,7 +4,7 @@ title: news
 description: Solis-Lemus lab
 ---
 
-### Dia de Muertos: WID altar
+### WID altar of Dia de Muertos
 
 The "Dia de Muertos" ([wiki](https://en.wikipedia.org/wiki/Day_of_the_Dead)) is a Mexican holiday celebrated on November 2nd of every year. Mexicans put up an "altar" or "ofrenda" to pay tribute to family members and friends who have died. It is believed that on the night of November 2nd, the souls of the dead come back to the Earth to eat and drink what we leave in the altar.
 
