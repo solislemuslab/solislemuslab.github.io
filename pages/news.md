@@ -12,7 +12,7 @@ The altar can include food and drinks that the beloved dead enjoyed in life, as 
 
 #### Want to participate?
 
-You can bring a photo of a person you want to remember and an item that they loved (if it is food, non-perishable please!). The WID altar will stay in place until November 3rd.
+You can bring a photo of a person who has passed away and that you want to remember and an item that they loved (if it is food, non-perishable please!). The WID altar will stay in place until November 3rd.
 
 
 ------
