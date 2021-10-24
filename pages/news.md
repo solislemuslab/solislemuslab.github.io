@@ -15,6 +15,8 @@ The altar can include food and drinks that the beloved dead enjoyed in life, as 
 You can bring a photo of a person you want to remember and an item that they loved (if it is food, non-perishable please!). The WID altar will stay in place until November 3rd.
 
 
+------
+
 ### 2021
 
 - Thanks to PBS Meet the Lab for featuring the Solis-Lemus lab as [Data Decoders](https://pbswisconsineducation.org/lab/data-decoders/)
