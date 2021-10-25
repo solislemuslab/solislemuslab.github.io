@@ -279,6 +279,8 @@ Great! Please fill out [this google form](https://forms.gle/1kpZE1XrKe9YS9cHA)
 
 Welcome to El Zoominario K12: 5-10-minute videos by Latinx scientists talking about their trajectory in science and how their work has an impact in society.
 
+In collaboration with [Diego Roman](https://ci.education.wisc.edu/fac-staff/roman-diego/) and [Daniel Pimentel-Alarcon](https://danielpimentel.github.io/).
+
 | Topic(s) | Speaker | Title (YouTube link) | 
 | :--- | :--- | :--- | :---       |
 | Statistics, Math | Claudia Solis-Lemus 🇲🇽 | [Solving the mystery of a feathered T.Rex with a data scientist](https://youtu.be/iwdrtFiS93M) |
