@@ -20,6 +20,10 @@ description: Claudia Solis-Lemus' talks
 
 ### 2021
 
+[I Congreso Latinoamericano de Evolucion](https://www.socevol.cl/?p=1621&lang=en): Metodos estadisticos para reconstruir redes filogeneticas (_Nov 30_)
+
+Invited speaker by graduate students to Organisms and Evolution seminar talk at Duke University: Statistical challenges on phylogenetic networks (_Nov 11_)
+
 [American Math Society Special Session on Phylogenetic Networks](https://meetings.ams.org/math/fall2021w/meetingapp.cgi/Session/3956): Identifiability of phylogenetic networks (_Oct 24_)
 
 [WI Science Festival Delta Beer Lab](https://www.wisconsinsciencefest.org/event/the-adventure-of-the-statisticians-rule-of-thumb/): The adventures of the statistician's rule of thumg (_Oct 21_)
