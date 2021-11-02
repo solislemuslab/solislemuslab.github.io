@@ -20,7 +20,7 @@ description: Claudia Solis-Lemus' talks
 
 ### 2021
 
-[ISCB EvolCompGen: Evolution & Comparative Genomics](https://www.iscb.org/cms_addon/conferences/ismbeccb2021/tracks/evolcompgen): Scalable inference of phylogenetic networks (_Nov 2_)
+[ISCB EvolCompGen: Evolution & Comparative Genomics](https://www.iscb.org/cms_addon/conferences/ismbeccb2021/tracks/evolcompgen): Scalable inference of phylogenetic networks (_Nov 2_) [YouTube](https://www.youtube.com/watch?v=J9HjsJ9PaGI)
 
 [I Congreso Latinoamericano de Evolucion](https://www.socevol.cl/?p=1621&lang=en): Metodos estadisticos para reconstruir redes filogeneticas (_Nov 30_)
 
