@@ -20,7 +20,7 @@ description: Claudia Solis-Lemus' talks
 
 ### 2021
 
-[Coloquio de la Sociedad Matemática Mexicana](https://www.smm.org.mx/coloquioconjunto/410/biologia-evolutiva-a-traves-de-los-ojos-de-ciencias-de-datos): Biologia evolutiva a traves de los ojos de Ciencias de Datos (_Nov 25_)
+[Coloquio de la Sociedad Matemática Mexicana](https://www.smm.org.mx/coloquioconjunto/410/biologia-evolutiva-a-traves-de-los-ojos-de-ciencias-de-datos): Biologia evolutiva a traves de los ojos de Ciencias de Datos (_Nov 25_) [YouTube](https://www.youtube.com/watch?v=uADQQbS2oa4)
 
 [ISCB EvolCompGen: Evolution & Comparative Genomics](https://www.iscb.org/cms_addon/conferences/ismbeccb2021/tracks/evolcompgen): Scalable inference of phylogenetic networks (_Nov 2_) [YouTube](https://www.youtube.com/watch?v=J9HjsJ9PaGI)
 
