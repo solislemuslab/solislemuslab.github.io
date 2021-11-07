@@ -44,7 +44,7 @@ description: Claudia Solis-Lemus' teaching
 
 #### Fall 2021
 
-**BME 870 Guest lecture:** Statistical phylogenomics
+**BME 780 Guest lecture:** Statistical phylogenomics
 - Optional background reading: 
   - [HAL Chapter 2.1](https://hal.inria.fr/PGE/hal-02535366)
   - [Phylogenomics — principles, opportunities and pitfalls of big-data phylogenetics](https://onlinelibrary.wiley.com/doi/full/10.1111/syen.12406)
