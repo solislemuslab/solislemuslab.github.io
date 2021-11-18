@@ -8,7 +8,7 @@ description: Solis-Lemus lab
 
 ### 2021
 
-- Thanks to Nadya from WORT radio program "En Nuestro Patio" for interviewing me about my efforts in science communication and diversity in STEM. People can listen to the recording in the "Audio Archives" of Tuesday November 16th, 2021 7pm CT: https://www.wortfm.org/
+- Thanks to Nadya from WORT radio program "En Nuestro Patio" for interviewing me about my efforts in science communication and diversity in STEM. People can listen to the recording in the "Audio Archives" of Tuesday November 16th, 2021 7pm CT [here](https://www.wortfm.org/)
 
 - Thanks to PBS Meet the Lab for featuring the Solis-Lemus lab as [Data Decoders](https://pbswisconsineducation.org/lab/data-decoders/)
 
