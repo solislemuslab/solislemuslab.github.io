@@ -19,6 +19,8 @@ You can bring a photo of a person who has passed away and that you want to remem
 
 ### 2021
 
+- Thanks to Nadya from WORT radio program "En Nuestro Patio" for interviewing me about my efforts in science communication and diversity in STEM. People can listen to the recording in the "Audio Archives" of Tuesday November 16th, 2021 7pm CT: https://www.wortfm.org/
+
 - Thanks to PBS Meet the Lab for featuring the Solis-Lemus lab as [Data Decoders](https://pbswisconsineducation.org/lab/data-decoders/)
 
 - Thanks to [Delta Beer Lab](https://www.delta.beer/) for hosting my talk at the [WI Science Festival](https://www.wisconsinsciencefest.org/). Details of the talk [here](https://www.wisconsinsciencefest.org/event/the-adventure-of-the-statisticians-rule-of-thumb/)
