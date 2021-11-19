@@ -26,12 +26,14 @@ description: Claudia Solis-Lemus' teaching
 - Rich Edwards (2015) [Bioinformatics is just like bench science and should be treated as such](http://cabbagesofdoom.blogspot.com/2015/08/bioinformatics-is-just-like-bench.html)
 - Basic principles of data in spreadsheets [paper](https://www.tandfonline.com/doi/full/10.1080/00031305.2017.1375989)
 - JSM 2020 [Panel on version control with git in stat cources](https://github.com/mdbeckman/JSM2020-Virtual)
+- [Bioinformatics one-liners](https://github.com/stephenturner/oneliners)
 
 #### Learning Julia
 - Learn X in Y minutes: [julia](https://learnxinyminutes.com/docs/julia/)
 - Julia for R programmmers: [cheatsheet](https://datascience-enthusiast.com/R/R_Julia_cheat_sheet.html)
 - Julia for Python/Matlab programmers: [cheatsheet](https://cheatsheets.quantecon.org/)
 - Julia for Data Science [workshop](https://github.com/crsl4/julia-workshop)
+- [How to create a Julia package](https://jaantollander.com/post/how-to-create-software-packages-with-julia-language/)
 
 #### Learning Statistics
 - Tukey (1962) [The future of data analysis](https://projecteuclid.org/euclid.aoms/1177704711)
