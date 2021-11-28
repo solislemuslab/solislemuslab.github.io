@@ -59,7 +59,7 @@ Name pronunciation: [namedrop.io/claudiasolislemus](https://namedrop.io/claudias
             Twitter: <code>@</code><b>I</b><code>sol</code><b>don't</b><code>is</code><b>want</b><code></code><b>spam!
             </b><code>le</code><b>So</b><code>m</code><b>please</b><code>u</code><b>leave
             </b><code>s</code><b>me</b><code>l</code><b>alone</b><code>a</code><b>!</b><code>b</code><br/>
-            Affiliations at UW-Madison: <a href="https://evolution.wisc.edu/">JF Crow Institute for the Study of Evolution</a>, <a href="https://qbi.wisc.edu/">Quantitative Biology Initiative</a><br/>
+            Affiliations at UW-Madison: <a href="https://stat.wisc.edu/">Department of Statistics</a>, <a href="https://math.wisc.edu/">Department of Mathematics</a>, <a href="https://evolution.wisc.edu/">JF Crow Institute for the Study of Evolution</a>, <a href="https://qbi.wisc.edu/">Quantitative Biology Initiative</a>, <a href="https://cgsi.wisc.edu/aboutus/">Center for Genomic Science Innovation</a><br/>
             </div>
         </div>
 
@@ -138,35 +138,6 @@ Name pronunciation: [namedrop.io/claudiasolislemus](https://namedrop.io/claudias
 
 <div>
 </div>
-<div class="container">
-    <div class="row-fluid">
-        <div class="span2">
-        <a href="../assets/pics/yuzhou.png">
-            <img src="../assets/pics/yuzhou.png"
-                  title="YuzhouKang" alt="YuzhouKang"/></a>
-        </div>
-
-        <div class="span5">
-            Yuzhou Kang is a junior undergraduate student in Statistics and in Economics. He is reconstructing phylogenetic trees and ancestral sequences for <em>Potyvirus</em> and <em>Picornavirus</em>.
-        </div>
-    </div>
-
-</div>
-
-<div class="container">
-    <div class="row-fluid">
-        <div class="span2">
-        <a href="../assets/pics/yizhou.jpeg">
-            <img src="../assets/pics/yizhou.jpeg"
-                  title="YizhouLiu" alt="YizhouLiu"/></a>
-        </div>
-
-        <div class="span5">
-            Yizhou Liu is a junior undergraduate student in Computer Science and in Mathematics. He is working on user-friendly open-source software to allow biologist to visualize complex phylogenetic networks.
-        </div>
-    </div>
-
-</div>
 
 <div class="container">
     <div class="row-fluid">
@@ -192,9 +163,13 @@ Name pronunciation: [namedrop.io/claudiasolislemus](https://namedrop.io/claudias
         </div>
 
         <div class="span5">
-            Yuren Sun is a junior undergraduate student in Computer Sciences, Economics, and Mathematics. She works on the applications of the neural network models in the classifications of animals with the sounds.
+            <p>
+            Yuren Sun is a senior undergraduate student in Computer Sciences, Economics, and Mathematics. She works on the applications of neural network models in the classifications of animals with sounds.
+            </p>
+            <p>Pronouns: she/her</p>
 
-            <button type="button" onclick="window.location.href='https://pages.cs.wisc.edu/~yuren/';">website</button>
+            <button type="button" onclick="window.open('https://yurensun.github.io/','_blank')">Website</button>
+            <button type="button" onclick="window.open('https://namedrop.io/yurensun','_blank')">Name pronunciation</button>
         </div>
     </div>
 
@@ -252,60 +227,86 @@ Name pronunciation: [namedrop.io/claudiasolislemus](https://namedrop.io/claudias
 
         <div class="span5">
             Fardeen Meeran is a senior undergraduate student majoring in Computer Science. He currently is taking part in the development and testing of the Phylogenetic network visualization application. 
-
+            
             <button type="button" onclick="window.location.href='https://meerxn.github.io/MyPersonalCV/';">website</button>
-        </div>
+     </div>
     </div>
 
 </div>
 
+          
+<div class="container">
+    <div class="row-fluid">
+        <div class="span2">
+        <a href="../assets/pics/nicole.jpeg">
+            <img src="../assets/pics/nicole.jpeg"
+                  title="Nicole Athanasiou" alt="Nicole Athanasiou"/></a>
+        </div>
+
+        <div class="span5">
+            Nicole Athanasiou is a senior undergraduate student majoring in Applied Mathematics, Statistics, and Environmental Studies. She is programming simulations and data analyses as an extension of a work involving a gene mapping model of multiple variants with multiple phenotypes. 
+     </div>
+    </div>
+</div>
+
+
+<div class="container">
+    <div class="row-fluid">
+        <div class="span2">
+        <a href="../assets/pics/reed.jpg">
+            <img src="../assets/pics/reed.jpg"
+                  title="Reed Nelson" alt="Reed Nelson"/></a>
+        </div>
+
+        <div class="span5">
+            Reed Nelson is a junior undergraduate student majoring in Computer Science, Mathematics, and Philosophy. He is building a self-sustaining database of Latinx in Statistics and Data Science for the <a href="https://www.amstat.org/">American Statistical Association</a>. 
+     </div>
+    </div>
+</div>
 
 ---
 
 ### <a name="past"></a>Past members
+- [Songyang Cheng](https://csy99.github.io/Blog/) (BBA, Information Systems + Computer Science, UW-Madison 2021). He tested the applicability of neural network models to microbial genomic datasets to predict important phenotypes like those related to antibiotic resistance. He is attending MEng EECS program at UC-Berkeley. 
+- Junting Wang (BS Statistics, UW-Madison 2020) is attending UMichigan at the Statistics PhD program
+- [Ritika Mittal](https://www.linkedin.com/in/ritika-mittal-011ab2178/) (BS Computer Science, UW-Madison 2022) worked on user-friendly open-source software that would allow biologists to visualize complex phylogenetic networks.
+- [Lareina Liu](https://www.linkedin.com/in/lareina-xiaoyu-liu-90553a140/) (BS Statistics, UW-Madison 2020). She is starting ADS Masters Program at USC in Fall 2020
+- Yizhou Liu (BS Computer Science + Mathematics, UW-Madison 2021) worked on user-friendly open-source software for WI Fast Plants. He is attending INI program at CMU
+- Yifan Wu (BS Computer Engineering, UW-Madison 2020)
+- Yuzheng Zhang (BS Computer Sciences, UW-Madison 2021)
 - Liule Yang
 - Zhiwen Xu
 - Chunrong Huang
-- [Songyang Cheng](https://csy99.github.io/Blog/) (BBA, Information Systems + Computer Science, UW-Madison 2021). He tested the applicability of neural network models to microbial genomic datasets to predict important phenotypes like those related to antibiotic resistance. He is attending MEng EECS program at UC-Berkeley. 
-- Junting Wang is attending UMichigan at the Statistics PhD program
-- [Ritika Mittal](https://www.linkedin.com/in/ritika-mittal-011ab2178/) (BS Computer Science, UW-Madison 2022) worked on user-friendly open-source software that would allow biologists to visualize complex phylogenetic networks.
-- [Lareina Liu](https://www.linkedin.com/in/lareina-xiaoyu-liu-90553a140/) (BS Statistics, UW-Madison 2020). She is starting ADS Masters Program at USC in Fall 2020
-- Yifan Wu (BS Computer Engineering, UW-Madison)
-- Yuzheng Zhang (BS Computer Sciences, UW-Madison)
-
 
 ---
 
 
 ### <a name="opportunities"></a>Opportunities
 
-My lab is located in the [Wisconsin Institute for Discovery](https://wid.wisc.edu/), which provides immense opportunities for interdisciplinary connections and networking for students and postdocs!
+<div class="container">
+    <div class="row-fluid">
+        <div class="span3">
+        <iframe width="250" height="200"
+            src="https://youtube.com/embed/z3nbG6MUJvM">
+        </iframe>
+        </div>
 
-#### Current UW undergraduate/graduate students
+        <div class="span4">
+            The Solis-Lemus lab is located in the <a href="https://wid.wisc.edu/">Wisconsin Institute for Discovery</a>, which provides immense opportunities for interdisciplinary connections and networking for students and postdocs!
+        </div>
+    </div>
 
-- **What:** Undergraduate/graduate/postdoc research positions in Data Science, Statistics, CS, Machine Learning
-- **Where:** Wisconsin Institute for Discovery at the University of Wisconsin-Madison (https://wid.wisc.edu/)
-- **Details:** Opportunities in different research projects like the development of scalable methods/software for high-dimensional big genomic data, graphical models to understand interactions in microbiome data related to human or plant health, neural networks/deep learning models to predict antibiotic-resistance, website visualization tools for biological networks, among others
-- **Contact:** Email me your CV and use "Data Science position" in email subject
+</div>
 
-#### Prospective postdocs
 
-I am interested in collaborating with postdocs with any research background: biology, computer science, statistics, mathematics from theoretical/computational work to empirical.
+- If you are an undergraduate student:
+    - currently enrolled at UW-Madison looking for research experience, read [here](https://github.com/solislemuslab/lab-dynamics/blob/master/interest-in-lab.md#undergrad)
+    - wanting to apply to grad school at UW-Madison, read [here](https://github.com/solislemuslab/lab-dynamics/blob/master/interest-in-lab.md#apply)
+- If you are a graduate student:
+    - currently enrolled (or soon to start) at UW-Madison interested in joining the lab or doing a rotation, read [here](https://github.com/solislemuslab/lab-dynamics/blob/master/interest-in-lab.md#grad)
+    - wanting to apply to grad school at UW-Madison, read [here](https://github.com/solislemuslab/lab-dynamics/blob/master/interest-in-lab.md#apply)
+    - wanting to apply for a postdoc position, read [here](https://github.com/solislemuslab/lab-dynamics/blob/master/interest-in-lab.md#applypostdoc)
+- If you are a postdoc:
+    - wanting to apply for a postdoc position in the lab, read [here](https://github.com/solislemuslab/lab-dynamics/blob/master/interest-in-lab.md#applypostdoc)
+    - wanting to apply to your own funding with me as supervisor, read [here](https://github.com/solislemuslab/lab-dynamics/blob/master/interest-in-lab.md#postdocfunds)
 
-For people with computational biology/statistics/data science background, there are several opportunities to become involved in ongoing projects related to my research: phylogenetic networks, bayesian phylogenetic inference, high-dimensional highly-correlated regression models applied to genomic/biological data, neural networks to predict phenotypes like antibiotic-resistance, among others.
-
-In addition, I am also excited to work with people interested in empirical research by teaming up with other faculty in the department.
-
-In any scenario, I'd be happy to provide assistance in the application to fellowships and grants to support your own independent research agenda.
-
-#### Prospective graduate students
-
-My research is multi-disciplinary! So, I welcome graduate students interested in different programs:
-
-- **PhD in Plant Pathology: Application deadline December 1** (email me regarding Spring admission). Application info [here](https://plantpath.wisc.edu/application-process/).
-- **PhD in Statistics: Application deadline December 1** (no admissions in Spring). Application info [here](https://stat.wisc.edu/graduate-studies/phd-program/)
-- **PhD in Mathematics: Application deadline December 15** (no admissions in Spring). Application info [here](https://www.math.wisc.edu/node/11)
-
-Feel free to email me if you are interested in working with me and have questions regarding the application.
-
-Even though my research is purely computational (dry lab), I am happy to co-advise students interested in empirical research, together with [another professor in the department](https://plantpath.wisc.edu/faculty-3/).

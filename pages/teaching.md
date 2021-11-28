@@ -19,19 +19,21 @@ description: Claudia Solis-Lemus' teaching
 ## <a name="knowledge"></a>Useful links
 
 #### Reprodubility, computing practices and open science
-- My notes on [mindful programming](https://github.com/crsl4/mindful-programming/blob/master/lecture.md)
+- My notes on [mindful programming](https://github.com/crsl4/mindful-programming/blob/master/lecture.md) and accompanying [YouTube video](https://youtu.be/7KCqpL0cde8)
 - Karl Broman's [notes](http://kbroman.org/Tools4RR/) on reproducible research
 - Version control: [notes](https://uw-madison-aci.github.io/2018-01-10-uwmadison-swc/) from Software Carpentry at UW-Madison (there might be more recent notes out there)
 - R Markdown: [The Definite Guide](https://bookdown.org/yihui/rmarkdown/)
 - Rich Edwards (2015) [Bioinformatics is just like bench science and should be treated as such](http://cabbagesofdoom.blogspot.com/2015/08/bioinformatics-is-just-like-bench.html)
 - Basic principles of data in spreadsheets [paper](https://www.tandfonline.com/doi/full/10.1080/00031305.2017.1375989)
 - JSM 2020 [Panel on version control with git in stat cources](https://github.com/mdbeckman/JSM2020-Virtual)
+- [Bioinformatics one-liners](https://github.com/stephenturner/oneliners)
 
 #### Learning Julia
 - Learn X in Y minutes: [julia](https://learnxinyminutes.com/docs/julia/)
 - Julia for R programmmers: [cheatsheet](https://datascience-enthusiast.com/R/R_Julia_cheat_sheet.html)
 - Julia for Python/Matlab programmers: [cheatsheet](https://cheatsheets.quantecon.org/)
 - Julia for Data Science [workshop](https://github.com/crsl4/julia-workshop)
+- [How to create a Julia package](https://jaantollander.com/post/how-to-create-software-packages-with-julia-language/)
 
 #### Learning Statistics
 - Tukey (1962) [The future of data analysis](https://projecteuclid.org/euclid.aoms/1177704711)
@@ -41,6 +43,25 @@ description: Claudia Solis-Lemus' teaching
 ---
 
 ## <a name="courses"></a>Courses
+
+#### Fall 2021
+
+**BME 780 Guest lecture:** Statistical phylogenomics
+- Optional background reading: 
+  - [HAL Chapter 2.1](https://hal.inria.fr/PGE/hal-02535366)
+  - [Phylogenomics — principles, opportunities and pitfalls of big-data phylogenetics](https://onlinelibrary.wiley.com/doi/full/10.1111/syen.12406)
+- Lecture notes (_Oct 26_): [slides](https://www.stat.wisc.edu/~claudia/lecture-phylo.pdf)
+- Paper discussion (_Nov 3_): [Multispecies coalescent and its applications to infer species phylogenies and cross-species gene flow](https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwab127/6321855)
+- Learn more about phylogenomics:
+  - [HAL open access book](https://hal.inria.fr/PGE/page/table-of-contents) Chapters 1.1, 1.2, 1.4, 3.1 and 3.3
+  - [Phylogenetic Trees and Networks Can Serve as Powerful and Complementary Approaches for Analysis of Genomic Data](https://academic.oup.com/sysbio/article/69/3/593/5552158?login=true)
+  - Spring 2022 [Botany 563 Phylogenetic Analysis of Molecular Data](https://github.com/crsl4/phylogenetics-class)
+
+**STAT 609/849 Guest lecture:** Statistical methods for biological applications (_Oct 19_)
+
+#### Summer 2021
+
+**Virtual species delimitation workshop** at the National Museum of Natural History (NMNH); August 16-19, 2021. [iBPP wiki](https://github.com/cecileane/iBPP/wiki), [YouTube video](https://www.youtube.com/watch?v=_Q53Q8eKw48)
 
 #### Spring 2021
 
@@ -55,6 +76,8 @@ description: Claudia Solis-Lemus' teaching
 
 #### Fall 2020
 **Mexicanas en Ciencias de Datos:** Julia workshop for Data Science. [github](https://github.com/crsl4/julia-workshop)
+
+**STAT 609/849 Guest lecture:** Statistical methods for biological applications (_Oct 1_) [![pdf](icons16/pdf-icon.png)](https://www.stat.wisc.edu/~claudia/claudia-stat-609-849.pdf)
 
 #### 2019 
 **Woods Hole:** Faculty member of the Marine Biological Laboratory workshop on Molecular Evolution. Lecture and tutorial on phylogenetic networks. Woods Hole, USA.

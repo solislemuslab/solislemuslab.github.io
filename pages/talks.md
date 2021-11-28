@@ -7,38 +7,38 @@ description: Claudia Solis-Lemus' talks
 <div class="navbar">
     <div class="navbar-inner">
         <ul class="nav">
-            <li><a href="#zoominario">el-zoominario</a></li>
             <li><a href="#talks">talks</a></li>
+            <li><a href="#zoominario">el-zoominario</a></li>
+            <li><a href="#zoominario-k12">el-zoominario-k12</a></li>
             <li><a href="https://www.youtube.com/channel/UCcBcmxIYYGC6Z04p9SC7hwg/featured">youtube-channel</a></li>
         </ul>
     </div>
 </div>
 
-## <a name="zoominario"></a>El Zoominario FAQ
-
-**What is El Zoominario?**
-It is a seminar series of scientific short talks given by Latinx in STEM. The talks are meant to be accessible to people of any field (as opposed to e.g. microbiologists giving a talk that only other microbiologists can understand)
-
-**What is the format of the talks?**
-The talks are 15-20 minutes long of a scientific topic explained in accessible terms to a broad audience. At the end of the talk, the speaker chooses to share interesting facts about their Latinx culture
-
-**How can I watch?**
-Currently, live attendance is restricted to students at UW-Madison. Anybody can watch the recorded talks in the [youtube channel](https://www.youtube.com/playlist?list=PL1AfUDnwvYbOA9rfrvyA2nR9SR0VYbklx)
-
-**I am at UW-Madison, how can I watch the talks live?**
-You need to join the UW google group "el-zoominario" (or email me) to be added to the mailing list. Emails to the group will contain login information
-
-**Why are the youtube comments disabled?**
-Currently, we do not have the manpower to guarantee that all comments will be polite, respectful and family-friendly. Since we want to make these talks accessible to any audience, we prefer to block comments for now
-
-**I want to give a talk or nominate someone to give a talk?**
-Great! Please fill out [this google form](https://forms.gle/1kpZE1XrKe9YS9cHA)
-
---------------------
 
 ## <a name="talks"></a>Solis-Lemus selected talks
 
 ### 2021
+
+[Coloquio de la Sociedad Matemática Mexicana](https://www.smm.org.mx/coloquioconjunto/410/biologia-evolutiva-a-traves-de-los-ojos-de-ciencias-de-datos): Biologia evolutiva a traves de los ojos de Ciencias de Datos (_Nov 25_) [YouTube](https://www.youtube.com/watch?v=uADQQbS2oa4)
+
+[ISCB EvolCompGen: Evolution & Comparative Genomics](https://www.iscb.org/cms_addon/conferences/ismbeccb2021/tracks/evolcompgen): Scalable inference of phylogenetic networks (_Nov 2_) [YouTube](https://www.youtube.com/watch?v=J9HjsJ9PaGI)
+
+[I Congreso Latinoamericano de Evolucion](https://www.socevol.cl/?p=1621&lang=en): Metodos estadisticos para reconstruir redes filogeneticas (_Nov 30_)
+
+Invited speaker by graduate students to Organisms and Evolution seminar talk at Duke University: Statistical challenges on phylogenetic networks (_Nov 11_)
+
+[American Math Society Special Session on Phylogenetic Networks](https://meetings.ams.org/math/fall2021w/meetingapp.cgi/Session/3956): Identifiability of phylogenetic networks (_Oct 24_)
+
+[WI Science Festival Delta Beer Lab](https://www.wisconsinsciencefest.org/event/the-adventure-of-the-statisticians-rule-of-thumb/): The adventures of the statistician's rule of thumg (_Oct 21_)
+
+Biology seminar series (U. Florida) -- From phylogenetic networks to microbial networks: statistical tools for networked data (_Oct 12_)
+
+Kenneth B. Raper Symposium (UW-Madison) -- Novel methods to reconstruct microbial networks with environmental or experimental predictors (_Sept 3_)
+
+Think STEM! -- Learning the Tree of Life with Data Science (_Aug 2_) [![pdf](icons16/pdf-icon.png)](https://www.stat.wisc.edu/~claudia/talk-stem.pdf)
+
+ClubEcoEvo Latinoamerica -- Metodos estadisticos para estudiar comunidades microbianas (_July 23_) [YouTube](https://www.youtube.com/watch?v=PKXf1W4bocQ)
 
 [Evolution 2021](https://www.evolutionmeetings.org/) -- Behind the scenes of phylogenetic reconstruction with SNaQ (_June 21-25_)
 
@@ -74,8 +74,6 @@ The Biology Department -- George Washington University: Scalable inference of ph
 BadgerTalk -- Cedarburg Public Library: Through the looking glass of Data Science (_Oct 15_)
 
 Department of Biological Sciences, Auburn University: Scalable inference of phylogenetic networks (_Sept 24_)
-
-STAT 609/849 Guest lecture: Statistical methods for biological applications (_Oct 1_) [![pdf](icons16/pdf-icon.png)](https://www.stat.wisc.edu/~claudia/claudia-stat-609-849.pdf)
 
 WID Symposium: Statistical methods for biological applications (_Aug 27_)
 
@@ -222,3 +220,78 @@ Seminario aleatorio: El papel de la Estad&iacute;stica en la inferencia del &aac
 [ITAM](https://www.itam.mx/en), Mexico City, Mexico
 (_Oct 17_)
 
+-----------------------------------------
+
+## <a name="zoominario"></a>El Zoominario FAQ
+
+**What is El Zoominario?**
+It is a seminar series of scientific short talks (in English) given by Latinx in STEM. The goal is to increase visibility of Latinx people in STEM and inspire the next generation of Latinx scientists. The talks are meant to be accessible to the general audience.
+
+**What is the format of the talks?**
+The talks are 15-20 minutes long of a scientific topic explained in accessible terms to a broad audience. At the end of the talk, the speaker chooses to share interesting facts about their Latinx culture
+
+**How can I watch?**
+Currently, live attendance is restricted to people at UW-Madison and close collaborators. Anybody can watch the recorded talks in the [youtube channel](https://www.youtube.com/playlist?list=PL1AfUDnwvYbOA9rfrvyA2nR9SR0VYbklx)
+
+**I am at UW-Madison, how can I watch the talks live?**
+You need to join the UW google group "el-zoominario" (or email me) to be added to the mailing list. Emails to the group will contain login information
+
+**Why are the youtube comments disabled?**
+Currently, we do not have the manpower to guarantee that all comments will be polite, respectful and family-friendly. Since we want to make these talks accessible to any audience, we prefer to block comments for now
+
+**I want to give a talk or nominate someone to give a talk?**
+Great! Please fill out [this google form](https://forms.gle/1kpZE1XrKe9YS9cHA)
+
+### Talks topics and countries
+<div class="image123">
+    <img src="../assets/pics/topics.png" width="150">
+    <img src="../assets/pics/countries.png" width="200">
+</div>
+
+### Schedule
+
+| Date | Speaker | Title (YouTube link) | 
+| :---   | :--- | :--- | :---       |
+| 2 October 2020 | Daniel Pimentel-Alarcon 🇲🇽 | [Machine-learning, inside the black-box](https://youtu.be/W1zxOj6895I) |
+| 6 November 2020 | Jose Alonso Solis-Lemus 🇲🇽 | [Supporting 2 patients with 1 ventilator](https://youtu.be/MeFT0wUmkvw) |
+| 4 December 2020 | Rosana Zenil-Ferguson 🇲🇽 | [Impact of polyploidy and biome on fern diversification](https://youtu.be/6H9z6vuKWfo) |
+| 8 January 2021 | Claudia Solis-Lemus 🇲🇽 | [Learning the Tree of Life](https://youtu.be/lAP8kpPa288) |
+| 5 February 2021 | Helena Jaramillo-Mesa 🇨🇴 | [Unraveling protein production mechanisms in plant viruses](https://youtu.be/wQuC_b4iI5M) |
+| 5 March 2021 | Maria Gracia Garcia 🇵🇪 | [Immune cell interactions with imaging flow cytometry](https://youtu.be/rma1IKDy4Fk) |
+| 2 April 2021 | Quimi Vidaurre 🇵🇪 | [Fungi and fungus-farming insects: friends and enemies](https://youtu.be/0lOztN-X0HU) |
+| 7 May 2021 | Fabricia Nascimento 🇧🇷 | [Simulation framework for HIV epidemics](https://youtu.be/6hr47tzxihw) |
+| 4 June 2021 | Vianey Leos Barajas 🇲🇽 | [Latent structures in ecological and environmental data](https://youtu.be/RZ1StdDDFFU) |
+| 2 July 2021 | Ariadna Gonzalez-Solis 🇲🇽 | [Plant membrane lipids, a tale of life and death](https://youtu.be/8_BDS0_YHFY) |
+| 6 August 2021 | Victor Zavala 🇲🇽 | [Sustainability Challenges in the Dairy Industry](https://www.youtube.com/watch?v=0NxHs_YeHsI) |
+| 3 September 2021 | Stephanie Colon-Santos 🇵🇷 | [Looking for life: A quest into the Origins of life and Astrobiology](https://www.youtube.com/watch?v=NdSkt3ZYqLU)|
+| 1 October 2021 | Leonardo Zepeda Nuñez 🇨🇱 | [Deep Learning for Inverse Problems](https://youtu.be/BnhiYvPny6c) |
+| 5 November 2021 | Fernando Campos 🇧🇷 | [Hasta la vista, baby! Terminating Cardiac Arrhythmias with Computer Simulations](https://youtu.be/2wV4TRjUp90) |
+| 3 December 2021 | Leticia Ramirez 🇲🇽 | |
+| 7 January 2022 | Ana Salgado 🇪🇨 | |
+| 4 February 2022 | Miguel Reyes 🇲🇽 | |
+| 4 March 2022 |  | |
+| 1 April 2022 | Juliana Gonzalez Tobon 🇨🇴 | |
+| 6 May 2022 | Adriana Romero-Olivares 🇲🇽 | |
+| 3 June 2022 |  | |
+| 1 July 2022 |  | |
+| 5 August 2022 |  | |
+| 2 September 2022 |  | |
+| 7 October 2022 |  | |
+| 4 November 2022 |  | |
+| 2 December 2022 |  | |
+
+
+-----------------------------------------
+
+## <a name="zoominario-k12"></a>El Zoominario K12
+
+Welcome to El Zoominario K12: 5-10-minute videos by Latinx scientists talking about their trajectory in science and how their work has an impact in society.
+
+In collaboration with [Diego Roman](https://ci.education.wisc.edu/fac-staff/roman-diego/) and [Daniel Pimentel-Alarcon](https://danielpimentel.github.io/).
+
+| Topic(s) | Speaker | Title (YouTube link) | 
+| :--- | :--- | :--- | :---       |
+| Statistics, Math | Claudia Solis-Lemus 🇲🇽 | [Solving the mystery of a feathered T.Rex with a data scientist](https://youtu.be/iwdrtFiS93M) |
+| Plants, Chemistry | Ariadna Gonzalez Solis 🇲🇽 | [A trip into plant cells with a biochemistry scientist](https://youtu.be/6-fgCmT3MyI) |
+| Math, CS, Dairy | Victor Zavala 🇲🇽 | [The role of computational math in ice cream production](https://youtu.be/XBLRTRo-JzM) |
+| Plants, virus | Helena Jaramillo Mesa 🇨🇴 | [The fascinating world of plant viruses](https://youtu.be/1i60sNw_NBA) |
