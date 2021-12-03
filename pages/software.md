@@ -96,4 +96,23 @@ Bayesian species delimitation integrating genes and traits data.
     </div>
 </div>
 
+---
+
+<div class="container">
+    <div class="row-fluid">
+        <div class="span5">
+            <a href="https://potato-seed-dashboard.wid.wisc.edu/">Potato Dashboard</a><br/>
+            Proprietary data visualization and data analysis dashboard for the <a href="https://seedpotato.russell.wisc.edu/">WI Seed Potato Cert program</a><br/><a href="https://github.com/solislemuslab/potato-seed-cert">GitHub repository</a><br/><br/>
+        </div>
+
+        <div class="span2">
+        <a href="https://potato-seed-dashboard.wid.wisc.edu/">
+            <img src="../assets/pics/potato.png"
+                  title="WI-Seed-Potato" alt="WI-Seed-Potato"/></a>
+        </div>
+    </div>
+</div>
+
+---
+
 
