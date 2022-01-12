@@ -154,26 +154,6 @@ Name pronunciation: [namedrop.io/claudiasolislemus](https://namedrop.io/claudias
 
 </div>
 
-<div class="container">
-    <div class="row-fluid">
-        <div class="span2">
-        <a href="../assets/pics/yuren.jpg">
-            <img src="../assets/pics/yuren.jpg"
-                  title="YurenSun" alt="YurenSun"/></a>
-        </div>
-
-        <div class="span5">
-            <p>
-            Yuren Sun is a senior undergraduate student in Computer Sciences, Economics, and Mathematics. She works on the applications of neural network models in the classifications of animals with sounds.
-            </p>
-            <p>Pronouns: she/her</p>
-
-            <button type="button" onclick="window.open('https://yurensun.github.io/','_blank')">Website</button>
-            <button type="button" onclick="window.open('https://namedrop.io/yurensun','_blank')">Name pronunciation</button>
-        </div>
-    </div>
-
-</div>
 
 <div class="container">
     <div class="row-fluid">
@@ -267,6 +247,7 @@ Name pronunciation: [namedrop.io/claudiasolislemus](https://namedrop.io/claudias
 ---
 
 ### <a name="past"></a>Past members
+- [Yuren Sun](https://yurensun.github.io/) (BS Computer Science, Mathematics, and Economics, UW-Madison 2021) worked on the applications of neural network models in the classifications of animals with sounds.
 - [Songyang Cheng](https://csy99.github.io/Blog/) (BBA, Information Systems + Computer Science, UW-Madison 2021). He tested the applicability of neural network models to microbial genomic datasets to predict important phenotypes like those related to antibiotic resistance. He is attending MEng EECS program at UC-Berkeley. 
 - Junting Wang (BS Statistics, UW-Madison 2020) is attending UMichigan at the Statistics PhD program
 - [Ritika Mittal](https://www.linkedin.com/in/ritika-mittal-011ab2178/) (BS Computer Science, UW-Madison 2022) worked on user-friendly open-source software that would allow biologists to visualize complex phylogenetic networks.
