@@ -127,11 +127,11 @@ Examples of our current research involve:
 
 #### 2022
 
-C. Solis-Lemus, S. Yang, L. Zepeda-Nunez (2022).
+C. Sol&iacute;s-Lemus, S. Yang*, L. Zepeda-Nunez (2022).
 Accurate Phylogenetic Inference with a Symmetry-preserving Neural Network Model
 [arXiv:2201.04663](https://arxiv.org/abs/2201.04663), [github](https://github.com/Forgotten/nn-phylogenetics)
 
-G. A. Satten, S. W. Curtis, C. Solis-Lemus, E. J. Leslie, M. P. Epstein. (2022) Efficient Estimation of Indirect Effects in Case-Control Studies Using a Unified Likelihood Framework, [bioaRxiv:10.1101/2021.07.16.452552](https://www.biorxiv.org/content/10.1101/2021.07.16.452552v1).
+G. A. Satten, S. W. Curtis, C. Sol&iacute;s-Lemus, E. J. Leslie, M. P. Epstein. (2022) Efficient Estimation of Indirect Effects in Case-Control Studies Using a Unified Likelihood Framework, [bioaRxiv:10.1101/2021.07.16.452552](https://www.biorxiv.org/content/10.1101/2021.07.16.452552v1).
 
 #### 2021
 
