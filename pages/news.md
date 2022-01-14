@@ -4,6 +4,9 @@ title: news
 description: Solis-Lemus lab
 ---
 
+### 2022
+
+- Thanks to Frontiers for asking me to co-edit this special edition on [Rising Stars in Phylogenetics, Phylogenomics, and Systematics: Reticulate Patterns and Processes of Molecular Evolution](https://www.frontiersin.org/research-topics/29769/rising-stars-in-phylogenetics-phylogenomics-and-systematics-reticulate-patterns-and-processes-of-mol) with George Tiley. People who are ECRs and work on phylogenetic networks should consider participating!
 
 
 ### 2021
