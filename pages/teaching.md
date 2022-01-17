@@ -44,6 +44,13 @@ description: Claudia Solis-Lemus' teaching
 
 ## <a name="courses"></a>Courses
 
+#### Spring 2022
+
+- Botany 563 Phylogenetic Analysis of Molecular Data: [website](https://github.com/crsl4/phylogenetics-class); 3 credits; WF 2:30-3:45pm
+- Plant Path 875 Readings in Phylogenomics: [website](https://github.com/crsl4/phylogenetics-class/tree/master/PP875); 1 credit; W 4:30-5:20pm
+
+![ ](../assets/pics/bot563-pp875-spring2022.png)
+
 #### Fall 2021
 
 **BME 780 Guest lecture:** Statistical phylogenomics
