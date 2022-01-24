@@ -131,6 +131,20 @@ Name pronunciation: [namedrop.io/claudiasolislemus](https://namedrop.io/claudias
     </div>
 
 </div>
+<div class="container">
+    <div class="row-fluid">
+        <div class="span2">
+        <a href="../assets/pics/nathan.jpg">
+            <img src="../assets/pics/nathan.jpg"
+                  title="NathanKolbow" alt="NathanKolbow"/></a>
+        </div>
+
+        <div class="span5">
+			Nathan Kolbow is a Biostatistics Ph.D. student. His research focuses on the statistical and computational methods for estimating phylogenetic trees and networks. His undergraduate education was in Statistics and Computer Sciences at the University of Wisconsin-Madison. [<a href="https://github.com/NathanKolbow">github</a>]
+        </div>
+    </div>
+
+</div>
 
 ---
 
