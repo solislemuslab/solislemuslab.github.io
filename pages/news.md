@@ -6,6 +6,8 @@ description: Solis-Lemus lab
 
 ### 2022
 
+- Incredibly grateful to receive an [NSF CAREER award](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2144367&HistoricalAwards=false)!
+
 - Thanks to Frontiers for asking me to co-edit this special edition on [Rising Stars in Phylogenetics, Phylogenomics, and Systematics: Reticulate Patterns and Processes of Molecular Evolution](https://www.frontiersin.org/research-topics/29769/rising-stars-in-phylogenetics-phylogenomics-and-systematics-reticulate-patterns-and-processes-of-mol) with George Tiley. People who are ECRs and work on phylogenetic networks should consider participating!
 
 
