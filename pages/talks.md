@@ -272,7 +272,7 @@ Great! Please fill out [this google form](https://forms.gle/1kpZE1XrKe9YS9cHA)
 | 6 May 2022 | Adriana Romero-Olivares 🇲🇽 | |
 | 3 June 2022 |  | |
 | 1 July 2022 | Nayomi Plaza Rodriguez | |
-| 5 August 2022 |  | |
+| 5 August 2022 | Marcela Tabima Martinez | |
 | 2 September 2022 |  | |
 | 7 October 2022 |  | |
 | 4 November 2022 |  | |
