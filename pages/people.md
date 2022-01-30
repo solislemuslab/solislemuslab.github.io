@@ -117,20 +117,7 @@ Name pronunciation: [namedrop.io/claudiasolislemus](https://namedrop.io/claudias
     </div>
 
 </div>
-<div class="container">
-    <div class="row-fluid">
-        <div class="span2">
-        <a href="../assets/pics/ShengwenYangPic1.jpg">
-            <img src="../assets/pics/ShengwenYangPic1.jpg"
-                  title="ShengwenYang" alt="ShengwenYang"/></a>
-        </div>
 
-        <div class="span5">
-            Shengwen Yang is a MS student in Statistics: Data Science. His work is focused on using a trained Neural Network model to improve computation speed on maximum likelihood inference for a given tree. He earned his undergraduate degree in Computer Science and Mathematics at the University of Wisconsin, Madison.
-        </div>
-    </div>
-
-</div>
 <div class="container">
     <div class="row-fluid">
         <div class="span2">
@@ -261,6 +248,7 @@ Name pronunciation: [namedrop.io/claudiasolislemus](https://namedrop.io/claudias
 ---
 
 ### <a name="past"></a>Past members
+- [Shengwen Yang](https://www.shengwenyang.com/) (MS Data Science, UW-Madison 2021) worked on the symmetry preserving Neural Network models for phylogenetic inference.
 - [Yuren Sun](https://yurensun.github.io/) (BS Computer Science, Mathematics, and Economics, UW-Madison 2021) worked on the applications of neural network models in the classifications of animals with sounds.
 - [Songyang Cheng](https://csy99.github.io/Blog/) (BBA, Information Systems + Computer Science, UW-Madison 2021). He tested the applicability of neural network models to microbial genomic datasets to predict important phenotypes like those related to antibiotic resistance. He is attending MEng EECS program at UC-Berkeley. 
 - Junting Wang (BS Statistics, UW-Madison 2020) is attending UMichigan at the Statistics PhD program
