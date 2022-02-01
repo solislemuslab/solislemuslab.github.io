@@ -215,20 +215,6 @@ Name pronunciation: [namedrop.io/claudiasolislemus](https://namedrop.io/claudias
 
 </div>
 
-          
-<div class="container">
-    <div class="row-fluid">
-        <div class="span2">
-        <a href="../assets/pics/nicole.jpeg">
-            <img src="../assets/pics/nicole.jpeg"
-                  title="Nicole Athanasiou" alt="Nicole Athanasiou"/></a>
-        </div>
-
-        <div class="span5">
-            Nicole Athanasiou is a senior undergraduate student majoring in Applied Mathematics, Statistics, and Environmental Studies. She is programming simulations and data analyses as an extension of a work involving a gene mapping model of multiple variants with multiple phenotypes. 
-     </div>
-    </div>
-</div>
 
 
 <div class="container">
@@ -248,6 +234,7 @@ Name pronunciation: [namedrop.io/claudiasolislemus](https://namedrop.io/claudias
 ---
 
 ### <a name="past"></a>Past members
+- [Nicole Athanasiou](https://github.com/nathanasiou) (BS Applied Mathematics, Statistics, Environmental Studies, UW-Madison 2021) created interactive web application for biologists to determine their sample size in experiments. 
 - [Shengwen Yang](https://www.shengwenyang.com/) (MS Data Science, UW-Madison 2021) worked on the symmetry preserving Neural Network models for phylogenetic inference.
 - [Yuren Sun](https://yurensun.github.io/) (BS Computer Science, Mathematics, and Economics, UW-Madison 2021) worked on the applications of neural network models in the classifications of animals with sounds.
 - [Songyang Cheng](https://csy99.github.io/Blog/) (BBA, Information Systems + Computer Science, UW-Madison 2021). He tested the applicability of neural network models to microbial genomic datasets to predict important phenotypes like those related to antibiotic resistance. He is attending MEng EECS program at UC-Berkeley. 
