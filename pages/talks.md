@@ -266,7 +266,7 @@ Great! Please fill out [this google form](https://forms.gle/1kpZE1XrKe9YS9cHA)
 | 3 September 2021 | Stephanie Colon-Santos 🇵🇷 | [Looking for life: A quest into the Origins of life and Astrobiology](https://www.youtube.com/watch?v=NdSkt3ZYqLU)|
 | 5 November 2021 | Fernando Campos 🇧🇷 | [Hasta la vista, baby! Terminating Cardiac Arrhythmias with Computer Simulations](https://youtu.be/2wV4TRjUp90) |
 | 7 January 2022 | Ana Salgado 🇪🇨 | [Ecological implications of host plant quality for herbivorous insects](https://youtu.be/mWunY10j_Cg) |
-| 4 February 2022 | Miguel Reyes 🇲🇽 | |
+| 4 February 2022 | Miguel Reyes 🇲🇽 | [Does stress help us adapt and survive?](https://youtu.be/gwM-z79vOYU) |
 | 4 March 2022 |  | |
 | 1 April 2022 | Juliana Gonzalez Tobon 🇨🇴 | |
 | 6 May 2022 | Adriana Romero-Olivares 🇲🇽 | |
