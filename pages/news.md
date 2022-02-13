@@ -10,6 +10,8 @@ description: Solis-Lemus lab
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Incredibly grateful that my NSF CAREER &quot;Towards Scalable and Robust Inference of Phylogenetic Networks&quot; will be funded 🥳🎉. New positions available in the lab soon! <a href="https://twitter.com/hashtag/newPI?src=hash&amp;ref_src=twsrc%5Etfw">#newPI</a></p>&mdash; Claudia Solís-Lemus (@solislemuslab) <a href="https://twitter.com/solislemuslab/status/1486051077216735232?ref_src=twsrc%5Etfw">January 25, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+- Thanks for the [WID news on my NSF CAREER award](https://wid.wisc.edu/claudia-solis-lemus-receives-nsf-career-award/)!
+
 - Thanks to Frontiers for asking me to co-edit this special edition on [Rising Stars in Phylogenetics, Phylogenomics, and Systematics: Reticulate Patterns and Processes of Molecular Evolution](https://www.frontiersin.org/research-topics/29769/rising-stars-in-phylogenetics-phylogenomics-and-systematics-reticulate-patterns-and-processes-of-mol) with George Tiley. People who are ECRs and work on phylogenetic networks should consider participating!
 
 

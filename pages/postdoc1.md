@@ -161,3 +161,12 @@ The objective of this project is to develop novel statistical theory (accompanie
 
 Apply: Send an email with CV, short research statement (<1page) and github username to PI's contact info in https://solislemuslab.github.io/
 Deadline: Candidates will be considered until position is filled
+
+
+# NSF CAREER positions
+
+- postdoc
+    - level-2 networks
+    - metagenomes
+- teaching staff
+    - wi fast stats
