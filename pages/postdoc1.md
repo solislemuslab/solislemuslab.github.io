@@ -167,6 +167,92 @@ Deadline: Candidates will be considered until position is filled
 
 - postdoc
     - level-2 networks
-    - metagenomes
 - teaching staff
     - wi fast stats
+- cs project assistant to take care of snaq (paid by startup or fall competition)
+
+- qualifications
+- overview of the project
+- specific tasks
+- starting date
+- how to apply
+
+### Postdoc
+
+post in:
+- twitter
+- email network/phylogenetic groups
+- methods group uw
+- evolution?
+- mathjobs
+
+
+What: Postdoctoral position in the inference of phylogenetic networks. Full-time, two-years funding with potential for extension based on performance/funding
+Where: Wisconsin Institute for Discovery at the University of Wisconsin-Madison (https://wid.wisc.edu) at Solis-Lemus lab (https://solislemuslab.github.io/)
+When: ASAP (negotiable)
+Minimum qualifications: Strong quantitative background and programming skills. Candidates must hold a PhD at the time of the appointment
+
+Research project: This project will contribute to the fundamental research of the Network of Life by producing novel statistical theory on identifiability and inference of complex phylogenetic networks and open-source easy-to-use publicly available software with broad applicability within the evolutionary biology and systematics.
+
+Job duties: The primary duties of the postdoctoral researcher include but are not limited to: i) Develop novel statistical theory on identifiability and inference of complex classes of phylogenetic networks; ii) Implement the novel theory in open source software; iii) Design simulation studies to test the performance of the novel theory and implementation; iv) Write up research findings for presentations at scientific and lay meetings; v) Write up research findings for publication in peer-reviewed journals. The secondary duties include but are not limited to assisting with general lab activities, attending lab meetings, interacting with lab investigators/staff, helping mentor graduate and undergraduate students in the lab and executing other research-related tasks as determined by the supervising principal investigator (Solis-Lemus).
+
+Other relevant qualifications: Knowledge of version control via git/github, interest in scientific communication (oral/written), interest in working independently as leader of the research project, but also as part of a collaborative team.
+
+How to apply: Send an email to solislemus AT wisc.edu including CV, short research statement describing past experience in phylogenetics (<1 page), contact info of two recommenders and github username
+
+Deadline: Candidates will be considered until position is filled
+
+
+### Teaching staff
+
+- position names: https://hr.wisc.edu/standard-job-descriptions/
+    - teaching specialist
+
+- mathjobs
+- twitter
+- universities where to advertise:
+    - https://www.unco.edu/graduate-school/degrees-and-programs/doctorate-programs/educational-mathematics-phd.aspx
+    - https://ced.ncsu.edu/graduate/programs/doctoral/mathematics-and-statistics-education/
+    - https://www.education.udel.edu/doctoral/phd-esrm/
+
+selection criteria:
+- ask applicants to design a short example of a stat learning module for wi fast plants
+
+
+What: Teaching staff position in statistical education. Full-time, two-years funding with potential for extension based on performance/funding
+Where: Wisconsin Institute for Discovery at the University of Wisconsin-Madison (https://wid.wisc.edu) at Solis-Lemus lab (https://solislemuslab.github.io/)
+When: ASAP (negotiable)
+Minimum qualifications: Strong background in educational statistics: theory and practice of K16 statistics education. Interest in biological applications and strong programming experience in R are desirable. Candidates must hold a PhD at the time of the appointment, ideally on Educational Statistics.
+
+Research project: 
+WI Fast Plants (https://fastplants.org/) were developed as a research tool at the University of Wisconsin-Madison and have been used by K-16 teachers around the world for nearly 30 years as an educational model-organism with over 15 genetic traits used in thousands of classrooms worldwide to study many aspects of plant growth and development. Despite the success of WI Fast Plants as a model organism in K-16 investigations, students are rarely supported to quantify observations and analyze data they produce.
+The goal of this project is to produce novel educational modules in statistics and data science to accompany the existing WI Fast Plants lessons on evolution as well as produce and maintain a user-friendly open source and publicly available web app for the visualization and analysis of WI Fast Plants data. Both products (educational modules and web app) will be deeply interconnected to create a novel unified learning experience in statistics and data science for WI Fast Plants teachers and students.
+
+Job duties: The primary duties of the teaching staff position include but are not limited to: i) Develop statistical learning modules to accompany the WI Fast Plants middle school lessons; ii) Coordinate the expansion of the WI Fast Stats web app (https://wi-fast-stats.wid.wisc.edu/) with CS undergraduate students in the lab, and iii) Participate in teacher conferences and workshops to promote the novel statistical learning modules. The secondary duties include but are not limited to assisting with general lab activities, attending lab meetings, interacting with lab investigators/staff, helping mentor graduate and undergraduate students in the lab and executing other teaching-related tasks as determined by the supervising principal investigator (Solis-Lemus).
+
+How to apply: Send an email to solislemus AT wisc.edu including CV, short teaching statement describing experience in statistical education (<1 page), and contact info of two recommenders.
+
+Deadline: Candidates will be considered until position is filled
+
+
+### CS Project Assistant
+
+- UW student jobs
+- data science hub
+
+- selection process
+    - ask for their help with one of the bugs or ask them to go over the repo
+    - we want to hire someone this semester while I will be working on snaq in parallel
+
+What: 50% Project assistantship, one-year funding with potential for extension based on performance/funding
+Where: Wisconsin Institute for Discovery at the University of Wisconsin-Madison (https://wid.wisc.edu) at Solis-Lemus lab (https://solislemuslab.github.io/)
+When: ASAP (negotiable)
+Minimum qualifications: Strong programming skills in julia language and proficient level of version control via git/github. Candidates must be graduate students in CS or Statistics. Strong senior undergraduate students could be considered as student hourly, so feel free to apply.
+
+Research project: PhyloNetworks (https://github.com/crsl4/PhyloNetworks.jl) is the third most widely used Julia packages in genomics. The project assistant will work on maintaining the package, improving scalability and efficiency, provide user support and conduct troubleshoot at a system and component level.
+
+Job duties: The primary duties of the project assistant include but are not limited to: i) Maintain the julia package to guarantee that it is updated to the latest julia version and across operating systems; ii) Assess scalability and efficiency in the code and provide solutions on how to improve; iii) Provide user support and troubleshoot. The secondary duties include but are not limited to assisting with general lab activities, attending lab meetings, interacting with lab investigators/staff, and executing other research-related tasks as determined by the supervising principal investigator (Solis-Lemus).
+
+How to apply: Send an email to solislemus AT wisc.edu including CV, short description of past experience with the Julia language (1-2 paragraphs), contact info of two recommenders and github username.
+
+Deadline: Candidates will be considered until position is filled
