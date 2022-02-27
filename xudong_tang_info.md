@@ -1,1 +1,0 @@
-Xudong Tang is a MS student in Statistics: Data Science. He works on neural network models on soil micobiome data to predict characteristics of potato growth. His completed his undergraduate degree in Computer Sciences and Mathematics at the University of Wisconsin-Madison. 
