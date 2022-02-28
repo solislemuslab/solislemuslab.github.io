@@ -295,3 +295,8 @@ Name pronunciation: [namedrop.io/claudiasolislemus](https://namedrop.io/claudias
     - wanting to apply for a postdoc position in the lab, read [here](https://github.com/solislemuslab/lab-dynamics/blob/master/interest-in-lab.md#applypostdoc)
     - wanting to apply to your own funding with me as supervisor, read [here](https://github.com/solislemuslab/lab-dynamics/blob/master/interest-in-lab.md#postdocfunds)
 
+#### New positions funded by NSF CAREER
+
+- [Postdoctoral researcher in the inference of phylogenetic networks](https://solislemuslab.github.io//pages/positions-career1.html)
+- [Postdoctoral position in statistical education]()
+- [Project assistant for a julia programmer]()
