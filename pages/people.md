@@ -133,6 +133,21 @@ Name pronunciation: [namedrop.io/claudiasolislemus](https://namedrop.io/claudias
 
 </div>
 
+<div class="container">
+    <div class="row-fluid">
+        <div class="span2">
+        <a href="../assets/pics/xudong.PNG">
+            <img src="../assets/pics/xudong.PNG"
+                  title="XudongTang" alt="XudongTang"/></a>
+        </div>
+
+        <div class="span5">
+       		Xudong Tang is a MS student in Statistics: Data Science. He works on neural network models on soil micobiome data to predict characteristics of potato growth. His completed his undergraduate degree in Computer Sciences and Mathematics at the University of Wisconsin-Madison. 
+	 </div>
+    </div>
+
+</div>
+
 ---
 
 ### <a name="undergraduate"></a>Undergraduate students
