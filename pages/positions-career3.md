@@ -1,6 +1,6 @@
 ---
 layout: page
-title: NSF CAREER positions
+title: NSF-funded positions
 description: Sol&iacute;s-Lemus lab
 ---
 
