@@ -348,3 +348,7 @@ In order to identify the driving factors in plant and soil health, we need robus
 
 #### Project summary
 The overarching objective of this proposal is to initiate development of a virtual tool for analyzing and visualizing field data collected each year by the Wisconsin Seed Potato Certification Program (WSPCP) for use on the plant health certificate. Specific objectives include: 1) Creating an enhanced cloud-based database to house seed certification program data, 2) Developing visualization tools for interacting with seed potato certification program data, and 3) Generating data analytics capability to extrapolate from trends in the available data.
+
+#### Software supported by the award
+
+- [Potato Dashboard](https://potato-seed-dashboard.wid.wisc.edu/) (only available for WI seed certification staff at the moment)
