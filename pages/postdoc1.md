@@ -206,8 +206,8 @@ Deadline: Candidates will be considered until position is filled
 
 - position names: https://hr.wisc.edu/standard-job-descriptions/
     - teaching specialist
+    - we decided postdoc for one year because we asked for teaching staff for 5 years
 
-- mathjobs
 - twitter
 - universities where to advertise:
     - https://www.unco.edu/graduate-school/degrees-and-programs/doctorate-programs/educational-mathematics-phd.aspx
@@ -218,7 +218,7 @@ selection criteria:
 - ask applicants to design a short example of a stat learning module for wi fast plants
 
 
-What: Teaching staff position in statistical education. Full-time, two-years funding with potential for extension based on performance/funding
+What: Teaching staff position in statistical education. Full-time, one year of funding with potential for extension based on performance/funding
 Where: Wisconsin Institute for Discovery at the University of Wisconsin-Madison (https://wid.wisc.edu) at Solis-Lemus lab (https://solislemuslab.github.io/)
 When: ASAP (negotiable)
 Minimum qualifications: Strong background in educational statistics: theory and practice of K16 statistics education. Interest in biological applications and strong programming experience in R are desirable. Candidates must hold a PhD at the time of the appointment, ideally on Educational Statistics.
@@ -243,7 +243,7 @@ Deadline: Candidates will be considered until position is filled
     - ask for their help with one of the bugs or ask them to go over the repo
     - we want to hire someone this semester while I will be working on snaq in parallel
 
-What: 50% Project assistantship, one-year funding with potential for extension based on performance/funding
+What: 50% Project assistantship, one year of funding with potential for extension based on performance/funding
 Where: Wisconsin Institute for Discovery at the University of Wisconsin-Madison (https://wid.wisc.edu) at Solis-Lemus lab (https://solislemuslab.github.io/)
 When: ASAP (negotiable)
 Minimum qualifications: Strong programming skills in julia language and proficient level of version control via git/github. Candidates must be graduate students in CS or Statistics. Strong senior undergraduate students could be considered as student hourly, so feel free to apply.

@@ -1,3 +1,9 @@
+---
+layout: page
+title: NSF CAREER positions
+description: Sol&iacute;s-Lemus lab
+---
+
 # Postdoctoral research position in phylogenetic networks
 
 - **What:** Postdoctoral position in the inference of phylogenetic networks. Full-time, two years of funding with potential for extension based on performance/funding
