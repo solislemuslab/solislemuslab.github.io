@@ -299,4 +299,4 @@ Name pronunciation: [namedrop.io/claudiasolislemus](https://namedrop.io/claudias
 
 - [Postdoctoral researcher in the inference of phylogenetic networks](https://solislemuslab.github.io//pages/positions-career1.html)
 - [Postdoctoral position in statistical education](https://solislemuslab.github.io//pages/positions-career2.html)
-- [Project assistant for a julia programmer](https://solislemuslab.github.io//pages/positions-career3.html)
+- [Project assistantship in Julia package development and maintenance](https://solislemuslab.github.io//pages/positions-career3.html)

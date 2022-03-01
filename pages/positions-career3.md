@@ -11,7 +11,7 @@ description: Sol&iacute;s-Lemus lab
 - **What:** 50% Project assistantship, one year of funding with potential for extension based on performance/funding
 - **Where:** [Wisconsin Institute for Discovery](https://wid.wisc.edu) at the University of Wisconsin-Madison at [Solis-Lemus lab](https://solislemuslab.github.io/)
 - **When:** ASAP (negotiable)
-- **Minimum qualifications:** Strong programming skills in julia language and proficient level of version control via git/github. Candidates must be graduate students in CS or Statistics. Strong senior undergraduate students could be considered as student hourly, so feel free to apply if you qualify the requirements. Recently graduated students can be considered in a 'Scientist' position.
+- **Minimum qualifications:** Strong programming skills in julia language and proficient level of version control via git/github. Candidates must be graduate students in CS or Statistics. Strong senior undergraduate students could be considered as student hourly, so feel free to apply if you qualify the requirements. Recently graduated students can be considered in a 'Scientist' position, so feel free to apply if you qualify the requirements.
 
 ### More details
 
