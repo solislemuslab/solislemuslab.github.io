@@ -17,14 +17,9 @@ description: Sol&iacute;s-Lemus lab
 
 - **Research project:** [WI Fast Plants](https://fastplants.org/) were developed as a research tool at the University of Wisconsin-Madison and have been used by K-16 teachers around the world for nearly 30 years as an educational model-organism with over 15 genetic traits used in thousands of classrooms worldwide to study many aspects of plant growth and development. Despite the success of WI Fast Plants as a model organism in K-16 investigations, students are rarely supported to quantify observations and analyze data they produce. The goal of this project is to produce novel educational modules in statistics and data science to accompany the existing WI Fast Plants lessons on evolution as well as produce and maintain a user-friendly open source and publicly available web app for the visualization and analysis of WI Fast Plants data. Both products (educational modules and web app) will be deeply interconnected to create a novel unified learning experience in statistics and data science for WI Fast Plants teachers and students.
 
-- **Job duties:** The primary duties of the postdoc position include but are not limited to:
-    - Develop statistical learning modules to accompany the WI Fast Plants middle school lessons;
-    - Coordinate the expansion of the [WI Fast Stats web app](https://wi-fast-stats.wid.wisc.edu/) with CS undergraduate students in the lab, and 
-    - Participate in teacher conferences and workshops to promote the novel statistical learning modules. 
-
-The secondary duties include but are not limited to assisting with general lab activities, attending lab meetings, interacting with lab investigators/staff, and helping mentor graduate and undergraduate students in the lab.
+- **Job duties:** The primary duties of the postdoc position include but are not limited to: i) Develop statistical learning modules to accompany the WI Fast Plants middle school lessons; ii) Coordinate the expansion of the [WI Fast Stats web app](https://wi-fast-stats.wid.wisc.edu/) with CS undergraduate students in the lab, and iii) Participate in teacher conferences and workshops to promote the novel statistical learning modules. The secondary duties include but are not limited to assisting with general lab activities, attending lab meetings, interacting with lab investigators/staff, helping mentor graduate and undergraduate students in the lab and executing other teaching-related tasks as determined by the supervising principal investigator (Solis-Lemus).
 
 ### How to apply
 Send an email to solislemus AT wisc.edu including CV, short teaching statement describing experience in statistical education (<1 page), and contact info of two recommenders.
 
-**Deadline:** Candidates will be considered until position is filled.
+**Deadline:** Candidates will be considered until position is filled
