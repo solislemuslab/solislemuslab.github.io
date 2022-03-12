@@ -46,6 +46,7 @@ description: Claudia Solis-Lemus' teaching
 
 #### Spring 2022
 
+- Introduction to Statistics for Defense Attorneys: [website](https://crsl4.github.io/forensic-stat/)
 - Botany 563 Phylogenetic Analysis of Molecular Data: [website](https://github.com/crsl4/phylogenetics-class); 3 credits; WF 2:30-3:45pm
 - Plant Path 875 Readings in Phylogenomics: [website](https://github.com/crsl4/phylogenetics-class/tree/master/PP875); 1 credit; W 4:30-5:20pm
 
