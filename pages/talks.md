@@ -267,7 +267,7 @@ Great! Please fill out [this google form](https://forms.gle/1kpZE1XrKe9YS9cHA)
 | 5 November 2021 | Fernando Campos 🇧🇷 | [Hasta la vista, baby! Terminating Cardiac Arrhythmias with Computer Simulations](https://youtu.be/2wV4TRjUp90) |
 | 7 January 2022 | Ana Salgado 🇪🇨 | [Ecological implications of host plant quality for herbivorous insects](https://youtu.be/mWunY10j_Cg) |
 | 4 February 2022 | Miguel Reyes 🇲🇽 | [Does stress help us adapt and survive?](https://youtu.be/gwM-z79vOYU) |
-| 1 April 2022 | Juliana Gonzalez Tobon 🇨🇴 | |
+| 1 April 2022 | Juliana Gonzalez Tobon 🇨🇴 | [What makes potatoes sick?](https://youtu.be/shf6BoJdgnM) |
 | 6 May 2022 | Adriana Romero-Olivares 🇲🇽 | |
 | 3 June 2022 |  | |
 | 1 July 2022 | Nayomi Plaza Rodriguez | |
