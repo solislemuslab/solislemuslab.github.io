@@ -18,6 +18,10 @@ description: Claudia Solis-Lemus' talks
 
 ## <a name="talks"></a>Solis-Lemus selected talks
 
+### 2022
+
+Scalable inference of phylogenetic networks, [RADsequencing for phylogenOMICs](https://www.taxon-omics.com/news-events-bl/5-6-april-2022-rad-sequencing-for-phylogenomics), Taxon-OMICS partners from Göttingen, München and Braunschweig (_Apr 6_)
+
 ### 2021
 
 [Coloquio de la Sociedad Matemática Mexicana](https://www.smm.org.mx/coloquioconjunto/410/biologia-evolutiva-a-traves-de-los-ojos-de-ciencias-de-datos): Biologia evolutiva a traves de los ojos de Ciencias de Datos (_Nov 25_) [YouTube](https://www.youtube.com/watch?v=uADQQbS2oa4)
