@@ -273,7 +273,7 @@ Great! Please fill out [this google form](https://forms.gle/1kpZE1XrKe9YS9cHA)
 | 4 February 2022 | Miguel Reyes 🇲🇽 | [Does stress help us adapt and survive?](https://youtu.be/gwM-z79vOYU) |
 | 1 April 2022 | Juliana Gonzalez Tobon 🇨🇴 | [What makes potatoes sick?](https://youtu.be/shf6BoJdgnM) |
 | 6 May 2022 | Adriana Romero-Olivares 🇲🇽 | |
-| 3 June 2022 |  | |
+| 3 June 2022 | Rene Flores Garcia 🇲🇽 | |
 | 1 July 2022 | Nayomi Plaza Rodriguez | |
 | 5 August 2022 | Marcela Tabima Martinez | |
 | 2 September 2022 | Laura Muñoz Baena | |
