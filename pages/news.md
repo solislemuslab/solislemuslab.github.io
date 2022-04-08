@@ -6,6 +6,14 @@ description: Solis-Lemus lab
 
 ### 2022
 
+- Launching the @latinxinstem TikTok account to promote Latinx scientists and to promote El Zoominario:
+
+<blockquote class="tiktok-embed" cite="https://www.tiktok.com/@latinxinstem/video/7083991804441578798" data-video-id="7083991804441578798" style="max-width: 605px;min-width: 325px;" > <section> <a target="_blank" title="@latinxinstem" href="https://www.tiktok.com/@latinxinstem">@latinxinstem</a> Visibility of <a title="latinxinstem" target="_blank" href="https://www.tiktok.com/tag/latinxinstem">#LatinxInSTEM</a> <a title="elzoominario" target="_blank" href="https://www.tiktok.com/tag/elzoominario">#elzoominario</a> <a target="_blank" title="♬ Surfin&#39; U.S.A. - The Beach Boys" href="https://www.tiktok.com/music/SurfinUSA-6750951406850557953">♬ Surfin&#39; U.S.A. - The Beach Boys</a> </section> </blockquote> <script async src="https://www.tiktok.com/embed.js"></script>
+
+- I write to inform all that George Tiley and I resigned to the position of editor of the Frontiers Rising Stars in Reticulate Evolution special edition.
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">In Jan, I was excited to invite people to the Frontiers Rising Stars ⭐️ special edition on reticulate evolution that I was co-editing with George Tiley (no twitter).<br>Unfortunately, George and I grew tired of some bizarre editorial practices in Frontiers. 1/3 <a href="https://t.co/gO2paPoxTP">https://t.co/gO2paPoxTP</a></p>&mdash; Claudia Solís-Lemus (@solislemuslab) <a href="https://twitter.com/solislemuslab/status/1511838083863490566?ref_src=twsrc%5Etfw">April 6, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 - Incredibly grateful to receive an [NSF CAREER award](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2144367&HistoricalAwards=false)!
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Incredibly grateful that my NSF CAREER &quot;Towards Scalable and Robust Inference of Phylogenetic Networks&quot; will be funded 🥳🎉. New positions available in the lab soon! <a href="https://twitter.com/hashtag/newPI?src=hash&amp;ref_src=twsrc%5Etfw">#newPI</a></p>&mdash; Claudia Solís-Lemus (@solislemuslab) <a href="https://twitter.com/solislemuslab/status/1486051077216735232?ref_src=twsrc%5Etfw">January 25, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
