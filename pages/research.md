@@ -127,6 +127,9 @@ Examples of our current research involve:
 
 #### 2022
 
+Zhang, Z.* , Cheng, S.*, Sol&iacute;s-Lemus, C. (2022). Towards a robust out-of-the-box neural network model for genomic data, [BMC Bioinformatics DOI:10.1186/s12859-022-04660-8](https://rdcu.be/cK1Bd), [arXiv (2020):2012.05995](https://arxiv.org/abs/2012.05995), [gihub repo](https://github.com/solislemuslab/dna-nn-theory)
+
+
 C. Sol&iacute;s-Lemus, S. Yang*, L. Zepeda-Nunez (2022).
 Accurate Phylogenetic Inference with a Symmetry-preserving Neural Network Model
 [arXiv:2201.04663](https://arxiv.org/abs/2201.04663), [github](https://github.com/Forgotten/nn-phylogenetics)
@@ -152,8 +155,6 @@ Abraham G. Moller, Kyle Winston, Shiyu Ji, Junting Wang*, Michelle N. Hargita Da
 #### 2020
 
 Shen, Y.*, Sol&iacute;s-Lemus, C. (2020). Bayesian Conditional Auto-Regressive LASSO Models to Learn Sparse Networks with Predictors, [arXiv:2012.08397](https://arxiv.org/abs/2012.08397)
-
-Zhang, Z.* , Cheng, S.*, Sol&iacute;s-Lemus, C. (2020). Towards a robust out-of-the-box neural network model for genomic data, [arXiv:2012.05995](https://arxiv.org/abs/2012.05995), [gihub repo](https://github.com/solislemuslab/dna-nn-theory)
 
 Liu, Y.∗, Sol&iacute;s-Lemus, C. (2020). WI Fast Stats: a collection of web apps for the visualization and analysis of WI Fast Plants data, [arXiv:2012.03290](https://arxiv.org/abs/2012.03290), [WI Fast Stats website](https://wi-fast-stats.wid.wisc.edu/), [github repo](https://github.com/crsl4/fast-stats)
 
