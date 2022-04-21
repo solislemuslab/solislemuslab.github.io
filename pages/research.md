@@ -130,10 +130,10 @@ Examples of our current research involve:
 Zhang, Z.* , Cheng, S.*, Sol&iacute;s-Lemus, C. (2022). Towards a robust out-of-the-box neural network model for genomic data.
 - [BMC Bioinformatics DOI:10.1186/s12859-022-04660-8](https://rdcu.be/cK1Bd)
 - [arXiv (2020): 2012.05995](https://arxiv.org/abs/2012.05995)
-- [![github (653k)](icons16/github.png)](https://github.com/solislemuslab/dna-nn-theory) 
 
-<blockquote class="twitter-tweet"><p lang="en" width=“250” dir="ltr">👀 Check out our new paper 👀<br>Towards a robust out-of-the-box neural network model for genomic data (<a href="https://t.co/eLRrWX65Tx">https://t.co/eLRrWX65Tx</a>)<br>by awesome students Zhaoyi Zhang <a href="https://twitter.com/zhaoyi3264?ref_src=twsrc%5Etfw">@zhaoyi3264</a> and Songyang Cheng <a href="https://twitter.com/Brian11304618?ref_src=twsrc%5Etfw">@Brian11304618</a><br><br>3-min talk with the highlights 👇<a href="https://t.co/hXPfVulGVg">https://t.co/hXPfVulGVg</a></p>&mdash; Claudia Solís-Lemus (@solislemuslab) <a href="https://twitter.com/solislemuslab/status/1517252569046867971?ref_src=twsrc%5Etfw">April 21, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
+[![github (653k)](icons16/github.png)](https://github.com/solislemuslab/dna-nn-theory) 
+[![twitter (653k)](icons16/twitter.png)](https://twitter.com/solislemuslab/status/1517252569046867971)
+[![instagram (653k)](icons16/instagram.png)](https://www.instagram.com/p/CcoNzduOME8/?utm_source=ig_web_copy_link)
 
 C. Sol&iacute;s-Lemus, S. Yang*, L. Zepeda-Nunez (2022).
 Accurate Phylogenetic Inference with a Symmetry-preserving Neural Network Model
