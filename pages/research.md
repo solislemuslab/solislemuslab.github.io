@@ -127,7 +127,7 @@ Examples of our current research involve:
 
 #### 2022
 
-Zhang, Z.* , Cheng, S.*, Sol&iacute;s-Lemus, C. (2022). Towards a robust out-of-the-box neural network model for genomic data, [BMC Bioinformatics DOI:10.1186/s12859-022-04660-8](https://rdcu.be/cK1Bd), [arXiv (2020):2012.05995](https://arxiv.org/abs/2012.05995), [gihub repo](https://github.com/solislemuslab/dna-nn-theory)
+Zhang, Z.* , Cheng, S.*, Sol&iacute;s-Lemus, C. (2022). Towards a robust out-of-the-box neural network model for genomic data, [BMC Bioinformatics DOI:10.1186/s12859-022-04660-8](https://rdcu.be/cK1Bd), [arXiv (2020):2012.05995](https://arxiv.org/abs/2012.05995), [![github (653k)](icons16/github.png)](https://github.com/solislemuslab/dna-nn-theory), [![twitter (653k)](icons16/twitter.png)](https://twitter.com/solislemuslab/status/1517252569046867971)
 
 
 C. Sol&iacute;s-Lemus, S. Yang*, L. Zepeda-Nunez (2022).
