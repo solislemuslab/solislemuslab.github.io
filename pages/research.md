@@ -134,6 +134,8 @@ Zhang, Z.* , Cheng, S.*, Sol&iacute;s-Lemus, C. (2022). Towards a robust out-of-
 [![github (653k)](icons16/github.png)](https://github.com/solislemuslab/dna-nn-theory) 
 [![twitter (653k)](icons16/twitter.png)](https://twitter.com/solislemuslab/status/1517252569046867971)
 [![instagram (653k)](icons16/instagram.png)](https://www.instagram.com/p/CcoNzduOME8/?utm_source=ig_web_copy_link)
+[![youtube (653k)](icons16/youtube.png)](https://youtu.be/IXLVDIKxPvk)
+
 
 C. Sol&iacute;s-Lemus, S. Yang*, L. Zepeda-Nunez (2022).
 Accurate Phylogenetic Inference with a Symmetry-preserving Neural Network Model
