@@ -138,40 +138,76 @@ Zhang, Z.* , Cheng, S.*, Sol&iacute;s-Lemus, C. (2022). Towards a robust out-of-
 
 
 C. Sol&iacute;s-Lemus, S. Yang*, L. Zepeda-Nunez (2022).
-Accurate Phylogenetic Inference with a Symmetry-preserving Neural Network Model
-[arXiv:2201.04663](https://arxiv.org/abs/2201.04663), [github](https://github.com/Forgotten/nn-phylogenetics)
+Accurate Phylogenetic Inference with a Symmetry-preserving Neural Network Model.
+- [arXiv (2022): 2201.04663](https://arxiv.org/abs/2201.04663)
 
-G. A. Satten, S. W. Curtis, C. Sol&iacute;s-Lemus, E. J. Leslie, M. P. Epstein. (2022) Efficient Estimation of Indirect Effects in Case-Control Studies Using a Unified Likelihood Framework, [bioaRxiv:10.1101/2021.07.16.452552](https://www.biorxiv.org/content/10.1101/2021.07.16.452552v1), [Statistics in Medicine: DOI 10.1002/sim.9390](https://onlinelibrary.wiley.com/doi/10.1002/sim.9390)
+[![github (653k)](icons16/github.png)](https://github.com/Forgotten/nn-phylogenetics) 
+
+
+G. A. Satten, S. W. Curtis, C. Sol&iacute;s-Lemus, E. J. Leslie, M. P. Epstein. (2022) Efficient Estimation of Indirect Effects in Case-Control Studies Using a Unified Likelihood Framework.
+- [bioaRxiv:10.1101/2021.07.16.452552](https://www.biorxiv.org/content/10.1101/2021.07.16.452552v1)
+- [Statistics in Medicine: DOI 10.1002/sim.9390](https://onlinelibrary.wiley.com/doi/10.1002/sim.9390)
 
 #### 2021
 
-Sun, Y.*, T.M. Maeda, C. Sol&iacute;s-Lemus, D. Pimentel-Alarcon, Z. Burivalova. (2021). Classification of animal sounds in a hyperdiverse rainforest using Convolutional Neural Networks [arXiv:2111.14971](https://arxiv.org/abs/2111.14971), [github](https://github.com/solislemuslab/tropical-stethoscope)
+Sun, Y.*, T.M. Maeda, C. Sol&iacute;s-Lemus, D. Pimentel-Alarcon, Z. Burivalova. (2021). Classification of animal sounds in a hyperdiverse rainforest using Convolutional Neural Networks.
+- [arXiv (2021): 2111.14971](https://arxiv.org/abs/2111.14971)
 
-Sol&iacute;s-Lemus, C., A. M. Holleman, A. Todor, B. Bradley, K. J. Ressler, D. Ghosh, M. P. Epstein. (2021). A Kernel Method for Dissecting Genetic Signals in Tests of High-Dimensional Phenotypes [bioRxiv 2021.07.29.454336](https://doi.org/10.1101/2021.07.29.454336)
+[![github (653k)](icons16/github.png)](https://github.com/solislemuslab/tropical-stethoscope) 
 
-Shen, Y.*, Sol&iacute;s-Lemus, C. (2021). CARlasso: An R package for the estimation of sparse microbial networks with predictors, [arXiv:2107.13763](https://arxiv.org/abs/2107.13763)
+Sol&iacute;s-Lemus, C., A. M. Holleman, A. Todor, B. Bradley, K. J. Ressler, D. Ghosh, M. P. Epstein. (2021). A Kernel Method for Dissecting Genetic Signals in Tests of High-Dimensional Phenotypes. 
+- [bioRxiv 2021.07.29.454336](https://doi.org/10.1101/2021.07.29.454336)
 
-Su M, Davis MH, Peterson J, Sol&iacute;s-Lemus C, Satola SW, Read TD. 2021. Effect of genetic background on the evolution of Vancomycin-Intermediate Staphylococcus aureus (VISA) [PeerJ 9:e11764](https://doi.org/10.7717/peerj.11764)
+Shen, Y.*, Sol&iacute;s-Lemus, C. (2021). CARlasso: An R package for the estimation of sparse microbial networks with predictors
+- [arXiv (2021): 2107.13763](https://arxiv.org/abs/2107.13763)
 
-Shen, Y.*, Sol&iacute;s-Lemus, C. (2021). The Effect of the Prior and the Experimental Design on the Inference of the Precision Matrix in Gaussian Chain Graph Models, [arXiv:2107.01306](https://arxiv.org/abs/2107.01306)
+[![github (653k)](icons16/github.png)](https://github.com/YunyiShen/CAR-LASSO) 
 
-Tiley, George P., Andrew A. Crowl, Paul S. Manos, Emily B. Sessa, Claudia Solis-Lemus, Anne D. Yoder, and J. Gordon Burleigh (2021) Phasing Alleles Improves Network Inference with Allopolyploids. [bioRxiv:10.1101/2021.05.04.442457](https://doi.org/10.1101/2021.05.04.442457)
 
-Abraham G. Moller, Kyle Winston, Shiyu Ji, Junting Wang*, Michelle N. Hargita Davis, Claudia R. Solis-Lemus, Timothy D. Read (2021) Genes Influencing Phage Host Range in _Staphylococcus aureus_ on a Species-Wide Scale, [mSphere](https://msphere.asm.org/content/6/1/e01263-20#sec-9), [github repo](https://github.com/solislemuslab/staph-nn)
+Su M, Davis MH, Peterson J, Sol&iacute;s-Lemus C, Satola SW, Read TD. 2021. Effect of genetic background on the evolution of Vancomycin-Intermediate Staphylococcus aureus (VISA). 
+- [PeerJ 9:e11764](https://doi.org/10.7717/peerj.11764)
+
+[![github (653k)](icons16/github.png)](https://github.com/crsl4/staph-visa) 
+
+
+Shen, Y.*, Sol&iacute;s-Lemus, C. (2021). The Effect of the Prior and the Experimental Design on the Inference of the Precision Matrix in Gaussian Chain Graph Models.
+- [arXiv (2021): 2107.01306](https://arxiv.org/abs/2107.01306)
+
+Tiley, George P., Andrew A. Crowl, Paul S. Manos, Emily B. Sessa, Claudia Solis-Lemus, Anne D. Yoder, and J. Gordon Burleigh (2021) Phasing Alleles Improves Network Inference with Allopolyploids. 
+- [bioRxiv (2021): 10.1101/2021.05.04.442457](https://doi.org/10.1101/2021.05.04.442457)
+
+Abraham G. Moller, Kyle Winston, Shiyu Ji, Junting Wang*, Michelle N. Hargita Davis, Claudia R. Solis-Lemus, Timothy D. Read (2021) Genes Influencing Phage Host Range in _Staphylococcus aureus_ on a Species-Wide Scale. 
+- [mSphere](https://msphere.asm.org/content/6/1/e01263-20#sec-9)
+
+[![github (653k)](icons16/github.png)](https://github.com/solislemuslab/staph-nn) 
 
 #### 2020
 
-Shen, Y.*, Sol&iacute;s-Lemus, C. (2020). Bayesian Conditional Auto-Regressive LASSO Models to Learn Sparse Networks with Predictors, [arXiv:2012.08397](https://arxiv.org/abs/2012.08397)
+Shen, Y.*, Sol&iacute;s-Lemus, C. (2020). Bayesian Conditional Auto-Regressive LASSO Models to Learn Sparse Networks with Predictors.
+- [arXiv (2020): 2012.08397](https://arxiv.org/abs/2012.08397)
 
-Liu, Y.∗, Sol&iacute;s-Lemus, C. (2020). WI Fast Stats: a collection of web apps for the visualization and analysis of WI Fast Plants data, [arXiv:2012.03290](https://arxiv.org/abs/2012.03290), [WI Fast Stats website](https://wi-fast-stats.wid.wisc.edu/), [github repo](https://github.com/crsl4/fast-stats)
+[![github (653k)](icons16/github.png)](https://github.com/YunyiShen/CAR-LASSO) 
+
+Liu, Y.∗, Sol&iacute;s-Lemus, C. (2020). WI Fast Stats: a collection of web apps for the visualization and analysis of WI Fast Plants data.
+- [arXiv (2020): 2012.03290](https://arxiv.org/abs/2012.03290)
+- [WI Fast Stats website](https://wi-fast-stats.wid.wisc.edu/)
+
+[![github (653k)](icons16/github.png)](https://github.com/crsl4/fast-stats) 
+
 
 Sol&iacute;s-Lemus, C., Arrigo Coen* and Cecile An&eacute;. 2020. On the identifiability of phylogenetic 
-networks under a pseudolikelihood model, [arxiv:2010.01758](https://arxiv.org/abs/2010.01758), [github repo](https://github.com/solislemuslab/snaq-identifiability)
+networks under a pseudolikelihood model.
+- [arxiv (2020): 2010.01758](https://arxiv.org/abs/2010.01758)
 
-Guerrero, V. and C. Sol&iacute;s-Lemus. 2020. A generalized measure of relative dispersion, [Stat. and Prob. Letters](https://www.sciencedirect.com/science/article/pii/S0167715220301097?dgcid=author)
+[![github (653k)](icons16/github.png)](https://github.com/solislemuslab/snaq-identifiability) 
+
+Guerrero, V. and C. Sol&iacute;s-Lemus. 2020. A generalized measure of relative dispersion.
+- [Stat. and Prob. Letters](https://www.sciencedirect.com/science/article/pii/S0167715220301097?dgcid=author)
 
 Sol&iacute;s-Lemus, C., S. T. Fischer, A. Todor, C. Liu, E. J. Leslie, D. J. Cutler, D. Ghosh and M. P. Epstein. 2020. Leveraging Family History in Case-Control Analyses of Rare Variation.
-[GENETICS](https://doi.org/10.1534/genetics.119.302846), [github repo](https://github.com/crsl4/ordinal-gamut)
+- [GENETICS](https://doi.org/10.1534/genetics.119.302846)
+
+[![github (653k)](icons16/github.png)](https://github.com/crsl4/ordinal-gamut) 
 
 M. Su, J. Lyles, R. A. Petit III, J. M. Peterson, M. Hargita, H .Tang, C. Sol&iacute;s-Lemus, C. Quave, T. D. Read. 2020. Genomic analysis of variability in delta-toxin levels between Staphylococcus aureus strains. [PeerJ](https://peerj.com/articles/8717/)
 
