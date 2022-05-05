@@ -127,13 +127,24 @@ Examples of our current research involve:
 
 #### 2022
 
+Liu, Y.∗, Sol&iacute;s-Lemus, C. (2022). WI Fast Stats: a collection of web apps for the visualization and analysis of WI Fast Plants data.
+- [JOSE DOI:10.21105/jose.00159](https://jose.theoj.org/papers/10.21105/jose.00159)
+- [arXiv (2020): 2012.03290](https://arxiv.org/abs/2012.03290)
+- [WI Fast Stats website](https://wi-fast-stats.wid.wisc.edu/)
+
+[![github (653k)](icons16/github.png)](https://github.com/crsl4/fast-stats)
+[![twitter (653k)](icons16/twitter.png)](https://twitter.com/solislemuslab/status/1521904890234253313)
+[![instagram (653k)](icons16/instagram.png)](https://www.instagram.com/p/CdL4R3gOCqC)
+[![youtube (653k)](icons16/youtube.png)](https://youtu.be/2dk0pdVbCzo)
+
+
 Zhang, Z.* , Cheng, S.*, Sol&iacute;s-Lemus, C. (2022). Towards a robust out-of-the-box neural network model for genomic data.
 - [BMC Bioinformatics DOI:10.1186/s12859-022-04660-8](https://rdcu.be/cK1Bd)
 - [arXiv (2020): 2012.05995](https://arxiv.org/abs/2012.05995)
 
 [![github (653k)](icons16/github.png)](https://github.com/solislemuslab/dna-nn-theory) 
 [![twitter (653k)](icons16/twitter.png)](https://twitter.com/solislemuslab/status/1517252569046867971)
-[![instagram (653k)](icons16/instagram.png)](https://www.instagram.com/p/CcoNzduOME8/?utm_source=ig_web_copy_link)
+[![instagram (653k)](icons16/instagram.png)](https://www.instagram.com/p/CcoNzduOME8)
 [![youtube (653k)](icons16/youtube.png)](https://youtu.be/IXLVDIKxPvk)
 
 
@@ -187,13 +198,6 @@ Shen, Y.*, Sol&iacute;s-Lemus, C. (2020). Bayesian Conditional Auto-Regressive L
 - [arXiv (2020): 2012.08397](https://arxiv.org/abs/2012.08397)
 
 [![github (653k)](icons16/github.png)](https://github.com/YunyiShen/CAR-LASSO) 
-
-Liu, Y.∗, Sol&iacute;s-Lemus, C. (2020). WI Fast Stats: a collection of web apps for the visualization and analysis of WI Fast Plants data.
-- [arXiv (2020): 2012.03290](https://arxiv.org/abs/2012.03290)
-- [WI Fast Stats website](https://wi-fast-stats.wid.wisc.edu/)
-
-[![github (653k)](icons16/github.png)](https://github.com/crsl4/fast-stats) 
-
 
 Sol&iacute;s-Lemus, C., Arrigo Coen* and Cecile An&eacute;. 2020. On the identifiability of phylogenetic 
 networks under a pseudolikelihood model.
