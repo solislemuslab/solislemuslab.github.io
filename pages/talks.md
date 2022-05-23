@@ -18,6 +18,12 @@ description: Claudia Solis-Lemus' talks
 
 ## <a name="talks"></a>Solis-Lemus selected talks
 
+### 2022
+
+EEOB Seminar series in Iowa State U: Statistical challenges to infer phylogenetic networks (_May 5_)
+
+Scalable inference of phylogenetic networks, [RADsequencing for phylogenOMICs](https://www.taxon-omics.com/news-events-bl/5-6-april-2022-rad-sequencing-for-phylogenomics), Taxon-OMICS partners from Göttingen, München and Braunschweig (_Apr 6_)
+
 ### 2021
 
 [Coloquio de la Sociedad Matemática Mexicana](https://www.smm.org.mx/coloquioconjunto/410/biologia-evolutiva-a-traves-de-los-ojos-de-ciencias-de-datos): Biologia evolutiva a traves de los ojos de Ciencias de Datos (_Nov 25_) [YouTube](https://www.youtube.com/watch?v=uADQQbS2oa4)
@@ -264,19 +270,16 @@ Great! Please fill out [this google form](https://forms.gle/1kpZE1XrKe9YS9cHA)
 | 2 July 2021 | Ariadna Gonzalez-Solis 🇲🇽 | [Plant membrane lipids, a tale of life and death](https://youtu.be/8_BDS0_YHFY) |
 | 6 August 2021 | Victor Zavala 🇲🇽 | [Sustainability Challenges in the Dairy Industry](https://www.youtube.com/watch?v=0NxHs_YeHsI) |
 | 3 September 2021 | Stephanie Colon-Santos 🇵🇷 | [Looking for life: A quest into the Origins of life and Astrobiology](https://www.youtube.com/watch?v=NdSkt3ZYqLU)|
-| 1 October 2021 | Leonardo Zepeda Nuñez 🇨🇱 | [Deep Learning for Inverse Problems](https://youtu.be/BnhiYvPny6c) |
 | 5 November 2021 | Fernando Campos 🇧🇷 | [Hasta la vista, baby! Terminating Cardiac Arrhythmias with Computer Simulations](https://youtu.be/2wV4TRjUp90) |
-| 3 December 2021 | Leticia Ramirez 🇲🇽 | |
-| 7 January 2022 | Ana Salgado 🇪🇨 | |
-| 4 February 2022 | Miguel Reyes 🇲🇽 | |
-| 4 March 2022 |  | |
-| 1 April 2022 | Juliana Gonzalez Tobon 🇨🇴 | |
-| 6 May 2022 | Adriana Romero-Olivares 🇲🇽 | |
-| 3 June 2022 |  | |
-| 1 July 2022 |  | |
-| 5 August 2022 |  | |
-| 2 September 2022 |  | |
-| 7 October 2022 |  | |
+| 7 January 2022 | Ana Salgado 🇪🇨 | [Ecological implications of host plant quality for herbivorous insects](https://youtu.be/mWunY10j_Cg) |
+| 4 February 2022 | Miguel Reyes 🇲🇽 | [Does stress help us adapt and survive?](https://youtu.be/gwM-z79vOYU) |
+| 1 April 2022 | Juliana Gonzalez Tobon 🇨🇴 | [What makes potatoes sick?](https://youtu.be/shf6BoJdgnM) |
+| 6 May 2022 | Adriana Romero-Olivares 🇲🇽 | [Fungal responses to climate change and consequences to our ecosystems](https://youtu.be/qA8V0M4T6Sc) |
+| 3 June 2022 | Rene Flores Garcia 🇲🇽 | |
+| 1 July 2022 | Nayomi Plaza Rodriguez | |
+| 5 August 2022 | Marcela Tabima Martinez | |
+| 2 September 2022 | Laura Muñoz Baena | |
+| 7 October 2022 | Natalia Rosario-Melendez | |
 | 4 November 2022 |  | |
 | 2 December 2022 |  | |
 

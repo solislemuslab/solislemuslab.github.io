@@ -36,7 +36,7 @@ Pronouns: she/her
 
 Name pronunciation: [namedrop.io/claudiasolislemus](https://namedrop.io/claudiasolislemus)
 
-<button type="button" onclick="window.location.href='https://github.com/crsl4/crsl4.github.io/blob/master/assets/cv.pdf';">cv</button>
+<button type="button" onclick="window.location.href='https://github.com/solislemuslab/solislemuslab.github.io/blob/master/assets/cv.pdf';">cv</button>
 <button type="button" onclick="window.location.href='https://scholar.google.com/citations?user=GrUypj8AAAAJ&hl=en&oi=ao';">google scholar</button>
 <button type="button" onclick="window.location.href='https://github.com/crsl4';">github</button>
 <button type="button" onclick="window.location.href='https://www.athlinks.com/athletes/267606489';">athlinks</button>
@@ -117,17 +117,33 @@ Name pronunciation: [namedrop.io/claudiasolislemus](https://namedrop.io/claudias
     </div>
 
 </div>
+
 <div class="container">
     <div class="row-fluid">
         <div class="span2">
-        <a href="../assets/pics/ShengwenYangPic1.jpg">
-            <img src="../assets/pics/ShengwenYangPic1.jpg"
-                  title="ShengwenYang" alt="ShengwenYang"/></a>
+        <a href="../assets/pics/nathan.jpg">
+            <img src="../assets/pics/nathan.jpg"
+                  title="NathanKolbow" alt="NathanKolbow"/></a>
         </div>
 
         <div class="span5">
-            Shengwen Yang is a MS student in Statistics: Data Science. His work is focused on using a trained Neural Network model to improve computation speed on maximum likelihood inference for a given tree. He earned his undergraduate degree in Computer Science and Mathematics at the University of Wisconsin, Madison.
+			Nathan Kolbow is a Biostatistics Ph.D. student. His research focuses on the statistical and computational methods for estimating phylogenetic trees and networks. His undergraduate education was in Statistics and Computer Sciences at the University of Wisconsin-Madison. [<a href="https://github.com/NathanKolbow">github</a>]
         </div>
+    </div>
+
+</div>
+
+<div class="container">
+    <div class="row-fluid">
+        <div class="span2">
+        <a href="../assets/pics/xudong.PNG">
+            <img src="../assets/pics/xudong.PNG"
+                  title="XudongTang" alt="XudongTang"/></a>
+        </div>
+
+        <div class="span5">
+       		Xudong Tang is a MS student in Statistics: Data Science. He works on neural network models on soil micobiome data to predict characteristics of potato growth. His completed his undergraduate degree in Computer Sciences and Mathematics at the University of Wisconsin-Madison. 
+	 </div>
     </div>
 
 </div>
@@ -154,26 +170,6 @@ Name pronunciation: [namedrop.io/claudiasolislemus](https://namedrop.io/claudias
 
 </div>
 
-<div class="container">
-    <div class="row-fluid">
-        <div class="span2">
-        <a href="../assets/pics/yuren.jpg">
-            <img src="../assets/pics/yuren.jpg"
-                  title="YurenSun" alt="YurenSun"/></a>
-        </div>
-
-        <div class="span5">
-            <p>
-            Yuren Sun is a senior undergraduate student in Computer Sciences, Economics, and Mathematics. She works on the applications of neural network models in the classifications of animals with sounds.
-            </p>
-            <p>Pronouns: she/her</p>
-
-            <button type="button" onclick="window.open('https://yurensun.github.io/','_blank')">Website</button>
-            <button type="button" onclick="window.open('https://namedrop.io/yurensun','_blank')">Name pronunciation</button>
-        </div>
-    </div>
-
-</div>
 
 <div class="container">
     <div class="row-fluid">
@@ -234,20 +230,6 @@ Name pronunciation: [namedrop.io/claudiasolislemus](https://namedrop.io/claudias
 
 </div>
 
-          
-<div class="container">
-    <div class="row-fluid">
-        <div class="span2">
-        <a href="../assets/pics/nicole.jpeg">
-            <img src="../assets/pics/nicole.jpeg"
-                  title="Nicole Athanasiou" alt="Nicole Athanasiou"/></a>
-        </div>
-
-        <div class="span5">
-            Nicole Athanasiou is a senior undergraduate student majoring in Applied Mathematics, Statistics, and Environmental Studies. She is programming simulations and data analyses as an extension of a work involving a gene mapping model of multiple variants with multiple phenotypes. 
-     </div>
-    </div>
-</div>
 
 
 <div class="container">
@@ -259,7 +241,7 @@ Name pronunciation: [namedrop.io/claudiasolislemus](https://namedrop.io/claudias
         </div>
 
         <div class="span5">
-            Reed Nelson is a junior undergraduate student majoring in Computer Science, Mathematics, and Philosophy. He is building a self-sustaining database of Latinx in Statistics and Data Science for the <a href="https://www.amstat.org/">American Statistical Association</a>. 
+            Reed Nelson is a junior undergraduate student majoring in Computer Science, Mathematics, and Philosophy. He is developing an algorithm to align soil microbe networks based on topological and biological data. 
      </div>
     </div>
 </div>
@@ -267,6 +249,9 @@ Name pronunciation: [namedrop.io/claudiasolislemus](https://namedrop.io/claudias
 ---
 
 ### <a name="past"></a>Past members
+- [Nicole Athanasiou](https://github.com/nathanasiou) (BS Applied Mathematics, Statistics, Environmental Studies, UW-Madison 2021) created interactive web application for biologists to determine their sample size in experiments. 
+- [Shengwen Yang](https://www.shengwenyang.com/) (MS Data Science, UW-Madison 2021) worked on the symmetry preserving Neural Network models for phylogenetic inference.
+- [Yuren Sun](https://yurensun.github.io/) (BS Computer Science, Mathematics, and Economics, UW-Madison 2021) worked on the applications of neural network models in the classifications of animals and pseudomonas sequence data. She will attend MSCS program at Stanford University in Fall 2022.
 - [Songyang Cheng](https://csy99.github.io/Blog/) (BBA, Information Systems + Computer Science, UW-Madison 2021). He tested the applicability of neural network models to microbial genomic datasets to predict important phenotypes like those related to antibiotic resistance. He is attending MEng EECS program at UC-Berkeley. 
 - Junting Wang (BS Statistics, UW-Madison 2020) is attending UMichigan at the Statistics PhD program
 - [Ritika Mittal](https://www.linkedin.com/in/ritika-mittal-011ab2178/) (BS Computer Science, UW-Madison 2022) worked on user-friendly open-source software that would allow biologists to visualize complex phylogenetic networks.
@@ -310,3 +295,8 @@ Name pronunciation: [namedrop.io/claudiasolislemus](https://namedrop.io/claudias
     - wanting to apply for a postdoc position in the lab, read [here](https://github.com/solislemuslab/lab-dynamics/blob/master/interest-in-lab.md#applypostdoc)
     - wanting to apply to your own funding with me as supervisor, read [here](https://github.com/solislemuslab/lab-dynamics/blob/master/interest-in-lab.md#postdocfunds)
 
+#### New positions funded by NSF CAREER
+
+- [Postdoctoral researcher in the inference of phylogenetic networks](https://solislemuslab.github.io//pages/positions-career1.html)
+- [Postdoctoral position in statistical education](https://solislemuslab.github.io//pages/positions-career2.html)
+- [Project assistantship in Julia package development and maintenance](https://solislemuslab.github.io//pages/positions-career3.html)
