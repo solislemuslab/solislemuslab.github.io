@@ -79,20 +79,6 @@ Name pronunciation: [namedrop.io/claudiasolislemus](https://namedrop.io/claudias
 <div class="container">
     <div class="row-fluid">
         <div class="span2">
-        <a href="../assets/pics/yunyi.JPG">
-            <img src="../assets/pics/yunyi.JPG"
-                  title="YunyiShen" alt="YunyiShen"/></a>
-        </div>
-
-        <div class="span5">
-            Yunyi Shen is a MS student in Wildlife Ecology and in Statistics. He works on Bayesian regression models that reconstruct network from observations and their applications in the community ecology of mammals/plants/microbes. He did his undergraduate degree in Physical Biology at <a href="http://english.pku.edu.cn/">Peking University</a>. [<a href="https://yunyishen.ml/">personal website</a>] [<a href="https://github.com/YunyiShen">github</a>]<br/>
-        </div>
-    </div>
-
-</div>
-<div class="container">
-    <div class="row-fluid">
-        <div class="span2">
             <a href="../assets/pics/sam.jpg">
             <img src="../assets/pics/sam.jpg"
                   title="SamOzminkowski" alt="SamOzminkowski">
@@ -249,6 +235,7 @@ Name pronunciation: [namedrop.io/claudiasolislemus](https://namedrop.io/claudias
 ---
 
 ### <a name="past"></a>Past members
+- [Yunyi Shen](https://yunyishen.ml) (MS Statistics, Wildlife Ecology, UW-Madison 2021) worked on graphical selection of Gaussian chain graph models using Bayesian LASSO and Spike-and-Slab LASSO methods, their theories, interpretations and applications in microbiome. He is attending EECS PhD program at MIT affiliated with LIDS. 
 - [Nicole Athanasiou](https://github.com/nathanasiou) (BS Applied Mathematics, Statistics, Environmental Studies, UW-Madison 2021) created interactive web application for biologists to determine their sample size in experiments. 
 - [Shengwen Yang](https://www.shengwenyang.com/) (MS Data Science, UW-Madison 2021) worked on the symmetry preserving Neural Network models for phylogenetic inference.
 - [Yuren Sun](https://yurensun.github.io/) (BS Computer Science, Mathematics, and Economics, UW-Madison 2021) worked on the applications of neural network models in the classifications of animals and pseudomonas sequence data. She will attend MSCS program at Stanford University in Fall 2022.
