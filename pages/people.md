@@ -144,22 +144,6 @@ Name pronunciation: [namedrop.io/claudiasolislemus](https://namedrop.io/claudias
 <div class="container">
     <div class="row-fluid">
         <div class="span2">
-        <a href="../assets/pics/zhaoyi2.png">
-            <img src="../assets/pics/zhaoyi2.png"
-                  title="ZhaoyiZhang" alt="ZhaoyiZhang"/></a>
-        </div>
-
-        <div class="span5">
-            Zhaoyi Zhang is a junior undergraduate student in Computer Science and in Data Science. He is testing the applicability of neural network models to microbial genomic datasets to predict important phenotypes like those related to antibiotic resistance.
-        </div>
-    </div>
-
-</div>
-
-
-<div class="container">
-    <div class="row-fluid">
-        <div class="span2">
         <a href="../assets/pics/zhaoxingWu.jpg">
             <img src="../assets/pics/zhaoxingWu.jpg"
                   title="ZhaoxingWu" alt="ZhaoxingWu"/></a>
@@ -235,6 +219,7 @@ Name pronunciation: [namedrop.io/claudiasolislemus](https://namedrop.io/claudias
 ---
 
 ### <a name="past"></a>Past members
+- [Zhaoyi Zhang](https://www.linkedin.com/in/zhang-zhaoyi/) (BS Computer Science, Data Science, Mathematics, UW-Madison 2022). He tested the applicability of deep neural networks to genomic datasets to predict important phenotypes. He will work as a Software Engineer at Oracle after graduation.
 - [Yunyi Shen](https://yunyishen.ml) (MS Statistics, Wildlife Ecology, UW-Madison 2021) worked on graphical selection of Gaussian chain graph models using Bayesian LASSO and Spike-and-Slab LASSO methods, their theories, interpretations and applications in microbiome. He is attending EECS PhD program at MIT affiliated with LIDS. 
 - [Nicole Athanasiou](https://github.com/nathanasiou) (BS Applied Mathematics, Statistics, Environmental Studies, UW-Madison 2021) created interactive web application for biologists to determine their sample size in experiments. 
 - [Shengwen Yang](https://www.shengwenyang.com/) (MS Data Science, UW-Madison 2021) worked on the symmetry preserving Neural Network models for phylogenetic inference.
