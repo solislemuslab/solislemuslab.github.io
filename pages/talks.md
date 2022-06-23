@@ -20,6 +20,8 @@ description: Claudia Solis-Lemus' talks
 
 ### 2022
 
+Evolution conference: "Statistical challenges to infer phylogenetic networks" in the symposium of "Towards the Network of Life" (_June 28_)
+
 EEOB Seminar series in Iowa State U: Statistical challenges to infer phylogenetic networks (_May 5_)
 
 Scalable inference of phylogenetic networks, [RADsequencing for phylogenOMICs](https://www.taxon-omics.com/news-events-bl/5-6-april-2022-rad-sequencing-for-phylogenomics), Taxon-OMICS partners from Göttingen, München and Braunschweig (_Apr 6_)
