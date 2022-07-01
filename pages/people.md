@@ -216,6 +216,20 @@ Name pronunciation: [namedrop.io/claudiasolislemus](https://namedrop.io/claudias
     </div>
 </div>
 
+<div class="container">
+    <div class="row-fluid">
+        <div class="span2">
+        <a href="../assets/pics/yibo.JPG">
+            <img src="../assets/pics/yibo.JPG"
+                  title="Yibo Kong" alt="Yibo Kong"/></a>
+        </div>
+
+        <div class="span5">
+            Yibo Kong is a sophomore undergraduate student majoring in Computer Science and Data Science. He works on unsupervised learning of phylogenetic trees.
+     </div>
+    </div>
+</div>
+
 ---
 
 ### <a name="past"></a>Past members
