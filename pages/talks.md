@@ -280,7 +280,7 @@ Great! Please fill out [this google form](https://forms.gle/1kpZE1XrKe9YS9cHA)
 | 1 April 2022 | Juliana Gonzalez Tobon 🇨🇴 | [What makes potatoes sick?](https://youtu.be/shf6BoJdgnM) |
 | 6 May 2022 | Adriana Romero-Olivares 🇲🇽 | [Fungal responses to climate change and consequences to our ecosystems](https://youtu.be/qA8V0M4T6Sc) |
 | 3 June 2022 | Rene Flores Garcia 🇲🇽 | [Emulating a Pulsar in BRB](https://youtu.be/wc1Yr5N_jA0) |
-| 1 July 2022 | Nayomi Plaza Rodriguez | |
+| 1 July 2022 | Nayomi Plaza Rodriguez 🇵🇷 | [Elucidating the nanoscale interactions between wood and water](https://youtu.be/4UhqhPHb0z8) |
 | 5 August 2022 | Marcela Tabima Martinez | |
 | 2 September 2022 | Laura Muñoz Baena | |
 | 7 October 2022 | Natalia Rosario-Melendez | |
