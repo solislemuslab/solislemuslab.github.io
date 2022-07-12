@@ -183,24 +183,6 @@ Name pronunciation: [namedrop.io/claudiasolislemus](https://namedrop.io/claudias
         </div>
     </div>
 </div>
-<div class="container">
-    <div class="row-fluid">
-        <div class="span2">
-        <a href="../assets/pics/fardeen.jpeg">
-            <img src="../assets/pics/fardeen.jpeg"
-                  title="Fardeen Meeran " alt="Fardeen Meeran"/></a>
-        </div>
-
-        <div class="span5">
-            Fardeen Meeran is a senior undergraduate student majoring in Computer Science. He currently is taking part in the development and testing of the Phylogenetic network visualization application. 
-            
-            <button type="button" onclick="window.location.href='https://meerxn.github.io/MyPersonalCV/';">website</button>
-     </div>
-    </div>
-
-</div>
-
-
 
 <div class="container">
     <div class="row-fluid">
@@ -233,6 +215,7 @@ Name pronunciation: [namedrop.io/claudiasolislemus](https://namedrop.io/claudias
 ---
 
 ### <a name="past"></a>Past members
+- [Fardeen Meeran](https://meerxn.github.io/MyPersonalCV/) (BS Computer Science, UW-Madison 2022). He worked in a web app to visualize phylogenetic networks.
 - [Zhaoyi Zhang](https://www.linkedin.com/in/zhang-zhaoyi/) (BS Computer Science, Data Science, Mathematics, UW-Madison 2022). He tested the applicability of deep neural networks to genomic datasets to predict important phenotypes. He will work as a Software Engineer at Oracle after graduation.
 - [Yunyi Shen](https://yunyishen.ml) (MS Statistics, Wildlife Ecology, UW-Madison 2021) worked on graphical selection of Gaussian chain graph models using Bayesian LASSO and Spike-and-Slab LASSO methods, their theories, interpretations and applications in microbiome. He is attending EECS PhD program at MIT affiliated with LIDS. 
 - [Nicole Athanasiou](https://github.com/nathanasiou) (BS Applied Mathematics, Statistics, Environmental Studies, UW-Madison 2021) created interactive web application for biologists to determine their sample size in experiments. 
