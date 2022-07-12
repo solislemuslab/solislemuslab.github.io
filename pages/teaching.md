@@ -46,7 +46,7 @@ description: Claudia Solis-Lemus' teaching
 
 #### Summer 2022
 
-- **Julia workshop for Data Science** co-organized with Doug Bates for [ISMB 2022](https://www.iscb.org/ismb2022-program/tutorials#ip5) on July 10th, 2022. [GitHub](https://github.com/crsl4/julia-workshop)
+- **Julia workshop for Data Science** co-organized with Doug Bates for [ISMB 2022](https://www.iscb.org/ismb2022-program/tutorials#ip5) on July 10th, 2022. [Website](https://crsl4.github.io/julia-workshop/), [GitHub](https://github.com/crsl4/julia-workshop)
 - Statistics for Forensics 101 (National Forensic College): [website](https://crsl4.github.io/forensic-stat/)
 
 #### Spring 2022
