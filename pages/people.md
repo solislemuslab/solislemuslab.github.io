@@ -211,7 +211,7 @@ Name pronunciation: [namedrop.io/claudiasolislemus](https://namedrop.io/claudias
         </div>
 
         <div class="span5">
-            Reed Nelson is a junior undergraduate student majoring in Computer Science, Mathematics, and Philosophy. He is developing an algorithm to align soil microbe networks based on topological and biological data. 
+            [Reed Nelson](https://pages.cs.wisc.edu/~rnelson/) is a senior studying Computer Science, Mathematics, and Philosophy. He is developing an algorithm to align soil microbiome networks based on topological and biological data.
      </div>
     </div>
 </div>
