@@ -74,6 +74,24 @@ Name pronunciation: [namedrop.io/claudiasolislemus](https://namedrop.io/claudias
 
 ---
 
+### <a name="postdocs"></a>Postdocs and Research Fellows
+
+<div class="container">
+    <div class="row-fluid">
+        <div class="span2">
+            <a href="https://pubs.rsc.org/en/content/articlehtml/2015/mb/c4mb00413b">
+            <img src="../assets/pics/rosa.png"
+                  title="Aghdam2014" alt="Aghdam2014">
+            </a>
+        </div>
+        <div class="span5">
+            Rosa Aghdam is a researcher in the area of Statistics and Bioinformatics. Her work is focused on the statistical and computational methods for learning microbiome networks. She earned her PhD in Statistics from Shahid Beheshti university in Iran. 
+        </div>
+    </div>
+</div>
+
+
+
 ### <a name="graduate"></a>Graduate students
 
 <div class="container">
