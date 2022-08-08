@@ -46,6 +46,11 @@ description: Claudia Solis-Lemus' teaching
 
 #### Summer 2022
 
+- [AI+Science Summer school](https://datascience.uchicago.edu/events/2022-ai-science-summer-school/): Deep learning in biology. University of Chicago. August 10, 2022.
+  - [Toy implementation of Bayesian NN in Julia](https://github.com/crsl4/toy-bayesian-nn/blob/main/bayesian-nn.ipynb)
+
+- **Woods Hole:** Faculty member of the Marine Biological Laboratory workshop on Molecular Evolution. Lecture and tutorial on phylogenetic networks. Woods Hole, USA.
+
 - **Julia workshop for Data Science** co-organized with Doug Bates for [ISMB 2022](https://www.iscb.org/ismb2022-program/tutorials#ip5) on July 10th, 2022. [Website](https://crsl4.github.io/julia-workshop/), [GitHub](https://github.com/crsl4/julia-workshop)
 - Statistics for Forensics 101 (National Forensic College): [website](https://crsl4.github.io/forensic-stat/)
 
