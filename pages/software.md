@@ -120,7 +120,6 @@ Bayesian species delimitation integrating genes and traits data.
         <div class="span5">
             <a href="https://github.com/solislemuslab/BayesianNetworkRegression.jl">BayesianNetworkRegression.jl</a><br/>
             A Julia package for fitting Bayesian Network Regression, a model for inferring the relationships between microbiome networks and a dependent variable of interest like biological phenotypes.
-
             Also please see the <br/>
             <a href="https://solislemuslab.github.io/BayesianNetworkRegression.jl/dev/">documentation and tutorials.</a><br/>
         </div>
