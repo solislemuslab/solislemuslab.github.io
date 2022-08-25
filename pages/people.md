@@ -161,7 +161,7 @@ Name pronunciation: [namedrop.io/claudiasolislemus](https://namedrop.io/claudias
         </div>
 
         <div class="span5">
-       		<a href=https://sites.google.com/view/evangorstein>Evan Gorstein</a> is a PhD student in statistics. He works on high dimensional mixed effect models for microbiome data. His completed his undergraduate degree in math and statistics at the University of Chicago.
+       		<a href="https://sites.google.com/view/evangorstein">Evan Gorstein</a> is a PhD student in statistics. He works on high dimensional mixed effect models for microbiome data. His completed his undergraduate degree in math and statistics at the University of Chicago.
 	 </div>
     </div>
 
