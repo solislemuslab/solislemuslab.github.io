@@ -152,6 +152,22 @@ Name pronunciation: [namedrop.io/claudiasolislemus](https://namedrop.io/claudias
 
 </div>
 
+<div class="container">
+    <div class="row-fluid">
+        <div class="span2">
+        <a href="../assets/pics/evan.jpeg">
+            <img src="../assets/pics/evan.jpeg"
+                  title="EvanGorstein" alt="EvanGorstein"/></a>
+        </div>
+
+        <div class="span5">
+       		<a href="https://sites.google.com/view/evangorstein">Evan Gorstein</a> is a PhD student in statistics. He works on high dimensional mixed effect models for microbiome data. He completed his undergraduate degree in math and statistics at the University of Chicago.
+	 </div>
+    </div>
+
+</div>
+
+
 ---
 
 ### <a name="undergraduate"></a>Undergraduate students
