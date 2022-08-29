@@ -129,36 +129,36 @@ Examples of our current research involve:
 
 <strong style="color: SlateBlue;">Ozminkowski, S.</strong>, <b>Sol&iacute;s-Lemus, C.</b> (2022). Identifying microbial drivers in biological phenotypes with a Bayesian Network Regression model, [arXiv (2022): 2208.05600](https://arxiv.org/abs/2208.05600), [github](https://github.com/solislemuslab/BayesianNetworkRegression.jl) 
 
-Shen, Y.*, <b>Sol&iacute;s-Lemus, C.</b>, S. K. Deshpande. (2022). Sparse Gaussian chain graphs with the spike-and-slab LASSO: Algorithms and asymptotics, [arXiv (2022): 2207.07020](https://arxiv.org/abs/2207.07020)
+<strong style="color: SlateBlue;">Shen, Y.</strong>, <b>Sol&iacute;s-Lemus, C.</b>, S. K. Deshpande. (2022). Sparse Gaussian chain graphs with the spike-and-slab LASSO: Algorithms and asymptotics, [arXiv (2022): 2207.07020](https://arxiv.org/abs/2207.07020)
 
-<b>Sol&iacute;s-Lemus, C.</b>, S. Yang*, L. Zepeda-Nunez (2022).
+<b>Sol&iacute;s-Lemus, C.</b>, <strong style="color: SlateBlue;">S. Yang</strong>, L. Zepeda-Nunez (2022).
 Accurate Phylogenetic Inference with a Symmetry-preserving Neural Network Model, [arXiv (2022): 2201.04663](https://arxiv.org/abs/2201.04663), [github](https://github.com/Forgotten/nn-phylogenetics) 
 
-Sun, Y.*, T.M. Maeda, <b>Sol&iacute;s-Lemus, C.</b>, D. Pimentel-Alarcon, Z. Burivalova. (2021). Classification of animal sounds in a hyperdiverse rainforest using Convolutional Neural Networks, [arXiv (2021): 2111.14971](https://arxiv.org/abs/2111.14971), [github](https://github.com/solislemuslab/tropical-stethoscope) 
+<strong style="color: SlateBlue;">Sun, Y.</strong>, T.M. Maeda, <b>Sol&iacute;s-Lemus, C.</b>, D. Pimentel-Alarcon, Z. Burivalova. (2021). Classification of animal sounds in a hyperdiverse rainforest using Convolutional Neural Networks, [arXiv (2021): 2111.14971](https://arxiv.org/abs/2111.14971), [github](https://github.com/solislemuslab/tropical-stethoscope) 
 
 <b>Sol&iacute;s-Lemus, C.</b>, A. M. Holleman, A. Todor, B. Bradley, K. J. Ressler, D. Ghosh, M. P. Epstein. (2021). A Kernel Method for Dissecting Genetic Signals in Tests of High-Dimensional Phenotypes, [bioRxiv 2021.07.29.454336](https://doi.org/10.1101/2021.07.29.454336)
 
-Shen, Y.*, <b>Sol&iacute;s-Lemus, C.</b> (2021). CARlasso: An R package for the estimation of sparse microbial networks with predictors, [arXiv (2021): 2107.13763](https://arxiv.org/abs/2107.13763), [github](https://github.com/YunyiShen/CAR-LASSO) 
+<strong style="color: SlateBlue;">Shen, Y.</strong>, <b>Sol&iacute;s-Lemus, C.</b> (2021). CARlasso: An R package for the estimation of sparse microbial networks with predictors, [arXiv (2021): 2107.13763](https://arxiv.org/abs/2107.13763), [github](https://github.com/YunyiShen/CAR-LASSO) 
 
-Shen, Y.*, <b>Sol&iacute;s-Lemus, C.</b> (2021). The Effect of the Prior and the Experimental Design on the Inference of the Precision Matrix in Gaussian Chain Graph Models, [arXiv (2021): 2107.01306](https://arxiv.org/abs/2107.01306)
+<strong style="color: SlateBlue;">Shen, Y.</strong>,, <b>Sol&iacute;s-Lemus, C.</b> (2021). The Effect of the Prior and the Experimental Design on the Inference of the Precision Matrix in Gaussian Chain Graph Models, [arXiv (2021): 2107.01306](https://arxiv.org/abs/2107.01306)
 
 Tiley, George P., Andrew A. Crowl, Paul S. Manos, Emily B. Sessa, <b>Sol&iacute;s-Lemus, C.</b>, Anne D. Yoder, and J. Gordon Burleigh (2021) Phasing Alleles Improves Network Inference with Allopolyploids, [bioRxiv (2021): 10.1101/2021.05.04.442457](https://doi.org/10.1101/2021.05.04.442457)
 
-Shen, Y.*, <b>Sol&iacute;s-Lemus, C.</b> (2020). Bayesian Conditional Auto-Regressive LASSO Models to Learn Sparse Networks with Predictors, [arXiv (2020): 2012.08397](https://arxiv.org/abs/2012.08397), [github](https://github.com/YunyiShen/CAR-LASSO) 
+<strong style="color: SlateBlue;">Shen, Y.</strong>,, <b>Sol&iacute;s-Lemus, C.</b> (2020). Bayesian Conditional Auto-Regressive LASSO Models to Learn Sparse Networks with Predictors, [arXiv (2020): 2012.08397](https://arxiv.org/abs/2012.08397), [github](https://github.com/YunyiShen/CAR-LASSO) 
 
-<b>Sol&iacute;s-Lemus, C.</b>, Arrigo Coen* and Cecile An&eacute;. 2020. On the identifiability of phylogenetic networks under a pseudolikelihood model, [arxiv (2020): 2010.01758](https://arxiv.org/abs/2010.01758), [github](https://github.com/solislemuslab/snaq-identifiability) 
+<b>Sol&iacute;s-Lemus, C.</b>, <strong style="color: SlateBlue;">Arrigo Coen</strong> and Cecile An&eacute;. 2020. On the identifiability of phylogenetic networks under a pseudolikelihood model, [arxiv (2020): 2010.01758](https://arxiv.org/abs/2010.01758), [github](https://github.com/solislemuslab/snaq-identifiability) 
 
 ---
 ---
 
-| <span style="font-size:2em;">2022</span> |  | Liu, Y.*, <b>Sol&iacute;s-Lemus, C.</b> | 
+| <span style="font-size:2em;">2022</span> |  | <strong style="color: SlateBlue;">Liu, Y.</strong>, <b>Sol&iacute;s-Lemus, C.</b> | 
 | | | [WI Fast Stats](https://wi-fast-stats.wid.wisc.edu/): a collection of web apps for the visualization and analysis of WI Fast Plants data | 
 | | | [JOSE DOI:10.21105/jose.00159](https://jose.theoj.org/papers/10.21105/jose.00159) | |
 | | | [![arxiv (653k)](icons16/arxiv.png)](https://arxiv.org/abs/2012.03290) [![github (653k)](icons16/github.png)](https://github.com/crsl4/fast-stats) [![twitter (653k)](icons16/twitter.png)](https://twitter.com/solislemuslab/status/1521904890234253313) [![instagram (653k)](icons16/instagram.png)](https://www.instagram.com/p/CdL4R3gOCqC) [![youtube (653k)](icons16/youtube.png)](https://youtu.be/2dk0pdVbCzo) |
 
 ---
 
-| <span style="font-size:2em;">2022</span> |  | Zhang, Z.* , Cheng, S.*, <b>Sol&iacute;s-Lemus, C.</b> |
+| <span style="font-size:2em;">2022</span> |  | <strong style="color: SlateBlue;">Zhang, Z., Cheng, S.</strong>, <b>Sol&iacute;s-Lemus, C.</b> |
 | | |  Towards a robust out-of-the-box neural network model for genomic data |
 | | | [BMC Bioinformatics DOI:10.1186/s12859-022-04660-8](https://rdcu.be/cK1Bd) |
 | | | [![arxiv (653k)](icons16/arxiv.png)](https://arxiv.org/abs/2012.05995) [![github (653k)](icons16/github.png)](https://github.com/solislemuslab/dna-nn-theory) [![twitter (653k)](icons16/twitter.png)](https://twitter.com/solislemuslab/status/1517252569046867971) [![instagram (653k)](icons16/instagram.png)](https://www.instagram.com/p/CcoNzduOME8) [![youtube (653k)](icons16/youtube.png)](https://youtu.be/IXLVDIKxPvk) |
@@ -179,7 +179,7 @@ Shen, Y.*, <b>Sol&iacute;s-Lemus, C.</b> (2020). Bayesian Conditional Auto-Regre
 
 ---
 
-| <span style="font-size:2em;">2021</span> |  | Moller A., Winston K., Ji S., Wang J.*, Hargita Davis M., <b>Sol&iacute;s-Lemus, C.</b>, Read T. |
+| <span style="font-size:2em;">2021</span> |  | Moller A., Winston K., Ji S., <strong style="color: SlateBlue;">Wang J.</strong>, Hargita Davis M., <b>Sol&iacute;s-Lemus, C.</b>, Read T. |
 | | | Genes Influencing Phage Host Range in _Staphylococcus aureus_ on a Species-Wide Scale |
 | | | [mSphere](https://msphere.asm.org/content/6/1/e01263-20#sec-9) |
 | | | [![github (653k)](icons16/github.png)](https://github.com/solislemuslab/staph-nn) |
