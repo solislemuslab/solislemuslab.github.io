@@ -230,8 +230,8 @@ Tiley, George P., Andrew A. Crowl, Paul S. Manos, Emily B. Sessa, <b>Sol&iacute;
 
 | <span style="font-size:2em;">2018</span> |  | Bastide, P., <b>Sol&iacute;s-Lemus, C.</b>, Kriebel, R., Sparks, K.W., An&eacute;, C. |
 | | | Phylogenetic Comparative Methods on Phylogenetic Networks with Reticulations |
-| | | [Syst Bio DOI: 10.1093](https://academic.oup.com/sysbio/advance-article/doi/10.1093/sysbio/syy033/4985806?guestAccessKey=507189f8-9ff2-4e12-b17e-29c2a1b2e7ec) |
-| | | [![bioarxiv (653k)](icons16/bioarxiv.png)](https://www.biorxiv.org/content/early/2017/09/28/194050) |
+| | | [DOI: 10.1093](https://academic.oup.com/sysbio/advance-article/doi/10.1093/sysbio/syy033/4985806?guestAccessKey=507189f8-9ff2-4e12-b17e-29c2a1b2e7ec) |
+| | | [![systbio (653k)](icons16/systbio.png)](https://academic.oup.com/sysbio/advance-article/doi/10.1093/sysbio/syy033/4985806?guestAccessKey=507189f8-9ff2-4e12-b17e-29c2a1b2e7ec) [![bioarxiv (653k)](icons16/bioarxiv.png)](https://www.biorxiv.org/content/early/2017/09/28/194050) |
 
 
 ---
