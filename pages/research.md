@@ -125,6 +125,8 @@ Examples of our current research involve:
 
 <button type="button" onclick="window.location.href='https://scholar.google.com/citations?user=GrUypj8AAAAJ&hl=en&oi=ao';">Google Scholar</button>
 
+<button type="button" onclick="window.location.href='https://github.com/solislemuslab/solislemuslab.github.io/blob/master/assets/misc/publications.bib';">Bibtex</button>
+
 #### Preprints
 
 <strong style="color: SlateBlue;">Ozminkowski, S.</strong>, <b>Sol&iacute;s-Lemus, C.</b> (2022). Identifying microbial drivers in biological phenotypes with a Bayesian Network Regression model, [arXiv (2022): 2208.05600](https://arxiv.org/abs/2208.05600), [github](https://github.com/solislemuslab/BayesianNetworkRegression.jl) 

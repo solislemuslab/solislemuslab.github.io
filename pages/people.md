@@ -16,15 +16,6 @@ description: Sol&iacute;s-Lemus lab
     </div>
 </div>
 
-### Lab composition
-
-<div class="image123">
-    <img src="../assets/pics/labpoll2021.png" width="200">
-    <img src="../assets/pics/labpoll2021-2.png" width="200">
-    <img src="../assets/pics/labpoll2021-3.png" width="200">
-</div>
-
----
 
 ### Claudia Sol&iacute;s-Lemus
 
