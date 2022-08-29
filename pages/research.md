@@ -223,7 +223,8 @@ Tiley, George P., Andrew A. Crowl, Paul S. Manos, Emily B. Sessa, <b>Sol&iacute;
 
 | <span style="font-size:2em;">2018</span> |  | Spooner, D.M., Ruess, H., Arbizu, C.I., Rodriguez, F., <b>Sol&iacute;s-Lemus, C.</b> |
 | | | Greatly reduced phylogenetic structure in the cultivated potato clade (Solanum section Petota pro parte) |
-| | | [American Journal of Botany](http://onlinelibrary.wiley.com/doi/10.1002/ajb2.1008/abstract) |
+| | | [DOI: 10.1002/ajb2.1008](http://onlinelibrary.wiley.com/doi/10.1002/ajb2.1008/abstract) |
+| | | [![botany (653k)](icons16/botany.png)](http://onlinelibrary.wiley.com/doi/10.1002/ajb2.1008/abstract) |
 
 ---
 
