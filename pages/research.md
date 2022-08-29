@@ -148,29 +148,20 @@ Shen, Y.*, Sol&iacute;s-Lemus, C. (2020). Bayesian Conditional Auto-Regressive L
 
 Sol&iacute;s-Lemus, C., Arrigo Coen* and Cecile An&eacute;. 2020. On the identifiability of phylogenetic networks under a pseudolikelihood model, [arxiv (2020): 2010.01758](https://arxiv.org/abs/2010.01758), [github](https://github.com/solislemuslab/snaq-identifiability) 
 
-#### Published
+---
 
 | <span style="font-size:2em;">2022</span> |  | Liu, Y.*, Sol&iacute;s-Lemus, C. | 
 | | | [WI Fast Stats](https://wi-fast-stats.wid.wisc.edu/): a collection of web apps for the visualization and analysis of WI Fast Plants data | 
 | | | [JOSE DOI:10.21105/jose.00159](https://jose.theoj.org/papers/10.21105/jose.00159) | |
 | | | [![arxiv (653k)](icons16/arxiv.png)](https://arxiv.org/abs/2012.03290) [![github (653k)](icons16/github.png)](https://github.com/crsl4/fast-stats) [![twitter (653k)](icons16/twitter.png)](https://twitter.com/solislemuslab/status/1521904890234253313) [![instagram (653k)](icons16/instagram.png)](https://www.instagram.com/p/CdL4R3gOCqC) [![youtube (653k)](icons16/youtube.png)](https://youtu.be/2dk0pdVbCzo) |
-
-
-Zhang, Z.* , Cheng, S.*, Sol&iacute;s-Lemus, C. (2022). Towards a robust out-of-the-box neural network model for genomic data.
-- [BMC Bioinformatics DOI:10.1186/s12859-022-04660-8](https://rdcu.be/cK1Bd)
-- [arXiv (2020): 2012.05995](https://arxiv.org/abs/2012.05995)
-
-[![github (653k)](icons16/github.png)](https://github.com/solislemuslab/dna-nn-theory) 
-[![twitter (653k)](icons16/twitter.png)](https://twitter.com/solislemuslab/status/1517252569046867971)
-[![instagram (653k)](icons16/instagram.png)](https://www.instagram.com/p/CcoNzduOME8)
-[![youtube (653k)](icons16/youtube.png)](https://youtu.be/IXLVDIKxPvk)
-
-
-
-
-G. A. Satten, S. W. Curtis, C. Sol&iacute;s-Lemus, E. J. Leslie, M. P. Epstein. (2022) Efficient Estimation of Indirect Effects in Case-Control Studies Using a Unified Likelihood Framework.
-- [bioaRxiv:10.1101/2021.07.16.452552](https://www.biorxiv.org/content/10.1101/2021.07.16.452552v1)
-- [Statistics in Medicine: DOI 10.1002/sim.9390](https://onlinelibrary.wiley.com/doi/10.1002/sim.9390)
+| <span style="font-size:2em;">2022</span> |  | Zhang, Z.* , Cheng, S.*, Sol&iacute;s-Lemus, C. |
+| | |  Towards a robust out-of-the-box neural network model for genomic data |
+| | | [BMC Bioinformatics DOI:10.1186/s12859-022-04660-8](https://rdcu.be/cK1Bd) |
+| | | [![arxiv (653k)](icons16/arxiv.png)](https://arxiv.org/abs/2012.05995) [![github (653k)](icons16/github.png)](https://github.com/solislemuslab/dna-nn-theory) [![twitter (653k)](icons16/twitter.png)](https://twitter.com/solislemuslab/status/1517252569046867971) [![instagram (653k)](icons16/instagram.png)](https://www.instagram.com/p/CcoNzduOME8) [![youtube (653k)](icons16/youtube.png)](https://youtu.be/IXLVDIKxPvk) |
+| <span style="font-size:2em;">2022</span> |  | G. A. Satten, S. W. Curtis, C. Sol&iacute;s-Lemus, E. J. Leslie, M. P. Epstein |
+| | | Efficient Estimation of Indirect Effects in Case-Control Studies Using a Unified Likelihood Framework |
+| | | [Statistics in Medicine: DOI 10.1002/sim.9390](https://onlinelibrary.wiley.com/doi/10.1002/sim.9390) |
+| | | [![bioarxiv (653k)](icons16/bioarxiv.png)](https://www.biorxiv.org/content/10.1101/2021.07.16.452552v1) |
 
 
 Su M, Davis MH, Peterson J, Sol&iacute;s-Lemus C, Satola SW, Read TD. 2021. Effect of genetic background on the evolution of Vancomycin-Intermediate Staphylococcus aureus (VISA). 
@@ -295,7 +286,8 @@ Scientists world-wide are engaged in efforts to understand how all planetary bio
             Personnel: <br/>
                 - PI: Claudia Solis-Lemus <br/>
                 - Sam Ozminkowski (MS student in Statistics) <br/>
-                - Marianne Bjorner (MS student in CS)
+                - Marianne Bjorner (MS student in CS) <br/>
+                - Rosa Aghdam (postdoc)
         </div>
     </div>
 
@@ -311,10 +303,11 @@ The overall objective of this proposal is to pioneer the development of the next
 
 #### Publications supported by the award
 - Shen and Solis-Lemus (2020) [arXiv:2012.08397](https://arxiv.org/abs/2012.08397)
-- Zhang et al (2020) [arXiv:2012.05995](https://arxiv.org/abs/2012.05995)
-- Liu and Solis-Lemus (2020) [arXiv:2012.03290](https://arxiv.org/abs/2012.03290)
+- Zhang et al (2020) [BMC Bioinformatics DOI:10.1186/s12859-022-04660-8](https://rdcu.be/cK1Bd)
+- Liu and Solis-Lemus (2020) [JOSE DOI:10.21105/jose.00159](https://jose.theoj.org/papers/10.21105/jose.00159)
 - Shen and Solis-Lemus (2021) [arXiv:2107.01306](https://arxiv.org/abs/2107.01306)
 - Shen and Solis-Lemus (2021) [arXiv:2107.13763](https://arxiv.org/abs/2107.13763)
+- Ozminkowski and Solis-Lemus, C. (2022) [arXiv (2022): 2208.05600](https://arxiv.org/abs/2208.05600)
 
 ------------------------------------
 
@@ -334,6 +327,7 @@ The overall objective of this proposal is to pioneer the development of the next
             Personnel <br/>
                 - PI: Claudia Solis-Lemus <br/>
                 - Yunyi Shen (MS student in Statistics) <br/>
+                - Sam Ozminkowski (MS student in Statistics)
         </div>
     </div>
 
@@ -351,6 +345,7 @@ In order to identify the driving factors in plant and soil health, we need robus
 #### Publications supported by the award
 - Shen and Solis-Lemus (2020) [arXiv:2012.08397](https://arxiv.org/abs/2012.08397)
 - Shen and Solis-Lemus (2021) [arXiv:2107.01306](https://arxiv.org/abs/2107.01306)
+- Ozminkowski and Solis-Lemus, C. (2022) [arXiv (2022): 2208.05600](https://arxiv.org/abs/2208.05600)
 
 ------------------------------------
 
