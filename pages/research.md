@@ -230,7 +230,7 @@ Tiley, George P., Andrew A. Crowl, Paul S. Manos, Emily B. Sessa, <b>Sol&iacute;
 
 | <span style="font-size:2em;">2018</span> |  | Bastide, P., <b>Sol&iacute;s-Lemus, C.</b>, Kriebel, R., Sparks, K.W., An&eacute;, C. |
 | | | Phylogenetic Comparative Methods on Phylogenetic Networks with Reticulations |
-| | | [DOI: 10.1093](https://academic.oup.com/sysbio/advance-article/doi/10.1093/sysbio/syy033/4985806?guestAccessKey=507189f8-9ff2-4e12-b17e-29c2a1b2e7ec) |
+| | | [DOI: 10.1093/sysbio/syy033](https://academic.oup.com/sysbio/advance-article/doi/10.1093/sysbio/syy033/4985806?guestAccessKey=507189f8-9ff2-4e12-b17e-29c2a1b2e7ec) |
 | | | [![systbio (653k)](icons16/systbio.png)](https://academic.oup.com/sysbio/advance-article/doi/10.1093/sysbio/syy033/4985806?guestAccessKey=507189f8-9ff2-4e12-b17e-29c2a1b2e7ec) [![bioarxiv (653k)](icons16/bioarxiv.png)](https://www.biorxiv.org/content/early/2017/09/28/194050) |
 
 
@@ -238,8 +238,8 @@ Tiley, George P., Andrew A. Crowl, Paul S. Manos, Emily B. Sessa, <b>Sol&iacute;
 
 | <span style="font-size:2em;">2017</span> |  | <b>Sol&iacute;s-Lemus, C.</b>, Bastide, P., An&eacute;, C. |
 | | | PhyloNetworks: a package for phylogenetic networks |
-| | | [Molecular Biology and Evolution](https://academic.oup.com/mbe/article/34/12/3292/4103410?guestAccessKey=1d2c94f2-f064-42ae-a652-ce14cd095442) |
-| | | [![github (653k)](icons16/github.png)](https://github.com/crsl4/PhyloNetworks.jl) |
+| | | [DOI: 10.1093/molbev/msx235](https://academic.oup.com/mbe/article/34/12/3292/4103410?guestAccessKey=1d2c94f2-f064-42ae-a652-ce14cd095442) |
+| | | [![mbe (653k)](icons16/mbe.png)](https://academic.oup.com/mbe/article/34/12/3292/4103410?guestAccessKey=1d2c94f2-f064-42ae-a652-ce14cd095442) [![github (653k)](icons16/github.png)](https://github.com/crsl4/PhyloNetworks.jl) |
 
 ---
 
@@ -257,22 +257,23 @@ Tiley, George P., Andrew A. Crowl, Paul S. Manos, Emily B. Sessa, <b>Sol&iacute;
 
 | <span style="font-size:2em;">2016</span> |  | <b>Sol&iacute;s-Lemus, C.</b>, An&eacute;, C. |
 | | | Inferring phylogenetic networks with maximum pseudolikelihood under incomplete lineage sorting | 
-| | | [PLoS Genetics](http://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1005896) |
-| | | [![arxiv (653k)](icons16/arxiv.png)](http://arxiv.org/abs/1509.06075) |
+| | | [DOI: 10.1371/journal.pgen.1005896](http://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1005896) |
+| | | [![plosgen (653k)](icons16/plosgen.png)](http://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1005896) [![arxiv (653k)](icons16/arxiv.png)](http://arxiv.org/abs/1509.06075) [![github (653k)](icons16/github.png)](https://github.com/crsl4/PhyloNetworks.jl) |
 
 
 ---
 
 | <span style="font-size:2em;">2016</span> |  | <b>Sol&iacute;s-Lemus, C.</b>, Yang, M., An&eacute;, C. |
 | | | Inconsistency of species-tree methods under gene flow |
-| | | [Systematic Biology](http://sysbio.oxfordjournals.org/content/early/2016/05/04/sysbio.syw030.full.pdf?keytype=ref&ijkey=4YgLuAtchHF4QmS) |
-| | | [![github (653k)](icons16/github.png)](https://github.com/crsl4/InconsistencySpeciesTreeGeneFlow) |
+| | | [DOI: 10.1093/sysbio/syw030](http://sysbio.oxfordjournals.org/content/early/2016/05/04/sysbio.syw030.full.pdf?keytype=ref&ijkey=4YgLuAtchHF4QmS) |
+| | | [![systbio (653k)](icons16/systbio.png)](http://sysbio.oxfordjournals.org/content/early/2016/05/04/sysbio.syw030.full.pdf?keytype=ref&ijkey=4YgLuAtchHF4QmS) [![github (653k)](icons16/github.png)](https://github.com/crsl4/InconsistencySpeciesTreeGeneFlow) |
 
 ---
 
 | <span style="font-size:2em;">2016</span> |  | Baum, D., An&eacute;, C., Larget, B., <b>Sol&iacute;s-Lemus, C.</b>, Ho, L.S.T, Boone, P., Drummond, C., Bontrager, M., Hunter, S., Saucier, B. |
 | | | Statistical evidence for common ancestry: application to primates |
-| | | [Evolution](http://onlinelibrary.wiley.com/doi/10.1111/evo.12934/abstract) |
+| | | [DOI: 10.1111/evo.12934](http://onlinelibrary.wiley.com/doi/10.1111/evo.12934/abstract) |
+| | | [![evol (653k)](icons16/evol.png)](http://onlinelibrary.wiley.com/doi/10.1111/evo.12934/abstract) |
 
 ---
 
@@ -284,8 +285,8 @@ Tiley, George P., Andrew A. Crowl, Paul S. Manos, Emily B. Sessa, <b>Sol&iacute;
 
 | <span style="font-size:2em;">2015</span> |  | <b>Sol&iacute;s-Lemus, C.</b>, L.L. Knowles and C. An&eacute; | 
 | | | Bayesian species delimitation combining multiple genes and traits in a unified framework |
-| | | [Evolution](http://onlinelibrary.wiley.com/doi/10.1111/evo.12582/abstract) |
-| | | [![github (653k)](icons16/github.png)](https://github.com/cecileane/iBPP) |
+| | | [DOI: 10.1111/evo.12582](http://onlinelibrary.wiley.com/doi/10.1111/evo.12582/abstract) |
+| | | [![evol (653k)](icons16/evol.png)](http://onlinelibrary.wiley.com/doi/10.1111/evo.12582/abstract) [![github (653k)](icons16/github.png)](https://github.com/cecileane/iBPP) |
 
 ---
 
