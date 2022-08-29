@@ -14,7 +14,7 @@ description: El Zoominario
 </div>
 
 <div class="image123">
-    <img src="../assets/pics/zoominario-logo.png" width="650">
+    <img src="../assets/pics/zoominario-logo.png" width="320">
 </div>
 
 **What is El Zoominario?**
