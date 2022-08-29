@@ -155,21 +155,21 @@ Tiley, George P., Andrew A. Crowl, Paul S. Manos, Emily B. Sessa, <b>Sol&iacute;
 
 | <span style="font-size:2em;">2022</span> |  | <strong style="color: SlateBlue;">Liu, Y.</strong>, <b>Sol&iacute;s-Lemus, C.</b> | 
 | | | [WI Fast Stats](https://wi-fast-stats.wid.wisc.edu/): a collection of web apps for the visualization and analysis of WI Fast Plants data | 
-| | | [DOI:10.21105/jose.00159](https://jose.theoj.org/papers/10.21105/jose.00159) | |
+| | | [DOI: 10.21105/jose.00159](https://jose.theoj.org/papers/10.21105/jose.00159) | |
 | | | [![jose (653k)](icons16/jose.png)](https://jose.theoj.org/papers/10.21105/jose.00159) [![arxiv (653k)](icons16/arxiv.png)](https://arxiv.org/abs/2012.03290) [![github (653k)](icons16/github.png)](https://github.com/crsl4/fast-stats) [![twitter (653k)](icons16/twitter.png)](https://twitter.com/solislemuslab/status/1521904890234253313) [![instagram (653k)](icons16/instagram.png)](https://www.instagram.com/p/CdL4R3gOCqC) [![youtube (653k)](icons16/youtube.png)](https://youtu.be/2dk0pdVbCzo) |
 
 ---
 
 | <span style="font-size:2em;">2022</span> |  | <strong style="color: SlateBlue;">Zhang, Z., Cheng, S.</strong>, <b>Sol&iacute;s-Lemus, C.</b> |
 | | |  Towards a robust out-of-the-box neural network model for genomic data |
-| | | [DOI:10.1186/s12859-022-04660-8](https://rdcu.be/cK1Bd) |
+| | | [DOI: 10.1186/s12859-022-04660-8](https://rdcu.be/cK1Bd) |
 | | | [![bmc (653k)](icons16/bmc.png)](https://rdcu.be/cK1Bd) [![arxiv (653k)](icons16/arxiv.png)](https://arxiv.org/abs/2012.05995) [![github (653k)](icons16/github.png)](https://github.com/solislemuslab/dna-nn-theory) [![twitter (653k)](icons16/twitter.png)](https://twitter.com/solislemuslab/status/1517252569046867971) [![instagram (653k)](icons16/instagram.png)](https://www.instagram.com/p/CcoNzduOME8) [![youtube (653k)](icons16/youtube.png)](https://youtu.be/IXLVDIKxPvk) |
 
 ---
 
 | <span style="font-size:2em;">2022</span> |  | G. A. Satten, S. W. Curtis, C. <b>Sol&iacute;s-Lemus, C.</b>, E. J. Leslie, M. P. Epstein |
 | | | Efficient Estimation of Indirect Effects in Case-Control Studies Using a Unified Likelihood Framework |
-| | | [DOI 10.1002/sim.9390](https://onlinelibrary.wiley.com/doi/10.1002/sim.9390) |
+| | | [DOI: 10.1002/sim.9390](https://onlinelibrary.wiley.com/doi/10.1002/sim.9390) |
 | | | [![statmed (653k)](icons16/statmed.png)](https://onlinelibrary.wiley.com/doi/10.1002/sim.9390) [![bioarxiv (653k)](icons16/bioarxiv.png)](https://www.biorxiv.org/content/10.1101/2021.07.16.452552v1) |
 
 ---
@@ -183,21 +183,22 @@ Tiley, George P., Andrew A. Crowl, Paul S. Manos, Emily B. Sessa, <b>Sol&iacute;
 
 | <span style="font-size:2em;">2021</span> |  | Moller A., Winston K., Ji S., <strong style="color: SlateBlue;">Wang J.</strong>, Hargita Davis M., <b>Sol&iacute;s-Lemus, C.</b>, Read T. |
 | | | Genes Influencing Phage Host Range in _Staphylococcus aureus_ on a Species-Wide Scale |
-| | | [mSphere](https://msphere.asm.org/content/6/1/e01263-20#sec-9) |
-| | | [![github (653k)](icons16/github.png)](https://github.com/solislemuslab/staph-nn) |
+| | | [DOI: 10.1128/mSphere.01263-20](https://msphere.asm.org/content/6/1/e01263-20#sec-9) |
+| | | [![msphere (653k)](icons16/msphere.png)](https://msphere.asm.org/content/6/1/e01263-20#sec-9) [![github (653k)](icons16/github.png)](https://github.com/solislemuslab/staph-nn) |
 
 ---
 
 | <span style="font-size:2em;">2020</span> |  | Guerrero, V. and <b>Sol&iacute;s-Lemus, C.</b> |
 | | | A generalized measure of relative dispersion|
-| | | [Stat. and Prob. Letters](https://www.sciencedirect.com/science/article/pii/S0167715220301097?dgcid=author)|
+| | | [DOI: 10.1016/j.spl.2020.108806](https://www.sciencedirect.com/science/article/pii/S0167715220301097?dgcid=author)|
+| | | [![statprob (653k)](icons16/statprob.png)](https://www.sciencedirect.com/science/article/pii/S0167715220301097?dgcid=author) |
 
 ---
 
 | <span style="font-size:2em;">2020</span> |  | <b>Sol&iacute;s-Lemus, C.</b>, S. T. Fischer, A. Todor, C. Liu, E. J. Leslie, D. J. Cutler, D. Ghosh and M. P. Epstein |
 | | | Leveraging Family History in Case-Control Analyses of Rare Variation |
-| | | [GENETICS DOI: 10.1534](https://doi.org/10.1534/genetics.119.302846) |
-| | | [![github (653k)](icons16/github.png)](https://github.com/crsl4/ordinal-gamut) |
+| | | [DOI: 10.1534/genetics.119.302846](https://doi.org/10.1534/genetics.119.302846) |
+| | | [![genetics (653k)](icons16/genetics.png)](https://doi.org/10.1534/genetics.119.302846) [![github (653k)](icons16/github.png)](https://github.com/crsl4/ordinal-gamut) |
 
 ---
 
