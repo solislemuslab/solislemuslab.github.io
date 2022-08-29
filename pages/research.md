@@ -203,13 +203,15 @@ Tiley, George P., Andrew A. Crowl, Paul S. Manos, Emily B. Sessa, <b>Sol&iacute;
 
 | <span style="font-size:2em;">2020</span> |  | M. Su, J. Lyles, R. A. Petit III, J. M. Peterson, M. Hargita, H .Tang, <b>Sol&iacute;s-Lemus, C.</b>, C. Quave, T. D. Read
 | | | Genomic analysis of variability in delta-toxin levels between Staphylococcus aureus strains |
-| | | [PeerJ](https://peerj.com/articles/8717/) |
+| | | [DOI: 10.7717/peerj.8717](https://peerj.com/articles/8717/) |
+| | | [![peerj (653k)](icons16/peerj.png)](https://peerj.com/articles/8717/) |
 
 ---
 
 | <span style="font-size:2em;">2019</span> |  | <b>Sol&iacute;s-Lemus, C.</b>, Ma, X., Hostetter II, M., Kundu, S., Qiu, P., Pimentel-Alarc&oacute;n D. | 
 | | | Prediction of functional markers of mass cytometry data via deep learning |
-| | | [Biostatistics and Bioinformatics, Springer](https://link.springer.com/chapter/10.1007/978-3-030-33416-1_5) |
+| | | [DOI: 10.1007/978-3-030-33416-1_5](https://link.springer.com/chapter/10.1007/978-3-030-33416-1_5) |
+| | | [![biomed (653k)](icons16/biomed.png)](https://link.springer.com/chapter/10.1007/978-3-030-33416-1_5) |
 
 ---
 
