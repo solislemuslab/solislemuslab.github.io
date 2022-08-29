@@ -41,9 +41,9 @@ Great! Please fill out [this google form](https://forms.gle/1kpZE1XrKe9YS9cHA).
 </div>
 
 
-| Date | Speaker | Title | YouTube | TikTok |
+| Date | Country | Speaker | Title | YouTube | TikTok |
 | :---   | :--- | :--- | :---  | :--- |
-| 2 Oct 2020 | Daniel Pimentel-Alarcon 🇲🇽 | Machine-learning, inside the black-box  |[![youtube (653k)](icons16/youtube.png)](https://youtu.be/W1zxOj6895I) | [![tiktok (653k)](icons16/tiktok.png)](https://www.tiktok.com/@latinxinstem/video/7081420036396649771) |
+| 2 Oct 2020 | ![](../assets/pics/flags/mexico.png) | Daniel Pimentel-Alarcon | Machine-learning, inside the black-box  |[![youtube (653k)](icons16/youtube.png)](https://youtu.be/W1zxOj6895I) | [![tiktok (653k)](icons16/tiktok.png)](https://www.tiktok.com/@latinxinstem/video/7081420036396649771) |
 | 6 Nov 2020 | Jose Alonso Solis-Lemus 🇲🇽 | Supporting 2 patients with 1 ventilator |[![youtube (653k)](icons16/youtube.png)](https://youtu.be/MeFT0wUmkvw) | [![tiktok (653k)](icons16/tiktok.png)](https://www.tiktok.com/@latinxinstem/video/7081432005249977646) |
 | 4 Dec 2020 | Rosana Zenil-Ferguson 🇲🇽 | Impact of polyploidy and biome on fern diversification |[![youtube (653k)](icons16/youtube.png)](https://youtu.be/6H9z6vuKWfo) | |
 | 8 Jan 2021 | Claudia Solis-Lemus 🇲🇽 | Learning the Tree of Life |[![youtube (653k)](icons16/youtube.png)](https://youtu.be/lAP8kpPa288) | [![tiktok (653k)](icons16/tiktok.png)](https://www.tiktok.com/@latinxinstem/video/7081434544120843562) |
