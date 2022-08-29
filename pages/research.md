@@ -155,10 +155,10 @@ Sol&iacute;s-Lemus, C., Arrigo Coen* and Cecile An&eacute;. 2020. On the identif
 | | | [WI Fast Stats](https://wi-fast-stats.wid.wisc.edu/): a collection of web apps for the visualization and analysis of WI Fast Plants data | 
 | | | [JOSE DOI:10.21105/jose.00159](https://jose.theoj.org/papers/10.21105/jose.00159) | |
 | | | [![arxiv (653k)](icons16/arxiv.png)](https://arxiv.org/abs/2012.03290) [![github (653k)](icons16/github.png)](https://github.com/crsl4/fast-stats) [![twitter (653k)](icons16/twitter.png)](https://twitter.com/solislemuslab/status/1521904890234253313) [![instagram (653k)](icons16/instagram.png)](https://www.instagram.com/p/CdL4R3gOCqC) [![youtube (653k)](icons16/youtube.png)](https://youtu.be/2dk0pdVbCzo) |
-| <span style="font-size:2em;">2022</span> |  | Zhang, Z.* , Cheng, S.*, Sol&iacute;s-Lemus, C. |
 
 ---
 
+| <span style="font-size:2em;">2022</span> |  | Zhang, Z.* , Cheng, S.*, Sol&iacute;s-Lemus, C. |
 | | |  Towards a robust out-of-the-box neural network model for genomic data |
 | | | [BMC Bioinformatics DOI:10.1186/s12859-022-04660-8](https://rdcu.be/cK1Bd) |
 | | | [![arxiv (653k)](icons16/arxiv.png)](https://arxiv.org/abs/2012.05995) [![github (653k)](icons16/github.png)](https://github.com/solislemuslab/dna-nn-theory) [![twitter (653k)](icons16/twitter.png)](https://twitter.com/solislemuslab/status/1517252569046867971) [![instagram (653k)](icons16/instagram.png)](https://www.instagram.com/p/CcoNzduOME8) [![youtube (653k)](icons16/youtube.png)](https://youtu.be/IXLVDIKxPvk) |
@@ -170,46 +170,64 @@ Sol&iacute;s-Lemus, C., Arrigo Coen* and Cecile An&eacute;. 2020. On the identif
 | | | [Statistics in Medicine: DOI 10.1002/sim.9390](https://onlinelibrary.wiley.com/doi/10.1002/sim.9390) |
 | | | [![bioarxiv (653k)](icons16/bioarxiv.png)](https://www.biorxiv.org/content/10.1101/2021.07.16.452552v1) |
 
+---
 
-Su M, Davis MH, Peterson J, Sol&iacute;s-Lemus C, Satola SW, Read TD. 2021. Effect of genetic background on the evolution of Vancomycin-Intermediate Staphylococcus aureus (VISA). 
-- [PeerJ 9:e11764](https://doi.org/10.7717/peerj.11764)
+| <span style="font-size:2em;">2021</span> |  | Su M, Davis MH, Peterson J, Sol&iacute;s-Lemus C, Satola SW, Read TD. | 
+| | | Effect of genetic background on the evolution of Vancomycin-Intermediate Staphylococcus aureus (VISA)|
+| | | [PeerJ 9:e11764](https://doi.org/10.7717/peerj.11764) |
+| | | [![github (653k)](icons16/github.png)](https://github.com/crsl4/staph-visa) |
 
-[![github (653k)](icons16/github.png)](https://github.com/crsl4/staph-visa) 
+---
 
+| <span style="font-size:2em;">2021</span> |  | Moller A., Winston K., Ji S., Wang J.*, Hargita Davis M., Sol&iacute;s-Lemus C., Read T. |
+| | | Genes Influencing Phage Host Range in _Staphylococcus aureus_ on a Species-Wide Scale |
+| | | [mSphere](https://msphere.asm.org/content/6/1/e01263-20#sec-9) |
+| | | [![github (653k)](icons16/github.png)](https://github.com/solislemuslab/staph-nn) |
 
+---
 
-Abraham G. Moller, Kyle Winston, Shiyu Ji, Junting Wang*, Michelle N. Hargita Davis, Claudia R. Solis-Lemus, Timothy D. Read (2021) Genes Influencing Phage Host Range in _Staphylococcus aureus_ on a Species-Wide Scale. 
-- [mSphere](https://msphere.asm.org/content/6/1/e01263-20#sec-9)
+| <span style="font-size:2em;">2020</span> |  | Guerrero, V. and C. Sol&iacute;s-Lemus |
+| | | A generalized measure of relative dispersion|
+| | | [Stat. and Prob. Letters](https://www.sciencedirect.com/science/article/pii/S0167715220301097?dgcid=author)|
 
-[![github (653k)](icons16/github.png)](https://github.com/solislemuslab/staph-nn) 
+---
 
+| <span style="font-size:2em;">2020</span> |  | Sol&iacute;s-Lemus, C., S. T. Fischer, A. Todor, C. Liu, E. J. Leslie, D. J. Cutler, D. Ghosh and M. P. Epstein |
+| | | Leveraging Family History in Case-Control Analyses of Rare Variation |
+| | | [GENETICS DOI: 10.1534](https://doi.org/10.1534/genetics.119.302846) |
+| | | [![github (653k)](icons16/github.png)](https://github.com/crsl4/ordinal-gamut) |
 
+---
 
+| <span style="font-size:2em;">2020</span> |  | M. Su, J. Lyles, R. A. Petit III, J. M. Peterson, M. Hargita, H .Tang, C. Sol&iacute;s-Lemus, C. Quave, T. D. Read
+| | | Genomic analysis of variability in delta-toxin levels between Staphylococcus aureus strains |
+| | | [PeerJ](https://peerj.com/articles/8717/) |
 
+---
 
+| <span style="font-size:2em;">2019</span> |  | Sol&iacute;s-Lemus, C., Ma, X., Hostetter II, M., Kundu, S., Qiu, P., Pimentel-Alarc&oacute;n D. | 
+| | | Prediction of functional markers of mass cytometry data via deep learning |
+| | | [Biostatistics and Bioinformatics, Springer](https://link.springer.com/chapter/10.1007/978-3-030-33416-1_5) |
 
-Guerrero, V. and C. Sol&iacute;s-Lemus. 2020. A generalized measure of relative dispersion.
-- [Stat. and Prob. Letters](https://www.sciencedirect.com/science/article/pii/S0167715220301097?dgcid=author)
+---
 
-Sol&iacute;s-Lemus, C., S. T. Fischer, A. Todor, C. Liu, E. J. Leslie, D. J. Cutler, D. Ghosh and M. P. Epstein. 2020. Leveraging Family History in Case-Control Analyses of Rare Variation.
-- [GENETICS](https://doi.org/10.1534/genetics.119.302846)
+| <span style="font-size:2em;">2018</span> |  | Sol&iacute;s-Lemus, C., Pimentel-Alarc&oacute;n D. |
+| | | Breaking the Limits of Subspace Inference |
+| | | [56th Annual Allerton Conference on Communication, Control, and Computing](http://allerton.csl.illinois.edu/) |
 
-[![github (653k)](icons16/github.png)](https://github.com/crsl4/ordinal-gamut) 
+---
 
-M. Su, J. Lyles, R. A. Petit III, J. M. Peterson, M. Hargita, H .Tang, C. Sol&iacute;s-Lemus, C. Quave, T. D. Read. 2020. Genomic analysis of variability in delta-toxin levels between Staphylococcus aureus strains. [PeerJ](https://peerj.com/articles/8717/)
+| <span style="font-size:2em;">2018</span> |  | Spooner, D.M., Ruess, H., Arbizu, C.I., Rodriguez, F., Sol&iacute;s-Lemus |
+| | | Greatly reduced phylogenetic structure in the cultivated potato clade (Solanum section Petota pro parte) |
+| | | [American Journal of Botany](http://onlinelibrary.wiley.com/doi/10.1002/ajb2.1008/abstract) |
 
-#### 2019
+---
 
-Sol&iacute;s-Lemus, C., Ma, X., Hostetter II, M., Kundu, S., Qiu, P., Pimentel-Alarc&oacute;n D., 2019. Prediction of functional markers of mass cytometry data via deep learning. Biostatistics and Bioinformatics, [Springer](https://link.springer.com/chapter/10.1007/978-3-030-33416-1_5).
+| <span style="font-size:2em;">2018</span> |  | Bastide, P., Sol&iacute;s-Lemus, C., Kriebel, R., Sparks, K.W., An&eacute;, C. |
+| | | Phylogenetic Comparative Methods on Phylogenetic Networks with Reticulations |
+| | | [Syst Bio DOI: 10.1093](https://academic.oup.com/sysbio/advance-article/doi/10.1093/sysbio/syy033/4985806?guestAccessKey=507189f8-9ff2-4e12-b17e-29c2a1b2e7ec) |
+| | | [![bioarxiv (653k)](icons16/bioarxiv.png)](https://www.biorxiv.org/content/early/2017/09/28/194050) |
 
-#### 2018
-
-Sol&iacute;s-Lemus, C., Pimentel-Alarc&oacute;n D., 2018. Breaking the Limits of Subspace Inference. [56th Annual Allerton Conference on
-Communication, Control, and Computing](http://allerton.csl.illinois.edu/)
-
-Spooner, D.M., Ruess, H., Arbizu, C.I., Rodriguez, F., Sol&iacute;s-Lemus. 2018. Greatly reduced phylogenetic structure in the cultivated potato clade (Solanum section Petota pro parte). [American Journal of Botany](http://onlinelibrary.wiley.com/doi/10.1002/ajb2.1008/abstract)
-
-Bastide, P., Sol&iacute;s-Lemus, C., Kriebel, R., Sparks, K.W., An&eacute;, C. 2018. Phylogenetic Comparative Methods on Phylogenetic Networks with Reticulations. [bioRxiv](https://www.biorxiv.org/content/early/2017/09/28/194050) [Syst Bio](https://academic.oup.com/sysbio/advance-article/doi/10.1093/sysbio/syy033/4985806?guestAccessKey=507189f8-9ff2-4e12-b17e-29c2a1b2e7ec)
 
 #### 2017
 
