@@ -4,6 +4,15 @@ title: el zoominario
 description: El Zoominario
 ---
 
+<div class="navbar">
+    <div class="navbar-inner">
+        <ul class="nav">
+            <li><a href="https://www.tiktok.com/@latinxinstem">tiktok</a></li>
+            <li><a href="https://www.youtube.com/playlist?list=PL1AfUDnwvYbOA9rfrvyA2nR9SR0VYbklx">youtube</a></li>
+        </ul>
+    </div>
+</div>
+
 **What is El Zoominario?**
 It is a seminar series of scientific short talks (in English) given by Latinx in STEM. The goal is to increase visibility of Latinx people in STEM and inspire the next generation of Latinx scientists. The talks are meant to be accessible to the general audience.
 
