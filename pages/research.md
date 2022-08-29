@@ -124,7 +124,6 @@ Examples of our current research involve:
 ### <a name="publications"></a>Publications
 
 <button type="button" onclick="window.location.href='https://scholar.google.com/citations?user=GrUypj8AAAAJ&hl=en&oi=ao';">Google Scholar</button>
-
 <button type="button" onclick="window.location.href='https://github.com/solislemuslab/solislemuslab.github.io/blob/master/assets/misc/publications.bib';">Bibtex</button>
 
 #### Preprints
