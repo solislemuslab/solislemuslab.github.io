@@ -1,6 +1,6 @@
 ---
 layout: page
-title: el zoominario
+title: El Zoominario
 description: El Zoominario
 ---
 
@@ -31,12 +31,11 @@ Currently, we do not have the time to guarantee that all comments will be polite
 **I want to give a talk or nominate someone to give a talk?**
 Great! Please fill out [this google form](https://forms.gle/1kpZE1XrKe9YS9cHA).
 
-### Talks topics and countries
+
 <div class="image123">
-    <img src="../assets/pics/zoominario-wordcloud.png" width="150">
+    <img src="../assets/pics/zoominario-wordcloud.png" width="550">
 </div>
 
-### Schedule
 
 | Date | Speaker | Title | YouTube | TikTok |
 | :---   | :--- | :--- | :---  | :--- |
