@@ -133,9 +133,13 @@ Shen, Y.*, C. Sol&iacute;s-Lemus, S. K. Deshpande. (2022). Sparse Gaussian chain
 
 
 
-| Year | Authors | Title | DOI | Preprint | GitHub | Twitter | Instagram | 5-min talk |
+| Year | Authors | Title | DOI | Preprint |
 | :---:   | :---: | :---: | :---:  | :---: | :---: | :---: | :---: | :---: |
-| 2022 | Liu, Y.∗, Sol&iacute;s-Lemus, C. | [WI Fast Stats](https://wi-fast-stats.wid.wisc.edu/): a collection of web apps for the visualization and analysis of WI Fast Plants data | [JOSE DOI:10.21105/jose.00159](https://jose.theoj.org/papers/10.21105/jose.00159) | [arXiv (2020): 2012.03290](https://arxiv.org/abs/2012.03290) | [![github (653k)](icons16/github.png)](https://github.com/crsl4/fast-stats) | [![twitter (653k)](icons16/twitter.png)](https://twitter.com/solislemuslab/status/1521904890234253313) | [![instagram (653k)](icons16/instagram.png)](https://www.instagram.com/p/CdL4R3gOCqC) | [![youtube (653k)](icons16/youtube.png)](https://youtu.be/2dk0pdVbCzo) |
+| 2022 | Liu, Y.∗, Sol&iacute;s-Lemus, C. | [WI Fast Stats](https://wi-fast-stats.wid.wisc.edu/): a collection of web apps for the visualization and analysis of WI Fast Plants data | [JOSE DOI:10.21105/jose.00159](https://jose.theoj.org/papers/10.21105/jose.00159) | [arXiv (2020): 2012.03290](https://arxiv.org/abs/2012.03290) | 
+
+
+
+| [![github (653k)](icons16/github.png)](https://github.com/crsl4/fast-stats) | [![twitter (653k)](icons16/twitter.png)](https://twitter.com/solislemuslab/status/1521904890234253313) | [![instagram (653k)](icons16/instagram.png)](https://www.instagram.com/p/CdL4R3gOCqC) | [![youtube (653k)](icons16/youtube.png)](https://youtu.be/2dk0pdVbCzo) |
 
 
 
