@@ -155,29 +155,29 @@ Tiley, George P., Andrew A. Crowl, Paul S. Manos, Emily B. Sessa, <b>Sol&iacute;
 
 | <span style="font-size:2em;">2022</span> |  | <strong style="color: SlateBlue;">Liu, Y.</strong>, <b>Sol&iacute;s-Lemus, C.</b> | 
 | | | [WI Fast Stats](https://wi-fast-stats.wid.wisc.edu/): a collection of web apps for the visualization and analysis of WI Fast Plants data | 
-| | | [JOSE DOI:10.21105/jose.00159](https://jose.theoj.org/papers/10.21105/jose.00159) | |
+| | | [DOI:10.21105/jose.00159](https://jose.theoj.org/papers/10.21105/jose.00159) | |
 | | | [![jose (653k)](icons16/jose.png)](https://jose.theoj.org/papers/10.21105/jose.00159) [![arxiv (653k)](icons16/arxiv.png)](https://arxiv.org/abs/2012.03290) [![github (653k)](icons16/github.png)](https://github.com/crsl4/fast-stats) [![twitter (653k)](icons16/twitter.png)](https://twitter.com/solislemuslab/status/1521904890234253313) [![instagram (653k)](icons16/instagram.png)](https://www.instagram.com/p/CdL4R3gOCqC) [![youtube (653k)](icons16/youtube.png)](https://youtu.be/2dk0pdVbCzo) |
 
 ---
 
 | <span style="font-size:2em;">2022</span> |  | <strong style="color: SlateBlue;">Zhang, Z., Cheng, S.</strong>, <b>Sol&iacute;s-Lemus, C.</b> |
 | | |  Towards a robust out-of-the-box neural network model for genomic data |
-| | | [BMC Bioinformatics DOI:10.1186/s12859-022-04660-8](https://rdcu.be/cK1Bd) |
-| | | [![arxiv (653k)](icons16/arxiv.png)](https://arxiv.org/abs/2012.05995) [![github (653k)](icons16/github.png)](https://github.com/solislemuslab/dna-nn-theory) [![twitter (653k)](icons16/twitter.png)](https://twitter.com/solislemuslab/status/1517252569046867971) [![instagram (653k)](icons16/instagram.png)](https://www.instagram.com/p/CcoNzduOME8) [![youtube (653k)](icons16/youtube.png)](https://youtu.be/IXLVDIKxPvk) |
+| | | [DOI:10.1186/s12859-022-04660-8](https://rdcu.be/cK1Bd) |
+| | | [![bmc (653k)](icons16/bmc.png)](https://rdcu.be/cK1Bd) [![arxiv (653k)](icons16/arxiv.png)](https://arxiv.org/abs/2012.05995) [![github (653k)](icons16/github.png)](https://github.com/solislemuslab/dna-nn-theory) [![twitter (653k)](icons16/twitter.png)](https://twitter.com/solislemuslab/status/1517252569046867971) [![instagram (653k)](icons16/instagram.png)](https://www.instagram.com/p/CcoNzduOME8) [![youtube (653k)](icons16/youtube.png)](https://youtu.be/IXLVDIKxPvk) |
 
 ---
 
 | <span style="font-size:2em;">2022</span> |  | G. A. Satten, S. W. Curtis, C. <b>Sol&iacute;s-Lemus, C.</b>, E. J. Leslie, M. P. Epstein |
 | | | Efficient Estimation of Indirect Effects in Case-Control Studies Using a Unified Likelihood Framework |
-| | | [Statistics in Medicine: DOI 10.1002/sim.9390](https://onlinelibrary.wiley.com/doi/10.1002/sim.9390) |
-| | | [![bioarxiv (653k)](icons16/bioarxiv.png)](https://www.biorxiv.org/content/10.1101/2021.07.16.452552v1) |
+| | | [DOI 10.1002/sim.9390](https://onlinelibrary.wiley.com/doi/10.1002/sim.9390) |
+| | | [![statmed (653k)](icons16/statmed.png)](https://onlinelibrary.wiley.com/doi/10.1002/sim.9390) [![bioarxiv (653k)](icons16/bioarxiv.png)](https://www.biorxiv.org/content/10.1101/2021.07.16.452552v1) |
 
 ---
 
 | <span style="font-size:2em;">2021</span> |  | Su M, Davis MH, Peterson J, <b>Sol&iacute;s-Lemus, C.</b>, Satola SW, Read TD. | 
 | | | Effect of genetic background on the evolution of Vancomycin-Intermediate Staphylococcus aureus (VISA)|
-| | | [PeerJ 9:e11764](https://doi.org/10.7717/peerj.11764) |
-| | | [![github (653k)](icons16/github.png)](https://github.com/crsl4/staph-visa) |
+| | | [DOI: 10.7717/peerj.11764](https://doi.org/10.7717/peerj.11764) |
+| | | [![peerj (653k)](icons16/peerj.png)](https://doi.org/10.7717/peerj.11764) [![github (653k)](icons16/github.png)](https://github.com/crsl4/staph-visa) |
 
 ---
 
