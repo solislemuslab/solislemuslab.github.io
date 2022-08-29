@@ -125,26 +125,19 @@ Examples of our current research involve:
 
 <button type="button" onclick="window.location.href='https://scholar.google.com/citations?user=GrUypj8AAAAJ&hl=en&oi=ao';">Google Scholar</button>
 
-#### 2022
+#### Preprints
 
-Ozminkowski, S.*, Sol&iacute;s-Lemus, C. (2022). Identifying microbial drivers in biological phenotypes with a Bayesian Network Regression model.
-- [arXiv (2022): 2208.05600](https://arxiv.org/abs/2208.05600)
+Ozminkowski, S.*, Sol&iacute;s-Lemus, C. (2022). Identifying microbial drivers in biological phenotypes with a Bayesian Network Regression model, [arXiv (2022): 2208.05600](https://arxiv.org/abs/2208.05600), [github](https://github.com/solislemuslab/BayesianNetworkRegression.jl) 
 
-[![github (653k)](icons16/github.png)](https://github.com/solislemuslab/BayesianNetworkRegression.jl) 
-
-Shen, Y.*, C. Sol&iacute;s-Lemus, S. K. Deshpande. (2022). Sparse Gaussian chain graphs with the spike-and-slab LASSO: Algorithms and asymptotics.
-- [arXiv (2022): 2207.07020](https://arxiv.org/abs/2207.07020)
+Shen, Y.*, C. Sol&iacute;s-Lemus, S. K. Deshpande. (2022). Sparse Gaussian chain graphs with the spike-and-slab LASSO: Algorithms and asymptotics, [arXiv (2022): 2207.07020](https://arxiv.org/abs/2207.07020)
 
 
-Liu, Y.∗, Sol&iacute;s-Lemus, C. (2022). WI Fast Stats: a collection of web apps for the visualization and analysis of WI Fast Plants data.
-- [JOSE DOI:10.21105/jose.00159](https://jose.theoj.org/papers/10.21105/jose.00159)
-- [arXiv (2020): 2012.03290](https://arxiv.org/abs/2012.03290)
-- [WI Fast Stats website](https://wi-fast-stats.wid.wisc.edu/)
 
-[![github (653k)](icons16/github.png)](https://github.com/crsl4/fast-stats)
-[![twitter (653k)](icons16/twitter.png)](https://twitter.com/solislemuslab/status/1521904890234253313)
-[![instagram (653k)](icons16/instagram.png)](https://www.instagram.com/p/CdL4R3gOCqC)
-[![youtube (653k)](icons16/youtube.png)](https://youtu.be/2dk0pdVbCzo)
+| Year | Authors | Title | DOI | Preprint | GitHub | Twitter | Instagram | 5-min talk |
+| :---:   | :---: | :---: | :---:  | :---: | :---: | :---: | :---: | :---: |
+| 2022 | Liu, Y.∗, Sol&iacute;s-Lemus, C. | [WI Fast Stats](https://wi-fast-stats.wid.wisc.edu/): a collection of web apps for the visualization and analysis of WI Fast Plants data | [JOSE DOI:10.21105/jose.00159](https://jose.theoj.org/papers/10.21105/jose.00159) | [arXiv (2020): 2012.03290](https://arxiv.org/abs/2012.03290) | [![github (653k)](icons16/github.png)](https://github.com/crsl4/fast-stats) | [![twitter (653k)](icons16/twitter.png)](https://twitter.com/solislemuslab/status/1521904890234253313) | [![instagram (653k)](icons16/instagram.png)](https://www.instagram.com/p/CdL4R3gOCqC) | [![youtube (653k)](icons16/youtube.png)](https://youtu.be/2dk0pdVbCzo) |
+
+
 
 
 Zhang, Z.* , Cheng, S.*, Sol&iacute;s-Lemus, C. (2022). Towards a robust out-of-the-box neural network model for genomic data.
