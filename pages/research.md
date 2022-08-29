@@ -229,34 +229,65 @@ Sol&iacute;s-Lemus, C., Arrigo Coen* and Cecile An&eacute;. 2020. On the identif
 | | | [![bioarxiv (653k)](icons16/bioarxiv.png)](https://www.biorxiv.org/content/early/2017/09/28/194050) |
 
 
-#### 2017
+---
 
-Sol&iacute;s-Lemus, C., Bastide, P., An&eacute;, C. 2017. PhyloNetworks: a package for phylogenetic networks. [Molecular Biology and Evolution](https://academic.oup.com/mbe/article/34/12/3292/4103410?guestAccessKey=1d2c94f2-f064-42ae-a652-ce14cd095442)
+| <span style="font-size:2em;">2017</span> |  | Sol&iacute;s-Lemus, C., Bastide, P., An&eacute;, C. |
+| | | PhyloNetworks: a package for phylogenetic networks |
+| | | [Molecular Biology and Evolution](https://academic.oup.com/mbe/article/34/12/3292/4103410?guestAccessKey=1d2c94f2-f064-42ae-a652-ce14cd095442) |
+| | | [![github (653k)](icons16/github.png)](https://github.com/crsl4/PhyloNetworks.jl) |
 
-An&eacute;, C., Bastide, P., Mariadassou, M., Robin, S., Sol&iacute;s-Lemus C. 2017. Processus d'&eacute;volution r&eacute;ticul&eacute;e: tests de signal phylog&eacute;n&eacute;tique. [Journ&eacute;es de Statistique](http://jds2017.sfds.asso.fr/program/Soumissions/subm211.pdf)
+---
 
-Pimentel-Alarc&oacute;n D., Biswas A., C. Sol&iacute;s-Lemus. 2017.Adversarial Principal Component Analysis. IEEE International Symposium on Information Theory (ISIT) [![pdf (653k)](icons16/pdf-icon.png)](https://danielpimentel.github.io/publications.html).
+| <span style="font-size:2em;">2017</span> |  | An&eacute;, C., Bastide, P., Mariadassou, M., Robin, S., Sol&iacute;s-Lemus C. |
+| | | Processus d'&eacute;volution r&eacute;ticul&eacute;e: tests de signal phylog&eacute;n&eacute;tique | 
+| | | [Journ&eacute;es de Statistique](http://jds2017.sfds.asso.fr/program/Soumissions/subm211.pdf) |
 
-#### 2016
+---
 
-Sol&iacute;s-Lemus, C., An&eacute;, C. 2016. Inferring phylogenetic networks with maximum pseudolikelihood under incomplete lineage sorting.
-[PLoS Genetics](http://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1005896),
-[arxiv](http://arxiv.org/abs/1509.06075)
+| <span style="font-size:2em;">2017</span> |  | Pimentel-Alarc&oacute;n D., Biswas A., C. Sol&iacute;s-Lemus |
+| | | Adversarial Principal Component Analysis | 
+| | | [IEEE International Symposium on Information Theory (ISIT)](https://danielpimentel.github.io/publications.html) |
 
-Sol&iacute;s-Lemus, C., Yang, M., An&eacute;, C. 2016. Inconsistency of species-tree methods under gene flow.
-[Systematic Biology](http://sysbio.oxfordjournals.org/content/early/2016/05/04/sysbio.syw030.full.pdf?keytype=ref&ijkey=4YgLuAtchHF4QmS)
+---
 
-Baum, D., An&eacute;, C., Larget, B., Sol&iacute;s-Lemus, C., Ho, L.S.T, Boone, P., Drummond, C., Bontrager, M., Hunter, S., Saucier, B. 2016. Statistical evidence for common ancestry: application to primates, [Evolution](http://onlinelibrary.wiley.com/doi/10.1111/evo.12934/abstract)
+| <span style="font-size:2em;">2016</span> |  | Sol&iacute;s-Lemus, C., An&eacute;, C. |
+| | | Inferring phylogenetic networks with maximum pseudolikelihood under incomplete lineage sorting | 
+| | | [PLoS Genetics](http://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1005896) |
+| | | [![arxiv (653k)](icons16/arxiv.png)](http://arxiv.org/abs/1509.06075) |
 
-Pimentel-Alarc&oacute;n D., C. Sol&iacute;s-Lemus. 2016. Crime detection via crowdsourcing. 8th Mexican Conference on Pattern Recognition, Springer International [![pdf (653k)](icons16/pdf-icon.png)](https://danielpimentel.github.io/publications.html).
 
-#### 2015
+---
 
-Sol&iacute;s-Lemus, C., L.L. Knowles and C. An&eacute;. 2015. Bayesian species delimitation combining multiple genes and traits in a unified framework. [Evolution](http://onlinelibrary.wiley.com/doi/10.1111/evo.12582/abstract)
+| <span style="font-size:2em;">2016</span> |  | Sol&iacute;s-Lemus, C., Yang, M., An&eacute;, C. |
+| | | Inconsistency of species-tree methods under gene flow |
+| | | [Systematic Biology](http://sysbio.oxfordjournals.org/content/early/2016/05/04/sysbio.syw030.full.pdf?keytype=ref&ijkey=4YgLuAtchHF4QmS) |
+| | | [![github (653k)](icons16/github.png)](https://github.com/crsl4/InconsistencySpeciesTreeGeneFlow) |
 
-Sol&iacute;s-Lemus, C. (2015). Statistical methods to infer population structure with coalescence and gene flow.  PhD dissertation, Department of Statistics,
-University of Wisconsin-Madison
-[![pdf (653k)](icons16/pdf-icon.png)](https://www.stat.wisc.edu/~claudia/thesis.pdf)
+---
+
+| <span style="font-size:2em;">2016</span> |  | Baum, D., An&eacute;, C., Larget, B., Sol&iacute;s-Lemus, C., Ho, L.S.T, Boone, P., Drummond, C., Bontrager, M., Hunter, S., Saucier, B. |
+| | | Statistical evidence for common ancestry: application to primates |
+| | | [Evolution](http://onlinelibrary.wiley.com/doi/10.1111/evo.12934/abstract) |
+
+---
+
+| <span style="font-size:2em;">2016</span> |  | Pimentel-Alarc&oacute;n D., C. Sol&iacute;s-Lemus |
+| | | Crime detection via crowdsourcing |
+| | | [8th Mexican Conference on Pattern Recognition, Springer International](https://danielpimentel.github.io/publications.html) |
+
+---
+
+| <span style="font-size:2em;">2015</span> |  | Sol&iacute;s-Lemus, C., L.L. Knowles and C. An&eacute; | 
+| | | Bayesian species delimitation combining multiple genes and traits in a unified framework |
+| | | [Evolution](http://onlinelibrary.wiley.com/doi/10.1111/evo.12582/abstract) |
+| | | [![github (653k)](icons16/github.png)](https://github.com/cecileane/iBPP) |
+
+---
+
+| <span style="font-size:2em;">2015</span> |  | Sol&iacute;s-Lemus, C. |
+| | | Statistical methods to infer population structure with coalescence and gene flow.  | 
+| | | PhD dissertation, Department of Statistics, University of Wisconsin-Madison |
+| | | [![pdf (653k)](icons16/pdf-icon.png)](https://www.stat.wisc.edu/~claudia/thesis.pdf)
 
 ------------------------------------
 
