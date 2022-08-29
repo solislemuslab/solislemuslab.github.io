@@ -156,7 +156,7 @@ Tiley, George P., Andrew A. Crowl, Paul S. Manos, Emily B. Sessa, <b>Sol&iacute;
 | <span style="font-size:2em;">2022</span> |  | <strong style="color: SlateBlue;">Liu, Y.</strong>, <b>Sol&iacute;s-Lemus, C.</b> | 
 | | | [WI Fast Stats](https://wi-fast-stats.wid.wisc.edu/): a collection of web apps for the visualization and analysis of WI Fast Plants data | 
 | | | [JOSE DOI:10.21105/jose.00159](https://jose.theoj.org/papers/10.21105/jose.00159) | |
-| | | [![arxiv (653k)](icons16/arxiv.png)](https://arxiv.org/abs/2012.03290) [![github (653k)](icons16/github.png)](https://github.com/crsl4/fast-stats) [![twitter (653k)](icons16/twitter.png)](https://twitter.com/solislemuslab/status/1521904890234253313) [![instagram (653k)](icons16/instagram.png)](https://www.instagram.com/p/CdL4R3gOCqC) [![youtube (653k)](icons16/youtube.png)](https://youtu.be/2dk0pdVbCzo) |
+| | | [![jose (653k)](icons16/jose.png)](https://jose.theoj.org/papers/10.21105/jose.00159) [![arxiv (653k)](icons16/arxiv.png)](https://arxiv.org/abs/2012.03290) [![github (653k)](icons16/github.png)](https://github.com/crsl4/fast-stats) [![twitter (653k)](icons16/twitter.png)](https://twitter.com/solislemuslab/status/1521904890234253313) [![instagram (653k)](icons16/instagram.png)](https://www.instagram.com/p/CdL4R3gOCqC) [![youtube (653k)](icons16/youtube.png)](https://youtu.be/2dk0pdVbCzo) |
 
 ---
 
