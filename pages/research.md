@@ -127,6 +127,15 @@ Examples of our current research involve:
 
 #### 2022
 
+Ozminkowski, S.*, Sol&iacute;s-Lemus, C. (2022). Identifying microbial drivers in biological phenotypes with a Bayesian Network Regression model.
+- [arXiv (2022): 2208.05600](https://arxiv.org/abs/2208.05600)
+
+[![github (653k)](icons16/github.png)](https://github.com/solislemuslab/BayesianNetworkRegression.jl) 
+
+Shen, Y.*, C. Sol&iacute;s-Lemus, S. K. Deshpande. (2022). Sparse Gaussian chain graphs with the spike-and-slab LASSO: Algorithms and asymptotics.
+- [arXiv (2022): 2207.07020](https://arxiv.org/abs/2207.07020)
+
+
 Liu, Y.∗, Sol&iacute;s-Lemus, C. (2022). WI Fast Stats: a collection of web apps for the visualization and analysis of WI Fast Plants data.
 - [JOSE DOI:10.21105/jose.00159](https://jose.theoj.org/papers/10.21105/jose.00159)
 - [arXiv (2020): 2012.03290](https://arxiv.org/abs/2012.03290)
