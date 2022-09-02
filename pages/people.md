@@ -88,19 +88,6 @@ Name pronunciation: [namedrop.io/claudiasolislemus](https://namedrop.io/claudias
 <div class="container">
     <div class="row-fluid">
         <div class="span2">
-            <a href="../assets/pics/sam.jpg">
-            <img src="../assets/pics/sam.jpg"
-                  title="SamOzminkowski" alt="SamOzminkowski">
-            </a>
-        </div>
-        <div class="span5">
-            Sam Ozminkowski is a MS student in Statistics. His work is focused on using Bayesian models with network predictors, specifically focusing on microbiome networks. He earned his undergraduate degree in Computer Science at the University of Michigan. 
-        </div>
-    </div>
-</div>
-<div class="container">
-    <div class="row-fluid">
-        <div class="span2">
         <a href="../assets/pics/marianne.JPG">
             <img src="../assets/pics/marianne.JPG"
                   title="MarianneBjørner" alt="MarianneBjørner"/></a>
@@ -240,9 +227,10 @@ Name pronunciation: [namedrop.io/claudiasolislemus](https://namedrop.io/claudias
 ---
 
 ### <a name="past"></a>Past members
+- [Sam Ozminkowski](https://samozminkowski.com/) (MS Statistics, UW-Madison 2022).  He worked on Bayesian models with network predictors, specifically focusing on microbiome networks. He is pursuing his PhD in Statistics at Northwestern University.
 - [Fardeen Meeran](https://meerxn.github.io/MyPersonalCV/) (BS Computer Science, UW-Madison 2022). He worked in a web app to visualize phylogenetic networks.
 - [Zhaoyi Zhang](https://www.linkedin.com/in/zhang-zhaoyi/) (BS Computer Science, Data Science, Mathematics, UW-Madison 2022). He tested the applicability of deep neural networks to genomic datasets to predict important phenotypes. He will work as a Software Engineer at Oracle after graduation.
-- [Yunyi Shen](https://yunyishen.ml) (MS Statistics, Wildlife Ecology, UW-Madison 2021) worked on graphical selection of Gaussian chain graph models using Bayesian LASSO and Spike-and-Slab LASSO methods, their theories, interpretations and applications in microbiome. He is attending EECS PhD program at MIT affiliated with LIDS. 
+- [Yunyi Shen](https://yunyishen.github.io/) (MS Statistics, Wildlife Ecology, UW-Madison 2021) worked on graphical selection of Gaussian chain graph models using Bayesian LASSO and Spike-and-Slab LASSO methods, their theories, interpretations and applications in microbiome. He is attending EECS PhD program at MIT affiliated with LIDS. 
 - [Nicole Athanasiou](https://github.com/nathanasiou) (BS Applied Mathematics, Statistics, Environmental Studies, UW-Madison 2021) created interactive web application for biologists to determine their sample size in experiments. 
 - [Shengwen Yang](https://www.shengwenyang.com/) (MS Data Science, UW-Madison 2021) worked on the symmetry preserving Neural Network models for phylogenetic inference.
 - [Yuren Sun](https://yurensun.github.io/) (BS Computer Science, Mathematics, and Economics, UW-Madison 2021) worked on the applications of neural network models in the classifications of animals and pseudomonas sequence data. She will attend MSCS program at Stanford University in Fall 2022.
