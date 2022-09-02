@@ -1,0 +1,60 @@
+# Word cloud for website
+
+Code from [here](http://blog.fellstat.com/?cat=11) and [here](https://towardsdatascience.com/create-a-word-cloud-with-r-bde3e7422e8a).
+
+Color brewer options from [here](https://www.r-graph-gallery.com/38-rcolorbrewers-palettes.html).
+
+```{r}
+##install.packages(c("wordcloud","tm"),repos="http://cran.r-project.org")
+```
+
+```{r}
+library(wordcloud)
+##library(wordcloud2)
+library(tm)
+```
+
+Download the data spreadsheet from [here](https://docs.google.com/forms/d/1wHtvO_CWXNTHPCZTR38lgv914Ez3csjYWyZgHHOAHQI/edit#responses) as a csv file and change name to `lab-info.csv`.
+
+Then, we read the file:
+```{r}
+df = read.csv("lab-info.csv", header=TRUE)
+str(df)
+head(df)
+```
+
+```{r}
+## Copy and paste from google spreadsheet:
+topics = "Math Engineering
+Engineering
+Biology
+Statistics
+Virology
+Cancer
+Biology
+Biology
+Statistics
+Biology Chemistry
+Chemistry Engineering
+Biology Chemistry
+Math"
+
+countries = "Mexico
+Mexico
+Mexico
+Mexico
+Colombia
+Peru
+Peru
+Brasil
+Mexico
+Mexico
+Mexico
+PuertoRico
+Chile"
+
+set.seed(6737)
+wordcloud(topics,min.freq=1,colors=brewer.pal(4,"PuRd"),random.order=FALSE)
+set.seed(1235)
+wordcloud(countries,min.freq=1,colors=brewer.pal(8,"YlGnBu"),random.order=FALSE)
+```
