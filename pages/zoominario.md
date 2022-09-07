@@ -67,3 +67,16 @@ Great! Please fill out [this google form](https://forms.gle/1kpZE1XrKe9YS9cHA).
 | 7 Oct 2022 | Natalia Rosario-Melendez | |
 | 4 Nov 2022 |  | |
 | 2 Dec 2022 |  | |
+| 6 Jan 2023 |  | |
+| 3 Feb 2023 |  | |
+| 3 Mar 2023 |  | |
+| 7 Apr 2023 |  | |
+| 5 May 2023 |  | |
+| 2 Jun 2023 |  | |
+| 7 Jul 2023 |  | |
+| 4 Aug 2023 |  | |
+| 1 Sep 2023 |  | |
+| 6 Oct 2023 |  | |
+| 3 Nov 2023 |  | |
+| 1 Dec 2023 |  | |
+
