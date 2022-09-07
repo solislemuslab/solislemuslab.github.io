@@ -12,6 +12,10 @@ Color brewer options from [here](https://www.r-graph-gallery.com/38-rcolorbrewer
 library(wordcloud)
 ##library(wordcloud2)
 library(tm)
+library(dplyr)
+library("ggwordcloud")
+library(stringr)
+library(cowplot)
 ```
 
 Download the data spreadsheet from [here](https://docs.google.com/forms/d/1wHtvO_CWXNTHPCZTR38lgv914Ez3csjYWyZgHHOAHQI/edit#responses) as a csv file and change name to `lab-info.csv`.
@@ -19,42 +23,92 @@ Download the data spreadsheet from [here](https://docs.google.com/forms/d/1wHtvO
 Then, we read the file:
 ```{r}
 df = read.csv("lab-info.csv", header=TRUE)
+colnames(df) <- c("timestamp", "name", "pronouns","datejoin", "languages", "programming", "major", "twitter", "bday")
 str(df)
 head(df)
 ```
 
 ```{r}
-## Copy and paste from google spreadsheet:
-topics = "Math Engineering
-Engineering
-Biology
-Statistics
-Virology
-Cancer
-Biology
-Biology
-Statistics
-Biology Chemistry
-Chemistry Engineering
-Biology Chemistry
-Math"
+## Languages
+raw <- gsub("[[:punct:]\n]","",df$languages)
+raw2 <- strsplit(raw, " ")
+raw3 <- unlist(raw2)
+t = table(raw3)
+tdat = as.data.frame(t)
 
-countries = "Mexico
-Mexico
-Mexico
-Mexico
-Colombia
-Peru
-Peru
-Brasil
-Mexico
-Mexico
-Mexico
-PuertoRico
-Chile"
-
-set.seed(6737)
-wordcloud(topics,min.freq=1,colors=brewer.pal(4,"PuRd"),random.order=FALSE)
-set.seed(1235)
-wordcloud(countries,min.freq=1,colors=brewer.pal(8,"YlGnBu"),random.order=FALSE)
+set.seed(907)
+tdat <- tdat %>%
+  mutate(angle = 90 * sample(c(0, 1), n(), replace = TRUE, prob = c(60, 40)))
+p1<-ggplot(tdat, aes(label = raw3, size=Freq, color=as.factor(Freq), angle=angle)) +
+  geom_text_wordcloud_area(shape = "circle", eccentricity = 1, grid_margin=0) +
+  #geom_text_wordcloud_area() +
+  scale_size_area(max_size = 16) +
+  #scale_color_gradient()+
+  scale_colour_brewer(palette = "Set2") +
+  theme_minimal()
 ```
+
+```{r}
+## Programming
+raw <- gsub("[[:punct:]\n]","",df$programming)
+raw2 <- strsplit(raw, " ")
+raw3 <- unlist(raw2)
+t = table(raw3)
+tdat = as.data.frame(t)
+
+s1<-c("c","C", "CC")
+
+for (j in 1){ #here do for as many synonim vectors as created
+  i<-get(paste("s",j,sep=""))
+  b<-data.frame(raw3=i[1],Freq=sum(tdat$Freq[tdat$raw3 %in% i]))
+  tdat<-tdat[!tdat$raw3 %in% i,]
+  tdat<-rbind(tdat,b)
+}
+
+set.seed(204)
+tdat <- tdat %>%
+  mutate(angle = 90 * sample(c(0, 1), n(), replace = TRUE, prob = c(60, 40)))
+
+p2<-ggplot(tdat, aes(label = raw3, size=Freq, color=as.factor(Freq), angle=angle)) +
+  geom_text_wordcloud_area(shape = "circle", eccentricity = 1, grid_margin=0) +
+  #geom_text_wordcloud_area() +
+  scale_size_area(max_size = 16) +
+  #scale_color_gradient()+
+  scale_colour_brewer(palette = "Set1") +
+  theme_minimal()
+```
+
+```{r}
+## Major
+raw <- gsub("[[:punct:]\n]","",df$major)
+raw <- str_replace(raw,"Computer Science", "ComputerScience")
+raw<- str_replace(raw,"Data Science", "DataScience")
+raw<- str_replace(raw,"Wildlife Ecology", "WildlifeEcology")
+
+raw2 <- strsplit(raw, " ")
+raw3 <- unlist(raw2)
+t = table(raw3)
+tdat = as.data.frame(t)
+
+set.seed(206)
+tdat <- tdat %>%
+  mutate(angle = 90 * sample(c(0, 1), n(), replace = TRUE, prob = c(60, 40)))
+
+p3<-ggplot(tdat, aes(label = raw3, size=Freq, color=as.factor(Freq), angle=angle)) +
+  geom_text_wordcloud_area(shape = "circle", eccentricity = 1, grid_margin=0) +
+  #geom_text_wordcloud_area() +
+  scale_size_area(max_size = 16) +
+  #scale_color_gradient()+
+  scale_colour_brewer(palette = "Set3") +
+  theme_minimal()
+```
+
+```{r}
+allpanels<-plot_grid(p1,p2,p3,ncol=3,rel_widths = c(2,2,5))
+title <- ggdraw() + draw_label(paste("Lab composition",sep=""),fontface = 'bold',x = 0,  hjust = 0 ,color="deepskyblue4") +
+  theme(plot.margin = margin(0, 0, 0, 0))
+plot_grid( title, allpanels,  ncol = 1,
+  # rel_heights values control vertical title margins
+  rel_heights = c(0.1, 1)
+)
+ggsave("sl-lab-composition.pdf",width = 12, height = 6) ##14,6
