@@ -16,6 +16,9 @@ description: Sol&iacute;s-Lemus lab
     </div>
 </div>
 
+<div class="image123">
+    <img src="../assets/misc/word-clouds-lab/sl-lab-composition.pdf" width="600">
+</div>
 
 ### Claudia Sol&iacute;s-Lemus
 
