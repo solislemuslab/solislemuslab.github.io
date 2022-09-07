@@ -32,6 +32,10 @@ Information in [Opportunities](https://solislemuslab.github.io//pages/people.htm
 
 The lab is currently funded by the following [awards](https://solislemuslab.github.io//pages/research.html#awards).
 
+<div class="image123">
+    <img src="../assets/misc/figures-pubs/sl-lab.png" width="800">
+</div>
+
 ---
 
 ## <a name="phylogenomics"></a>Statistical phylogenomics
