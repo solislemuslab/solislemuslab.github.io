@@ -65,7 +65,7 @@ Great! Please fill out [this google form](https://forms.gle/1kpZE1XrKe9YS9cHA).
 | 5 Aug 2022 | ![](../assets/pics/flags/colombia.png) | Marcela Tabima Martinez | Engineering a small diameter vascular graft |[![youtube (653k)](icons16/youtube.png)](https://youtu.be/_VN90TWkQnQ) | [![tiktok (653k)](icons16/tiktok.png)](https://www.tiktok.com/@latinxinstem/video/7128558809965940014) |
 | 2 Sep 2022 | ![](../assets/pics/flags/colombia.png) | Laura Muñoz Baena | Less Is More: How Viruses Evolve Compact Genomes | [![youtube (653k)](icons16/youtube.png)](https://youtu.be/ZXqX1t36OJY) | [![tiktok (653k)](icons16/tiktok.png)](https://www.tiktok.com/@latinxinstem/video/7139207541518716206) |
 | 7 Oct 2022 | Natalia Rosario-Melendez | |
-| 4 Nov 2022 |  | |
+| 4 Nov 2022 | Ambar Carvallo Lopez | |
 | 2 Dec 2022 |  | |
 | 6 Jan 2023 |  | |
 | 3 Feb 2023 |  | |
