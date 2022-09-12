@@ -68,7 +68,7 @@ Great! Please fill out [this google form](https://forms.gle/1kpZE1XrKe9YS9cHA).
 | 4 Nov 2022 | Ambar Carvallo Lopez | |
 | 2 Dec 2022 | Jesus Arroyo Relion | |
 | 6 Jan 2023 |  | |
-| 3 Feb 2023 |  | |
+| 3 Feb 2023 | Brenda Betancourt | |
 | 3 Mar 2023 |  | |
 | 7 Apr 2023 |  | |
 | 5 May 2023 |  | |
