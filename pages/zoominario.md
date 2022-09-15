@@ -53,7 +53,7 @@ description: El Zoominario
 | 6 Jan 2023 | Daniel Ojeda-Juarez | |
 | 3 Feb 2023 | Brenda Betancourt | |
 | 3 Mar 2023 | Federico Rey | |
-| 7 Apr 2023 |  | |
+| 7 Apr 2023 | Pablo Moreno-Yaeger | |
 | 5 May 2023 |  | |
 | 2 Jun 2023 |  | |
 | 7 Jul 2023 |  | |
