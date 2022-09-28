@@ -134,3 +134,22 @@ Bayesian species delimitation integrating genes and traits data.
 
 ---
 
+<div class="container">
+    <div class="row-fluid">
+        <div class="span5">
+            <a href="https://bioklustering.wid.wisc.edu/">BioKlustering</a><br/>
+            BioKlustering is a web app for learning and visualization of genomic data. You can choose from a variety of supervised, unsupervised and semi-supervised machine-learning methods to cluster genomic sequences.
+            Also please see the <br/>
+            <a href="https://github.com/solislemuslab/bioklustering">github repo.</a><br/>
+        </div>
+
+        <div class="span2">
+        <a href="https://bioklustering.wid.wisc.edu/">
+            <img src="../assets/pics/bioklustering.png"
+                  title="BioKlustering" alt="BioKlustering"/></a>
+        </div>
+    </div>
+</div>
+
+---
+

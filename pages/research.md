@@ -132,6 +132,8 @@ Examples of our current research involve:
 
 #### Preprints
 
+<strong style="color: SlateBlue;">Ozminkowski, S.*, Wu, Y.*, Yang, L., Xu, Z., Selberg, L., Huang, C., </strong>, <b>Sol&iacute;s-Lemus, C.</b> (2022). BioKlustering: a web app for semi-supervised learning of maximally imbalanced genomic data [arxiv (2022): 2209.11730](https://arxiv.org/abs/2209.11730), [github](https://github.com/solislemuslab/bioklustering), [bioklustering.wid.wisc.edu](https://bioklustering.wid.wisc.edu/)
+
 <strong style="color: SlateBlue;">Ozminkowski, S.</strong>, <b>Sol&iacute;s-Lemus, C.</b> (2022). Identifying microbial drivers in biological phenotypes with a Bayesian Network Regression model, [arXiv (2022): 2208.05600](https://arxiv.org/abs/2208.05600), [github](https://github.com/solislemuslab/BayesianNetworkRegression.jl) 
 
 <strong style="color: SlateBlue;">Shen, Y.</strong>, <b>Sol&iacute;s-Lemus, C.</b>, S. K. Deshpande. (2022). Sparse Gaussian chain graphs with the spike-and-slab LASSO: Algorithms and asymptotics, [arXiv (2022): 2207.07020](https://arxiv.org/abs/2207.07020)
