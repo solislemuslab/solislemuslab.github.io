@@ -153,3 +153,20 @@ Bayesian species delimitation integrating genes and traits data.
 
 ---
 
+<div class="container">
+    <div class="row-fluid">
+        <div class="span5">
+            <a href="https://latinxinstat.wid.wisc.edu/">LatinxInStat database</a><br/>
+            The LatinxInStat database contains information of Latinx statisticians and data scientists. If you identify as Latinx, please add yourself to the database by logging in with Google and creating your profile. If you are organizing a statistical conference, please use this database to include a more diverse representation of speakers.
+        </div>
+
+        <div class="span2">
+        <a href="https://latinxinstat.wid.wisc.edu/">
+            <img src="../assets/pics/latinx.png"
+                  title="LatinxInStat" alt="LatinxInStat"/></a>
+        </div>
+    </div>
+</div>
+
+---
+
