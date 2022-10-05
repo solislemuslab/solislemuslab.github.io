@@ -65,7 +65,7 @@ Bayesian species delimitation integrating genes and traits data.
         <div class="span5">
             <a href="https://wi-fast-stats.wid.wisc.edu/">WI Fast Stats</a><br/>
             Integrated web page with access to all available web apps for data visualization of <a href="https://fastplants.org/">WI Fast Plants</a><br/><a href="https://youtu.be/6vX3mVXcK4s">YouTube short tutorial</a><br/><br/>
-            Also please see the <br/>
+            Also please see the
             <a href="https://github.com/crsl4/fast-stats">github repo.</a><br/>
             <br/>Software developed by <a href="https://github.com/yizhou0522">Yizhou Li.</a><br/>
         </div>
@@ -86,7 +86,7 @@ Bayesian species delimitation integrating genes and traits data.
         <div class="span5">
             <a href="https://github.com/YunyiShen/CAR-LASSO">CARlasso</a><br/>
             An R package for fitting Conditional Auto-Regressive LASSO, a class of models that infers (sparse) Gaussian chain graph with predictor and response nodes as well as its extensions<br/><br/>
-            Also please see the <br/>
+            Also please see the
             <a href="https://yunyishen.ml/CAR-LASSO/dev/">documentations and tutorials.</a><br/>
             <br/>Software developed by <a href="https://yunyishen.github.io/">Yunyi Shen.</a><br/>
         </div>
@@ -105,8 +105,9 @@ Bayesian species delimitation integrating genes and traits data.
     <div class="row-fluid">
         <div class="span5">
             <a href="https://potato-seed-dashboard.wid.wisc.edu/">Potato Dashboard</a><br/>
-            Proprietary data visualization and data analysis dashboard for the <a href="https://seedpotato.russell.wisc.edu/">WI Seed Potato Cert program</a><br/><a href="https://github.com/solislemuslab/potato-seed-cert">GitHub repository</a><br/><br/>
-            <br/>Software developed by <a href="https://github.com/hchen549">Haoming Chen</a> and <a href="https://github.com/Elaine-Wu99">Elaine Wu</a><br/>
+            Proprietary data visualization and data analysis dashboard for the <a href="https://seedpotato.russell.wisc.edu/">WI Seed Potato Cert program</a><br/><br/>
+            Also please see the <a href="https://github.com/solislemuslab/potato-seed-cert">github repo.</a><br/>
+            <br/>Software developed by <a href="https://github.com/hchen549">Haoming Chen</a> and <a href="https://github.com/Elaine-Wu99">Elaine Wu.</a><br/>
         </div>
 
         <div class="span2">
@@ -124,7 +125,7 @@ Bayesian species delimitation integrating genes and traits data.
         <div class="span5">
             <a href="https://github.com/solislemuslab/BayesianNetworkRegression.jl">BayesianNetworkRegression.jl</a><br/>
             A Julia package for fitting Bayesian Network Regression, a model for inferring the relationships between microbiome networks and a dependent variable of interest like biological phenotypes.
-            Also please see the <br/>
+            <br/>Also please see the
             <a href="https://solislemuslab.github.io/BayesianNetworkRegression.jl/dev/">documentation and tutorials.</a><br/>
             <br/>Software developed by <a href="https://samozminkowski.com/">Sam Ozminkowski.</a><br/>
         </div>
@@ -144,7 +145,7 @@ Bayesian species delimitation integrating genes and traits data.
         <div class="span5">
             <a href="https://bioklustering.wid.wisc.edu/">BioKlustering</a><br/>
             BioKlustering is a web app for learning and visualization of genomic data. You can choose from a variety of supervised, unsupervised and semi-supervised machine-learning methods to cluster genomic sequences.
-            Also please see the <br/>
+            <br/>Also please see the 
             <a href="https://github.com/solislemuslab/bioklustering">github repo.</a><br/>
             <br/>Software developed by <a href="https://github.com/YukeWu">Yuke Wu</a> and <a href="https://samozminkowski.com/">Sam Ozminkowski.</a><br/>
         </div>
@@ -163,8 +164,8 @@ Bayesian species delimitation integrating genes and traits data.
     <div class="row-fluid">
         <div class="span5">
             <a href="https://latinxinstat.wid.wisc.edu/">LatinxInStat database</a><br/>
-            The LatinxInStat database contains information of Latinx statisticians and data scientists. If you identify as Latinx, please add yourself to the database by logging in with Google and creating your profile. If you are organizing a statistical conference, please use this database to include a more diverse representation of speakers.<br/>
-            <br/>Software developed by <a href="https://pages.cs.wisc.edu/~rnelson/">Reed Nelson</a><br/>
+            The LatinxInStat database contains information of Latinx statisticians and data scientists. If you identify as Latinx, please add yourself to the database. If you are organizing a conference, please use this database to include a more diverse representation of speakers.<br/>
+            <br/>Software developed by <a href="https://pages.cs.wisc.edu/~rnelson/">Reed Nelson.</a><br/>
         </div>
 
         <div class="span2">
