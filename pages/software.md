@@ -86,7 +86,7 @@ Bayesian species delimitation integrating genes and traits data.
         <div class="span5">
             <a href="https://github.com/YunyiShen/CAR-LASSO">CARlasso</a><br/>
             An R package for fitting Conditional Auto-Regressive LASSO, a class of models that infers (sparse) Gaussian chain graph with predictor and response nodes as well as its extensions<br/><br/>
-            Also please see the
+            Check out the
             <a href="https://yunyishen.ml/CAR-LASSO/dev/">documentations and tutorials.</a><br/>
             <br/>Software developed by <a href="https://yunyishen.github.io/">Yunyi Shen.</a><br/>
         </div>
@@ -106,7 +106,7 @@ Bayesian species delimitation integrating genes and traits data.
         <div class="span5">
             <a href="https://potato-seed-dashboard.wid.wisc.edu/">Potato Dashboard</a><br/>
             Proprietary data visualization and data analysis dashboard for the <a href="https://seedpotato.russell.wisc.edu/">WI Seed Potato Cert program</a><br/><br/>
-            Also please see the <a href="https://github.com/solislemuslab/potato-seed-cert">github repo.</a><br/>
+            Check out the <a href="https://github.com/solislemuslab/potato-seed-cert">github repo.</a><br/>
             <br/>Software developed by <a href="https://github.com/hchen549">Haoming Chen</a> and <a href="https://github.com/Elaine-Wu99">Elaine Wu.</a><br/>
         </div>
 
@@ -125,7 +125,7 @@ Bayesian species delimitation integrating genes and traits data.
         <div class="span5">
             <a href="https://github.com/solislemuslab/BayesianNetworkRegression.jl">BayesianNetworkRegression.jl</a><br/>
             A Julia package for fitting Bayesian Network Regression, a model for inferring the relationships between microbiome networks and a dependent variable of interest like biological phenotypes.
-            <br/>Also please see the
+            <br/>Check out the
             <a href="https://solislemuslab.github.io/BayesianNetworkRegression.jl/dev/">documentation and tutorials.</a><br/>
             <br/>Software developed by <a href="https://samozminkowski.com/">Sam Ozminkowski.</a><br/>
         </div>
@@ -145,7 +145,7 @@ Bayesian species delimitation integrating genes and traits data.
         <div class="span5">
             <a href="https://bioklustering.wid.wisc.edu/">BioKlustering</a><br/>
             BioKlustering is a web app for learning and visualization of genomic data. You can choose from a variety of supervised, unsupervised and semi-supervised machine-learning methods to cluster genomic sequences.
-            <br/>Also please see the 
+            <br/>Check out the 
             <a href="https://github.com/solislemuslab/bioklustering">github repo.</a><br/>
             <br/>Software developed by <a href="https://github.com/YukeWu">Yuke Wu</a> and <a href="https://samozminkowski.com/">Sam Ozminkowski.</a><br/>
         </div>
