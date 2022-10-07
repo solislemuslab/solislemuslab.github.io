@@ -47,7 +47,7 @@ description: El Zoominario
 | 1 Jul 2022 | ![](../assets/pics/flags/puertorico.png) | Nayomi Plaza Rodriguez | Elucidating the nanoscale interactions between wood and water |[![youtube (653k)](icons16/youtube.png)](https://youtu.be/4UhqhPHb0z8) | [![tiktok (653k)](icons16/tiktok.png)](https://www.tiktok.com/@latinxinstem/video/7115526678255815979) |
 | 5 Aug 2022 | ![](../assets/pics/flags/colombia.png) | Marcela Tabima Martinez | Engineering a small diameter vascular graft |[![youtube (653k)](icons16/youtube.png)](https://youtu.be/_VN90TWkQnQ) | [![tiktok (653k)](icons16/tiktok.png)](https://www.tiktok.com/@latinxinstem/video/7128558809965940014) |
 | 2 Sep 2022 | ![](../assets/pics/flags/colombia.png) | Laura Muñoz Baena | Less Is More: How Viruses Evolve Compact Genomes | [![youtube (653k)](icons16/youtube.png)](https://youtu.be/ZXqX1t36OJY) | [![tiktok (653k)](icons16/tiktok.png)](https://www.tiktok.com/@latinxinstem/video/7139207541518716206) |
-| 7 Oct 2022 | Natalia Rosario-Melendez | |
+| 7 Oct 2022 | ![](../assets/pics/flags/puertorico.png) | Natalia Rosario-Melendez | Bacterial languages: Communication in a multispecies microbial community | [![youtube (653k)](icons16/youtube.png)](https://youtu.be/M-qMlF-cugQ) | [![tiktok (653k)](icons16/tiktok.png)](https://www.tiktok.com/@latinxinstem/video/7151917710291619118) |
 | 4 Nov 2022 | Ambar Carvallo Lopez | |
 | 2 Dec 2022 | Jesus Arroyo Relion | |
 | 6 Jan 2023 | Daniel Ojeda-Juarez | |
