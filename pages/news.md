@@ -6,6 +6,10 @@ description: Solis-Lemus lab
 
 ### 2022
 
+- Launching the #LatinxInStat database!!!
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Launching the <a href="https://twitter.com/hashtag/LatinxInStat?src=hash&amp;ref_src=twsrc%5Etfw">#LatinxInStat</a> <a href="https://twitter.com/hashtag/LatinxInDataSci?src=hash&amp;ref_src=twsrc%5Etfw">#LatinxInDataSci</a> database <a href="https://twitter.com/AmstatNews?ref_src=twsrc%5Etfw">@AmstatNews</a> <a href="https://twitter.com/WIDiscovery?ref_src=twsrc%5Etfw">@WIDiscovery</a> <a href="https://twitter.com/WomenInStat?ref_src=twsrc%5Etfw">@WomenInStat</a> 🪅<br><br>Latinx in stat/DS/ML, please add yourself to the database: <a href="https://t.co/Nue3QCWjrL">https://t.co/Nue3QCWjrL</a><br><br>All, please use this db for a more diverse representation of speakers when organizing conferences😊 <a href="https://t.co/EjkSzulOo4">https://t.co/EjkSzulOo4</a></p>&mdash; Claudia Solís-Lemus (@solislemuslab) <a href="https://twitter.com/solislemuslab/status/1579913349319766016?ref_src=twsrc%5Etfw">October 11, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 - Launching the @latinxinstem TikTok account to promote Latinx scientists and to promote El Zoominario:
 
 <blockquote class="tiktok-embed" cite="https://www.tiktok.com/@latinxinstem/video/7083991804441578798" data-video-id="7083991804441578798" style="max-width: 605px;min-width: 325px;" > <section> <a target="_blank" title="@latinxinstem" href="https://www.tiktok.com/@latinxinstem">@latinxinstem</a> Visibility of <a title="latinxinstem" target="_blank" href="https://www.tiktok.com/tag/latinxinstem">#LatinxInSTEM</a> <a title="elzoominario" target="_blank" href="https://www.tiktok.com/tag/elzoominario">#elzoominario</a> <a target="_blank" title="♬ Surfin&#39; U.S.A. - The Beach Boys" href="https://www.tiktok.com/music/SurfinUSA-6750951406850557953">♬ Surfin&#39; U.S.A. - The Beach Boys</a> </section> </blockquote> <script async src="https://www.tiktok.com/embed.js"></script>
