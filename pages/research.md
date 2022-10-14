@@ -130,7 +130,9 @@ Examples of our current research involve:
 <button type="button" onclick="window.location.href='https://scholar.google.com/citations?user=GrUypj8AAAAJ&hl=en&oi=ao';">Google Scholar</button>
 <button type="button" onclick="window.location.href='https://github.com/solislemuslab/solislemuslab.github.io/blob/master/assets/misc/publications.bib';">Bibtex</button>
 
-#### Preprints
+#### Preprints under revision
+
+Rattray, JB, Walden, R., Marquez-Zacarias, P.,  Molotkova, E.,  Perron, G.,  <b>Sol&iacute;s-Lemus, C.</b>, Pimentel-Alarcon, D., Brown, S. (2022). Machine learning identification of <i>Pseudomonas aeruginosa</i> strains from colony image data.
 
 <strong style="color: SlateBlue;">Ozminkowski, S., Wu, Y., Yang, L., Xu, Z., Selberg, L., Huang, C. </strong>, <b>Sol&iacute;s-Lemus, C.</b> (2022). BioKlustering: a web app for semi-supervised learning of maximally imbalanced genomic data [arxiv (2022): 2209.11730](https://arxiv.org/abs/2209.11730), [github](https://github.com/solislemuslab/bioklustering), [bioklustering.wid.wisc.edu](https://bioklustering.wid.wisc.edu/)
 
@@ -154,6 +156,7 @@ Tiley, George P., Andrew A. Crowl, Paul S. Manos, Emily B. Sessa, <b>Sol&iacute;
 <strong style="color: SlateBlue;">Shen, Y.</strong>, <b>Sol&iacute;s-Lemus, C.</b> (2020). Bayesian Conditional Auto-Regressive LASSO Models to Learn Sparse Networks with Predictors, [arXiv (2020): 2012.08397](https://arxiv.org/abs/2012.08397), [github](https://github.com/YunyiShen/CAR-LASSO) 
 
 <b>Sol&iacute;s-Lemus, C.</b>, <strong style="color: SlateBlue;">A. Coen</strong> and Cecile An&eacute;. 2020. On the identifiability of phylogenetic networks under a pseudolikelihood model, [arxiv (2020): 2010.01758](https://arxiv.org/abs/2010.01758), [github](https://github.com/solislemuslab/snaq-identifiability) 
+
 
 ---
 ---
