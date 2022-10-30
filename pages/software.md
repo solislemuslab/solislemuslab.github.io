@@ -67,7 +67,7 @@ Bayesian species delimitation integrating genes and traits data.
             Integrated web page with access to all available web apps for data visualization of <a href="https://fastplants.org/">WI Fast Plants</a><br/><a href="https://youtu.be/6vX3mVXcK4s">YouTube short tutorial</a><br/><br/>
             Also please see the
             <a href="https://github.com/crsl4/fast-stats">github repo.</a><br/>
-            <br/>Software developed by <a href="https://github.com/yizhou0522">Yizhou Li.</a><br/>
+            <br/>Software developed by <a href="https://www.linkedin.com/in/yizhou-liu-539637199/">Yizhou Li.</a><br/>
         </div>
 
         <div class="span2">
