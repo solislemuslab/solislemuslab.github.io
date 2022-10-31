@@ -132,6 +132,9 @@ Examples of our current research involve:
 
 #### Preprints under revision
 
+Justison, J., <b>Sol&iacute;s-Lemus, C.</b>, Heath, T. (2022). SiPhyNetwork: An R package for Simulating Phylogenetic Networks. [biorxiv (2022): 2022.10.26.513953](https://www.biorxiv.org/content/10.1101/2022.10.26.513953v1).
+
+
 Rattray, JB, Walden, R., Marquez-Zacarias, P.,  Molotkova, E.,  Perron, G.,  <b>Sol&iacute;s-Lemus, C.</b>, Pimentel-Alarcon, D., Brown, S. (2022). Machine learning identification of <i>Pseudomonas aeruginosa</i> strains from colony image data. [biorxiv (2022): 2022.09.02.506375v1](https://www.biorxiv.org/content/10.1101/2022.09.02.506375v1.abstract).
 
 <strong style="color: SlateBlue;">Ozminkowski, S., Wu, Y., Yang, L., Xu, Z., Selberg, L., Huang, C. </strong>, <b>Sol&iacute;s-Lemus, C.</b> (2022). BioKlustering: a web app for semi-supervised learning of maximally imbalanced genomic data [arxiv (2022): 2209.11730](https://arxiv.org/abs/2209.11730), [github](https://github.com/solislemuslab/bioklustering), [bioklustering.wid.wisc.edu](https://bioklustering.wid.wisc.edu/)
@@ -339,6 +342,9 @@ Scientists world-wide are engaged in efforts to understand how all planetary bio
 - [Postdoctoral position in statistical education](https://solislemuslab.github.io//pages/positions-career2.html)
 - [Project assistantship in Julia package development and maintenance](https://solislemuslab.github.io//pages/positions-career3.html)
 
+#### Publications supported by the award
+- Justison et al (2022). [biorxiv (2022): 2022.10.26.513953](https://www.biorxiv.org/content/10.1101/2022.10.26.513953v1)
+
 ### DOE: Computational Tool Development for Integrative Systems Biology Data Analysis
 
 <div class="container">
@@ -379,6 +385,9 @@ The overall objective of this proposal is to pioneer the development of the next
 - Shen and Solis-Lemus (2021) [arXiv:2107.01306](https://arxiv.org/abs/2107.01306)
 - Shen and Solis-Lemus (2021) [arXiv:2107.13763](https://arxiv.org/abs/2107.13763)
 - Ozminkowski and Solis-Lemus, C. (2022) [arXiv (2022): 2208.05600](https://arxiv.org/abs/2208.05600)
+- Ozminkowski and Solis-Lemus, C. (2022) [arXiv (2022): 2208.05600](https://arxiv.org/abs/2208.05600)
+- Ozminkowski et al (2022) [arxiv (2022): 2209.11730](https://arxiv.org/abs/2209.11730)
+- Shen et al (2022) [arXiv (2022): 2207.07020](https://arxiv.org/abs/2207.07020)
 
 ------------------------------------
 
@@ -417,6 +426,8 @@ In order to identify the driving factors in plant and soil health, we need robus
 - Shen and Solis-Lemus (2020) [arXiv:2012.08397](https://arxiv.org/abs/2012.08397)
 - Shen and Solis-Lemus (2021) [arXiv:2107.01306](https://arxiv.org/abs/2107.01306)
 - Ozminkowski and Solis-Lemus, C. (2022) [arXiv (2022): 2208.05600](https://arxiv.org/abs/2208.05600)
+- Ozminkowski et al (2022) [arxiv (2022): 2209.11730](https://arxiv.org/abs/2209.11730)
+- Shen et al (2022) [arXiv (2022): 2207.07020](https://arxiv.org/abs/2207.07020)
 
 ------------------------------------
 
