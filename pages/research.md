@@ -132,6 +132,8 @@ Examples of our current research involve:
 
 #### Preprints under revision
 
+<strong style="color: SlateBlue;">Bjorner, M.</strong>, Molloy, E., Dewey, C., <b>Sol&iacute;s-Lemus, C.</b>. (2022). Detectability of Varied Hybridization Scenarios using Genome-Scale Hybrid Detection Methods. [arxiv (2022): 2211.00712](https://arxiv.org/abs/2211.00712).
+
 Justison, J., <b>Sol&iacute;s-Lemus, C.</b>, Heath, T. (2022). SiPhyNetwork: An R package for Simulating Phylogenetic Networks. [biorxiv (2022): 2022.10.26.513953](https://www.biorxiv.org/content/10.1101/2022.10.26.513953v1).
 
 
@@ -344,6 +346,7 @@ Scientists world-wide are engaged in efforts to understand how all planetary bio
 
 #### Publications supported by the award
 - Justison et al (2022). [biorxiv (2022): 2022.10.26.513953](https://www.biorxiv.org/content/10.1101/2022.10.26.513953v1)
+- Bjorner et al (2022). [arxiv (2022): 2211.00712](https://arxiv.org/abs/2211.00712)
 
 ### DOE: Computational Tool Development for Integrative Systems Biology Data Analysis
 
@@ -388,6 +391,7 @@ The overall objective of this proposal is to pioneer the development of the next
 - Ozminkowski and Solis-Lemus, C. (2022) [arXiv (2022): 2208.05600](https://arxiv.org/abs/2208.05600)
 - Ozminkowski et al (2022) [arxiv (2022): 2209.11730](https://arxiv.org/abs/2209.11730)
 - Shen et al (2022) [arXiv (2022): 2207.07020](https://arxiv.org/abs/2207.07020)
+- Bjorner et al (2022) [arxiv (2022): 2211.00712](https://arxiv.org/abs/2211.00712)
 
 ------------------------------------
 
