@@ -148,7 +148,6 @@ Rattray, JB, Walden, R., Marquez-Zacarias, P.,  Molotkova, E.,  Perron, G.,  <b>
 <b>Sol&iacute;s-Lemus, C.</b>, <strong style="color: SlateBlue;">S. Yang</strong>, L. Zepeda-Nunez (2022).
 Accurate Phylogenetic Inference with a Symmetry-preserving Neural Network Model, [arXiv (2022): 2201.04663](https://arxiv.org/abs/2201.04663), [github](https://github.com/Forgotten/nn-phylogenetics) 
 
-<strong style="color: SlateBlue;">Sun, Y.</strong>, T.M. Maeda, <b>Sol&iacute;s-Lemus, C.</b>, D. Pimentel-Alarcon, Z. Burivalova. (2021). Classification of animal sounds in a hyperdiverse rainforest using Convolutional Neural Networks, [arXiv (2021): 2111.14971](https://arxiv.org/abs/2111.14971), [github](https://github.com/solislemuslab/tropical-stethoscope) 
 
 <b>Sol&iacute;s-Lemus, C.</b>, A. M. Holleman, A. Todor, B. Bradley, K. J. Ressler, D. Ghosh, M. P. Epstein. (2021). A Kernel Method for Dissecting Genetic Signals in Tests of High-Dimensional Phenotypes, [bioRxiv 2021.07.29.454336](https://doi.org/10.1101/2021.07.29.454336)
 
@@ -164,6 +163,14 @@ Tiley, George P., Andrew A. Crowl, Paul S. Manos, Emily B. Sessa, <b>Sol&iacute;
 
 
 ---
+---
+
+
+| <span style="font-size:2em;">2022</span> |  | <strong style="color: SlateBlue;">Sun, Y.</strong>, T.M. Maeda, <b>Sol&iacute;s-Lemus, C.</b>, D. Pimentel-Alarcon, Z. Burivalova | 
+| | | Classification of animal sounds in a hyperdiverse rainforest using Convolutional Neural Networks | 
+| | | [DOI: 10.1016/j.ecolind.2022.109621](https://www.sciencedirect.com/science/article/pii/S1470160X22010949) | |
+| | | [![ecoind (653k)](icons16/ecoind.png)](https://www.sciencedirect.com/science/article/pii/S1470160X22010949) [![arxiv (653k)](icons16/arxiv.png)](https://arxiv.org/abs/2111.14971) [![github (653k)](icons16/github.png)](https://github.com/solislemuslab/tropical-stethoscope)  |
+
 ---
 
 | <span style="font-size:2em;">2022</span> |  | <strong style="color: SlateBlue;">Liu, Y.</strong>, <b>Sol&iacute;s-Lemus, C.</b> | 
