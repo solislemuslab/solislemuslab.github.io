@@ -48,7 +48,7 @@ description: El Zoominario
 | 5 Aug 2022 | ![](../assets/pics/flags/colombia.png) | Diana Tabima Martinez | Engineering a small diameter vascular graft |[![youtube (653k)](icons16/youtube.png)](https://youtu.be/_VN90TWkQnQ) | [![tiktok (653k)](icons16/tiktok.png)](https://www.tiktok.com/@latinxinstem/video/7128558809965940014) | [![tiktok (653k)](icons16/diana.png)](https://www.tiktok.com/@latinxinstem/video/7153389628307918126) |
 | 2 Sep 2022 | ![](../assets/pics/flags/colombia.png) | Laura Muñoz Baena | Less Is More: How Viruses Evolve Compact Genomes | [![youtube (653k)](icons16/youtube.png)](https://youtu.be/ZXqX1t36OJY) | [![tiktok (653k)](icons16/tiktok.png)](https://www.tiktok.com/@latinxinstem/video/7139207541518716206) |
 | 7 Oct 2022 | ![](../assets/pics/flags/puertorico.png) | Natalia Rosario-Melendez | Bacterial languages: Communication in a multispecies microbial community | [![youtube (653k)](icons16/youtube.png)](https://youtu.be/M-qMlF-cugQ) | [![tiktok (653k)](icons16/tiktok.png)](https://www.tiktok.com/@latinxinstem/video/7151917710291619118) |
-| 4 Nov 2022 | Ambar Carvallo Lopez | |
+| 4 Nov 2022 | ![](../assets/pics/flags/chile.png) | Ambar Carvallo Lopez | Organic tomato breeding, improving flavor, yields, and disease resistance | [![youtube (653k)](icons16/youtube.png)](https://youtu.be/IrqIlAfCaAs) | [![tiktok (653k)](icons16/tiktok.png)]() |
 | 2 Dec 2022 | Jesus Arroyo Relion | |
 | 6 Jan 2023 | Daniel Ojeda-Juarez | |
 | 3 Feb 2023 | Brenda Betancourt | |
