@@ -132,7 +132,7 @@ Examples of our current research involve:
 
 #### Preprints under revision
 
-<strong style="color: SlateBlue;">Bjorner, M.</strong>, Molloy, E., Dewey, C., <b>Sol&iacute;s-Lemus, C.</b>. (2022). Detectability of Varied Hybridization Scenarios using Genome-Scale Hybrid Detection Methods. [arxiv (2022): 2211.00712](https://arxiv.org/abs/2211.00712).
+<strong style="color: SlateBlue;">Bjorner, M.</strong>, Molloy, E., Dewey, C., <b>Sol&iacute;s-Lemus, C.</b>. (2022). Detectability of Varied Hybridization Scenarios using Genome-Scale Hybrid Detection Methods. [arxiv (2022): 2211.00712](https://arxiv.org/abs/2211.00712) [github](https://github.com/mbjorner/hybrid-detection-comparison).
 
 Justison, J., <b>Sol&iacute;s-Lemus, C.</b>, Heath, T. (2022). SiPhyNetwork: An R package for Simulating Phylogenetic Networks. [biorxiv (2022): 2022.10.26.513953](https://www.biorxiv.org/content/10.1101/2022.10.26.513953v1).
 
