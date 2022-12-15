@@ -90,7 +90,7 @@ Name pronunciation: [namedrop.io/claudiasolislemus](https://namedrop.io/claudias
         <div class="span2">
             <a href="../assets/pics/ben.png">
             <img src="../assets/pics/ben.png"
-                  title="BenRushinNZ" alt="BenRush_sitting_in_front_of_the_Abel_Tasman_glacial_lake">
+                  title="Ben Rush" alt="Ben Rush in front of the Abel Tasman Glacial Lake">
             </a>
         </div>
         <div class="span5">
