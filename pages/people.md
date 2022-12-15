@@ -88,9 +88,9 @@ Name pronunciation: [namedrop.io/claudiasolislemus](https://namedrop.io/claudias
 <div class="container">
     <div class="row-fluid">
         <div class="span2">
-            <a href="https://pubs.rsc.org/en/content/articlehtml/2015/mb/c4mb00413b">
-            <img src="../assets/pics/rosa.png"
-                  title="Aghdam2014" alt="Aghdam2014">
+            <a href="../assets/pics/ben.png">
+            <img src="../assets/pics/ben.png"
+                  title="BenRushinNZ" alt="BenRush_sitting_in_front_of_the_Abel_Tasman_glacial_lake">
             </a>
         </div>
         <div class="span5">
