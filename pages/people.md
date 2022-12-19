@@ -88,8 +88,8 @@ Name pronunciation: [namedrop.io/claudiasolislemus](https://namedrop.io/claudias
 <div class="container">
     <div class="row-fluid">
         <div class="span2">
-            <a href="../assets/pics/ben.png">
-            <img src="../assets/pics/ben.png"
+            <a href="icons16/Ben.png">
+            <img src="icons16/Ben.png"
                   title="Ben Rush" alt="Ben Rush in front of the Abel Tasman Glacial Lake">
             </a>
         </div>

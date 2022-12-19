@@ -132,6 +132,11 @@ Examples of our current research involve:
 
 #### Preprints under revision
 
+<strong style="color: SlateBlue;">Nelson, R., Aghdam, R.</strong>, <b>Sol&iacute;s-Lemus, C.</b>. (2022). MiNAA: Microbiome Network Alignment Algorithm. [arxiv (2022): 2212.05880](https://arxiv.org/abs/2212.05880) [github](https://github.com/solislemuslab/minaa).
+
+<strong style="color: SlateBlue;">Wu, Z.</strong>, <b>Sol&iacute;s-Lemus, C.</b>. (2022). Ultrafast learning of 4-node hybridization cycles in phylogenetic networks using algebraic invariants. [arxiv (2022): 2211.16647](https://arxiv.org/abs/2211.16647) [github](https://github.com/solislemuslab/phylo-diamond.jl).
+
+
 <strong style="color: SlateBlue;">Bjorner, M.</strong>, Molloy, E., Dewey, C., <b>Sol&iacute;s-Lemus, C.</b>. (2022). Detectability of Varied Hybridization Scenarios using Genome-Scale Hybrid Detection Methods. [arxiv (2022): 2211.00712](https://arxiv.org/abs/2211.00712) [github](https://github.com/mbjorner/hybrid-detection-comparison).
 
 Justison, J., <b>Sol&iacute;s-Lemus, C.</b>, Heath, T. (2022). SiPhyNetwork: An R package for Simulating Phylogenetic Networks. [biorxiv (2022): 2022.10.26.513953](https://www.biorxiv.org/content/10.1101/2022.10.26.513953v1).
