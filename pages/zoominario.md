@@ -10,6 +10,7 @@ description: El Zoominario
             <li><a href="#faq">faq</a></li>
             <li><a href="https://www.tiktok.com/@latinxinstem">tiktok</a></li>
             <li><a href="https://www.youtube.com/playlist?list=PL1AfUDnwvYbOA9rfrvyA2nR9SR0VYbklx">youtube</a></li>
+            <li><a href="#zoominario-k12">el-zoominario-k12</a></li>
         </ul>
     </div>
 </div>
@@ -83,3 +84,18 @@ Currently, we do not have the time to guarantee that all comments will be polite
 
 **I want to give a talk or nominate someone to give a talk?**
 Great! Please fill out [this google form](https://forms.gle/1kpZE1XrKe9YS9cHA).
+
+-----------------------------------------
+
+## <a name="zoominario-k12"></a>El Zoominario K12
+
+Welcome to El Zoominario K12: 5-10-minute videos by Latinx scientists talking about their trajectory in science and how their work has an impact in society.
+
+In collaboration with [Diego Roman](https://ci.education.wisc.edu/fac-staff/roman-diego/) and [Daniel Pimentel-Alarcon](https://danielpimentel.github.io/).
+
+| Topic(s) | Speaker | Title (YouTube link) | 
+| :--- | :--- | :--- | :---       |
+| Statistics, Math | Claudia Solis-Lemus 🇲🇽 | [Solving the mystery of a feathered T.Rex with a data scientist](https://youtu.be/iwdrtFiS93M) |
+| Plants, Chemistry | Ariadna Gonzalez Solis 🇲🇽 | [A trip into plant cells with a biochemistry scientist](https://youtu.be/6-fgCmT3MyI) |
+| Math, CS, Dairy | Victor Zavala 🇲🇽 | [The role of computational math in ice cream production](https://youtu.be/XBLRTRo-JzM) |
+| Plants, virus | Helena Jaramillo Mesa 🇨🇴 | [The fascinating world of plant viruses](https://youtu.be/1i60sNw_NBA) |
