@@ -44,6 +44,21 @@ description: Claudia Solis-Lemus' teaching
 
 ## <a name="courses"></a>Courses
 
+### Courses as main instructor in UW-Madison
+
+#### Botany/PlantPath 563 Phylogenetic Analysis of Molecular Data
+- Spring 2021: 3 credits; TR 1:00-2:15pm (virtual over zoom)
+- Spring 2022: 3 credits; WF 2:30-3:45pm
+- [Spring 2023](https://github.com/crsl4/phylogenetics-class): 3 credits; TR 1:00-2:15pm
+
+#### Plant Path 875 Readings in Phylogenomics
+- Spring 2021: 1 credit; F 8:55-9:45am (virtual over zoom)
+- [Spring 2022](https://github.com/crsl4/phylogenetics-class/tree/master/PP875): 1 credit; W 4:30-5:20pm
+
+![ ](../assets/pics/bot563-pp875-spring2022.png)
+
+### Other Courses
+
 #### Summer 2022
 
 - [AI+Science Summer school](https://datascience.uchicago.edu/events/2022-ai-science-summer-school/): Deep learning in biology. University of Chicago. August 10, 2022.
@@ -57,10 +72,6 @@ description: Claudia Solis-Lemus' teaching
 #### Spring 2022
 
 - Introduction to Statistics for Defense Attorneys (WI public defenders): [website](https://crsl4.github.io/forensic-stat/)
-- Botany 563 Phylogenetic Analysis of Molecular Data: [website](https://github.com/crsl4/phylogenetics-class); 3 credits; WF 2:30-3:45pm
-- Plant Path 875 Readings in Phylogenomics: [website](https://github.com/crsl4/phylogenetics-class/tree/master/PP875); 1 credit; W 4:30-5:20pm
-
-![ ](../assets/pics/bot563-pp875-spring2022.png)
 
 #### Fall 2021
 
@@ -82,11 +93,6 @@ description: Claudia Solis-Lemus' teaching
 **Virtual species delimitation workshop** at the National Museum of Natural History (NMNH); August 16-19, 2021. [iBPP wiki](https://github.com/cecileane/iBPP/wiki), [YouTube video](https://www.youtube.com/watch?v=_Q53Q8eKw48)
 
 #### Spring 2021
-
-- Botany 563 Phylogenetic Analysis of Molecular Data: [website](https://github.com/crsl4/phylogenetics-class); 3 credits; TR 1:00-2:15pm (virtual over zoom)
-- Plant Path 875 Readings in Phylogenomics: [website](https://github.com/crsl4/phylogenetics-class/tree/master/PP875); 1 credit; F 8:55-9:45am (virtual over zoom)
-
-![ ](../assets/pics/bot563-phylogenetics.jpeg)
 
 **Julia para Ciencias de Datos** organized by Seminario de Investigacion de la Escuela de Estadistica de la Universidad de Los Andes, Merida, Venezuela. [Github](https://github.com/crsl4/julia-workshop/blob/main/one-hour-spanish/lecture-notes.md)
 
