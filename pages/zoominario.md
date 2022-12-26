@@ -51,11 +51,10 @@ description: El Zoominario
 | 7 Oct 2022 | ![](../assets/pics/flags/puertorico.png) | Natalia Rosario-Melendez | Bacterial languages: Communication in a multispecies microbial community | [![youtube (653k)](icons16/youtube.png)](https://youtu.be/M-qMlF-cugQ) | [![tiktok (653k)](icons16/tiktok.png)](https://www.tiktok.com/@latinxinstem/video/7151917710291619118) |
 | 4 Nov 2022 | ![](../assets/pics/flags/chile.png) | Ambar Carvallo Lopez | Organic tomato breeding, improving flavor, yields, and disease resistance | [![youtube (653k)](icons16/youtube.png)](https://youtu.be/IrqIlAfCaAs) | [![tiktok (653k)](icons16/tiktok.png)](https://www.tiktok.com/@latinxinstem/video/7162536045966560558) |
 | 2 Dec 2022 | ![](../assets/pics/flags/mexico.png) | Jesus Arroyo Relion | Finding structure in brain networks | ![youtube (653k)](icons16/youtube.png)](https://youtu.be/6LBoSW90g08)
-| 6 Jan 2023 | Daniel Ojeda-Juarez | |
 | 3 Feb 2023 | Brenda Betancourt | |
 | 3 Mar 2023 | Federico Rey | |
 | 7 Apr 2023 | Pablo Moreno-Yaeger | |
-| 5 May 2023 |  | |
+| 5 May 2023 | Daniel Ojeda-Juarez | |
 | 2 Jun 2023 |  | |
 | 7 Jul 2023 |  | |
 | 4 Aug 2023 |  | |
