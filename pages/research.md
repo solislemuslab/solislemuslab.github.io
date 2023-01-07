@@ -357,8 +357,9 @@ Scientists world-wide are engaged in efforts to understand how all planetary bio
 - [Project assistantship in Julia package development and maintenance](https://solislemuslab.github.io//pages/positions-career3.html)
 
 #### Publications supported by the award
-- Justison et al (2022). [biorxiv (2022): 2022.10.26.513953](https://www.biorxiv.org/content/10.1101/2022.10.26.513953v1)
-- Bjorner et al (2022). [arxiv (2022): 2211.00712](https://arxiv.org/abs/2211.00712)
+- Justison et al (2022). [biorxiv:2022.10.26.513953](https://www.biorxiv.org/content/10.1101/2022.10.26.513953v1)
+- Bjorner et al (2022). [arxiv:2211.00712](https://arxiv.org/abs/2211.00712)
+- Wu and Solis-Lemus (2022). [arxiv:2211.16647](https://arxiv.org/abs/2211.16647)
 
 ### DOE: Computational Tool Development for Integrative Systems Biology Data Analysis
 
@@ -399,11 +400,12 @@ The overall objective of this proposal is to pioneer the development of the next
 - Liu and Solis-Lemus (2020) [JOSE DOI:10.21105/jose.00159](https://jose.theoj.org/papers/10.21105/jose.00159)
 - Shen and Solis-Lemus (2021) [arXiv:2107.01306](https://arxiv.org/abs/2107.01306)
 - Shen and Solis-Lemus (2021) [arXiv:2107.13763](https://arxiv.org/abs/2107.13763)
-- Ozminkowski and Solis-Lemus, C. (2022) [arXiv (2022): 2208.05600](https://arxiv.org/abs/2208.05600)
-- Ozminkowski and Solis-Lemus, C. (2022) [arXiv (2022): 2208.05600](https://arxiv.org/abs/2208.05600)
-- Ozminkowski et al (2022) [arxiv (2022): 2209.11730](https://arxiv.org/abs/2209.11730)
-- Shen et al (2022) [arXiv (2022): 2207.07020](https://arxiv.org/abs/2207.07020)
-- Bjorner et al (2022) [arxiv (2022): 2211.00712](https://arxiv.org/abs/2211.00712)
+- Ozminkowski and Solis-Lemus, C. (2022) [arXiv:2208.05600](https://arxiv.org/abs/2208.05600)
+- Ozminkowski and Solis-Lemus, C. (2022) [arXiv:2208.05600](https://arxiv.org/abs/2208.05600)
+- Ozminkowski et al (2022) [arxiv:2209.11730](https://arxiv.org/abs/2209.11730)
+- Shen et al (2022) [arXiv:2207.07020](https://arxiv.org/abs/2207.07020)
+- Bjorner et al (2022) [arxiv:2211.00712](https://arxiv.org/abs/2211.00712)
+- Nelson et al (2022) [arxiv:2212.05880](https://arxiv.org/abs/2212.05880)
 
 ------------------------------------
 
@@ -441,6 +443,7 @@ In order to identify the driving factors in plant and soil health, we need robus
 #### Publications supported by the award
 - Shen and Solis-Lemus (2020) [arXiv:2012.08397](https://arxiv.org/abs/2012.08397)
 - Shen and Solis-Lemus (2021) [arXiv:2107.01306](https://arxiv.org/abs/2107.01306)
+- Shen and Solis-Lemus (2021) [arXiv:2107.13763](https://arxiv.org/abs/2107.13763)
 - Ozminkowski and Solis-Lemus, C. (2022) [arXiv (2022): 2208.05600](https://arxiv.org/abs/2208.05600)
 - Ozminkowski et al (2022) [arxiv (2022): 2209.11730](https://arxiv.org/abs/2209.11730)
 - Shen et al (2022) [arXiv (2022): 2207.07020](https://arxiv.org/abs/2207.07020)
