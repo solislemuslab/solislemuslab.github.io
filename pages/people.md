@@ -94,7 +94,7 @@ Name pronunciation: [namedrop.io/claudiasolislemus](https://namedrop.io/claudias
             </a>
         </div>
         <div class="span5">
-            Ben Rush (he/him) is a post-doctoral researcher collaborating with Wisconsin Fast Plants and co-mentored with John Garrett. His research focus on using artificial intelligence to analyze genomes and images of bacteria, and to analyze medical images. He obatined a PhD in Nutritional Sciences from the University of Wisconsin-Madison and Masters of Public Health from Indiana University-Bloomington. Ben also enjoys science communication, chocolate, comedy, and going on adventures with friends.
+            Ben Rush (he/him) is a post-doctoral researcher collaborating with Wisconsin Fast Plants and co-mentored with John Garrett. His research focuses on using artificial intelligence to analyze genomes and images of bacteria, and to analyze medical images. He obatined a PhD in Nutritional Sciences from the University of Wisconsin-Madison and Masters of Public Health from Indiana University-Bloomington. Ben also enjoys science communication, chocolate, comedy, and going on adventures with friends. Email:rush4@wisc.edu
         </div>
     </div>
 </div>
