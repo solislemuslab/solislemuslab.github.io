@@ -10,8 +10,7 @@ description: Claudia Solis-Lemus' teaching
             <li><a href="#knowledge">useful links</a></li>
             <li><a href="#courses">courses</a></li>
             <li><a href="#tutorials">tutorials</a></li>
-            <li><a href="#experience">past teaching</a></li>
-            <li><a href="#mentoring">past mentoring</a></li>
+            <li><a href="https://solislemuslab.github.io//pages/consulting.html">get stat help!</a></li>
         </ul>
     </div>
 </div>

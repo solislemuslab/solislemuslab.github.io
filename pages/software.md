@@ -178,3 +178,21 @@ Bayesian species delimitation integrating genes and traits data.
 
 ---
 
+<div class="container">
+    <div class="row-fluid">
+        <div class="span5">
+            <a href="https://solislemus-lab.shinyapps.io/sample-size-shinyapp/">Sample Size Calculation Shiny App</a><br/>
+            This shiny app provides an open-source user friendly computation of sample size for different pairwise tests.<br/>
+            <br/>Software developed by <a href="https://github.com/nathanasiou">Nicole Athanasiou.</a><br/>
+        </div>
+
+        <div class="span2">
+        <a href="https://solislemus-lab.shinyapps.io/sample-size-shinyapp/">
+            <img src="../assets/pics/sample-size.png"
+                  title="Sample Size Calculation Shiny App" alt="Sample Size Calculation Shiny App"/></a>
+        </div>
+    </div>
+</div>
+
+---
+
