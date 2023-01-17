@@ -88,9 +88,9 @@ Name pronunciation: [namedrop.io/claudiasolislemus](https://namedrop.io/claudias
 <div class="container">
     <div class="row-fluid">
         <div class="span2">
-            <a href="icons16/Ben.png">
-            <img src="icons16/Ben.png"
-                  title="Ben Rush" alt="Ben Rush in front of the Abel Tasman Glacial Lake">
+            <a href="icons16/Ben.jpeg">
+            <img src="icons16/Ben.jpeg"
+                  title="Ben Rush" alt="Ben Rush">
             </a>
         </div>
         <div class="span5">
@@ -222,6 +222,20 @@ Name pronunciation: [namedrop.io/claudiasolislemus](https://namedrop.io/claudias
 
         <div class="span5">
             Yibo Kong is a sophomore undergraduate student majoring in Computer Science and Data Science. He works on unsupervised learning of phylogenetic trees.
+     </div>
+    </div>
+</div>
+
+<div class="container">
+    <div class="row-fluid">
+        <div class="span2">
+        <a href="../assets/pics/lakes.png">
+            <img src="../assets/pics/lakes.png"
+                  title="Lakes Tang" alt="Lakes Tang"/></a>
+        </div>
+
+        <div class="span5">
+            Lakes (Mengze) Tang is a junior undergraduate student majoring in Computer Science and Mathematics. He works on testing the performance of neural networks on simulated genetic data. 
      </div>
     </div>
 </div>
