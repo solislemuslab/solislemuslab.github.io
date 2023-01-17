@@ -19,3 +19,6 @@
 - Know that you need preliminary data to answer this question. You need to have an idea of effect sizes and variability, as well as the power that you aim to achieve.
 - The sample size depends on what you want to achieve and with which methods (pairwise tests, ANOVA, linear models,...), yet it can sometimes be conveniently computed for simple pairwise tests as an rough estimate. 
 - Use this user friendly shiny app that automatically calculates sample sizes for pairwise tests: [https://solislemus-lab.shinyapps.io/sample-size-shinyapp/](https://solislemus-lab.shinyapps.io/sample-size-shinyapp/).
+
+**Option 3:** You want to schedule a meeting with the CALS statistics consulting group.
+- Check out the main website for the [CALS Statistical Consulting](https://calslab.cals.wisc.edu/stat-consulting/).
