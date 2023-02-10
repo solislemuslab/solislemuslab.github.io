@@ -166,8 +166,8 @@ Name pronunciation: [namedrop.io/claudiasolislemus](https://namedrop.io/claudias
 <div class="container">
     <div class="row-fluid">
         <div class="span2">
-        <a href="../assets/pics/hailey.jpeg">
-            <img src="../assets/pics/hailey.jpeg"
+        <a href=".../assets/pics/hailey.JPG">
+            <img src="../assets/pics/hailey.JPG"
                   title="HaileyLouw" alt="HaileyLouw"/></a>
         </div>
 
