@@ -161,6 +161,23 @@ Name pronunciation: [namedrop.io/claudiasolislemus](https://namedrop.io/claudias
 
 </div>
 
+</div>
+
+<div class="container">
+    <div class="row-fluid">
+        <div class="span2">
+        <a href="../assets/pics/hailey.jpeg">
+            <img src="../assets/pics/hailey.jpeg"
+                  title="HaileyLouw" alt="HaileyLouw"/></a>
+        </div>
+
+        <div class="span5">
+       		Hailey is a Statistics MS student. She works on inference of viral DNA sequences from phylogenetic trees and corresponding estimation of ancestral DNA sequences in plant viruses.  She received her BA in Statistics from Northwestern College in Orange City, Iowa.  
+	 </div>
+    </div>
+
+</div>
+
 
 ---
 
