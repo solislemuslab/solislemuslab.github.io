@@ -4,6 +4,10 @@ title: news
 description: Solis-Lemus lab
 ---
 
+### 2023
+
+- [Great article](https://cgsi.wisc.edu/2023/01/23/el-zoominario/) about El Zoominario, posted in Genomics & Technology Spring 2023. Thanks!
+
 ### 2022
 
 - Launching the #LatinxInStat database!!!
