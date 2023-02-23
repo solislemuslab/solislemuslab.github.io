@@ -161,8 +161,6 @@ Name pronunciation: [namedrop.io/claudiasolislemus](https://namedrop.io/claudias
 
 </div>
 
-</div>
-
 <div class="container">
     <div class="row-fluid">
         <div class="span2">
