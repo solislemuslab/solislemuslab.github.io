@@ -6,6 +6,13 @@ description: Solis-Lemus lab
 
 ### 2023
 
+- A lot of fun in the Collaboration Matching experiment at the WID Research Bazaar 2023! Thanks to Sarah Stevens, Chris Endemann and Michael Ferris (in the photo below):
+
+<div style="text-align:center"><img src="../assets/pics/photo1.png" width="450"/></div>
+<div style="text-align:center"><img src="../assets/pics/photo2.png" width="450"/></div>
+
+- Thanks for the invitation to speak at a [Girls Who Code](http://websites.umich.edu/~girlswc/) event!
+
 - [Great article](https://cgsi.wisc.edu/2023/01/23/el-zoominario/) about El Zoominario, posted in Genomics & Technology Spring 2023. Thanks!
 
 ### 2022

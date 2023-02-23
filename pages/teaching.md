@@ -58,6 +58,15 @@ description: Claudia Solis-Lemus' teaching
 
 ### Other Courses
 
+#### Spring 2023
+
+- Accessible reproducibility for biological researchers at the [Toronto Workshop on Reproducibility](https://rohanalexander.com/reproducibility.html)
+  - [website](https://crsl4.github.io/mindful-programming/)
+  - [wiki](https://github.com/crsl4/mindful-programming)
+
+- **SSB Satellite Mexico City:** Introduction to PhyloNetworks.
+  - [wiki](https://github.com/crsl4/PhyloNetworks.jl/wiki)
+
 #### Summer 2022
 
 - [AI+Science Summer school](https://datascience.uchicago.edu/events/2022-ai-science-summer-school/): Deep learning in biology. University of Chicago. August 10, 2022.

@@ -17,7 +17,15 @@ description: Claudia Solis-Lemus' talks
 
 ## <a name="talks"></a>Solis-Lemus selected talks
 
+### 2023
+
+Toronto Workshop on Reproducibility. "Accessible reproducibility for biological researchers" (_Feb 23_). [website](https://crsl4.github.io/mindful-programming/)
+
+WID seminar. "Biological Networks from Adaptable Mathematics" (_Feb 1_)
+
 ### 2022
+
+PBEE seminar at Emory University. "From phylogenetic networks to microbial networks: novel tools for networked data" (_Nov 18_)
 
 Evolution conference: "Statistical challenges to infer phylogenetic networks" in the symposium of "Towards the Network of Life" (_June 28_)
 
