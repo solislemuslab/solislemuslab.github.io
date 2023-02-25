@@ -163,18 +163,55 @@ Bayesian species delimitation integrating genes and traits data.
 <div class="container">
     <div class="row-fluid">
         <div class="span5">
-            <a href="https://latinxinstat.wid.wisc.edu/">LatinxInStat database</a><br/>
+            <a href="https://github.com/solislemuslab/minaa">MiNAA</a><br/>
+            MiNAA is a Microbiome Network Alignment Algorithm. While most existing alignment methods are tailored to protein or gene interaction networks, and often require particular biological data, MiNAA is suited to align microbiome interaction networks, and allows the user to include any biological data they see fit.<br/>
+            <br/>Software developed by <a href="https://pages.cs.wisc.edu/~rnelson/">Reed Nelson.</a><br/>
+        </div>
+
+        <div class="span2">
+        <a href="https://github.com/solislemuslab/minaa">
+            <img src="../assets/pics/minaa.png"
+                  title="MiNAA" alt="MiNAA"/></a>
+        </div>
+    </div>
+</div>
+
+---
+
+<div class="container">
+    <div class="row-fluid">
+        <div class="span5">
+            <a href="https://latinxinstat.wid.wisc.edu/">LatinxInStat Database</a><br/>
             The LatinxInStat database contains information of Latinx statisticians and data scientists. If you identify as Latinx, please add yourself to the database. If you are organizing a conference, please use this database to include a more diverse representation of speakers.<br/>
             <br/>Software developed by <a href="https://pages.cs.wisc.edu/~rnelson/">Reed Nelson.</a><br/>
         </div>
 
         <div class="span2">
         <a href="https://latinxinstat.wid.wisc.edu/">
-            <img src="../assets/pics/latinx.png"
-                  title="LatinxInStat" alt="LatinxInStat"/></a>
+            <img src="../assets/pics/latinx-stat.png"
+                  title="LatinxInStat Satabase" alt="LatinxInStat Database"/></a>
         </div>
     </div>
 </div>
+
+<!-- UNCOMMENT WHEN FSD IS DEPLOYED -->
+<!-- ---
+
+<div class="container">
+    <div class="row-fluid">
+        <div class="span5">
+            <a href="https://forensicstat.wid.wisc.edu/">Forensic-Statistic Database</a><br/>
+            The Forensic-Statistic Database provides a list of statisticians and data scientists that are interested in aiding forensic scientists or attorneys in the understanding of statistical concepts in forensic science, or serving as experts in trials. If you are an expert willing to aid in such activities, please add yourself to the database.<br/>
+            <br/>Software developed by <a href="https://pages.cs.wisc.edu/~rnelson/">Reed Nelson.</a><br/>
+        </div>
+
+        <div class="span2">
+        <a href="https://forensicstat.wid.wisc.edu/">
+            <img src="../assets/pics/forensic-stat.png"
+                  title="Forensic-Satistic Database" alt="Forensic-Statistic Database"/></a>
+        </div>
+    </div>
+</div> -->
 
 ---
 
