@@ -241,7 +241,7 @@ Bayesian species delimitation integrating genes and traits data.
             <a href="https://github.com/solislemuslab/PhyloDiamond.jl/">PhyloDiamond.jl</a><br/>
             PhyloDiamond.jl is a Julia package for ultrfast learning of 4-node hybridization cycles in phylogenetic networks using algebraic invariants.<br/>
             <br/>Check out the 
-            <a href="https://github.com/solislemuslab/PhyloDiamond.jl/dev">documentation and tutorials.</a><br/>
+            <a href="https://solislemuslab.github.io/PhyloDiamond.jl/dev/">documentation and tutorials.</a><br/>
             <br/>Software developed by <a href="https://github.com/zwu363">Zhaoxing Wu.</a><br/>
         </div>
 
@@ -254,4 +254,3 @@ Bayesian species delimitation integrating genes and traits data.
 </div>
 
 ---
-
