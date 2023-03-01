@@ -193,7 +193,7 @@ Name pronunciation: [namedrop.io/claudiasolislemus](https://namedrop.io/claudias
         </div>
 
         <div class="span5">
-            Zhaoxing Wu is a sophomore undergraduate student in Computer Science, Data Science, and Statistics. She works on the microbial data analysis of dollar spot disturbance.
+            Zhaoxing Wu is a senior undergraduate student in Statistics, Mathematics, and Data Science. She works on developing an ultrafast algorithm on inferring phylogenetics network.
         </div>
     </div>
 </div>
