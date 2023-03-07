@@ -60,6 +60,10 @@ description: Claudia Solis-Lemus' teaching
 
 #### Spring 2023
 
+- DNA Bootcamp 2023 by California State University Los Angeles, Los Angeles Innocence Project, Federal Defender Central District of California, and Los Angeles County Public Defender
+  - [Website](https://crsl4.github.io/forensic-stat/)
+  - [YouTube video](https://youtu.be/_SXVRD00vMY)
+
 - Accessible reproducibility for biological researchers at the [Toronto Workshop on Reproducibility](https://rohanalexander.com/reproducibility.html)
   - [website](https://crsl4.github.io/mindful-programming/)
   - [wiki](https://github.com/crsl4/mindful-programming)
