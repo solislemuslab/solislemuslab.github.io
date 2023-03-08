@@ -6,6 +6,8 @@ description: Solis-Lemus lab
 
 ### 2023
 
+- Excited to join the [Journal of Open Source Software (JOSS)](https://joss.theoj.org/) editorial team!
+
 - A lot of fun in the Collaboration Matching experiment at the WID Research Bazaar 2023! Thanks to Sarah Stevens, Chris Endemann and Michael Ferris (in the photo below):
 
 <div style="text-align:center"><img src="../assets/pics/photo1.png" width="450"/></div>
