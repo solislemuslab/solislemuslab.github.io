@@ -255,6 +255,20 @@ Name pronunciation: [namedrop.io/claudiasolislemus](https://namedrop.io/claudias
     </div>
 </div>
 
+<div class="container">
+    <div class="row-fluid">
+        <div class="span2">
+        <a href="../assets/pics/tianyi.jpg">
+            <img src="../assets/pics/tianyi.jpg"
+                  title="Tianyi Xu" alt="Tianyi Xu"/></a>
+        </div>
+        
+        <div class="span5">
+            Tianyi Xu is a sophmore undergraduate student majoring in Computer Science, Data Science and Mathematics. He works on network analysis of soil microbiome data. 
+     </div>
+    </div>
+</div>
+
 ---
 
 ### <a name="past"></a>Past members
