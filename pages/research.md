@@ -401,7 +401,6 @@ The overall objective of this proposal is to pioneer the development of the next
 - Shen and Solis-Lemus (2021) [arXiv:2107.01306](https://arxiv.org/abs/2107.01306)
 - Shen and Solis-Lemus (2021) [arXiv:2107.13763](https://arxiv.org/abs/2107.13763)
 - Ozminkowski and Solis-Lemus, C. (2022) [arXiv:2208.05600](https://arxiv.org/abs/2208.05600)
-- Ozminkowski and Solis-Lemus, C. (2022) [arXiv:2208.05600](https://arxiv.org/abs/2208.05600)
 - Ozminkowski et al (2022) [arxiv:2209.11730](https://arxiv.org/abs/2209.11730)
 - Shen et al (2022) [arXiv:2207.07020](https://arxiv.org/abs/2207.07020)
 - Bjorner et al (2022) [arxiv:2211.00712](https://arxiv.org/abs/2211.00712)
