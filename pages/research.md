@@ -341,6 +341,10 @@ Tiley, George P., Andrew A. Crowl, Paul S. Manos, Emily B. Sessa, <b>Sol&iacute;
             Dates: February 1, 2022 to January 31, 2027 <br/>
             Personnel: <br/>
                 - PI: Claudia Solis-Lemus <br/>
+                - Ben Rush (postdoc) <br/>
+                - Xudong Tang (MS student) <br/>
+                - Nathan Kolbow (PhD student) <br/>
+                - Bella Wu (undergrad) 
         </div>
     </div>
 
@@ -350,11 +354,6 @@ Tiley, George P., Andrew A. Crowl, Paul S. Manos, Emily B. Sessa, <b>Sol&iacute;
 
 Scientists world-wide are engaged in efforts to understand how all planetary biodiversity evolved. This diversification process is represented through the Tree of Life. Achieving the goal of a complete estimate of the Tree of Life would allow us to fully understand the development and evolution of important biological traits in nature, for example, those related to resilience to extinction when exposed to environmental threats such as climate change. It would also provide information about the emergence and evolution of novel human pathogens that pose severe threats to human health. Thus, the development of statistical and computational tools to reconstruct the Tree of Life are paramount in evolutionary biology, systematics, conservation efforts, and human health research. Existing tree reconstruction methods, however, are limited because they do not account for important biological processes such as species hybridization, introgression or horizontal gene transfer, and thus, recent years have seen an explosion of methods to reconstruct phylogenetic networks rather than trees. Existing network reconstruction methods lack statistical guarantees ensuring the detection of reticulate signals in data, are not scalable enough for big data, and are tailored to reconstruct simple networks. Thus, they are not sufficient to tackle the complexity of reticulate evolution in fungi, prokaryotes, or viruses. This project will develop novel network inference methods with strong statistical guarantees that are robust enough to infer complex networks and scalable enough to accommodate big data. The methods will allow the integration of all organisms into the Tree of Life and thus help to complete a broader picture of evolution across all domains of life. The project will produce open source software and data science modules for K-16 outreach, and includes a strong focus on training underrepresented groups in STEM.
 
-#### Apply! New positions funded by NSF CAREER
-
-- [Postdoctoral researcher in the inference of phylogenetic networks](https://solislemuslab.github.io//pages/positions-career1.html)
-- [Postdoctoral position in statistical education](https://solislemuslab.github.io//pages/positions-career2.html)
-- [Project assistantship in Julia package development and maintenance](https://solislemuslab.github.io//pages/positions-career3.html)
 
 #### Publications supported by the award
 - Justison et al (2022). [biorxiv:2022.10.26.513953](https://www.biorxiv.org/content/10.1101/2022.10.26.513953v1)
@@ -380,7 +379,9 @@ Scientists world-wide are engaged in efforts to understand how all planetary bio
                 - PI: Claudia Solis-Lemus <br/>
                 - Sam Ozminkowski (MS student in Statistics) <br/>
                 - Marianne Bjorner (MS student in CS) <br/>
-                - Rosa Aghdam (postdoc)
+                - Rosa Aghdam (postdoc) <br/>
+                - Yuke Wu (undergrad) <br/>
+                - Reed Nelson (undergrad) <br/>
         </div>
     </div>
 
