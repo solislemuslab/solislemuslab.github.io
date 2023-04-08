@@ -372,7 +372,7 @@ Scientists world-wide are engaged in efforts to understand how all planetary bio
         </div>
 
         <div class="span5">
-           <a href="https://genomicscience.energy.gov/compbio/2020Awards.shtml">DE-FOA-0002217</a> <br/>
+           <a href="https://genomicscience.energy.gov/computational-tool-development-for-integrative-systems-biology-data-analysis/">DE-FOA-0002217</a> <br/>
             Title: Harnessing the power of big omics data: Novel statistical tools to study the
             role of microbial communities in fundamental biological processes <br/>
             Dates: September 14, 2020 to September 14, 2022 <br/>
