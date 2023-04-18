@@ -6,6 +6,10 @@ description: Solis-Lemus lab
 
 ### 2023
 
+- Thankful for the advertisement on El Zoominario:
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">El Zoominario is an online seminar series that highlights Latinx speakers and their science. The program, co-created by plant pathology&#39;s Claudia Solís-Lemus, is designed for the general public and aims to inspire young scientists. <a href="https://t.co/cgdn3PqyOJ">https://t.co/cgdn3PqyOJ</a> <a href="https://t.co/tK86vfSY0F">pic.twitter.com/tK86vfSY0F</a></p>&mdash; UW-Madison CALS (@UWMadisonCALS) <a href="https://twitter.com/UWMadisonCALS/status/1628426955254120448?ref_src=twsrc%5Etfw">February 22, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 - Excited to join the [Journal of Open Source Software (JOSS)](https://joss.theoj.org/) editorial team!
 
 - A lot of fun in the Collaboration Matching experiment at the WID Research Bazaar 2023! Thanks to Sarah Stevens, Chris Endemann and Michael Ferris (in the photo below):
