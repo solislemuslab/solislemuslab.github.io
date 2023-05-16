@@ -25,7 +25,7 @@ description: El Zoominario
 </div>
 
 
-| Date | Country | Speaker | Title | YouTube | TikTok | Who am I? |
+| Date | Country | Speaker | Title | YouTube | TikTok | TikTok intro |
 | :---   | :--- | :--- | :---  | :--- | :--- |
 | 2 Oct 2020 | ![](../assets/pics/flags/mexico.png) | Daniel Pimentel-Alarcon | Machine-learning, inside the black-box  |[![youtube (653k)](icons16/youtube.png)](https://youtu.be/W1zxOj6895I) | [![tiktok (653k)](icons16/tiktok.png)](https://www.tiktok.com/@latinxinstem/video/7081420036396649771) | |
 | 6 Nov 2020 | ![](../assets/pics/flags/mexico.png) | Jose Alonso Solis-Lemus | Supporting 2 patients with 1 ventilator |[![youtube (653k)](icons16/youtube.png)](https://youtu.be/MeFT0wUmkvw) | [![tiktok (653k)](icons16/tiktok.png)](https://www.tiktok.com/@latinxinstem/video/7081432005249977646) | |
