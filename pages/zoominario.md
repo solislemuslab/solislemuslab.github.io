@@ -54,7 +54,7 @@ description: El Zoominario
 | 3 Feb 2023 | ![](../assets/pics/flags/colombia.png) | Brenda Betancourt | Introduction to record linkage and its applications | [![youtube (653k)](icons16/youtube.png)](https://youtu.be/8aRcH_LYr7E) | [![tiktok (653k)](icons16/tiktok.png)](https://www.tiktok.com/@latinxinstem/video/7198957014762999083) |
 | 3 Mar 2023 | ![](../assets/pics/flags/argentina.png) | Federico Rey | Gut microbes and cardiometabolic health | [![youtube (653k)](icons16/youtube.png)](https://youtu.be/4huIZPpLrpY)
 | 7 Apr 2023 | ![](../assets/pics/flags/chile.png) | Pablo Moreno-Yaeger | How do volcanoes respond to glaciation? | [![youtube (653k)](icons16/youtube.png)](https://youtu.be/bMQfIN6DXvw) | | [![tiktok (653k)](icons16/pablo.png)](https://www.tiktok.com/@latinxinstem/video/7219446404513598766?is_from_webapp=1&sender_device=pc&web_id=7198957279043405354) |
-| 5 May 2023 | Daniel Ojeda-Juarez | |
+| 5 May 2023 | ![](../assets/pics/flags/mexico.png) | Daniel Ojeda-Juarez | Understanding neurodegenerative diseases: From Alzheimer's to Mad Cow Disease | [![youtube (653k)](icons16/youtube.png)](https://youtu.be/bMQfIN6DXvw) | | |
 | 2 Jun 2023 |  | |
 | 7 Jul 2023 |  | |
 | 4 Aug 2023 |  | |
