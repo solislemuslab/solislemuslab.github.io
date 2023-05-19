@@ -103,7 +103,7 @@ Name pronunciation: [namedrop.io/claudiasolislemus](https://namedrop.io/claudias
     <div class="row-fluid">
         <div class="span2">
             <a href="https://sungsik-kong.github.io">
-            <img src="../assets/pics/ssik08.png"
+            <img src="icons16/ssik08.png"
                   title="Sungsik (Kevin) Kong" alt="Sungsik (Kevin) Kong">
             </a>
         </div>
