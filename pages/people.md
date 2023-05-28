@@ -108,7 +108,7 @@ Name pronunciation: [namedrop.io/claudiasolislemus](https://namedrop.io/claudias
             </a>
         </div>
         <div class="span5">
-            <a href= "https://sungsik-kong.github.io/">Sungsik (Kevin) Kong</a> is a post-doctoral research associate. Kevin is a computational evolutionary biologist who is interested in statistical and computational problems surrounding phylogenetic network estimation and their applications in practice in understanding complex evolutionary histories, including hybrid speciation, introgression, and gene flow. Kevin conferred his Ph.D. in Evolution, Ecology, and Organismic Biology at the Ohio State University and B.Sc. & M.Sc. at University of Toronto, Canada. Kevin likes traveling and long-distance biking. Emailto: <a href = "mailto: skong32@wisc.edu">skong32@wisc.edu</a>.
+            <a href= "https://sungsik-kong.github.io/">Sungsik (Kevin) Kong</a> is a post-doctoral research associate. Kevin is a computational evolutionary biologist who is interested in statistical and computational problems surrounding phylogenetic network estimation and their applications in practice. Kevin conferred his Ph.D. in Evolution, Ecology, and Organismic Biology at the Ohio State University and B.Sc. & M.Sc. at University of Toronto, Canada. Kevin likes traveling and long-distance biking. Emailto: <a href = "mailto: skong32@wisc.edu">skong32@wisc.edu</a>.
         </div>
     </div>
 </div>
