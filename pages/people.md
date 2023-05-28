@@ -118,21 +118,6 @@ Name pronunciation: [namedrop.io/claudiasolislemus](https://namedrop.io/claudias
 <div class="container">
     <div class="row-fluid">
         <div class="span2">
-        <a href="../assets/pics/marianne.JPG">
-            <img src="../assets/pics/marianne.JPG"
-                  title="MarianneBjørner" alt="MarianneBjørner"/></a>
-        </div>
-
-        <div class="span5">
-            Marianne Bjørner is a MS student in Computer Sciences. They work on phylogenetic tree reconstruction as applied to large microbial datasets. They completed their undergraduate degree in Microbiology at the University of Washington.
-        </div>
-    </div>
-
-</div>
-
-<div class="container">
-    <div class="row-fluid">
-        <div class="span2">
         <a href="../assets/pics/nathan.jpg">
             <img src="../assets/pics/nathan.jpg"
                   title="NathanKolbow" alt="NathanKolbow"/></a>
@@ -286,6 +271,7 @@ Name pronunciation: [namedrop.io/claudiasolislemus](https://namedrop.io/claudias
 ---
 
 ### <a name="past"></a>Past members
+- Marianne Bjørner (MS in Computer Sciences, UW-Madison 2022). They worked on the performance of hybrid detection methods on simulated hybridization scenarios. They are currently working at Epic as software engineer.
 - [Sam Ozminkowski](https://samozminkowski.com/) (MS Statistics, UW-Madison 2022).  He worked on Bayesian models with network predictors, specifically focusing on microbiome networks. He is pursuing his PhD in Statistics at Northwestern University.
 - [Fardeen Meeran](https://meerxn.github.io/MyPersonalCV/) (BS Computer Science, UW-Madison 2022). He worked in a web app to visualize phylogenetic networks.
 - [Zhaoyi Zhang](https://www.linkedin.com/in/zhang-zhaoyi/) (BS Computer Science, Data Science, Mathematics, UW-Madison 2022). He tested the applicability of deep neural networks to genomic datasets to predict important phenotypes. He will work as a Software Engineer at Oracle after graduation.
