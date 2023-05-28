@@ -6,6 +6,10 @@ description: Solis-Lemus lab
 
 ### 2023
 
+- Gracias Ricardo por la invitacion para hablar de mi trayectoria en ciencia:
+
+<blockquote class="twitter-tweet"><p lang="es" dir="ltr">Hoy tuvimos la visita de la súper genial <a href="https://twitter.com/solislemuslab?ref_src=twsrc%5Etfw">@solislemuslab</a> Les alumnes súper pilas con las redes filogenéticas pero además no las condiciones para les latines haciendo ciencia en EEUU ....no se pierdan el video por <a href="https://twitter.com/hashtag/SisteMatrix?src=hash&amp;ref_src=twsrc%5Etfw">#SisteMatrix</a>!!! <a href="https://t.co/Mt4cfvEnLK">pic.twitter.com/Mt4cfvEnLK</a></p>&mdash; Ricardo (@rgarciasandoval) <a href="https://twitter.com/rgarciasandoval/status/1653815670994264095?ref_src=twsrc%5Etfw">May 3, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 - Very excited to have reached 1000 citations on Google Scholar!
 
 <div style="text-align:center"><img src="../assets/pics/1000citations.png" width="450"/></div>
