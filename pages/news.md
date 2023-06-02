@@ -6,6 +6,10 @@ description: Solis-Lemus lab
 
 ### 2023
 
+- Thank you to the Data Science Hub for featuring me in the "Faces of Data Science" edition. See [here](https://datascience.wisc.edu/#faces) for the article.
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Claudia Solís-Lemus collaborates with life sciences researchers, developing mathematical models to help them understand relationships and interactions among species. Read her story in Faces of Data Science. <a href="https://twitter.com/solislemuslab?ref_src=twsrc%5Etfw">@solislemuslab</a> <a href="https://twitter.com/UWMadisonCALS?ref_src=twsrc%5Etfw">@uwmadisoncals</a> <a href="https://twitter.com/WIDiscovery?ref_src=twsrc%5Etfw">@widiscovery</a> <a href="https://t.co/B6shjQY6X3">https://t.co/B6shjQY6X3</a> <a href="https://t.co/iIaVlb8YbU">pic.twitter.com/iIaVlb8YbU</a></p>&mdash; datascience@uw (@datascience_uw) <a href="https://twitter.com/datascience_uw/status/1664278126673948679?ref_src=twsrc%5Etfw">June 1, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 - Do you identify as Latinx in Data Science? We are excited to launch the #LatinxInDataSci database: [https://latinxinstat.wid.wisc.edu/](https://latinxinstat.wid.wisc.edu/). Please add yourself! Also, conference organizers can use this database to include a more diverse representation of speakers.
 
 - Gracias Ricardo por la invitacion para hablar de mi trayectoria en ciencia:
