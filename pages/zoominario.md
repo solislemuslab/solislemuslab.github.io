@@ -59,6 +59,7 @@ description: El Zoominario
 | 6 Oct 2023 | Nahui Medina Chavez| |
 | 3 Nov 2023 |  | |
 | 1 Dec 2023 |  | |
+| 2 Feb 2024 | Hector Baños | |
 
 
 # FAQ
