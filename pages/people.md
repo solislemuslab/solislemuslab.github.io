@@ -268,6 +268,20 @@ Name pronunciation: [namedrop.io/claudiasolislemus](https://namedrop.io/claudias
     </div>
 </div>
 
+<div class="container">
+    <div class="row-fluid">
+        <div class="span2">
+        <a href="../assets/pics/yunju.jpg">
+            <img src="../assets/pics/yunju.jpg"
+                  title="Yunju Ha" alt="Yunju Ha"/></a>
+        </div>
+
+        <div class="span5">
+            Yunju Ha is a junior undergraduate student majoring in Statistics and Computer Science. She works on applying machine learning techniques using DXA/BIS methods for sarcopenia research.
+     </div>
+    </div>
+</div>
+
 ---
 
 ### <a name="past"></a>Past members
