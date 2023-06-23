@@ -132,6 +132,8 @@ Examples of our current research involve:
 
 #### Preprints under revision
 
+<strong style="color: SlateBlue;">Aghdam, R., Tang., X.</strong>, Shan, S., Lankau, R., <b>Sol&iacute;s-Lemus, C.</b>. (2023). Human Limits in Machine Learning: Prediction of Plant Phenotypes Using Soil Microbiome Data. [arxiv (2022): 2306.11157](https://arxiv.org/abs/2306.11157) [github](https://github.com/solislemuslab/soil-microbiome-nn).
+
 <strong style="color: SlateBlue;">Nelson, R., Aghdam, R.</strong>, <b>Sol&iacute;s-Lemus, C.</b>. (2022). MiNAA: Microbiome Network Alignment Algorithm. [arxiv (2022): 2212.05880](https://arxiv.org/abs/2212.05880) [github](https://github.com/solislemuslab/minaa).
 
 <strong style="color: SlateBlue;">Wu, Z.</strong>, <b>Sol&iacute;s-Lemus, C.</b>. (2022). Ultrafast learning of 4-node hybridization cycles in phylogenetic networks using algebraic invariants. [arxiv (2022): 2211.16647](https://arxiv.org/abs/2211.16647) [github](https://github.com/solislemuslab/phylo-diamond.jl).
