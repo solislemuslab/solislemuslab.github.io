@@ -10,6 +10,7 @@ description: Sol&iacute;s-Lemus lab
             <li><a href="#postdocs">postdocs</a></li>
             <li><a href="#graduate">graduate</a></li>
             <li><a href="#undergraduate">undergraduate</a></li>
+            <li><a href="#pets">pets</a></li>
             <li><a href="#past">past</a></li>
             <li><a href="#opportunities">oppportunities</a></li>
         </ul>
@@ -278,6 +279,24 @@ Name pronunciation: [namedrop.io/claudiasolislemus](https://namedrop.io/claudias
 
         <div class="span5">
             Yunju Ha is a junior undergraduate student majoring in Statistics and Computer Science. She works on applying machine learning techniques using DXA/BIS methods for sarcopenia research.
+     </div>
+    </div>
+</div>
+
+---
+
+### <a name="pets"></a>Emotional support staff
+
+<div class="container">
+    <div class="row-fluid">
+        <div class="span2">
+        <a href="../assets/pics/alfalfa.png">
+            <img src="../assets/pics/alfalfa.png"
+                  title="Alfalfa" alt="Alfalfa"/></a>
+        </div>
+
+        <div class="span5">
+            Alfalfa is a mix of cattle dog and border collie. She is passionate about squirrels and other small mammals. In her free time, she likes to study the cushiness properties of grass and the taste of Madison lakes in different seasons.
      </div>
     </div>
 </div>
