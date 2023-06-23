@@ -1,6 +1,6 @@
 ---
 layout: page
-title: people
+title: team
 description: Sol&iacute;s-Lemus lab
 ---
 
@@ -339,5 +339,4 @@ Name pronunciation: [namedrop.io/claudiasolislemus](https://namedrop.io/claudias
 
 #### New positions funded by NSF CAREER
 
-- [Postdoctoral researcher in the inference of phylogenetic networks](https://solislemuslab.github.io//pages/positions-career1.html)
 - [Project assistantship in Julia package development and maintenance](https://solislemuslab.github.io//pages/positions-career3.html)
