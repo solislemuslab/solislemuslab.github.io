@@ -6,6 +6,10 @@ description: Solis-Lemus lab
 
 ### 2023
 
+- Loving the Evolution 2023 meeting!
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/BreakingBad?src=hash&amp;ref_src=twsrc%5Etfw">#BreakingBad</a> statistical practices with Hailey Louw, Kevin Kong <a href="https://twitter.com/ssik08?ref_src=twsrc%5Etfw">@ssik08</a> and Xudong Tang <a href="https://twitter.com/harry_txd?ref_src=twsrc%5Etfw">@harry_txd</a> 💪<a href="https://twitter.com/hashtag/Evol2023?src=hash&amp;ref_src=twsrc%5Etfw">#Evol2023</a> <a href="https://twitter.com/Evol_mtg?ref_src=twsrc%5Etfw">@Evol_mtg</a> <a href="https://twitter.com/systbiol?ref_src=twsrc%5Etfw">@systbiol</a> <a href="https://t.co/IlagXr5wjx">pic.twitter.com/IlagXr5wjx</a></p>&mdash; Claudia Solís-Lemus (@solislemuslab) <a href="https://twitter.com/solislemuslab/status/1672665602119311361?ref_src=twsrc%5Etfw">June 24, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 - Excited for the very first ["Technical to Beautiful: Data as Art" exhibition!](https://www.instagram.com/reel/CtRfUQ4LT_z/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZA==)
 
 - Thank you to the Data Science Hub for featuring me in the "Faces of Data Science" edition. See [here](https://datascience.wisc.edu/#faces) for the article.
