@@ -173,6 +173,14 @@ Tiley, George P., Andrew A. Crowl, Paul S. Manos, Emily B. Sessa, <b>Sol&iacute;
 ---
 
 
+| <span style="font-size:2em;">2023</span> |  | Justison, J., <b>Sol&iacute;s-Lemus, C.</b>, Heath, T. | 
+| | | SiPhyNetwork: An R package for simulating phylogenetic networks | 
+| | | [DOI: 10.1111/2041-210X.14116](https://besjournals.onlinelibrary.wiley.com/doi/10.1111/2041-210X.14116) | |
+| | | [![ecoind (653k)](icons16/mee.png)](https://besjournals.onlinelibrary.wiley.com/doi/10.1111/2041-210X.14116) [![bioarxiv (653k)](icons16/bioarxiv.png)](https://www.biorxiv.org/content/10.1101/2022.10.26.513953v2) [![github (653k)](icons16/github.png)](https://github.com/jjustison/SiPhyNetwork)  |
+
+---
+
+
 | <span style="font-size:2em;">2022</span> |  | <strong style="color: SlateBlue;">Sun, Y.</strong>, T.M. Maeda, <b>Sol&iacute;s-Lemus, C.</b>, D. Pimentel-Alarcon, Z. Burivalova | 
 | | | Classification of animal sounds in a hyperdiverse rainforest using Convolutional Neural Networks | 
 | | | [DOI: 10.1016/j.ecolind.2022.109621](https://www.sciencedirect.com/science/article/pii/S1470160X22010949) | |
@@ -358,7 +366,7 @@ Scientists world-wide are engaged in efforts to understand how all planetary bio
 
 
 #### Publications supported by the award
-- Justison et al (2022). [biorxiv:2022.10.26.513953](https://www.biorxiv.org/content/10.1101/2022.10.26.513953v1)
+- Justison et al (2023). [MEE DOI: 10.1111/2041-210X.14116](https://besjournals.onlinelibrary.wiley.com/doi/10.1111/2041-210X.14116)
 - Bjorner et al (2022). [arxiv:2211.00712](https://arxiv.org/abs/2211.00712)
 - Wu and Solis-Lemus (2022). [arxiv:2211.16647](https://arxiv.org/abs/2211.16647)
 
@@ -408,6 +416,7 @@ The overall objective of this proposal is to pioneer the development of the next
 - Shen et al (2022) [arXiv:2207.07020](https://arxiv.org/abs/2207.07020)
 - Bjorner et al (2022) [arxiv:2211.00712](https://arxiv.org/abs/2211.00712)
 - Nelson et al (2022) [arxiv:2212.05880](https://arxiv.org/abs/2212.05880)
+- Aghdam et al (2023) [arxiv (2022): 2306.11157](https://arxiv.org/abs/2306.11157)
 
 ------------------------------------
 
