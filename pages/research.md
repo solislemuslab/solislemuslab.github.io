@@ -141,9 +141,6 @@ Examples of our current research involve:
 
 <strong style="color: SlateBlue;">Bjorner, M.</strong>, Molloy, E., Dewey, C., <b>Sol&iacute;s-Lemus, C.</b>. (2022). Detectability of Varied Hybridization Scenarios using Genome-Scale Hybrid Detection Methods. [arxiv (2022): 2211.00712](https://arxiv.org/abs/2211.00712) [github](https://github.com/mbjorner/hybrid-detection-comparison).
 
-Justison, J., <b>Sol&iacute;s-Lemus, C.</b>, Heath, T. (2022). SiPhyNetwork: An R package for Simulating Phylogenetic Networks. [biorxiv (2022): 2022.10.26.513953](https://www.biorxiv.org/content/10.1101/2022.10.26.513953v1).
-
-
 Rattray, JB, Walden, R., Marquez-Zacarias, P.,  Molotkova, E.,  Perron, G.,  <b>Sol&iacute;s-Lemus, C.</b>, Pimentel-Alarcon, D., Brown, S. (2022). Machine learning identification of <i>Pseudomonas aeruginosa</i> strains from colony image data. [biorxiv (2022): 2022.09.02.506375v1](https://www.biorxiv.org/content/10.1101/2022.09.02.506375v1.abstract).
 
 <strong style="color: SlateBlue;">Ozminkowski, S., Wu, Y., Yang, L., Xu, Z., Selberg, L., Huang, C. </strong>, <b>Sol&iacute;s-Lemus, C.</b> (2022). BioKlustering: a web app for semi-supervised learning of maximally imbalanced genomic data [arxiv (2022): 2209.11730](https://arxiv.org/abs/2209.11730), [github](https://github.com/solislemuslab/bioklustering), [bioklustering.wid.wisc.edu](https://bioklustering.wid.wisc.edu/)
