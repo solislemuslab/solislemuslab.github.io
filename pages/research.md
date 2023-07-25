@@ -489,3 +489,64 @@ The overarching objective of this proposal is to initiate development of a virtu
 #### Software supported by the award
 
 - [Potato Dashboard](https://potato-seed-dashboard.wid.wisc.edu/) (only available for WI seed certification staff at the moment)
+
+
+## Collaborative Awards
+
+### NSF IntBIO Collaborative Research
+
+<div class="container">
+    <div class="row-fluid">
+        <div class="span2">
+        <a href="../assets/pics/nsf.png">
+            <img src="../assets/pics/nsf.png"
+                  title="NSF" alt="NSF"/></a>
+        </div>
+
+        <div class="span5">
+           <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2316269&HistoricalAwards=false">DEB Award 2316269</a> <br/>
+            Title: IntBIO Collaborative: Assessing drivers of the nitrogen-fixing symbiosis at continental scales <br/>
+            Dates: August 1, 2023 to July 31, 2027 <br/>
+            Lead PI: Ryan Folk, Mississippi State U<br/>
+            Personnel: <br/>
+                - co-PI: Claudia Solis-Lemus <br/>
+        </div>
+    </div>
+
+</div>
+
+#### Project summary
+
+Interactions between plants and bacteria are pervasive, and nitrogen-fixing symbioses are among the most important of these given the generality of nitrogen limitation and the inability of eukaryotes to access atmospheric nitrogen directly. Despite a long history of interest and the clear ecological importance and agricultural potential of nitrogen-fixing symbiosis, still missing is a cohesive framework for understanding the joint action of ecological and evolutionary processes that shape this symbiosis. We therefore lack a clear conceptual basis for how the environment, plants, and microbes interact at local scales to produce a successful symbiosis across diverse environmental and biogeographic contexts. We propose to build such a framework by gathering extensive data on plant-microbe interactions that occur from the soil to within root nodules, and assessing how the intimacy of these interactions depends on geographic, environmental, and phylogenetic scales. The proposed research will integrate with existing ecological monitoring resources at NEON (National Ecological Observatory Network) sites to capture microbes for the majority of nodulating nitrogen-fixing plant species, investigating microbial (fungal and bacterial) diversity along four sampling levels: soils, the rhizosphere, the nodule, and non-nodular roots. Our hypothesis-based work has three broad goals: (1) assess the importance of environmental drivers, extending breaking results showing that aridity and secondarily soil nutrients determine nitrogen-fixing plant diversity and asking whether nitrogen-fixing and other bacterial and fungal symbionts are constrained by similar processes as the host; (2) characterize the host-specificity of nodulators and their symbionts at broad and narrow phylogenetic scales, asking whether bacterial-host match-up determines downstream functional symbiosis efficiency or whether instead particular symbionts are dispensable; and (3) test for local-scale and deep-level co-phylogeny of nodulating plants and their bacterial partners, and whether the strength of co-phylogeny depends on environmental contingencies of the need for symbiosis.
+
+
+#### Publications supported by the award
+
+
+### USDA NIFA
+
+<div class="container">
+    <div class="row-fluid">
+        <div class="span2">
+        <a href="../assets/pics/usda.png">
+            <img src="../assets/pics/usda.png"
+                  title="USDA" alt="USDA"/></a>
+        </div>
+
+        <div class="span5">
+            Title: Unraveling The Microbial Mechanisms That Mediate Disease Resurgence In Plants Following Fungicide Application <br/>
+            Dates: May 1, 2023 to April 30, 2027 <br/>
+            Lead PI: Paul Koch, UW-Madison<br/>
+            Personnel: <br/>
+                - co-PI: Claudia Solis-Lemus <br/>
+        </div>
+    </div>
+
+</div>
+
+#### Project summary
+
+The primary goals of this proposal are to assess how fungicide applications disturb soil and foliar plant microbiomes and determine the subsequent impacts of this microbial dysbiosis on plant disease development. Preliminary data collected in turfgrass by PD Koch and co-PI Chou with the fungal disease dollar spot (caused by Clarireedia jacksonii) revealed a dramatic increase in dollar spot severity in the weeks following repeated applications of the broad-spectrum fungicide chlorothalonil. This ‘disease resurgence’ occurred after the pathogen-suppressive activity of the fungicide had ended, and dollar spot severity in the chlorothalonil-treated plots was six times higher than non-treated control plots that had not received any fungicide that season. Disease resurgence was not observed after applications of the fungicide propiconazole, which has a more targeted spectrum of microbial suppression compared to chlorothalonil. Initial microbiome characterization from that preliminary study found some indications of microbial dysbiosis, but we are proposing here a more robust soil and foliar microbial community and metabolomic analysis to explore potential microbial mechanisms mediating disease resurgence in both turfgrass and corn.
+
+
+#### Publications supported by the award
