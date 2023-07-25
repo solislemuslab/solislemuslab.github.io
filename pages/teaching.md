@@ -63,6 +63,9 @@ description: Claudia Solis-Lemus' teaching
 - **Taming the BEAST** Faculty member of the workshop on BEAST. Lecture on phylogenetic networks (taught by postdoc Sungsik Kong). Squamish, Canada.
   - [Slides](https://taming-the-beast.org/news/Taming-the-BEAST-SBT/)
 
+- **Botany conference** Workshop on phylogenetic networks. Boise, Idaho.
+  - [Website](https://gtiley.github.io/Botany2023-Networks/)
+
 - **Molecular Evolution in MBL:** Lecture and tutorial on phylogenetic networks. Woods Hole, USA
   - [Schedule](https://molevolworkshop.github.io/schedule/)
   - [Materials](https://molevolworkshop.github.io/faculty-solis-lemus/)
