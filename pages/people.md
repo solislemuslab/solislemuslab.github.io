@@ -216,20 +216,6 @@ Name pronunciation: [namedrop.io/claudiasolislemus](https://namedrop.io/claudias
 <div class="container">
     <div class="row-fluid">
         <div class="span2">
-        <a href="../assets/pics/reed.jpg">
-            <img src="../assets/pics/reed.jpg"
-                  title="Reed Nelson" alt="Reed Nelson"/></a>
-        </div>
-
-        <div class="span5">
-            <a href="https://pages.cs.wisc.edu/~rnelson/">Reed Nelson</a> is a senior studying Computer Science, Mathematics, and Philosophy. He is developing an algorithm to align soil microbiome networks based on topological and biological data.
-     </div>
-    </div>
-</div>
-
-<div class="container">
-    <div class="row-fluid">
-        <div class="span2">
         <a href="../assets/pics/yibo.JPG">
             <img src="../assets/pics/yibo.JPG"
                   title="Yibo Kong" alt="Yibo Kong"/></a>
@@ -304,6 +290,7 @@ Name pronunciation: [namedrop.io/claudiasolislemus](https://namedrop.io/claudias
 ---
 
 ### <a name="past"></a>Past members
+- [Reed Nelson](https://reednel.com/) (BS Computer Science, Mathematics, Philosophy, UW-Madison 2023) developed MiNAA: Microbiome Network Alignment Algorithm, as well as the Latinx in Stat Database and the Forensic-Statistic Database.
 - Marianne Bjørner (MS in Computer Sciences, UW-Madison 2022). They worked on the performance of hybrid detection methods on simulated hybridization scenarios. They are currently working at Epic as software engineer.
 - [Sam Ozminkowski](https://samozminkowski.com/) (MS Statistics, UW-Madison 2022).  He worked on Bayesian models with network predictors, specifically focusing on microbiome networks. He is pursuing his PhD in Statistics at Northwestern University.
 - [Fardeen Meeran](https://meerxn.github.io/MyPersonalCV/) (BS Computer Science, UW-Madison 2022). He worked in a web app to visualize phylogenetic networks.
