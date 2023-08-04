@@ -58,7 +58,23 @@ description: Claudia Solis-Lemus' teaching
 
 ### Other Courses
 
+#### Summer 2023
+
+- **Taming the BEAST** Faculty member of the workshop on BEAST. Lecture on phylogenetic networks (taught by postdoc Sungsik Kong). Squamish, Canada.
+  - [Slides](https://taming-the-beast.org/news/Taming-the-BEAST-SBT/)
+
+- **Botany conference** Workshop on phylogenetic networks. Boise, Idaho.
+  - [Website](https://gtiley.github.io/Botany2023-Networks/)
+
+- **Molecular Evolution in MBL:** Lecture and tutorial on phylogenetic networks. Woods Hole, USA
+  - [Schedule](https://molevolworkshop.github.io/schedule/)
+  - [Materials](https://molevolworkshop.github.io/faculty-solis-lemus/)
+
 #### Spring 2023
+
+- DNA Bootcamp 2023 by California State University Los Angeles, Los Angeles Innocence Project, Federal Defender Central District of California, and Los Angeles County Public Defender
+  - [Website](https://crsl4.github.io/forensic-stat/)
+  - [YouTube video](https://youtu.be/_SXVRD00vMY)
 
 - Accessible reproducibility for biological researchers at the [Toronto Workshop on Reproducibility](https://rohanalexander.com/reproducibility.html)
   - [website](https://crsl4.github.io/mindful-programming/)
@@ -112,6 +128,10 @@ description: Claudia Solis-Lemus' teaching
 **STAT 609/849 Guest lecture:** Statistical methods for biological applications (_Oct 1_) [![pdf](icons16/pdf-icon.png)](https://www.stat.wisc.edu/~claudia/claudia-stat-609-849.pdf)
 
 #### 2019 
+
+**Taming the BEAST** Faculty member of the workshop on BEAST. Lecture on phylogenetic networks. Squamish, Canada
+  - [Slides](https://github.com/Taming-the-BEAST/Taming-the-BEAST-2019-Eh-Lectures)
+
 **Woods Hole:** Faculty member of the Marine Biological Laboratory workshop on Molecular Evolution. Lecture and tutorial on phylogenetic networks. Woods Hole, USA.
   - [slides](https://www.stat.wisc.edu/~claudia/talk-networks-mbl.pdf)
   - [wiki](https://github.com/crsl4/PhyloNetworks.jl/wiki)

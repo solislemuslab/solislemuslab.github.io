@@ -6,6 +6,37 @@ description: Solis-Lemus lab
 
 ### 2023
 
+- First time in Botany conference: great response for the workshop and symposium on phylogenetic networks.
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/Botany2023?src=hash&amp;ref_src=twsrc%5Etfw">#Botany2023</a> Dinner with the phylogenetic networks folks: George Tiley, Lauren Frankel <a href="https://twitter.com/_laufran?ref_src=twsrc%5Etfw">@_laufran</a>, Kevin Kong <a href="https://twitter.com/ssik08?ref_src=twsrc%5Etfw">@ssik08</a>, Huw Ogilvie, Mark Kessler, Kevin Liu (plus Brock Mashburn) <a href="https://t.co/xZivtznnZg">pic.twitter.com/xZivtznnZg</a></p>&mdash; Claudia Solís-Lemus (@solislemuslab) <a href="https://twitter.com/solislemuslab/status/1684036989165907969?ref_src=twsrc%5Etfw">July 26, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+- Loving the Evolution 2023 meeting!
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/BreakingBad?src=hash&amp;ref_src=twsrc%5Etfw">#BreakingBad</a> statistical practices with Hailey Louw, Kevin Kong <a href="https://twitter.com/ssik08?ref_src=twsrc%5Etfw">@ssik08</a> and Xudong Tang <a href="https://twitter.com/harry_txd?ref_src=twsrc%5Etfw">@harry_txd</a> 💪<a href="https://twitter.com/hashtag/Evol2023?src=hash&amp;ref_src=twsrc%5Etfw">#Evol2023</a> <a href="https://twitter.com/Evol_mtg?ref_src=twsrc%5Etfw">@Evol_mtg</a> <a href="https://twitter.com/systbiol?ref_src=twsrc%5Etfw">@systbiol</a> <a href="https://t.co/IlagXr5wjx">pic.twitter.com/IlagXr5wjx</a></p>&mdash; Claudia Solís-Lemus (@solislemuslab) <a href="https://twitter.com/solislemuslab/status/1672665602119311361?ref_src=twsrc%5Etfw">June 24, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+- Excited for the very first ["Technical to Beautiful: Data as Art" exhibition!](https://www.instagram.com/reel/CtRfUQ4LT_z/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZA==)
+
+- Thank you to the Data Science Hub for featuring me in the "Faces of Data Science" edition. See [here](https://datascience.wisc.edu/#faces) for the article.
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Claudia Solís-Lemus collaborates with life sciences researchers, developing mathematical models to help them understand relationships and interactions among species. Read her story in Faces of Data Science. <a href="https://twitter.com/solislemuslab?ref_src=twsrc%5Etfw">@solislemuslab</a> <a href="https://twitter.com/UWMadisonCALS?ref_src=twsrc%5Etfw">@uwmadisoncals</a> <a href="https://twitter.com/WIDiscovery?ref_src=twsrc%5Etfw">@widiscovery</a> <a href="https://t.co/B6shjQY6X3">https://t.co/B6shjQY6X3</a> <a href="https://t.co/iIaVlb8YbU">pic.twitter.com/iIaVlb8YbU</a></p>&mdash; datascience@uw (@datascience_uw) <a href="https://twitter.com/datascience_uw/status/1664278126673948679?ref_src=twsrc%5Etfw">June 1, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+- Do you identify as Latinx in Data Science? We are excited to launch the #LatinxInDataSci database: [https://latinxinstat.wid.wisc.edu/](https://latinxinstat.wid.wisc.edu/). Please add yourself! Also, conference organizers can use this database to include a more diverse representation of speakers.
+
+- Gracias Ricardo por la invitacion para hablar de mi trayectoria en ciencia:
+
+<blockquote class="twitter-tweet"><p lang="es" dir="ltr">Hoy tuvimos la visita de la súper genial <a href="https://twitter.com/solislemuslab?ref_src=twsrc%5Etfw">@solislemuslab</a> Les alumnes súper pilas con las redes filogenéticas pero además no las condiciones para les latines haciendo ciencia en EEUU ....no se pierdan el video por <a href="https://twitter.com/hashtag/SisteMatrix?src=hash&amp;ref_src=twsrc%5Etfw">#SisteMatrix</a>!!! <a href="https://t.co/Mt4cfvEnLK">pic.twitter.com/Mt4cfvEnLK</a></p>&mdash; Ricardo (@rgarciasandoval) <a href="https://twitter.com/rgarciasandoval/status/1653815670994264095?ref_src=twsrc%5Etfw">May 3, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+- Very excited to have reached 1000 citations on Google Scholar!
+
+<div style="text-align:center"><img src="../assets/pics/1000citations.png" width="450"/></div>
+
+
+- Thankful for the advertisement on El Zoominario:
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">El Zoominario is an online seminar series that highlights Latinx speakers and their science. The program, co-created by plant pathology&#39;s Claudia Solís-Lemus, is designed for the general public and aims to inspire young scientists. <a href="https://t.co/cgdn3PqyOJ">https://t.co/cgdn3PqyOJ</a> <a href="https://t.co/tK86vfSY0F">pic.twitter.com/tK86vfSY0F</a></p>&mdash; UW-Madison CALS (@UWMadisonCALS) <a href="https://twitter.com/UWMadisonCALS/status/1628426955254120448?ref_src=twsrc%5Etfw">February 22, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+- Excited to join the [Journal of Open Source Software (JOSS)](https://joss.theoj.org/) editorial team!
+
 - A lot of fun in the Collaboration Matching experiment at the WID Research Bazaar 2023! Thanks to Sarah Stevens, Chris Endemann and Michael Ferris (in the photo below):
 
 <div style="text-align:center"><img src="../assets/pics/photo1.png" width="450"/></div>

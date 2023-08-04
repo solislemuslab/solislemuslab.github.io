@@ -19,6 +19,8 @@ description: Claudia Solis-Lemus' talks
 
 ### 2023
 
+Botany conference. "Phylogenetic networks to study reticulate evolution" (_Jul 25_).
+
 Toronto Workshop on Reproducibility. "Accessible reproducibility for biological researchers" (_Feb 23_). [website](https://crsl4.github.io/mindful-programming/)
 
 WID seminar. "Biological Networks from Adaptable Mathematics" (_Feb 1_)
