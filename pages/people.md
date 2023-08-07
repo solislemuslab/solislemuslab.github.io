@@ -187,21 +187,6 @@ Name pronunciation: [namedrop.io/claudiasolislemus](https://namedrop.io/claudias
 <div class="container">
     <div class="row-fluid">
         <div class="span2">
-        <a href="../assets/pics/zhaoxingWu.jpg">
-            <img src="../assets/pics/zhaoxingWu.jpg"
-                  title="ZhaoxingWu" alt="ZhaoxingWu"/></a>
-        </div>
-
-        <div class="span5">
-            Zhaoxing Wu is a senior undergraduate student in Statistics, Mathematics, and Data Science. She works on developing an ultrafast algorithm on inferring phylogenetics network.
-        </div>
-    </div>
-</div>
-
-
-<div class="container">
-    <div class="row-fluid">
-        <div class="span2">
         <a href="../assets/pics/yukewu.JPG">
             <img src="../assets/pics/yukewu.JPG"
                   title="YukeWu" alt="YukeWu"/></a>
@@ -290,6 +275,7 @@ Name pronunciation: [namedrop.io/claudiasolislemus](https://namedrop.io/claudias
 ---
 
 ### <a name="past"></a>Past members
+- [Zhaoxing Wu](linkedin.com/in/zhaoxing-wu-815546199) (BS Statistics, Mathematics, Data Science, UW-Madison 2023) developed the Julia package PhyloDiamond: an ultrafast learning of 4-node hybridization cycles in phylogenetic networks using algebraic invariants. She is attending Statistics PhD program at the University of Washington-Seattle
 - [Reed Nelson](https://reednel.com/) (BS Computer Science, Mathematics, Philosophy, UW-Madison 2023) developed MiNAA: Microbiome Network Alignment Algorithm, as well as the Latinx in Stat Database and the Forensic-Statistic Database.
 - Marianne Bjørner (MS in Computer Sciences, UW-Madison 2022). They worked on the performance of hybrid detection methods on simulated hybridization scenarios. They are currently working at Epic as software engineer.
 - [Sam Ozminkowski](https://samozminkowski.com/) (MS Statistics, UW-Madison 2022).  He worked on Bayesian models with network predictors, specifically focusing on microbiome networks. He is pursuing his PhD in Statistics at Northwestern University.
