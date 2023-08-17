@@ -6,6 +6,8 @@ description: Solis-Lemus lab
 
 ### 2023
 
+- Very grateful for the invitation to [Uncontrolled Variables](https://www.uncontrolledvariables.com/about), comedy+science show at The Bur Oak organized by Diya Basrai.
+
 - First time in Botany conference: great response for the workshop and symposium on phylogenetic networks.
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/Botany2023?src=hash&amp;ref_src=twsrc%5Etfw">#Botany2023</a> Dinner with the phylogenetic networks folks: George Tiley, Lauren Frankel <a href="https://twitter.com/_laufran?ref_src=twsrc%5Etfw">@_laufran</a>, Kevin Kong <a href="https://twitter.com/ssik08?ref_src=twsrc%5Etfw">@ssik08</a>, Huw Ogilvie, Mark Kessler, Kevin Liu (plus Brock Mashburn) <a href="https://t.co/xZivtznnZg">pic.twitter.com/xZivtznnZg</a></p>&mdash; Claudia Solís-Lemus (@solislemuslab) <a href="https://twitter.com/solislemuslab/status/1684036989165907969?ref_src=twsrc%5Etfw">July 26, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
