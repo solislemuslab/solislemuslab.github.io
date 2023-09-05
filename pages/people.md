@@ -187,20 +187,6 @@ Name pronunciation: [namedrop.io/claudiasolislemus](https://namedrop.io/claudias
 <div class="container">
     <div class="row-fluid">
         <div class="span2">
-        <a href="../assets/pics/yukewu.JPG">
-            <img src="../assets/pics/yukewu.JPG"
-                  title="YukeWu" alt="YukeWu"/></a>
-        </div>
-
-        <div class="span5">
-            Yuke Wu is a junior undergraduate student in Computer Science, Mathematics, and Statistics. She works on testing and debugging the BioKlustering web app on a variety of real life datasets.
-        </div>
-    </div>
-</div>
-
-<div class="container">
-    <div class="row-fluid">
-        <div class="span2">
         <a href="../assets/pics/yibo.JPG">
             <img src="../assets/pics/yibo.JPG"
                   title="Yibo Kong" alt="Yibo Kong"/></a>
@@ -275,6 +261,7 @@ Name pronunciation: [namedrop.io/claudiasolislemus](https://namedrop.io/claudias
 ---
 
 ### <a name="past"></a>Past members
+- [Yuke Wu](https://www.linkedin.com/in/yuke-wu-8a38a8168/) (BS Computer Science, Statistics, UW-Madison 2023) developed the BioKlustering web application for learning and visualization of genomic data. She is attending Software Engineering MS program at Carnegie Mellon University.
 - [Zhaoxing Wu](linkedin.com/in/zhaoxing-wu-815546199) (BS Statistics, Mathematics, Data Science, UW-Madison 2023) developed the Julia package PhyloDiamond: an ultrafast learning of 4-node hybridization cycles in phylogenetic networks using algebraic invariants. She is attending Statistics PhD program at the University of Washington-Seattle
 - [Reed Nelson](https://reednel.com/) (BS Computer Science, Mathematics, Philosophy, UW-Madison 2023) developed MiNAA: Microbiome Network Alignment Algorithm, as well as the Latinx in Stat Database and the Forensic-Statistic Database.
 - Marianne Bjørner (MS in Computer Sciences, UW-Madison 2022). They worked on the performance of hybrid detection methods on simulated hybridization scenarios. They are currently working at Epic as software engineer.
