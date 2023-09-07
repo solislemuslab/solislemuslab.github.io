@@ -6,7 +6,7 @@ description: Solis-Lemus lab
 
 ### 2023
 
-- Very excited that the SNaQ paper (Solis-Lemus and Ane, 2016) is in the top 10% most cited papers in PLoS Genetics in 2022!
+- Very excited that the SNaQ paper ([Solis-Lemus and Ane, 2016](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1005896)) is in the top 10% most cited papers in PLoS Genetics in 2022!
 
 <div style="text-align:center"><img src="../assets/pics/plos10.png" width="450"/></div>
 
