@@ -6,6 +6,10 @@ description: Solis-Lemus lab
 
 ### 2023
 
+- Very excited that the SNaQ paper (Solis-Lemus and Ane, 2016) is in the top 10% most cited papers in PLoS Genetics in 2022!
+
+<div style="text-align:center"><img src="../assets/pics/plos10.png" width="450"/></div>
+
 - Very grateful for the invitation to [Uncontrolled Variables](https://www.uncontrolledvariables.com/about), comedy+science show at The Bur Oak organized by Diya Basrai.
 
 - First time in Botany conference: great response for the workshop and symposium on phylogenetic networks.
