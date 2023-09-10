@@ -89,13 +89,10 @@ Name pronunciation: [namedrop.io/claudiasolislemus](https://namedrop.io/claudias
 <div class="container">
     <div class="row-fluid">
         <div class="span2">
-<<<<<<< HEAD
             <a href="../assets/pics/Ben.jpeg">
             <img src="../assets/pics/Ben.jpeg"
-=======
             <a href="icons16/Ben 500 x 333.jpg">
             <img src="icons16/Ben 500 x 333.jpg"
->>>>>>> upstream/master
                   title="Ben Rush" alt="Ben Rush">
             </a>
         </div>
