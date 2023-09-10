@@ -258,6 +258,20 @@ Name pronunciation: [namedrop.io/claudiasolislemus](https://namedrop.io/claudias
     </div>
 </div>
 
+<div class="container">
+    <div class="row-fluid">
+        <div class="span2">
+        <a href="../assets/pics/kris.jpeg">
+            <img src="../assets/pics/kris.jpeg"
+                    title="Kris" alt="Kris"/></a>
+        </div>
+        <div class="span5">
+            Former resident of the Dane County Humane Society, Kris is a small orange cat, full of feist with an ear for the piano. When she's not hiding under a bed or staring out a window, Kris enjoys attacking her closest stuffed friend Mr. Banana, eating houseplants, and chasing twist ties across the house.
+        </div>
+    </div>
+</div>
+
+
 ---
 
 ### <a name="past"></a>Past members
