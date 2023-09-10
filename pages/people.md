@@ -1,6 +1,6 @@
 ---
 layout: page
-title: people
+title: team
 description: Sol&iacute;s-Lemus lab
 ---
 
@@ -10,6 +10,7 @@ description: Sol&iacute;s-Lemus lab
             <li><a href="#postdocs">postdocs</a></li>
             <li><a href="#graduate">graduate</a></li>
             <li><a href="#undergraduate">undergraduate</a></li>
+            <li><a href="#pets">pets</a></li>
             <li><a href="#past">past</a></li>
             <li><a href="#opportunities">oppportunities</a></li>
         </ul>
@@ -88,8 +89,13 @@ Name pronunciation: [namedrop.io/claudiasolislemus](https://namedrop.io/claudias
 <div class="container">
     <div class="row-fluid">
         <div class="span2">
+<<<<<<< HEAD
             <a href="../assets/pics/Ben.jpeg">
             <img src="../assets/pics/Ben.jpeg"
+=======
+            <a href="icons16/Ben 500 x 333.jpg">
+            <img src="icons16/Ben 500 x 333.jpg"
+>>>>>>> upstream/master
                   title="Ben Rush" alt="Ben Rush">
             </a>
         </div>
@@ -99,22 +105,21 @@ Name pronunciation: [namedrop.io/claudiasolislemus](https://namedrop.io/claudias
     </div>
 </div>
 
-### <a name="graduate"></a>Graduate students
-
 <div class="container">
     <div class="row-fluid">
         <div class="span2">
-        <a href="../assets/pics/marianne.JPG">
-            <img src="../assets/pics/marianne.JPG"
-                  title="MarianneBjørner" alt="MarianneBjørner"/></a>
+            <a href="https://sungsik-kong.github.io">
+            <img src="icons16/ssik08.png"
+                  title="Sungsik (Kevin) Kong" alt="Sungsik (Kevin) Kong">
+            </a>
         </div>
-
         <div class="span5">
-            Marianne Bjørner is a MS student in Computer Sciences. They work on phylogenetic tree reconstruction as applied to large microbial datasets. They completed their undergraduate degree in Microbiology at the University of Washington.
+            <a href= "https://sungsik-kong.github.io/">Sungsik (Kevin) Kong</a> is a post-doctoral research associate. Kevin is a computational evolutionary biologist who is interested in statistical and computational problems surrounding phylogenetic network estimation and their applications in practice. Kevin conferred his Ph.D. in Evolution, Ecology, and Organismic Biology at the Ohio State University and B.Sc. & M.Sc. at University of Toronto, Canada. Kevin likes traveling and long-distance biking. Emailto: <a href = "mailto: skong32@wisc.edu">skong32@wisc.edu</a>.
         </div>
     </div>
-
 </div>
+
+### <a name="graduate"></a>Graduate students
 
 <div class="container">
     <div class="row-fluid">
@@ -187,49 +192,6 @@ Name pronunciation: [namedrop.io/claudiasolislemus](https://namedrop.io/claudias
 <div class="container">
     <div class="row-fluid">
         <div class="span2">
-        <a href="../assets/pics/zhaoxingWu.jpg">
-            <img src="../assets/pics/zhaoxingWu.jpg"
-                  title="ZhaoxingWu" alt="ZhaoxingWu"/></a>
-        </div>
-
-        <div class="span5">
-            Zhaoxing Wu is a senior undergraduate student in Statistics, Mathematics, and Data Science. She works on developing an ultrafast algorithm on inferring phylogenetics network.
-        </div>
-    </div>
-</div>
-
-
-<div class="container">
-    <div class="row-fluid">
-        <div class="span2">
-        <a href="../assets/pics/yukewu.JPG">
-            <img src="../assets/pics/yukewu.JPG"
-                  title="YukeWu" alt="YukeWu"/></a>
-        </div>
-
-        <div class="span5">
-            Yuke Wu is a junior undergraduate student in Computer Science, Mathematics, and Statistics. She works on testing and debugging the BioKlustering web app on a variety of real life datasets.
-        </div>
-    </div>
-</div>
-
-<div class="container">
-    <div class="row-fluid">
-        <div class="span2">
-        <a href="../assets/pics/reed.jpg">
-            <img src="../assets/pics/reed.jpg"
-                  title="Reed Nelson" alt="Reed Nelson"/></a>
-        </div>
-
-        <div class="span5">
-            <a href="https://pages.cs.wisc.edu/~rnelson/">Reed Nelson</a> is a senior studying Computer Science, Mathematics, and Philosophy. He is developing an algorithm to align soil microbiome networks based on topological and biological data.
-     </div>
-    </div>
-</div>
-
-<div class="container">
-    <div class="row-fluid">
-        <div class="span2">
         <a href="../assets/pics/yibo.JPG">
             <img src="../assets/pics/yibo.JPG"
                   title="Yibo Kong" alt="Yibo Kong"/></a>
@@ -255,9 +217,59 @@ Name pronunciation: [namedrop.io/claudiasolislemus](https://namedrop.io/claudias
     </div>
 </div>
 
+<div class="container">
+    <div class="row-fluid">
+        <div class="span2">
+        <a href="../assets/pics/tianyi.jpg">
+            <img src="../assets/pics/tianyi.jpg"
+                  title="Tianyi Xu" alt="Tianyi Xu"/></a>
+        </div>
+        
+        <div class="span5">
+            Tianyi Xu is a sophmore undergraduate student majoring in Computer Science, Data Science and Mathematics. He works on network analysis of soil microbiome data. 
+     </div>
+    </div>
+</div>
+
+<div class="container">
+    <div class="row-fluid">
+        <div class="span2">
+        <a href="../assets/pics/yunju.jpg">
+            <img src="../assets/pics/yunju.jpg"
+                  title="Yunju Ha" alt="Yunju Ha"/></a>
+        </div>
+
+        <div class="span5">
+            Yunju Ha is a junior undergraduate student majoring in Statistics and Computer Science. She works on applying machine learning techniques using DXA/BIS methods for sarcopenia research.
+     </div>
+    </div>
+</div>
+
+---
+
+### <a name="pets"></a>Emotional support staff
+
+<div class="container">
+    <div class="row-fluid">
+        <div class="span2">
+        <a href="../assets/pics/alfalfa.png">
+            <img src="../assets/pics/alfalfa.png"
+                  title="Alfalfa" alt="Alfalfa"/></a>
+        </div>
+
+        <div class="span5">
+            Alfalfa is a mix of cattle dog and border collie. She is passionate about squirrels and other small mammals. In her free time, she likes to study the cushiness properties of grass and the taste of Madison lakes in different seasons.
+     </div>
+    </div>
+</div>
+
 ---
 
 ### <a name="past"></a>Past members
+- [Yuke Wu](https://www.linkedin.com/in/yuke-wu-8a38a8168/) (BS Computer Science, Statistics, UW-Madison 2023) developed the BioKlustering web application for learning and visualization of genomic data. She is attending Software Engineering MS program at Carnegie Mellon University.
+- [Zhaoxing Wu](linkedin.com/in/zhaoxing-wu-815546199) (BS Statistics, Mathematics, Data Science, UW-Madison 2023) developed the Julia package PhyloDiamond: an ultrafast learning of 4-node hybridization cycles in phylogenetic networks using algebraic invariants. She is attending Statistics PhD program at the University of Washington-Seattle
+- [Reed Nelson](https://reednel.com/) (BS Computer Science, Mathematics, Philosophy, UW-Madison 2023) developed MiNAA: Microbiome Network Alignment Algorithm, as well as the Latinx in Stat Database and the Forensic-Statistic Database.
+- Marianne Bjørner (MS in Computer Sciences, UW-Madison 2022). They worked on the performance of hybrid detection methods on simulated hybridization scenarios. They are currently working at Epic as software engineer.
 - [Sam Ozminkowski](https://samozminkowski.com/) (MS Statistics, UW-Madison 2022).  He worked on Bayesian models with network predictors, specifically focusing on microbiome networks. He is pursuing his PhD in Statistics at Northwestern University.
 - [Fardeen Meeran](https://meerxn.github.io/MyPersonalCV/) (BS Computer Science, UW-Madison 2022). He worked in a web app to visualize phylogenetic networks.
 - [Zhaoyi Zhang](https://www.linkedin.com/in/zhang-zhaoyi/) (BS Computer Science, Data Science, Mathematics, UW-Madison 2022). He tested the applicability of deep neural networks to genomic datasets to predict important phenotypes. He will work as a Software Engineer at Oracle after graduation.
@@ -311,5 +323,4 @@ Name pronunciation: [namedrop.io/claudiasolislemus](https://namedrop.io/claudias
 
 #### New positions funded by NSF CAREER
 
-- [Postdoctoral researcher in the inference of phylogenetic networks](https://solislemuslab.github.io//pages/positions-career1.html)
 - [Project assistantship in Julia package development and maintenance](https://solislemuslab.github.io//pages/positions-career3.html)

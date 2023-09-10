@@ -25,7 +25,7 @@ description: El Zoominario
 </div>
 
 
-| Date | Country | Speaker | Title | YouTube | TikTok | Who am I? |
+| Date | Country | Speaker | Title | YouTube | TikTok | TikTok intro |
 | :---   | :--- | :--- | :---  | :--- | :--- |
 | 2 Oct 2020 | ![](../assets/pics/flags/mexico.png) | Daniel Pimentel-Alarcon | Machine-learning, inside the black-box  |[![youtube (653k)](icons16/youtube.png)](https://youtu.be/W1zxOj6895I) | [![tiktok (653k)](icons16/tiktok.png)](https://www.tiktok.com/@latinxinstem/video/7081420036396649771) | |
 | 6 Nov 2020 | ![](../assets/pics/flags/mexico.png) | Jose Alonso Solis-Lemus | Supporting 2 patients with 1 ventilator |[![youtube (653k)](icons16/youtube.png)](https://youtu.be/MeFT0wUmkvw) | [![tiktok (653k)](icons16/tiktok.png)](https://www.tiktok.com/@latinxinstem/video/7081432005249977646) | |
@@ -53,15 +53,13 @@ description: El Zoominario
 | 2 Dec 2022 | ![](../assets/pics/flags/mexico.png) | Jesus Arroyo Relion | Finding structure in brain networks | [![youtube (653k)](icons16/youtube.png)](https://youtu.be/6LBoSW90g08)
 | 3 Feb 2023 | ![](../assets/pics/flags/colombia.png) | Brenda Betancourt | Introduction to record linkage and its applications | [![youtube (653k)](icons16/youtube.png)](https://youtu.be/8aRcH_LYr7E) | [![tiktok (653k)](icons16/tiktok.png)](https://www.tiktok.com/@latinxinstem/video/7198957014762999083) |
 | 3 Mar 2023 | ![](../assets/pics/flags/argentina.png) | Federico Rey | Gut microbes and cardiometabolic health | [![youtube (653k)](icons16/youtube.png)](https://youtu.be/4huIZPpLrpY)
-| 7 Apr 2023 | Pablo Moreno-Yaeger | |
-| 5 May 2023 | Daniel Ojeda-Juarez | |
-| 2 Jun 2023 |  | |
-| 7 Jul 2023 |  | |
-| 4 Aug 2023 |  | |
-| 1 Sep 2023 |  | |
-| 6 Oct 2023 |  | |
-| 3 Nov 2023 |  | |
+| 7 Apr 2023 | ![](../assets/pics/flags/chile.png) | Pablo Moreno-Yaeger | How do volcanoes respond to glaciation? | [![youtube (653k)](icons16/youtube.png)](https://youtu.be/bMQfIN6DXvw) | | [![tiktok (653k)](icons16/pablo.png)](https://www.tiktok.com/@latinxinstem/video/7219446404513598766?is_from_webapp=1&sender_device=pc&web_id=7198957279043405354) |
+| 5 May 2023 | ![](../assets/pics/flags/mexico.png) | Daniel Ojeda-Juarez | Understanding neurodegenerative diseases: From Alzheimer's to Mad Cow Disease | [![youtube (653k)](icons16/youtube.png)](https://youtu.be/bMQfIN6DXvw) | | |
+| 1 Sep 2023 | ![](../assets/pics/flags/mexico.png) | Michel Geovanni Santiago-Martinez | Can we find methane-producing microorganisms everywhere? | [![youtube (653k)](icons16/youtube.png)](https://youtu.be/Rf0BrgU1KCc) | | |
+| 6 Oct 2023 | Nahui Medina Chavez| |
+| 3 Nov 2023 | Lluvia Flores-Renteria | |
 | 1 Dec 2023 |  | |
+| 2 Feb 2024 | Hector Baños | |
 
 
 # FAQ
