@@ -240,6 +240,20 @@ Name pronunciation: [namedrop.io/claudiasolislemus](https://namedrop.io/claudias
     </div>
 </div>
 
+<div class="container">
+    <div class="row-fluid">
+        <div class="span2">
+        <a href="../assets/pics/RohanSonthalia.jpg">
+            <img src="../assets/pics/RohanSonthalia.jpg"
+                  title="Rohan Sonthalia" alt="Rohan Sonthalia"/></a>
+        </div>
+
+        <div class="span5">
+            Rohan Sonthalia is a visiting junior undergraduate student majoring in Computer Science. He works on applying transformer models to unlabelled genomic data, along with other embedding techniques such as AutoEncoders, as an extension of the BioKlustering Project.
+     </div>
+    </div>
+</div>
+
 ---
 
 ### <a name="pets"></a>Emotional support staff
