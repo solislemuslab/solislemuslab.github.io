@@ -132,6 +132,9 @@ Examples of our current research involve:
 
 #### Preprints under revision
 
+<strong style="color: SlateBlue;">Tang, X.</strong>, L. Zepeda-Nunez, <strong style="color: SlateBlue;">S. Yang</strong>, <b>Sol&iacute;s-Lemus, C.</b>. (2023)
+Novel Symmetry-preserving Neural Network Model for Phylogenetic Inference, [arXiv (2023): 2201.04663](https://arxiv.org/abs/2201.04663), [github](https://github.com/Forgotten/nn-phylogenetics) 
+
 <strong style="color: SlateBlue;">Aghdam, R., Tang., X.</strong>, Shan, S., Lankau, R., <b>Sol&iacute;s-Lemus, C.</b>. (2023). Human Limits in Machine Learning: Prediction of Plant Phenotypes Using Soil Microbiome Data. [arxiv (2022): 2306.11157](https://arxiv.org/abs/2306.11157) [github](https://github.com/solislemuslab/soil-microbiome-nn).
 
 <strong style="color: SlateBlue;">Nelson, R., Aghdam, R.</strong>, <b>Sol&iacute;s-Lemus, C.</b>. (2022). MiNAA: Microbiome Network Alignment Algorithm. [arxiv (2022): 2212.05880](https://arxiv.org/abs/2212.05880) [github](https://github.com/solislemuslab/minaa).
@@ -148,9 +151,6 @@ Rattray, JB, Walden, R., Marquez-Zacarias, P.,  Molotkova, E.,  Perron, G.,  <b>
 <strong style="color: SlateBlue;">Ozminkowski, S.</strong>, <b>Sol&iacute;s-Lemus, C.</b> (2022). Identifying microbial drivers in biological phenotypes with a Bayesian Network Regression model, [arXiv (2022): 2208.05600](https://arxiv.org/abs/2208.05600), [github](https://github.com/solislemuslab/BayesianNetworkRegression.jl) 
 
 <strong style="color: SlateBlue;">Shen, Y.</strong>, <b>Sol&iacute;s-Lemus, C.</b>, S. K. Deshpande. (2022). Sparse Gaussian chain graphs with the spike-and-slab LASSO: Algorithms and asymptotics, [arXiv (2022): 2207.07020](https://arxiv.org/abs/2207.07020)
-
-<b>Sol&iacute;s-Lemus, C.</b>, <strong style="color: SlateBlue;">S. Yang</strong>, L. Zepeda-Nunez (2022).
-Accurate Phylogenetic Inference with a Symmetry-preserving Neural Network Model, [arXiv (2022): 2201.04663](https://arxiv.org/abs/2201.04663), [github](https://github.com/Forgotten/nn-phylogenetics) 
 
 
 <b>Sol&iacute;s-Lemus, C.</b>, A. M. Holleman, A. Todor, B. Bradley, K. J. Ressler, D. Ghosh, M. P. Epstein. (2021). A Kernel Method for Dissecting Genetic Signals in Tests of High-Dimensional Phenotypes, [bioRxiv 2021.07.29.454336](https://doi.org/10.1101/2021.07.29.454336)
