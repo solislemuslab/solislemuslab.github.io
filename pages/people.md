@@ -193,7 +193,7 @@ Name pronunciation: [namedrop.io/claudiasolislemus](https://namedrop.io/claudias
         </div>
 
         <div class="span5">
-            Yibo Kong is a sophomore undergraduate student majoring in Computer Science and Data Science. He works on unsupervised learning of phylogenetic trees.
+            Yibo Kong is a senior undergraduate student majoring in Computer Science and Data Science. He works on unsupervised learning of phylogenetic trees.
      </div>
     </div>
 </div>
