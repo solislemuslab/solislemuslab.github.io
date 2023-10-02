@@ -14,6 +14,13 @@ description: Claudia Solis-Lemus' talks
     </div>
 </div>
 
+## Sci-comm events
+
+### 2023
+
+Celebrating Latinx voices in STEM symposium; info [here](https://solislemuslab.github.io/latinx-uwmadison/)
+
+<div style="text-align:center"><img src="../assets/pics/LATINXinSTEM2.png" width="450"/></div>
 
 ## <a name="talks"></a>Solis-Lemus selected talks
 
