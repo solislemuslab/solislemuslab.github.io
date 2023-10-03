@@ -176,6 +176,20 @@ Name pronunciation: [namedrop.io/claudiasolislemus](https://namedrop.io/claudias
 
 </div>
 
+<div class="container">
+    <div class="row-fluid">
+        <div class="span2">
+        <a href="../assets/pics/xiaoyang.jpg">
+            <img src="../assets/pics/xiaoyang.jpg"
+                  title="XiaoyangWang" alt="XiaoyangWang"/></a>
+        </div>
+
+        <div class="span5">
+        Xiaoyang (Peter) Wang is a MS student in Statistic: Data Science. He works on Wisconsin Seed Potato Certification Program, and ANOVA on BHV space. He completed his undergraduate degree in Statistics at East China Normal University. 
+        </div>
+    </div>
+
+</div>
 
 ---
 

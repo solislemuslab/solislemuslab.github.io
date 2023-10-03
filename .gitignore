@@ -144,3 +144,4 @@ Backup[ ]of[ ]*.numbers/
 
 ### Mathematica
 *.nb
+.Rproj.user
