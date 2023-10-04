@@ -26,6 +26,8 @@ Celebrating Latinx voices in STEM symposium; info [here](https://solislemuslab.g
 
 ### 2023
 
+BMI Seminar (UW-Madison). "Inferring networks" (_Oct 6_)
+
 Botany conference. "Phylogenetic networks to study reticulate evolution" (_Jul 25_).
 
 Toronto Workshop on Reproducibility. "Accessible reproducibility for biological researchers" (_Feb 23_). [website](https://crsl4.github.io/mindful-programming/)
