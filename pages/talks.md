@@ -26,6 +26,8 @@ Celebrating Latinx voices in STEM symposium; info [here](https://solislemuslab.g
 
 ### 2023
 
+[Algebraic Statistics for Ecological and Biological Systems](https://www.imsi.institute/activities/algebraic-statistics-for-ecological-and-biological-systems/) at the Institute for Mathematical and Statistical Innovation (IMSI) on the campus of the University of Chicago on "Ultrafast learning of 4-node hybridization cycles using phylogenetic invariants" (_Oct 11_).
+
 BMI Seminar (UW-Madison). "Inferring networks" (_Oct 6_)
 
 Botany conference. "Phylogenetic networks to study reticulate evolution" (_Jul 25_).
