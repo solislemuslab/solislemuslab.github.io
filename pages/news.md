@@ -6,6 +6,10 @@ description: Solis-Lemus lab
 
 ### 2023
 
+- Great time participating in the [Crossroads of Ideas: Comparing the Creative Process in Science and Art](https://www.wisconsinsciencefest.org/event/crossroads-of-ideas-comparing-the-creative-process-in-science-and-art-presented-by-the-wisconsin-book-festival-and-the-wisconsin-science-festival/) as part of the WI Science Festival and the WI Book Festival in 2023
+
+<div style="text-align:center"><img src="../assets/pics/bookfest-2023.jpeg" width="450"/></div>
+
 - We will be hosting the "Celebrating Latinx voices in STEM" symposium on Thursday Oct 5 and Friday Oct 6. More info about the event in the website: [https://solislemuslab.github.io/latinx-uwmadison/](https://solislemuslab.github.io/latinx-uwmadison/)
 
 - Very excited that the SNaQ paper ([Solis-Lemus and Ane, 2016](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1005896)) is in the top 10% most cited papers in PLoS Genetics in 2022!
