@@ -58,6 +58,11 @@ description: Claudia Solis-Lemus' teaching
 
 ### Other Courses
 
+#### Fall 2023
+
+- **Methodological advances in reticulate evolution** [Workshop](https://gtiley.github.io/RBG-Networks/) co-organized by George Tiley in Kew Botanical Garden, UK:
+  - [SNaQ Tutorial](https://solislemuslab.github.io/snaq-tutorial/)
+
 #### Summer 2023
 
 - **Taming the BEAST** Faculty member of the workshop on BEAST. Lecture on phylogenetic networks (taught by postdoc Sungsik Kong). Squamish, Canada.
