@@ -48,7 +48,8 @@ description: Claudia Solis-Lemus' teaching
 #### Botany/PlantPath 563 Phylogenetic Analysis of Molecular Data
 - Spring 2021: 3 credits; TR 1:00-2:15pm (virtual over zoom)
 - Spring 2022: 3 credits; WF 2:30-3:45pm
-- [Spring 2023](https://github.com/crsl4/phylogenetics-class): 3 credits; TR 1:00-2:15pm
+- Spring 2023: 3 credits; TR 1:00-2:15pm
+- [Spring 2024](https://crsl4.github.io/phylogenetics-class/): 3 credits; TR 1:00-2:15pm
 
 #### Plant Path 875 Readings in Phylogenomics
 - Spring 2021: 1 credit; F 8:55-9:45am (virtual over zoom)
