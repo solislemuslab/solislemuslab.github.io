@@ -245,7 +245,9 @@ Seminario aleatorio: El papel de la Estad&iacute;stica en la inferencia del &aac
 (_Oct 17_)
 
 
-## <a name="events"></a>Selected media events
+------
+
+## <a name="media"></a>Selected media events
 
 ### 2023
 
