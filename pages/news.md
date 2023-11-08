@@ -6,6 +6,10 @@ description: Solis-Lemus lab
 
 ### 2023
 
+- First time in the Kew Botanical Gardens! Thanks to George Tiley for organizing the cool [workshop on phylogenetic networks](https://gtiley.github.io/RBG-Networks/)
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">First day of workshop with George Tiley, Tomas Flouri and Ziheng Yang. Crucial to be able to see Tomas in the big screen as he presents 😅 <a href="https://twitter.com/kewgardens?ref_src=twsrc%5Etfw">@kewgardens</a> <a href="https://t.co/dMhmVHkHjo">pic.twitter.com/dMhmVHkHjo</a></p>&mdash; Claudia Solís-Lemus (@solislemuslab) <a href="https://twitter.com/solislemuslab/status/1722264618545148283?ref_src=twsrc%5Etfw">November 8, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 - Great time participating in the [Crossroads of Ideas: Comparing the Creative Process in Science and Art](https://www.wisconsinsciencefest.org/event/crossroads-of-ideas-comparing-the-creative-process-in-science-and-art-presented-by-the-wisconsin-book-festival-and-the-wisconsin-science-festival/) as part of the WI Science Festival and the WI Book Festival in 2023
 
 <div style="text-align:center"><img src="../assets/pics/bookfest-2023.jpeg" width="450"/></div>

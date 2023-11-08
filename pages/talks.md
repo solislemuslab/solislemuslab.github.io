@@ -1,6 +1,6 @@
 ---
 layout: page
-title: science communication
+title: outreach, sci-comm and media
 description: Claudia Solis-Lemus' talks
 ---
 
@@ -8,19 +8,13 @@ description: Claudia Solis-Lemus' talks
     <div class="navbar-inner">
         <ul class="nav">
             <li><a href="#talks">talks</a></li>
+            <li><a href="#media">media</a></li>
             <li><a href="https://solislemuslab.github.io//pages/zoominario.html">el-zoominario</a></li>
             <li><a href="https://www.youtube.com/channel/UCcBcmxIYYGC6Z04p9SC7hwg/featured">youtube-channel</a></li>
         </ul>
     </div>
 </div>
 
-## Sci-comm events
-
-### 2023
-
-Celebrating Latinx voices in STEM symposium; info [here](https://solislemuslab.github.io/latinx-uwmadison/)
-
-<div style="text-align:center"><img src="../assets/pics/LATINXinSTEM2.png" width="450"/></div>
 
 ## <a name="talks"></a>Solis-Lemus selected talks
 
@@ -250,3 +244,21 @@ Seminario aleatorio: El papel de la Estad&iacute;stica en la inferencia del &aac
 [ITAM](https://www.itam.mx/en), Mexico City, Mexico
 (_Oct 17_)
 
+
+## <a name="events"></a>Selected media events
+
+### 2023
+
+- [Crossroads of Ideas: Comparing the Creative Process in Science and Art](https://www.wisconsinsciencefest.org/event/crossroads-of-ideas-comparing-the-creative-process-in-science-and-art-presented-by-the-wisconsin-book-festival-and-the-wisconsin-science-festival/), part of the WI Science Festival and the WI Book Festival in 2023
+
+<div style="text-align:center"><img src="../assets/pics/wi-book-fest-2023.png" width="450"/></div>
+
+- Celebrating Latinx voices in STEM symposium; info [here](https://solislemuslab.github.io/latinx-uwmadison/)
+
+<div style="text-align:center"><img src="../assets/pics/LATINXinSTEM2.png" width="450"/></div>
+
+- [Uncontrolled Variables](https://www.uncontrolledvariables.com/about), comedy+science show at The Bur Oak organized by Diya Basrai
+
+<div style="text-align:center"><img src="../assets/pics/uncontrolled-variables.png" width="450"/></div>
+
+- ["Technical to Beautiful: Data as Art" exhibition!](https://www.instagram.com/reel/CtRfUQ4LT_z/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZA==)
