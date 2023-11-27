@@ -56,7 +56,7 @@ description: El Zoominario
 | 7 Apr 2023 | ![](../assets/pics/flags/chile.png) | Pablo Moreno-Yaeger | How do volcanoes respond to glaciation? | [![youtube (653k)](icons16/youtube.png)](https://youtu.be/bMQfIN6DXvw) | | [![tiktok (653k)](icons16/pablo.png)](https://www.tiktok.com/@latinxinstem/video/7219446404513598766?is_from_webapp=1&sender_device=pc&web_id=7198957279043405354) |
 | 5 May 2023 | ![](../assets/pics/flags/mexico.png) | Daniel Ojeda-Juarez | Understanding neurodegenerative diseases: From Alzheimer's to Mad Cow Disease | [![youtube (653k)](icons16/youtube.png)](https://youtu.be/bMQfIN6DXvw) | | |
 | 1 Sep 2023 | ![](../assets/pics/flags/mexico.png) | Michel Geovanni Santiago-Martinez | Can we find methane-producing microorganisms everywhere? | [![youtube (653k)](icons16/youtube.png)](https://youtu.be/Rf0BrgU1KCc) | | |
-| 6 Oct 2023 | Nahui Medina Chavez| |
+| 6 Oct 2023 | ![](../assets/pics/flags/mexico.png) | Nahui Medina Chavez| Archaea: Earth's Ancient Microbial Architects | [![youtube (653k)](icons16/youtube.png)](https://youtu.be/_RgCvUAEc38) | | |
 | 3 Nov 2023 | Lluvia Flores-Renteria | |
 | 1 Dec 2023 | Juan Caicedo | |
 | 2 Feb 2024 | Hector Baños | |
