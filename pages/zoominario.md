@@ -58,8 +58,9 @@ description: El Zoominario
 | 1 Sep 2023 | ![](../assets/pics/flags/mexico.png) | Michel Geovanni Santiago-Martinez | Can we find methane-producing microorganisms everywhere? | [![youtube (653k)](icons16/youtube.png)](https://youtu.be/Rf0BrgU1KCc) | | |
 | 6 Oct 2023 | ![](../assets/pics/flags/mexico.png) | Nahui Medina Chavez| Archaea: Earth's Ancient Microbial Architects | [![youtube (653k)](icons16/youtube.png)](https://youtu.be/_RgCvUAEc38) | | |
 | 3 Nov 2023 | Lluvia Flores-Renteria | |
-| 1 Dec 2023 | Juan Caicedo | |
 | 2 Feb 2024 | Hector Baños | |
+| 1 Mar 2024 | | |
+| 5 Apr 2024 | Juan Caicedo | |
 
 
 # FAQ
