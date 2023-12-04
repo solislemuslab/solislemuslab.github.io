@@ -8,6 +8,8 @@ description: Solis-Lemus lab
 
 - Our movie will be screened in Union South and in the Central Library. See website [here](https://alfalfita-productions.github.io/there-are-no-bugs-in-winter/)
 
+<div style="text-align:center"><img src="../assets/pics/posterH.jpeg" width="450"/></div>
+
 - First time in the Kew Botanical Gardens! Thanks to George Tiley for organizing the cool [workshop on phylogenetic networks](https://gtiley.github.io/RBG-Networks/)
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">First day of workshop with George Tiley, Tomas Flouri and Ziheng Yang. Crucial to be able to see Tomas in the big screen as he presents 😅 <a href="https://twitter.com/kewgardens?ref_src=twsrc%5Etfw">@kewgardens</a> <a href="https://t.co/dMhmVHkHjo">pic.twitter.com/dMhmVHkHjo</a></p>&mdash; Claudia Solís-Lemus (@solislemuslab) <a href="https://twitter.com/solislemuslab/status/1722264618545148283?ref_src=twsrc%5Etfw">November 8, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
