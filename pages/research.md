@@ -356,10 +356,12 @@ Tiley, George P., Andrew A. Crowl, Paul S. Manos, Emily B. Sessa, <b>Sol&iacute;
                 - PI: Claudia Solis-Lemus <br/>
                 - Ben Rush (postdoc) <br/>
                 - Sungsik Kong (postdoc) <br/>
+                - Marianne Bjorner <br/>
                 - Xudong Tang (MS student) <br/>
                 - Hailey Louw (MS student) <br/>
                 - Nathan Kolbow (PhD student) <br/>
                 - Evan Gorstein (PhD student) <br/>
+                - Yuke Wu (undergrad) <br/>
                 - Bella Wu (undergrad) <br/>
                 - Yibo Kong (undergrad) <br/>
                 - Lakes Tang (undergrad) <br/>
