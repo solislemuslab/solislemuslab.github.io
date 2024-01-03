@@ -357,6 +357,7 @@ Tiley, George P., Andrew A. Crowl, Paul S. Manos, Emily B. Sessa, <b>Sol&iacute;
                 - Ben Rush (postdoc) <br/>
                 - Sungsik Kong (postdoc) <br/>
                 - Xudong Tang (MS student) <br/>
+                - Hailey Louw (MS student) <br/>
                 - Nathan Kolbow (PhD student) <br/>
                 - Evan Gorstein (PhD student) <br/>
                 - Bella Wu (undergrad) <br/>
@@ -373,9 +374,13 @@ Scientists world-wide are engaged in efforts to understand how all planetary bio
 
 
 #### Publications supported by the award
+- Kong et al (2023). [arXiv:2213.16074](https://arxiv.org/abs/2312.16074)
+- Tiley and Solis-Lemus (2023). [biorXiv:2023/564087](https://www.biorxiv.org/content/10.1101/2023.10.25.564087v1)
+- Tang et al (2023). [arXiv: 2201.04663](https://arxiv.org/abs/2201.04663)
 - Justison et al (2023). [MEE DOI: 10.1111/2041-210X.14116](https://besjournals.onlinelibrary.wiley.com/doi/10.1111/2041-210X.14116)
 - Bjorner et al (2022). [arxiv:2211.00712](https://arxiv.org/abs/2211.00712)
 - Wu and Solis-Lemus (2022). [arxiv:2211.16647](https://arxiv.org/abs/2211.16647)
+
 
 ### DOE: Computational Tool Development for Integrative Systems Biology Data Analysis
 
