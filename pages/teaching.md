@@ -59,6 +59,11 @@ description: Claudia Solis-Lemus' teaching
 
 ### Other Courses
 
+#### Spring 2024
+
+- Forensic Justice Institute 2024 by the State Bar of Wisconsin
+  - [Website](https://crsl4.github.io/forensic-stat/)
+
 #### Fall 2023
 
 - **Methodological advances in reticulate evolution** [Workshop](https://gtiley.github.io/RBG-Networks/) co-organized by George Tiley in Kew Botanical Garden, UK:
