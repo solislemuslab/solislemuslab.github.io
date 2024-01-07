@@ -254,3 +254,21 @@ Bayesian species delimitation integrating genes and traits data.
 </div>
 
 ---
+
+<div class="container">
+    <div class="row-fluid">
+        <div class="span5">
+            <a href="https://github.com/solislemuslab/PhyloClustering.jl/">PhyloClustering.jl</a><br/>
+            PhyloClustering.jl  is a Julia package to perform unsupervised learning on phylogenetic trees. 
+            The algorithms currently included are K-means, Hierarchical Clustering, Gaussian Mixture Model, and DBSCAN.<br/>
+            <br/>Check out the 
+            <a href="https://solislemuslab.github.io/PhyloClustering.jl/dev/">documentation and tutorials.</a><br/>
+            <br/>Software developed by <a href="https://github.com/YiboK">Yibo Kong.</a><br/>
+        </div>
+
+        <div class="span2">
+        </div>
+    </div>
+</div>
+
+---
