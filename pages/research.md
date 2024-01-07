@@ -383,6 +383,33 @@ Scientists world-wide are engaged in efforts to understand how all planetary bio
 - Bjorner et al (2022). [arxiv:2211.00712](https://arxiv.org/abs/2211.00712)
 - Wu and Solis-Lemus (2022). [arxiv:2211.16647](https://arxiv.org/abs/2211.16647)
 
+### USDA Individual Hatch
+
+<div class="container">
+    <div class="row-fluid">
+        <div class="span2">
+        <a href="../assets/pics/usda.png">
+            <img src="../assets/pics/usda.png"
+                  title="USDA" alt="USDA"/></a>
+        </div>
+
+        <div class="span5">
+            Title: Enhanced interaction and network statistical models for microbiome data <br/>
+            Dates: October 1, 2024 to September 30, 2028 <br/>
+            Personnel: <br/>
+        </div>
+    </div>
+
+</div>
+
+#### Project summary
+
+The growing food demand can only be sustained through rigorous and consistent sup- port of plant and soil health worldwide. Recognizing the microbial, environmental and agricultural factors that drive plant and soil phenotypes is crucial to comprehend processes connected to plant and soil health, to identify global practices of sustainable agriculture, as well as to predict plant and soil responses to environmental perturbations such as climate change. In order to identify the driving factors in plant and soil health, we need robust statistical tools that are able to connect a set of predictors with a specific phenotype. Yet, the innovation in the methodological data science tools for agricultural practices has not matched the increasing complexity of soil and plant data.
+
+The overall objective of this project is to develop a next gen- eration of statistical theory (accompanied by open-source publicly available software) for soil and plant high-dimensional data. Our novel statistical methods will overcome existing challenges in standard approaches in two ways: 1) they will inherently account for high-dimensional highly interconnected data through the development of novel microbiome interaction models, and 2) they will explore the inclusion of graphical predictors such as microbiome interaction networks through the theory of network regression analysis.
+
+
+#### Publications supported by the award
 
 ### DOE: Computational Tool Development for Integrative Systems Biology Data Analysis
 
