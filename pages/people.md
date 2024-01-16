@@ -254,6 +254,20 @@ Name pronunciation: [namedrop.io/claudiasolislemus](https://namedrop.io/claudias
     </div>
 </div>
 
+<div class="container">
+    <div class="row-fluid">
+        <div class="span2">
+        <a href="../assets/pics/Sophia.JPG">
+            <img src="../assets/pics/Sophia.JPG"
+                  title="Sophia Yang" alt="Sophia Yang"/></a>
+        </div>
+
+        <div class="span5">
+            Sophia Yang is a junior undergraduate student majoring in Computer Science and Data Science. She works on network analysis of lake microbiome data.
+     </div>
+    </div>
+</div>
+
 ---
 
 ### <a name="pets"></a>Emotional support staff
