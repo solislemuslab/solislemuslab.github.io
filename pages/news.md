@@ -4,6 +4,12 @@ title: news
 description: Solis-Lemus lab
 ---
 
+### 2024
+
+- Thank you to the Madison Chapter of Graduate Women in Science (GWIS-Beta Chapter) for featuring me in the [Faculty Spotlight](https://www.gwisbeta.org/)
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">We are so excited to feature our faculty spotlight Dr. Claudia Solis Lemus <a href="https://twitter.com/solislemuslab?ref_src=twsrc%5Etfw">@solislemuslab</a> ! Her research expertise involves statistical phylogenetics, genomics, and microbiology. Full interview: <a href="https://t.co/zq4Y1gCAwb">https://t.co/zq4Y1gCAwb</a> <br>Previous highlights (drop down): <a href="https://t.co/nZDl4rXWBK">https://t.co/nZDl4rXWBK</a> <a href="https://t.co/qp9rbjSj3R">pic.twitter.com/qp9rbjSj3R</a></p>&mdash; GWIS Madison Chapter (@GWIS_UWMadison) <a href="https://twitter.com/GWIS_UWMadison/status/1752700474988650844?ref_src=twsrc%5Etfw">January 31, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ### 2023
 
 - Our movie will be screened in Union South and in the Central Library. See website [here](https://alfalfita-productions.github.io/there-are-no-bugs-in-winter/)
