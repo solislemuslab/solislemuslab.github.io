@@ -61,6 +61,10 @@ description: Claudia Solis-Lemus' teaching
 
 #### Spring 2024
 
+- Methods for Biological Data Workshop; see [website](https://crsl4.github.io/methods-bio-data-workshop/)
+
+![ ](../assets/pics/data_analysis_flier.png)
+
 - Forensic Justice Institute 2024 by the State Bar of Wisconsin
   - [Website](https://crsl4.github.io/forensic-stat/)
 
