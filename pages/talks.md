@@ -9,7 +9,7 @@ description: Claudia Solis-Lemus' talks
         <ul class="nav">
             <li><a href="#talks">talks</a></li>
             <li><a href="#media">media</a></li>
-            <li><a href="https://solislemuslab.github.io//pages/zoominario.html">el-zoominario</a></li>
+            <li><a href="https://solislemuslab.github.io/el-zoominario">el-zoominario</a></li>
             <li><a href="https://www.youtube.com/channel/UCcBcmxIYYGC6Z04p9SC7hwg/featured">youtube-channel</a></li>
         </ul>
     </div>
