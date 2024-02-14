@@ -144,6 +144,9 @@ description: Claudia Solis-Lemus' teaching
 
 #### 2019 
 
+**Nantucket developR:**
+Tutorial on best computing practices using R: [mindful programming](https://github.com/crsl4/mindful-programming/blob/master/lecture.md). Notes from other instructors [here](https://github.com/NantucketDevelopeR/2019Workshop).
+
 **Taming the BEAST** Faculty member of the workshop on BEAST. Lecture on phylogenetic networks. Squamish, Canada
   - [Slides](https://github.com/Taming-the-BEAST/Taming-the-BEAST-2019-Eh-Lectures)
 
@@ -156,26 +159,15 @@ description: Claudia Solis-Lemus' teaching
   - [slides](http://www.stat.wisc.edu/~claudia/networks_talkBotany.pdf)
   - [code](http://www.stat.wisc.edu/~claudia/smallTutorialBotany.jl)
 
----
-
-## <a name="tutorials"></a>Tutorials
-
-#### 2019
-- **Nantucket developR:**
-Tutorial on best computing practices using R: [mindful programming](https://github.com/crsl4/mindful-programming/blob/master/lecture.md). Notes from other instructors [here](https://github.com/NantucketDevelopeR/2019Workshop).
-
-- **Molecular Evolution Workshop at Woods Hole:**
-Tutorial on inference of phylogenetic networks using Julia package: [PhyloNetworks](https://github.com/crsl4/PhyloNetworks.jl/wiki). Links above in [Courses](https://solislemuslab.github.io//pages/teaching.html#courses).
-
-#### 2016
-- **Instituto de Biolog&iacute;a - UNAM:**
+**Instituto de Biolog&iacute;a - UNAM:**
 Introduction to PhyloNetworks and SNaQ: Same tutorial as in Evolution 2016, links below.
 
-- **Evolution:**
+**Evolution:**
 Phylogenomics symposium and software school: Introduction to PhyloNetworks and SNaQ
   - [wiki](https://github.com/crsl4/PhyloNetworks.jl/wiki)
   - [julia code](http://www.stat.wisc.edu/~claudia/tutorial.jl)
   - [R code](http://www.stat.wisc.edu/~claudia/tutorial.r)
+
 
 ---
 
