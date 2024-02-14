@@ -205,9 +205,9 @@ Phylogenomics symposium and software school: Introduction to PhyloNetworks and S
 
 ---
 
-## <a name="mentoring"></a>Past Mentoring
+## <a name="mentoring"></a>Mentoring before Solis-Lemus lab
 
-For members of Solis-Lemus lab, see [People](https://solislemuslab.github.io//pages/people.html)
+For members of Solis-Lemus lab, see [Team](https://solislemuslab.github.io//pages/people.html)
 
 ##### 2019 
 - Software Development Project, **Fast reconstruction and visualization of phylogenetic networks**, Harnoor Singh and Naman Kanwar – Georgia State University.

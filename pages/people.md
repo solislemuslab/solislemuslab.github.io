@@ -17,11 +17,8 @@ description: Sol&iacute;s-Lemus lab
     </div>
 </div>
 
-<div class="image123">
-    <img src="../assets/misc/word-clouds-lab/sl-lab-composition.png" width="600">
-</div>
 
-### Claudia Sol&iacute;s-Lemus
+### PI: Claudia Sol&iacute;s-Lemus
 
 I am an assistant professor at the [Wisconsin Institute for Discovery](https://wid.wisc.edu/) and the [Department of Plant Pathology](https://plantpath.wisc.edu/) at the [University of Wisconsin-Madison](http://www.wisc.edu). Originally from Mexico City, I did my Undergraduate degrees
 in Actuarial Sciences and Applied Mathematics at [ITAM](https://www.itam.mx/en).
