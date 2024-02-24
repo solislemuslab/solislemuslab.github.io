@@ -251,6 +251,7 @@ Seminario aleatorio: El papel de la Estad&iacute;stica en la inferencia del &aac
 
 ### 2023
 - [Crossroads of Ideas: Comparing the Creative Process in Science and Art](https://www.wisconsinsciencefest.org/event/crossroads-of-ideas-comparing-the-creative-process-in-science-and-art-presented-by-the-wisconsin-book-festival-and-the-wisconsin-science-festival/), part of the WI Science Festival and the WI Book Festival in 2023
+    - Watch replay [here](https://www.crowdcast.io/c/wbf-crossroads-of-ideas)
 
 <div style="text-align:center"><img src="../assets/pics/wi-book-fest-2023.png" width="450"/></div>
 
