@@ -253,7 +253,7 @@ Tiley, George P., Andrew A. Crowl, Paul S. Manos, Emily B. Sessa, <b>Sol&iacute;
 
 ---
 
-| <span style="font-size:2em;">2019</span> |  | <b>Sol&iacute;s-Lemus, C.</b>, Ma, X., Hostetter II, M., Kundu, S., Qiu, P., Pimentel-Alarc&oacute;n D. | 
+| <span style="font-size:2em;">2020</span> |  | <b>Sol&iacute;s-Lemus, C.</b>, Ma, X., Hostetter II, M., Kundu, S., Qiu, P., Pimentel-Alarc&oacute;n D. | 
 | | | Prediction of functional markers of mass cytometry data via deep learning |
 | | | [DOI: 10.1007/978-3-030-33416-1_5](https://link.springer.com/chapter/10.1007/978-3-030-33416-1_5) |
 | | | [![biomed (653k)](icons16/biomed.png)](https://link.springer.com/chapter/10.1007/978-3-030-33416-1_5) |
