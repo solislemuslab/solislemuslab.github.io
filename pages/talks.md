@@ -263,7 +263,7 @@ Seminario aleatorio: El papel de la Estad&iacute;stica en la inferencia del &aac
 
 <div style="text-align:center"><img src="../assets/pics/uncontrolled-variables.png" width="450"/></div>
 
-- ["Technical to Beautiful: Data as Art" exhibition!](https://www.instagram.com/reel/CtRfUQ4LT_z/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZA==)
+- ["Technical to Beautiful: Data as Art" exhibition!](https://solislemuslab.github.io/data-art-exhibition/)
 
 <div style="text-align:center"><img src="../assets/pics/data-art.png" width="450"/></div>
 
