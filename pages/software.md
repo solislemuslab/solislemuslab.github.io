@@ -272,3 +272,24 @@ Bayesian species delimitation integrating genes and traits data.
 </div>
 
 ---
+
+
+<div class="container">
+    <div class="row-fluid">
+        <div class="span5">
+            <a href="https://wxys1209.shinyapps.io/virus_linker/">Virus Linker Shiny App</a><br/>
+            The shiny app provides a platform for visualizing connections and interactions between proteins of viruses. <br/>
+            <br/>Check out the 
+            <a href="https://github.com/solislemuslab/virus-linker">github repo.</a><br/>
+            <br/>Software developed by <a href="https://github.com/WXYS1209">Xiaoyang Wang.</a><br/>
+        </div>
+
+        <div class="span2">
+        <a href="https://wxys1209.shinyapps.io/virus_linker/">
+            <img src="../assets/pics/virus_linker.png"
+                  title="Virus Linker Shiny App" alt="Virus Linker Shiny App"/></a>
+        </div>
+    </div>
+</div>
+
+---
