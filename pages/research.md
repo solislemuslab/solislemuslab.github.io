@@ -139,7 +139,7 @@ Tiley, G., <b>Sol&iacute;s-Lemus, C.</b>. (2023)
 Extracting diamonds: Identifiability of 4-node cycles in level-1 phylogenetic networks under a pseudolikelihood coalescent model, [biorXiv:2023/564087](https://www.biorxiv.org/content/10.1101/2023.10.25.564087v1), [github](https://github.com/gtiley/diamond-identifiability) 
 
 <strong style="color: SlateBlue;">Tang, X.</strong>, L. Zepeda-Nunez, <strong style="color: SlateBlue;">S. Yang, Z. Zhao</strong>, <b>Sol&iacute;s-Lemus, C.</b>. (2023)
-Novel Symmetry-preserving Neural Network Model for Phylogenetic Inference, [arXiv (2023): 2201.04663](https://arxiv.org/abs/2201.04663), [github](https://github.com/Forgotten/nn-phylogenetics) 
+Novel Symmetry-preserving Neural Network Model for Phylogenetic Inference, [arXiv (2023): 2201.04663](https://arxiv.org/abs/2201.04663), [github](https://github.com/crsl4/nn-phylogenetics) 
 
 <strong style="color: SlateBlue;">Aghdam, R., Tang., X.</strong>, Shan, S., Lankau, R., <b>Sol&iacute;s-Lemus, C.</b>. (2023). Human Limits in Machine Learning: Prediction of Plant Phenotypes Using Soil Microbiome Data. [arxiv (2022): 2306.11157](https://arxiv.org/abs/2306.11157) [github](https://github.com/solislemuslab/soil-microbiome-nn).
 
