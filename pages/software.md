@@ -107,7 +107,7 @@ Bayesian species delimitation integrating genes and traits data.
             <a href="https://potato-seed-dashboard.wid.wisc.edu/">Potato Dashboard</a><br/>
             Proprietary data visualization and data analysis dashboard for the <a href="https://seedpotato.russell.wisc.edu/">WI Seed Potato Cert program</a><br/><br/>
             Check out the <a href="https://github.com/solislemuslab/potato-seed-cert">github repo.</a><br/>
-            <br/>Software developed by <a href="https://github.com/hchen549">Haoming Chen</a> and <a href="https://www.linkedin.com/in/qiaowenwu/">Elaine Wu.</a><br/>
+            <br/>Software developed by <a href="https://github.com/hchen549">Haoming Chen</a>, <a href="https://www.linkedin.com/in/qiaowenwu/">Elaine Wu</a> and <a href="https://github.com/WXYS1209">Xiaoyang Wang.</a><br/>
         </div>
 
         <div class="span2">
