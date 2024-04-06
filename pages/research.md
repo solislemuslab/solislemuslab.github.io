@@ -21,9 +21,8 @@ description: Solis-Lemus publications
 <div class="container">
     <div class="row-fluid">
         <div class="span3">
-        <iframe width="250" height="200"
+        <img width="250" height="200"
             src="../assets/misc/figures-pubs/wordcloud2024.png">
-        </iframe>
         </div>
         <div class="span4">
             - We work to develop statistical models to answer biological questions, balancing biological interpretability, theoretical guarantees, and computational tractability. <br/>
