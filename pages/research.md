@@ -142,9 +142,6 @@ Extracting diamonds: Identifiability of 4-node cycles in level-1 phylogenetic ne
 
 <strong style="color: SlateBlue;">Nelson, R., Aghdam, R.</strong>, <b>Sol&iacute;s-Lemus, C.</b>. (2022). MiNAA: Microbiome Network Alignment Algorithm. [arxiv (2022): 2212.05880](https://arxiv.org/abs/2212.05880) [github](https://github.com/solislemuslab/minaa).
 
- [arxiv (2022): 2211.16647]() [github]().
-
-
 <strong style="color: SlateBlue;">Bjorner, M.</strong>, Molloy, E., Dewey, C., <b>Sol&iacute;s-Lemus, C.</b>. (2022). Detectability of Varied Hybridization Scenarios using Genome-Scale Hybrid Detection Methods. [arxiv (2022): 2211.00712](https://arxiv.org/abs/2211.00712) [github](https://github.com/mbjorner/hybrid-detection-comparison).
 
 
