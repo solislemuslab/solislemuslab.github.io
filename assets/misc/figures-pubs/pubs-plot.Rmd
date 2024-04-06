@@ -29,7 +29,7 @@ install.packages("ggwordcloud")
 install.packages("stringr")
 install.packages("dplyr")
 ```
-
+# Citations per article
 
 
 ```{r, echo=FALSE}
@@ -64,7 +64,7 @@ colnames(df)<-c("title","authors","journal","number","total.citations","publicat
 ##########################################
 
 df<-df[!is.na(df$journal),] #filter out entries with unknown journal
-df<-df[!is.na(df$publication.date),] #flter out entries with unknown date
+df<-df[!is.na(df$publication.date),] #filter out entries with unknown date
 df$year<-as.numeric(str_split_fixed(df$publication.date,"/",2)[,1])#get only year of publication  
 
 #Optional: limit to publications after a given year, I have only tested the code using ~10years
@@ -75,24 +75,27 @@ df <- df[with(df, order(year, authors)), ]
 
 ## manual inspection
 df[3,]$authors <- "C Solis-Lemus"
-df <- df[-26,]
-df <- df[-24,]
+#df <- df[-26,]
+#df <- df[-24,]
 
+df <- df[-7,]
+df <- df[-14,]
+df <- df[-26,]
 
 #highlight first author paper
 fchar<-str_split_fixed(df$authors,",",2)[,1]#split author list by comma
 df$first<-ifelse(grepl(paste(Author_lastname,collapse = "|"),fchar),1,0)#find matches to your name, I have to use alternative spellings with and without accent
 
 ## for some reason, some 1st author publications are not identified by grepl
-df$first[2] <- 1
+#df$first[2] <- 1
 
 #highlight last author paper
 lauthor<-sapply(str_split(df$authors,","), tail, 1)#get last author for each paper
 df$first_last<-ifelse(grepl(paste(Author_lastname,collapse = "|"),lauthor),2,df$first) #assign value 2 to last author papers, first author gets value 1
 
 ## for some reason, some last author not detected
-df$first_last[12] <- 2
-df$first_last[26] <- 2
+#df$first_last[12] <- 2
+#df$first_last[26] <- 2
 
 #This does not identify equal contibution first authors, those would have to be entered manually, example
 #df$first[df$journal=="Nature biotechnology"]<-1 #a paper where I know I'm co-first author
@@ -127,7 +130,7 @@ p1v3.first<-ggplot(df,aes(y=total.citations,x=year))+
     legend.text= element_text(size=9,color="grey30"),#legend
     )
 
-#p1v3.first
+p1v3.first
 
 
 df$either<-df$first_last #create colum to give bold stroke to either firt and last
@@ -135,7 +138,7 @@ df$either[df$either>1]<-1
 #df$first_last[df$first_last==0]<-NA
 
 
-p1v3.either<-ggplot(df,aes(y=total.citations,x=year))+
+p1v3.either<-ggplot(df,aes(y=total.citations,x=factor(year)))+
   geom_point(aes(fill=total.citations,stroke=either),size=4,shape=21,na.rm = TRUE)+ #points filled according to impact factor, with border according to first authors
 #  geom_text_repel(aes(label=labels), xlim = c(max(df$year)+2, Inf), ylim = c(-Inf, Inf),min.segment.length = 0,na.rm = TRUE)+ #add labels starting 2 years after the xlimit
   theme_cowplot()+
@@ -143,7 +146,7 @@ p1v3.either<-ggplot(df,aes(y=total.citations,x=year))+
   coord_capped_cart(bottom='both')+
   scale_fill_gradient2(low="grey70",mid="khaki3",high="deepskyblue3", guide="none")+ #create color scale
 #  scale_x_continuous(breaks=c(min(df$year),max(df$year)),limits = c(min(df$year),max(df$year)+15))+ #modify x axis to expand to the right, but only label years with dara
-#  coord_capped_cart(bottom='both')+ #limit the line on the x axis to the limits
+ # coord_capped_cart(bottom='both')+ #limit the line on the x axis to the limits
   continuous_scale("stroke", "stroke",  palette = function(x){scales::rescale(x, c(0, 1.5))}, breaks = c(1),labels = c("First/last author"),name = NULL)+ # Modify scale for stroke size
   ggtitle("Citations per Article")+
   #modify axes to clean up the plot
@@ -182,7 +185,7 @@ p1v3.either<-ggplot(df,aes(y=total.citations,x=year))+
 
 #p1v4
 ```
-
+# Coauthor map (not done)
 
 ```{r, echo=FALSE}
 ## Coauthor affiliation map
@@ -259,6 +262,7 @@ p2<-ggplot() +
 #p2
 ```
 
+# Citation per year
 
 ```{r, echo=FALSE}
 ## Citation history
@@ -279,7 +283,7 @@ p3<-ggplot(Cithist) +
   geom_text(aes(x=year,y=n_citations+10,label=n_citations),size=3,nudge_y = 10)+ #add citation numbers above bars, might need to modify according to scale
   ggtitle(paste("Citations per year \n(h-index=",hind,")",sep=""))+
   scale_fill_gradient2(low="khaki2",mid="deepskyblue3",high="dodgerblue4",guide="none",midpoint = quantile(Cithist$n_citations,probs = 0.85))+ #color scale, strong blues for the upper 0.15 quantile
-  scale_x_continuous(expand = c(0,0),limits = c(min(Cithist$year)-1,max(Cithist$year)+1))+ #expand x axis
+  scale_x_continuous(expand = c(0,0),limits = c(min(Cithist$year)-1,max(Cithist$year)+1), breaks=seq(2015,2025,by=2))+ #expand x axis
   theme_cowplot()+
   coord_capped_cart(bottom='both')+
   theme(axis.title.y = element_blank(),axis.ticks.y = element_blank(),axis.text.y = element_blank(),axis.line.y = element_blank(),
@@ -288,12 +292,19 @@ p3<-ggplot(Cithist) +
 #p3
 ```
 
-
+# Abstract word
 
 ```{r, echo=FALSE}
 ## Abstract word cloud
+library(easyPubMed)
 library(tm)
 library(ggwordcloud)
+
+#Get detailed author and abstract information for each article from pubmed
+my_query <- paste(Author_fullname,"[AU]",sep="",collapse = " OR ")
+my_entrez_id <- get_pubmed_ids(my_query)
+my_abstracts_xml <- fetch_pubmed_data(pubmed_id_list = my_entrez_id) # get data in xml fromar
+
 
 #For text analyses I'm largely followng th eintructions shown in http://www.sthda.com/english/wiki/text-mining-and-word-cloud-fundamentals-in-r-5-simple-steps-you-should-know
 
@@ -362,6 +373,8 @@ p4<-ggplot(CL,  aes(label = word, size = freq, color = freq, angle=angle)) +
 
 #p4
 ```
+
+# Final plots:
 
 ```{r, echo=FALSE}
 #plot_grid(p1v3.first,p1v3.either,p4,ncol=3,nrow=1)
