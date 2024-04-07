@@ -18,6 +18,8 @@ description: Solis-Lemus publications
 
 ### Overview
 
+<button type="button" onclick="window.location.href='https://scholar.google.com/citations?user=GrUypj8AAAAJ&hl=en&oi=ao';">Google Scholar</button>
+
 <div class="image123">
     <img src="../assets/misc/figures-pubs/overview-wordcloud.drawio.png" width="800">
 </div>
@@ -25,8 +27,6 @@ description: Solis-Lemus publications
 <div class="image123">
     <img src="../assets/misc/figures-pubs/sl-lab.png" width="800">
 </div>
-
-<button type="button" onclick="window.location.href='https://scholar.google.com/citations?user=GrUypj8AAAAJ&hl=en&oi=ao';">Google Scholar</button>
 
 
 #### Interested in joining the lab?
