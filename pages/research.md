@@ -18,20 +18,8 @@ description: Solis-Lemus publications
 
 ### Overview
 
-<div class="container">
-    <div class="row-fluid">
-        <div class="span3">
-        <img width="250" height="200"
-            src="../assets/misc/figures-pubs/wordcloud2024.png">
-        </div>
-        <div class="span4">
-            - We work to develop statistical models to answer biological questions, balancing biological interpretability, theoretical guarantees, and computational tractability. <br/>
-            - We deal with modern big data which is highly interconnected through graphical structures: phylogenetic networks to study evolution, interaction networks to study microbial communities in soil and plants, neural networks to predict phenotypes from genotypes. <br/>
-            - Our work produces a collection of new statistical methods with solid theoretical guarantees and efficient computational implementations that are adaptable to analyze the complex characteristics of modern big biological data. <br/>
-            - We do not live in a statistical bubble! We always welcome new collaborations that can help our research to be relevant and applied to real-life data
-        </div>
-    </div>
-
+<div class="image123">
+    <img src="../assets/misc/figures-pubs/overview-wordcloud.drawio.png" width="800">
 </div>
 
 <div class="image123">
