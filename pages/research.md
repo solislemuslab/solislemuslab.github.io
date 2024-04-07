@@ -99,14 +99,15 @@ Our work is not purely methodological. Among our current collaborations, we can 
 In this lab, we work to produce tools to better represent microbial communities (via networks) and use the microbial communities as potential predictors of plant, soil or human health phenotypes. New models are centered on high-dimensional statistical models like penalized regression and post selection inference that can simultaneously model all microbes across the microbiome.
 
 Examples of our current research involve:
-- estimation of microbial interactions accounting for spatial correlations via Ising models
+- estimation of microbial networks via Gaussian chain graph models
 - network regression framework to understand the effects of microbial communities on a response
 - post selection inference and penalized regression models applied to human or plant disease
 - high dimensional models for the integration of different omics data types applied to human microbiome research and plant microbiome reseach
 
 Our work is not purely methodological. Among our current collaborations, we can highlight:
-- studying how root microbial communities affect potato health and response to environmental changes
-- studying the effect of lung microbiome on health outcomes in cystic fibrosis patients
+- how root microbial communities affect potato health and response to environmental changes
+- the effect of lung microbiome on health outcomes in cystic fibrosis patients
+- the effect of gut microbiome on brain health outcomes
 
 ---
 
