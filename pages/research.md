@@ -21,7 +21,7 @@ description: Solis-Lemus publications
 <button type="button" onclick="window.location.href='https://scholar.google.com/citations?user=GrUypj8AAAAJ&hl=en&oi=ao';">Google Scholar</button>
 
 <div class="image123">
-    <img src="../assets/misc/figures-pubs/overview-wordcloud.drawio.png" width="800">
+    <img src="../assets/misc/figures-pubs/overview-wordcloud.drawio2.png" width="800">
 </div>
 
 <div class="image123">
