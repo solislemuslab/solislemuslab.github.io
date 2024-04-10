@@ -32,7 +32,6 @@ Name pronunciation: [namedrop.io/claudiasolislemus](https://namedrop.io/claudias
 <button type="button" onclick="window.location.href='https://scholar.google.com/citations?user=GrUypj8AAAAJ&hl=en&oi=ao';">google scholar</button>
 <button type="button" onclick="window.location.href='https://github.com/crsl4';">github</button>
 <button type="button" onclick="window.location.href='https://www.athlinks.com/athletes/267606489';">athlinks</button>
-<button type="button" onclick="window.location.href='https://crsl4.github.io/';">website</button>
 
 <div class="container">
     <div class="row-fluid">
