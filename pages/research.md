@@ -372,7 +372,7 @@ Tiley, George P., Andrew A. Crowl, Paul S. Manos, Emily B. Sessa, <b>Sol&iacute;
                 - PI: Claudia Solis-Lemus <br/>
                 - Ben Rush (postdoc) <br/>
                 - Sungsik Kong (postdoc) <br/>
-                - Marianne Bjorner <br/>
+                - Marianne Bjorner (MS student) <br/>
                 - Xudong Tang (MS student) <br/>
                 - Hailey Louw (MS student) <br/>
                 - Nathan Kolbow (PhD student) <br/>
@@ -423,10 +423,11 @@ Scientists world-wide are engaged in efforts to understand how all planetary bio
 
 The growing food demand can only be sustained through rigorous and consistent sup- port of plant and soil health worldwide. Recognizing the microbial, environmental and agricultural factors that drive plant and soil phenotypes is crucial to comprehend processes connected to plant and soil health, to identify global practices of sustainable agriculture, as well as to predict plant and soil responses to environmental perturbations such as climate change. In order to identify the driving factors in plant and soil health, we need robust statistical tools that are able to connect a set of predictors with a specific phenotype. Yet, the innovation in the methodological data science tools for agricultural practices has not matched the increasing complexity of soil and plant data.
 
-The overall objective of this project is to develop a next gen- eration of statistical theory (accompanied by open-source publicly available software) for soil and plant high-dimensional data. Our novel statistical methods will overcome existing challenges in standard approaches in two ways: 1) they will inherently account for high-dimensional highly interconnected data through the development of novel microbiome interaction models, and 2) they will explore the inclusion of graphical predictors such as microbiome interaction networks through the theory of network regression analysis.
+The overall objective of this project is to develop a next generation of statistical theory (accompanied by open-source publicly available software) for soil and plant high-dimensional data. Our novel statistical methods will overcome existing challenges in standard approaches in two ways: 1) they will inherently account for high-dimensional highly interconnected data through the development of novel microbiome interaction models, and 2) they will explore the inclusion of graphical predictors such as microbiome interaction networks through the theory of network regression analysis.
 
 
 #### Publications supported by the award
+- [upcoming]
 
 ### DOE: Computational Tool Development for Integrative Systems Biology Data Analysis
 
@@ -445,8 +446,8 @@ The overall objective of this project is to develop a next gen- eration of stati
             Dates: September 14, 2020 to September 14, 2022 <br/>
             Personnel: <br/>
                 - PI: Claudia Solis-Lemus <br/>
-                - Sam Ozminkowski (MS student in Statistics) <br/>
-                - Marianne Bjorner (MS student in CS) <br/>
+                - Sam Ozminkowski (MS student) <br/>
+                - Marianne Bjorner (MS student) <br/>
                 - Rosa Aghdam (postdoc) <br/>
                 - Yuke Wu (undergrad) <br/>
                 - Reed Nelson (undergrad) <br/>
@@ -494,8 +495,8 @@ The overall objective of this proposal is to pioneer the development of the next
             Dates: October 1, 2020 to September 30 2022 <br/>
             Personnel <br/>
                 - PI: Claudia Solis-Lemus <br/>
-                - Yunyi Shen (MS student in Statistics) <br/>
-                - Sam Ozminkowski (MS student in Statistics)
+                - Yunyi Shen (MS student) <br/>
+                - Sam Ozminkowski (MS student)
         </div>
     </div>
 
@@ -536,8 +537,8 @@ In order to identify the driving factors in plant and soil health, we need robus
             Personnel: <br/>
             - PI: Claudia Solis-Lemus <br/>
             - co-PI: Renee Rioux <br/>
-            - Haoming Chen (undergraduate student in CS) <br/>
-            - Elaine Wu (undergraduate student in CS) <br/>
+            - Haoming Chen (undergrad) <br/>
+            - Elaine Wu (undergrad) <br/>
         </div>
     </div>
 
