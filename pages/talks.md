@@ -24,6 +24,10 @@ description: Claudia Solis-Lemus' talks
 
 <div style="text-align:center"><img src="../assets/pics/wi-book-fest-2023.png" width="450"/></div>
 
+<div style="text-align:center"><a href="https://www.crowdcast.io/c/wbf-crossroads-of-ideas">
+            <img src="../assets/pics/wi-book-fest-2023.png" width="450"
+                  title="Crossroads of ideas" alt="Crossroads of ideas"/></a></div>
+
 <div class="span2">
         <a href="https://www.crowdcast.io/c/wbf-crossroads-of-ideas">
             <img src="../assets/pics/wi-book-fest-2023.png" width="450"
