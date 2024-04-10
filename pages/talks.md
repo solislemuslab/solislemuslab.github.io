@@ -19,24 +19,16 @@ description: Claudia Solis-Lemus' talks
 
 ## <a name="outreach"></a>Selected outreach events
 
-- [Crossroads of Ideas: Comparing the Creative Process in Science and Art](https://www.wisconsinsciencefest.org/event/crossroads-of-ideas-comparing-the-creative-process-in-science-and-art-presented-by-the-wisconsin-book-festival-and-the-wisconsin-science-festival/), part of the WI Science Festival and the WI Book Festival in 2023
-    - Watch replay [here](https://www.crowdcast.io/c/wbf-crossroads-of-ideas)
-
-<div style="text-align:center"><img src="../assets/pics/wi-book-fest-2023.png" width="450"/></div>
 
 <div style="text-align:center"><a href="https://www.crowdcast.io/c/wbf-crossroads-of-ideas">
             <img src="../assets/pics/wi-book-fest-2023.png" width="450"
                   title="Crossroads of ideas" alt="Crossroads of ideas"/></a></div>
 
-<div class="span2">
-        <a href="https://www.crowdcast.io/c/wbf-crossroads-of-ideas">
-            <img src="../assets/pics/wi-book-fest-2023.png" width="450"
-                  title="Crossroads of ideas" alt="Crossroads of ideas"/></a>
-</div>
 
-- [Celebrating Latinx voices in STEM symposium](https://solislemuslab.github.io/latinx-uwmadison/)
+<div style="text-align:center"><a href="https://solislemuslab.github.io/latinx-uwmadison/">
+            <img src="../assets/pics/LATINXinSTEM2.png" width="450"
+                  title="Celebrating Latinx voices in STEM symposium" alt="Celebrating Latinx voices in STEM symposium"/></a></div>
 
-<div style="text-align:center"><img src="../assets/pics/LATINXinSTEM2.png" width="450"/></div>
 
 - [Uncontrolled Variables](https://www.uncontrolledvariables.com/about), comedy+science show at The Bur Oak organized by Diya Basrai
 
