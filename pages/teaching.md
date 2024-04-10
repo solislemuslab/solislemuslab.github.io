@@ -43,7 +43,7 @@ description: Claudia Solis-Lemus' teaching
   - [Website](https://crsl4.github.io/methods-bio-data-workshop/)
 
 <div class="image123">
-    <img src="../assets/pics/data_analysis_flier.png" width="800">
+    <img src="../assets/pics/data_analysis_flier.png" width="400">
 </div>
 
 - Forensic Justice Institute 2024 by the State Bar of Wisconsin
@@ -55,7 +55,7 @@ description: Claudia Solis-Lemus' teaching
   - [SNaQ Tutorial](https://solislemuslab.github.io/snaq-tutorial/)
 
 <div class="image123">
-    <img src="../assets/pics/RBGPoster-1.png" width="800">
+    <img src="../assets/pics/RBGPoster-1.png" width="400">
 </div>
 
 ## Summer 2023
