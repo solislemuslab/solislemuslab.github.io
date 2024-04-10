@@ -1,4 +1,5 @@
 *.drawio
+resources/*
 
 # Compiled source #
 ###################

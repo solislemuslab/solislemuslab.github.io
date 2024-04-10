@@ -29,10 +29,10 @@ description: Claudia Solis-Lemus' talks
             <img src="../assets/pics/LATINXinSTEM2.png" width="450"
                   title="Celebrating Latinx voices in STEM symposium" alt="Celebrating Latinx voices in STEM symposium"/></a></div>
 
+<div style="text-align:center"><a href="https://www.uncontrolledvariables.com/about">
+            <img src="../assets/pics/uncontrolled.drawio.png" width="450"
+                  title="Uncontrolled Variables" alt="Uncontrolled Variables"/></a></div>
 
-- [Uncontrolled Variables](https://www.uncontrolledvariables.com/about), comedy+science show at The Bur Oak organized by Diya Basrai
-
-<div style="text-align:center"><img src="../assets/pics/uncontrolled-variables.png" width="450"/></div>
 
 - ["Technical to Beautiful: Data as Art" exhibition!](https://solislemuslab.github.io/data-art-exhibition/)
 
