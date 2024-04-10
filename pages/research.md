@@ -585,6 +585,7 @@ Interactions between plants and bacteria are pervasive, and nitrogen-fixing symb
 
 #### Publications supported by the award
 
+- [upcoming]
 
 ### USDA NIFA
 
@@ -613,3 +614,5 @@ The primary goals of this proposal are to assess how fungicide applications dist
 
 
 #### Publications supported by the award
+
+- [upcoming]
