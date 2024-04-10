@@ -64,7 +64,7 @@ description: Claudia Solis-Lemus' teaching
   - [Slides](https://taming-the-beast.org/news/Taming-the-BEAST-SBT/)
 
 <div class="image123">
-    <img src="../assets/pics/Taming-the-BEAST-SBT-Logo.png" width="200">
+    <img src="../assets/pics/Taming-the-BEAST-SBT-Logo.png" width="100">
 </div>
 
 - **Botany conference** Workshop on phylogenetic networks. Boise, Idaho.
@@ -141,7 +141,7 @@ Tutorial on best computing practices using R: [mindful programming](https://gith
   - [Slides](https://github.com/Taming-the-BEAST/Taming-the-BEAST-2019-Eh-Lectures)
 
 <div class="image123">
-    <img src="../assets/pics/Taming-the-BEAST-Squamish-Logo.png" width="200">
+    <img src="../assets/pics/Taming-the-BEAST-Squamish-Logo.png" width="100">
 </div>
 
 **Woods Hole:** Faculty member of the Marine Biological Laboratory workshop on Molecular Evolution. Lecture and tutorial on phylogenetic networks. Woods Hole, USA.
