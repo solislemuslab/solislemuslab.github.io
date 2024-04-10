@@ -7,76 +7,65 @@ description: Claudia Solis-Lemus' teaching
 <div class="navbar">
     <div class="navbar-inner">
         <ul class="nav">
+            <li><a href="#courses">uw courses</a></li>
+            <li><a href="#workshops">workshops</a></li>
             <li><a href="#knowledge">useful links</a></li>
-            <li><a href="#courses">courses</a></li>
-            <li><a href="#tutorials">tutorials</a></li>
             <li><a href="https://solislemuslab.github.io//pages/consulting.html">get stat help!</a></li>
         </ul>
     </div>
 </div>
 
-## <a name="knowledge"></a>Useful links
-
-#### Reprodubility, computing practices and open science
-- My notes on [mindful programming](https://github.com/crsl4/mindful-programming/blob/master/lecture.md) and accompanying [YouTube video](https://youtu.be/7KCqpL0cde8)
-- Karl Broman's [notes](http://kbroman.org/Tools4RR/) on reproducible research
-- Version control: [notes](https://uw-madison-aci.github.io/2018-01-10-uwmadison-swc/) from Software Carpentry at UW-Madison (there might be more recent notes out there)
-- R Markdown: [The Definite Guide](https://bookdown.org/yihui/rmarkdown/)
-- Rich Edwards (2015) [Bioinformatics is just like bench science and should be treated as such](http://cabbagesofdoom.blogspot.com/2015/08/bioinformatics-is-just-like-bench.html)
-- Basic principles of data in spreadsheets [paper](https://www.tandfonline.com/doi/full/10.1080/00031305.2017.1375989)
-- JSM 2020 [Panel on version control with git in stat cources](https://github.com/mdbeckman/JSM2020-Virtual)
-- [Bioinformatics one-liners](https://github.com/stephenturner/oneliners)
-
-#### Learning Julia
-- Learn X in Y minutes: [julia](https://learnxinyminutes.com/docs/julia/)
-- Julia for R programmmers: [cheatsheet](https://datascience-enthusiast.com/R/R_Julia_cheat_sheet.html)
-- Julia for Python/Matlab programmers: [cheatsheet](https://cheatsheets.quantecon.org/)
-- Julia for Data Science [workshop](https://github.com/crsl4/julia-workshop)
-- [How to create a Julia package](https://jaantollander.com/post/how-to-create-software-packages-with-julia-language/)
-
-#### Learning Statistics
-- Tukey (1962) [The future of data analysis](https://projecteuclid.org/euclid.aoms/1177704711)
-- [StatQuest](https://www.youtube.com/c/joshstarmer/featured): YouTube channel with short videos to explain important concepts in Statistics and Data Science
 
 
----
+# <a name="courses"></a>Courses at UW-Madison
 
-## <a name="courses"></a>Courses
-
-### Courses as main instructor in UW-Madison
-
-#### Botany/PlantPath 563 Phylogenetic Analysis of Molecular Data
+## Botany/PlantPath 563 Phylogenetic Analysis of Molecular Data
 - Spring 2021: 3 credits; TR 1:00-2:15pm (virtual over zoom)
 - Spring 2022: 3 credits; WF 2:30-3:45pm
 - Spring 2023: 3 credits; TR 1:00-2:15pm
 - [Spring 2024](https://crsl4.github.io/phylogenetics-class/): 3 credits; TR 1:00-2:15pm
 
-#### Plant Path 875 Readings in Phylogenomics
+## Plant Path 875 Readings in Phylogenomics
 - Spring 2021: 1 credit; F 8:55-9:45am (virtual over zoom)
 - [Spring 2022](https://github.com/crsl4/phylogenetics-class/tree/master/PP875): 1 credit; W 4:30-5:20pm
 
-![ ](../assets/pics/bot563-pp875-spring2022.png)
+<div class="image123">
+    <img src="../assets/pics/bot563-pp875-spring2022.png" width="800">
+</div>
 
-### Other Courses
+---
 
-#### Spring 2024
+# <a name="workshops"></a>Workshops
 
-- Methods for Biological Data Workshop; see [website](https://crsl4.github.io/methods-bio-data-workshop/)
+## Spring 2024
 
-![ ](../assets/pics/data_analysis_flier.png)
+- Methods for Biological Data Workshop
+  - [Website](https://crsl4.github.io/methods-bio-data-workshop/)
+
+<div class="image123">
+    <img src="../assets/pics/data_analysis_flier.png" width="800">
+</div>
 
 - Forensic Justice Institute 2024 by the State Bar of Wisconsin
   - [Website](https://crsl4.github.io/forensic-stat/)
 
-#### Fall 2023
+## Fall 2023
 
 - **Methodological advances in reticulate evolution** [Workshop](https://gtiley.github.io/RBG-Networks/) co-organized by George Tiley in Kew Botanical Garden, UK:
   - [SNaQ Tutorial](https://solislemuslab.github.io/snaq-tutorial/)
 
-#### Summer 2023
+<div class="image123">
+    <img src="../assets/pics/RBGPoster-1.png" width="800">
+</div>
+
+## Summer 2023
 
 - **Taming the BEAST** Faculty member of the workshop on BEAST. Lecture on phylogenetic networks (taught by postdoc Sungsik Kong). Squamish, Canada.
   - [Slides](https://taming-the-beast.org/news/Taming-the-BEAST-SBT/)
+
+<div class="image123">
+    <img src="../assets/pics/Taming-the-BEAST-SBT-Logo.png" width="400">
+</div>
 
 - **Botany conference** Workshop on phylogenetic networks. Boise, Idaho.
   - [Website](https://gtiley.github.io/Botany2023-Networks/)
@@ -85,7 +74,7 @@ description: Claudia Solis-Lemus' teaching
   - [Schedule](https://molevolworkshop.github.io/schedule/)
   - [Materials](https://molevolworkshop.github.io/faculty-solis-lemus/)
 
-#### Spring 2023
+## Spring 2023
 
 - DNA Bootcamp 2023 by California State University Los Angeles, Los Angeles Innocence Project, Federal Defender Central District of California, and Los Angeles County Public Defender
   - [Website](https://crsl4.github.io/forensic-stat/)
@@ -98,7 +87,7 @@ description: Claudia Solis-Lemus' teaching
 - **SSB Satellite Mexico City:** Introduction to PhyloNetworks.
   - [wiki](https://github.com/crsl4/PhyloNetworks.jl/wiki)
 
-#### Summer 2022
+## Summer 2022
 
 - [AI+Science Summer school](https://datascience.uchicago.edu/events/2022-ai-science-summer-school/): Deep learning in biology. University of Chicago. August 10, 2022.
   - [Toy implementation of Bayesian NN in Julia](https://github.com/crsl4/toy-bayesian-nn/blob/main/bayesian-nn.ipynb)
@@ -108,11 +97,11 @@ description: Claudia Solis-Lemus' teaching
 - **Julia workshop for Data Science** co-organized with Doug Bates for [ISMB 2022](https://www.iscb.org/ismb2022-program/tutorials#ip5) on July 10th, 2022. [Website](https://crsl4.github.io/julia-workshop/), [GitHub](https://github.com/crsl4/julia-workshop)
 - Statistics for Forensics 101 (National Forensic College): [website](https://crsl4.github.io/forensic-stat/)
 
-#### Spring 2022
+## Spring 2022
 
 - Introduction to Statistics for Defense Attorneys (WI public defenders): [website](https://crsl4.github.io/forensic-stat/)
 
-#### Fall 2021
+## Fall 2021
 
 **BME 780 Guest lecture:** Statistical phylogenomics
 - Optional background reading: 
@@ -127,28 +116,33 @@ description: Claudia Solis-Lemus' teaching
 
 **STAT 609/849 Guest lecture:** Statistical methods for biological applications (_Oct 19_)
 
-#### Summer 2021
+## Summer 2021
 
 **Virtual species delimitation workshop** at the National Museum of Natural History (NMNH); August 16-19, 2021. [iBPP wiki](https://github.com/cecileane/iBPP/wiki), [YouTube video](https://www.youtube.com/watch?v=_Q53Q8eKw48)
 
-#### Spring 2021
+## Spring 2021
 
 **Julia para Ciencias de Datos** organized by Seminario de Investigacion de la Escuela de Estadistica de la Universidad de Los Andes, Merida, Venezuela. [Github](https://github.com/crsl4/julia-workshop/blob/main/one-hour-spanish/lecture-notes.md)
 
 **Julia workshop for Data Science** co-organized with Doug Bates for the [2021 Data Science Research Bazaar](https://datascience.wisc.edu/data-science-research-bazaar/) on February 10th, 2021. [GitHub](https://github.com/crsl4/julia-workshop)
 
-#### Fall 2020
+## Fall 2020
+
 **Mexicanas en Ciencias de Datos:** Julia workshop for Data Science. [github](https://github.com/crsl4/julia-workshop)
 
 **STAT 609/849 Guest lecture:** Statistical methods for biological applications (_Oct 1_) [![pdf](icons16/pdf-icon.png)](https://www.stat.wisc.edu/~claudia/claudia-stat-609-849.pdf)
 
-#### 2019 
+## 2019 
 
 **Nantucket developR:**
 Tutorial on best computing practices using R: [mindful programming](https://github.com/crsl4/mindful-programming/blob/master/lecture.md). Notes from other instructors [here](https://github.com/NantucketDevelopeR/2019Workshop).
 
 **Taming the BEAST** Faculty member of the workshop on BEAST. Lecture on phylogenetic networks. Squamish, Canada
   - [Slides](https://github.com/Taming-the-BEAST/Taming-the-BEAST-2019-Eh-Lectures)
+
+<div class="image123">
+    <img src="../assets/pics/Taming-the-BEAST-Squamish-Logo.png" width="400">
+</div>
 
 **Woods Hole:** Faculty member of the Marine Biological Laboratory workshop on Molecular Evolution. Lecture and tutorial on phylogenetic networks. Woods Hole, USA.
   - [slides](https://www.stat.wisc.edu/~claudia/talk-networks-mbl.pdf)
@@ -171,9 +165,35 @@ Phylogenomics symposium and software school: Introduction to PhyloNetworks and S
 
 ---
 
-## <a name="experience"></a>Other teaching experience
+# <a name="knowledge"></a>Useful links
 
-#### Teaching Assistant ([UW-Madison](http://www.wisc.edu/))
+## Reprodubility, computing practices and open science
+- My notes on [mindful programming](https://github.com/crsl4/mindful-programming/blob/master/lecture.md) and accompanying [YouTube video](https://youtu.be/7KCqpL0cde8)
+- Karl Broman's [notes](http://kbroman.org/Tools4RR/) on reproducible research
+- Version control: [notes](https://uw-madison-aci.github.io/2018-01-10-uwmadison-swc/) from Software Carpentry at UW-Madison (there might be more recent notes out there)
+- R Markdown: [The Definite Guide](https://bookdown.org/yihui/rmarkdown/)
+- Rich Edwards (2015) [Bioinformatics is just like bench science and should be treated as such](http://cabbagesofdoom.blogspot.com/2015/08/bioinformatics-is-just-like-bench.html)
+- Basic principles of data in spreadsheets [paper](https://www.tandfonline.com/doi/full/10.1080/00031305.2017.1375989)
+- JSM 2020 [Panel on version control with git in stat cources](https://github.com/mdbeckman/JSM2020-Virtual)
+- [Bioinformatics one-liners](https://github.com/stephenturner/oneliners)
+
+## Learning Julia
+- Learn X in Y minutes: [julia](https://learnxinyminutes.com/docs/julia/)
+- Julia for R programmmers: [cheatsheet](https://datascience-enthusiast.com/R/R_Julia_cheat_sheet.html)
+- Julia for Python/Matlab programmers: [cheatsheet](https://cheatsheets.quantecon.org/)
+- Julia for Data Science [workshop](https://github.com/crsl4/julia-workshop)
+- [How to create a Julia package](https://jaantollander.com/post/how-to-create-software-packages-with-julia-language/)
+
+## Learning Statistics
+- Tukey (1962) [The future of data analysis](https://projecteuclid.org/euclid.aoms/1177704711)
+- [StatQuest](https://www.youtube.com/c/joshstarmer/featured): YouTube channel with short videos to explain important concepts in Statistics and Data Science
+
+
+---
+
+# <a name="experience"></a>Other teaching experience
+
+## Teaching Assistant ([UW-Madison](http://www.wisc.edu/))
 
 - Summer 2014 PhD qualifier Summer camp
 - Spring 2013 Introduction to Biostatistics for Population Health II (BIOSTAT 552) (professor [Ron Gangnon](https://www.biostat.wisc.edu/~ronald/))
@@ -185,7 +205,7 @@ Phylogenomics symposium and software school: Introduction to PhyloNetworks and S
 - Fall 2010 Introduction to Theory and Methods of Mathematical Statistics I (STAT 311) (professor [Zhengjun Zhang](https://www.stat.wisc.edu/~zjz/))
 
 
-#### Instructor ([ITAM](https://www.itam.mx/en))
+## Instructor ([ITAM](https://www.itam.mx/en))
 
 - Summer 2010 Advanced Algebra
 - Spring 2010 Calculus II
@@ -197,7 +217,7 @@ Phylogenomics symposium and software school: Introduction to PhyloNetworks and S
 
 ---
 
-## <a name="mentoring"></a>Mentoring before Solis-Lemus lab
+# <a name="mentoring"></a>Mentoring before Solis-Lemus lab
 
 For members of Solis-Lemus lab, see [Team](https://solislemuslab.github.io//pages/people.html)
 
