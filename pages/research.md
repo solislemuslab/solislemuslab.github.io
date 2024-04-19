@@ -180,7 +180,7 @@ Tiley, George P., Andrew A. Crowl, Paul S. Manos, Emily B. Sessa, <b>Sol&iacute;
 | <span style="font-size:2em;">2024</span> |  | <strong style="color: SlateBlue;">Tang, X.</strong>, L. Zepeda-Nunez, <strong style="color: SlateBlue;">S. Yang, Z. Zhao</strong>, <b>Sol&iacute;s-Lemus, C.</b> | 
 | | | Novel Symmetry-preserving Neural Network Model for Phylogenetic Inference | 
 | | | [DOI: 10.1093/bioavd/vbae022](https://academic.oup.com/bioinformaticsadvances/advance-article/doi/10.1093/bioadv/vbae022/7610879) | |
-| | | [![bioadv (653k)](icons16/bioadv.png)](https://academic.oup.com/bioinformaticsadvances/advance-article/doi/10.1093/bioadv/vbae022/7610879) [![arxiv (653k)](icons16/arxiv.png)](https://arxiv.org/abs/2201.04663) [![github (653k)](icons16/github.png)](https://github.com/crsl4/nn-phylogenetics) [![twitter (653k)](icons16/twitter.png)]() [![instagram (653k)](icons16/instagram.png)]() [![youtube (653k)](icons16/youtube.png)]() |
+| | | [![bioadv (653k)](icons16/bioadv.png)](https://academic.oup.com/bioinformaticsadvances/advance-article/doi/10.1093/bioadv/vbae022/7610879) [![arxiv (653k)](icons16/arxiv.png)](https://arxiv.org/abs/2201.04663) [![github (653k)](icons16/github.png)](https://github.com/crsl4/nn-phylogenetics) [![twitter (653k)](icons16/twitter.png)](https://x.com/solislemuslab/status/1781108686775034167) [![instagram (653k)](icons16/instagram.png)](https://www.instagram.com/p/C57DBDJse48/?hl=en) [![youtube (653k)](icons16/youtube.png)](https://youtu.be/EWPvTnVnHAg) |
 
 ---
 
