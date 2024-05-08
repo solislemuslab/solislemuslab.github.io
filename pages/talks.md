@@ -33,19 +33,14 @@ description: Claudia Solis-Lemus' talks
             <img src="../assets/pics/uncontrolled.drawio.png" width="450"
                   title="Uncontrolled Variables" alt="Uncontrolled Variables"/></a></div>
 
+<div style="text-align:center"><a href="https://pbswisconsineducation.org/lab/data-decoders/">
+            <img src="../assets/pics/data-decoders.png" width="450"
+                  title="PBS Data Decoders" alt="PBS Data Decoders"/></a></div>
 
-- ["Technical to Beautiful: Data as Art" exhibition!](https://solislemuslab.github.io/data-art-exhibition/)
+<div style="text-align:center"><a href="https://solislemuslab.github.io/data-art-exhibition/">
+            <img src="../assets/pics/data-exhibition.drawio.png" width="450"
+                  title="WID Data+Art Exhibition" alt="WID Data+Art Exhibition"/></a></div>
 
-<div style="text-align:center"><img src="../assets/pics/data-art.png" width="450"/></div>
-
-- Collaboration Matching experiment at the WID Research Bazaar 2023:
-
-<div style="text-align:center"><img src="../assets/pics/photo1.png" width="450"/></div>
-
-
-- [PBS Meet the Lab: The Data Decoders](https://pbswisconsineducation.org/lab/data-decoders/)
-
-<div style="text-align:center"><img src="../assets/pics/data-decoders.png" width="450"/></div>
 
 ------
 
