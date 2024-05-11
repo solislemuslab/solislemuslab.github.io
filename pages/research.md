@@ -134,6 +134,9 @@ Examples of our current research involve:
 
 #### Preprints undergoing peer-review
 
+<strong style="color: SlateBlue;">Gorstein, E., Aghdam, R.</strong>, <b>Sol&iacute;s-Lemus, C.</b>. (2024)
+HighDimMixedModels.jl: Robust High Dimensional Mixed Models across Omics Data, [bioarxiv:10.1101/2024.05.09.593305](https://www.biorxiv.org/content/10.1101/2024.05.09.593305v1), [HighDimMixedModels.jl](https://github.com/solislemuslab/HighDimMixedModels.jl), [github](https://github.com/evangorstein/hdmmExperiments) 
+
 <strong style="color: SlateBlue;">Kong, Y.</strong>, Tiley, G., <b>Sol&iacute;s-Lemus, C.</b>. (2023)
 Unsupervised Learning of Phylogenetic Trees via Split-Weight Embedding, [arXiv:2213.16074](https://arxiv.org/abs/2312.16074), [PhyloClustering.jl](https://github.com/solislemuslab/PhyloClustering.jl), [github](https://github.com/YiboK/PhyloClustering-scripts) 
 
