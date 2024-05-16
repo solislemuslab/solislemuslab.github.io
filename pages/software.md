@@ -293,3 +293,18 @@ Bayesian species delimitation integrating genes and traits data.
 </div>
 
 ---
+
+<div class="container">
+    <div class="row-fluid">
+        <div class="span5">
+            <a href="https://github.com/solislemuslab/HighDimMixedModels.jl/">HighDimMixedModels.jl</a><br/>
+            A Julia package for fitting regularized linear mixed-effects models on high-dimensional omics data <br/>
+            <br/>Check out the 
+            <a href="https://solislemuslab.github.io/HighDimMixedModels.jl/dev/">documentation and example usage.</a><br/>
+            <br/>Software developed by <a href="https://sites.google.com/view/evangorstein">Evan Gorstein</a><br/>
+        </div>
+
+       <div class="span2">
+        </div>
+    </div>
+</div>
