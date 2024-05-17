@@ -177,7 +177,7 @@ Name pronunciation: [namedrop.io/claudiasolislemus](https://namedrop.io/claudias
     <div class="row-fluid">
         <div class="span2">
         <a href="../assets/pics/ZiangZeng.jpg">
-            <img src="../assets/pics/xiaoyang.jpg"
+            <img src="../assets/pics/ZiangZeng.jpg"
                   title="ZiangZeng" alt="ZiangZeng"/></a>
         </div>
 
