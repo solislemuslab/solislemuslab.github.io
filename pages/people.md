@@ -173,6 +173,21 @@ Name pronunciation: [namedrop.io/claudiasolislemus](https://namedrop.io/claudias
 
 </div>
 
+<div class="container">
+    <div class="row-fluid">
+        <div class="span2">
+        <a href="../assets/pics/ZiangZeng.jpg">
+            <img src="../assets/pics/ZiangZeng.jpg"
+                  title="ZiangZeng" alt="ZiangZeng"/></a>
+        </div>
+
+        <div class="span5">
+        Ziang (Sirius) Zeng is a MS Graduate in Statistic: Data Science. He works on Statistical test on BHV space. He received his BA in Statistics from East China Normal University and MS in University of Wisconsin Madison.
+        </div>
+    </div>
+
+</div>
+
 ---
 
 ### <a name="undergraduate"></a>Undergraduate students
