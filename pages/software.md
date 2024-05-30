@@ -24,6 +24,10 @@ description: Claudia Solis-Lemus' software
 
             To receive announcements about updates to PhyloNetworks, join the<br/>
             <a href="https://groups.google.com/forum/#!forum/phylonetworks-users">PhyloNetworks google group</a><br/>
+
+            Check out the tutorials: <br/>
+            <a href="https://github.com/crsl4/PhyloNetworks.jl/wiki">PhyloNetworks wiki</a><br/> and the shorter and newer <br/>
+            <a href="https://solislemuslab.github.io/snaq-tutorial/">SNaQ tutorial</a><br/>
         </div>
 
         <div class="span2">
