@@ -145,7 +145,6 @@ Extracting diamonds: Identifiability of 4-node cycles in level-1 phylogenetic ne
 
 <strong style="color: SlateBlue;">Aghdam, R., Tang., X.</strong>, Shan, S., Lankau, R., <b>Sol&iacute;s-Lemus, C.</b>. (2023). Human Limits in Machine Learning: Prediction of Plant Phenotypes Using Soil Microbiome Data. [arxiv (2022): 2306.11157](https://arxiv.org/abs/2306.11157) [github](https://github.com/solislemuslab/soil-microbiome-nn).
 
-<strong style="color: SlateBlue;">Nelson, R., Aghdam, R.</strong>, <b>Sol&iacute;s-Lemus, C.</b>. (2022). MiNAA: Microbiome Network Alignment Algorithm. [arxiv (2022): 2212.05880](https://arxiv.org/abs/2212.05880) [github](https://github.com/solislemuslab/minaa).
 
 <strong style="color: SlateBlue;">Bjorner, M.</strong>, Molloy, E., Dewey, C., <b>Sol&iacute;s-Lemus, C.</b>. (2022). Detectability of Varied Hybridization Scenarios using Genome-Scale Hybrid Detection Methods. [arxiv (2022): 2211.00712](https://arxiv.org/abs/2211.00712) [github](https://github.com/mbjorner/hybrid-detection-comparison).
 
@@ -169,6 +168,13 @@ Tiley, George P., Andrew A. Crowl, Paul S. Manos, Emily B. Sessa, <b>Sol&iacute;
 
 
 ---
+---
+
+| <span style="font-size:2em;">2024</span> |  | <strong style="color: SlateBlue;">Nelson, R., Aghdam, R.</strong>, <b>Sol&iacute;s-Lemus, C.</b> | 
+| | | MiNAA: Microbiome Network Alignment Algorithm | 
+| | | [DOI: 10.2115/joss.05448](https://joss.theoj.org/papers/10.21105/joss.05448) | |
+| | | [![joss (653k)](icons16/joss.png)](https://joss.theoj.org/papers/10.21105/joss.05448) [![arxiv (653k)](icons16/arxiv.png)](https://arxiv.org/abs/2212.05880) [![github (653k)](icons16/github.png)](https://github.com/solislemuslab/minaa) [![twitter (653k)](icons16/twitter.png)](https://x.com/solislemuslab/status/1809585731465036186) [![instagram (653k)](icons16/instagram.png)](https://www.instagram.com/reel/C9FWrdnAtJx/) [![youtube (653k)](icons16/youtube.png)](https://youtu.be/S9PaA49xyBU) |
+
 ---
 
 | <span style="font-size:2em;">2024</span> |  | <strong style="color: SlateBlue;">Shen, Y.</strong>, <b>Sol&iacute;s-Lemus, C.</b>, Deshpande, S.K. |
@@ -481,10 +487,10 @@ The overall objective of this proposal is to pioneer the development of the next
 - Ozminkowski and Solis-Lemus, C. (2022) [arXiv:2208.05600](https://arxiv.org/abs/2208.05600)
 - Ozminkowski et al (2022) [arxiv:2209.11730](https://arxiv.org/abs/2209.11730)
 - Bjorner et al (2022) [arxiv:2211.00712](https://arxiv.org/abs/2211.00712)
-- Nelson et al (2022) [arxiv:2212.05880](https://arxiv.org/abs/2212.05880)
 - Aghdam et al (2023) [arxiv (2022): 2306.11157](https://arxiv.org/abs/2306.11157)
 - Tang et al (2024) [DOI: 10.1093/bioadv/vbae022](https://academic.oup.com/bioinformaticsadvances/advance-article/doi/10.1093/bioadv/vbae022/7610879)
 - Shen et al (2024) [DOI: 10.1214/24-BA1430](https://projecteuclid.org/journals/bayesian-analysis/volume--1/issue--1/Estimating-Sparse-Direct-Effects-in-Multivariate-Regression-With-the-Spike/10.1214/24-BA1430.full)
+- Nelson et al (2024) [DOI: 10.2115/joss.05448](https://joss.theoj.org/papers/10.21105/joss.05448)
 
 ------------------------------------
 
