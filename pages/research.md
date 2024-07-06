@@ -158,8 +158,6 @@ Extracting diamonds: Identifiability of 4-node cycles in level-1 phylogenetic ne
 
 <strong style="color: SlateBlue;">Shen, Y.</strong>, <b>Sol&iacute;s-Lemus, C.</b> (2021). CARlasso: An R package for the estimation of sparse microbial networks with predictors, [arXiv (2021): 2107.13763](https://arxiv.org/abs/2107.13763), [github](https://github.com/YunyiShen/CAR-LASSO) 
 
-<strong style="color: SlateBlue;">Shen, Y.</strong>, <b>Sol&iacute;s-Lemus, C.</b> (2021). The Effect of the Prior and the Experimental Design on the Inference of the Precision Matrix in Gaussian Chain Graph Models, [arXiv (2021): 2107.01306](https://arxiv.org/abs/2107.01306)
-
 Tiley, George P., Andrew A. Crowl, Paul S. Manos, Emily B. Sessa, <b>Sol&iacute;s-Lemus, C.</b>, Anne D. Yoder, and J. Gordon Burleigh (2021) Phasing Alleles Improves Network Inference with Allopolyploids, [bioRxiv (2021): 10.1101/2021.05.04.442457](https://doi.org/10.1101/2021.05.04.442457)
 
 <strong style="color: SlateBlue;">Shen, Y.</strong>, <b>Sol&iacute;s-Lemus, C.</b> (2020). Bayesian Conditional Auto-Regressive LASSO Models to Learn Sparse Networks with Predictors, [arXiv (2020): 2012.08397](https://arxiv.org/abs/2012.08397), [github](https://github.com/YunyiShen/CAR-LASSO) 
@@ -168,6 +166,13 @@ Tiley, George P., Andrew A. Crowl, Paul S. Manos, Emily B. Sessa, <b>Sol&iacute;
 
 
 ---
+---
+
+| <span style="font-size:2em;">2024</span> |  | <strong style="color: SlateBlue;">Shen, Y.</strong>, <b>Sol&iacute;s-Lemus, C.</b> | 
+| | | The Effect of the Prior and the Experimental Design on the Inference of the Precision Matrix in Gaussian Chain Graph Models | 
+| | | [DOI: 10.1007/s13253-024-00621-1](https://link.springer.com/article/10.1007/s13253-024-00621-1) | |
+| | | [![jabes (653k)](icons16/jabes.png)](https://link.springer.com/article/10.1007/s13253-024-00621-1) [![arxiv (653k)](icons16/arxiv.png)](https://arxiv.org/abs/2107.01306) [![twitter (653k)](icons16/twitter.png)](https://x.com/solislemuslab/status/1809599849542685177) [![instagram (653k)](icons16/instagram.png)](https://www.instagram.com/reel/C9FcvfUtqgx/) [![youtube (653k)](icons16/youtube.png)](https://youtu.be/u2nVP2AMTw4) |
+
 ---
 
 | <span style="font-size:2em;">2024</span> |  | <strong style="color: SlateBlue;">Nelson, R., Aghdam, R.</strong>, <b>Sol&iacute;s-Lemus, C.</b> | 
@@ -408,8 +413,8 @@ Scientists world-wide are engaged in efforts to understand how all planetary bio
 #### Publications supported by the award
 - Kong et al (2023). [arXiv:2213.16074](https://arxiv.org/abs/2312.16074)
 - Tiley and Solis-Lemus (2023). [biorXiv:2023/564087](https://www.biorxiv.org/content/10.1101/2023.10.25.564087v1)
-- Justison et al (2023). [MEE DOI: 10.1111/2041-210X.14116](https://besjournals.onlinelibrary.wiley.com/doi/10.1111/2041-210X.14116)
 - Bjorner et al (2022). [arxiv:2211.00712](https://arxiv.org/abs/2211.00712)
+- Justison et al (2023). [MEE DOI: 10.1111/2041-210X.14116](https://besjournals.onlinelibrary.wiley.com/doi/10.1111/2041-210X.14116)
 - Wu and Solis-Lemus (2024). [DOI: 10.1093/bioadv/vbae014](https://academic.oup.com/bioinformaticsadvances/article/4/1/vbae014/7603984)
 - Tang et al (2024). [DOI: 10.1093/bioadv/vbae022](https://academic.oup.com/bioinformaticsadvances/advance-article/doi/10.1093/bioadv/vbae022/7610879)
 
