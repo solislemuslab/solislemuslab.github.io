@@ -154,8 +154,6 @@ Extracting diamonds: Identifiability of 4-node cycles in level-1 phylogenetic ne
 
 <strong style="color: SlateBlue;">Ozminkowski, S.</strong>, <b>Sol&iacute;s-Lemus, C.</b> (2022). Identifying microbial drivers in biological phenotypes with a Bayesian Network Regression model, [arXiv (2022): 2208.05600](https://arxiv.org/abs/2208.05600), [github](https://github.com/solislemuslab/BayesianNetworkRegression.jl) 
 
-<strong style="color: SlateBlue;">Shen, Y.</strong>, <b>Sol&iacute;s-Lemus, C.</b>, S. K. Deshpande. (2022). Sparse Gaussian chain graphs with the spike-and-slab LASSO: Algorithms and asymptotics, [arXiv (2022): 2207.07020](https://arxiv.org/abs/2207.07020)
-
 
 <b>Sol&iacute;s-Lemus, C.</b>, A. M. Holleman, A. Todor, B. Bradley, K. J. Ressler, D. Ghosh, M. P. Epstein. (2021). A Kernel Method for Dissecting Genetic Signals in Tests of High-Dimensional Phenotypes, [bioRxiv 2021.07.29.454336](https://doi.org/10.1101/2021.07.29.454336)
 
@@ -171,6 +169,13 @@ Tiley, George P., Andrew A. Crowl, Paul S. Manos, Emily B. Sessa, <b>Sol&iacute;
 
 
 ---
+---
+
+| <span style="font-size:2em;">2024</span> |  | <strong style="color: SlateBlue;">Shen, Y.</strong>, <b>Sol&iacute;s-Lemus, C.</b>, Deshpande, S.K. |
+| | | Estimating sparse direct effects in multivariate regression with the spike-and-slab LASSO |
+| | | [DOI: 10.1214/24-BA1430](https://projecteuclid.org/journals/bayesian-analysis/volume--1/issue--1/Estimating-Sparse-Direct-Effects-in-Multivariate-Regression-With-the-Spike/10.1214/24-BA1430.full)|
+| | | [![ba (653k)](icons16/ba.png)](https://projecteuclid.org/journals/bayesian-analysis/volume--1/issue--1/Estimating-Sparse-Direct-Effects-in-Multivariate-Regression-With-the-Spike/10.1214/24-BA1430.full) [![arxiv (653k)](icons16/arxiv.png)](https://arxiv.org/abs/2207.07020) |
+
 ---
 
 | <span style="font-size:2em;">2024</span> |  | <strong style="color: SlateBlue;">Wu, Z.</strong>, <b>Sol&iacute;s-Lemus, C.</b> | 
@@ -475,11 +480,11 @@ The overall objective of this proposal is to pioneer the development of the next
 - Shen and Solis-Lemus (2021) [arXiv:2107.13763](https://arxiv.org/abs/2107.13763)
 - Ozminkowski and Solis-Lemus, C. (2022) [arXiv:2208.05600](https://arxiv.org/abs/2208.05600)
 - Ozminkowski et al (2022) [arxiv:2209.11730](https://arxiv.org/abs/2209.11730)
-- Shen et al (2022) [arXiv:2207.07020](https://arxiv.org/abs/2207.07020)
 - Bjorner et al (2022) [arxiv:2211.00712](https://arxiv.org/abs/2211.00712)
 - Nelson et al (2022) [arxiv:2212.05880](https://arxiv.org/abs/2212.05880)
 - Aghdam et al (2023) [arxiv (2022): 2306.11157](https://arxiv.org/abs/2306.11157)
-- Tang et al (2024). [DOI: 10.1093/bioadv/vbae022](https://academic.oup.com/bioinformaticsadvances/advance-article/doi/10.1093/bioadv/vbae022/7610879)
+- Tang et al (2024) [DOI: 10.1093/bioadv/vbae022](https://academic.oup.com/bioinformaticsadvances/advance-article/doi/10.1093/bioadv/vbae022/7610879)
+- Shen et al (2024) [DOI: 10.1214/24-BA1430](https://projecteuclid.org/journals/bayesian-analysis/volume--1/issue--1/Estimating-Sparse-Direct-Effects-in-Multivariate-Regression-With-the-Spike/10.1214/24-BA1430.full)
 
 ------------------------------------
 
@@ -520,7 +525,7 @@ In order to identify the driving factors in plant and soil health, we need robus
 - Shen and Solis-Lemus (2021) [arXiv:2107.13763](https://arxiv.org/abs/2107.13763)
 - Ozminkowski and Solis-Lemus, C. (2022) [arXiv (2022): 2208.05600](https://arxiv.org/abs/2208.05600)
 - Ozminkowski et al (2022) [arxiv (2022): 2209.11730](https://arxiv.org/abs/2209.11730)
-- Shen et al (2022) [arXiv (2022): 2207.07020](https://arxiv.org/abs/2207.07020)
+- Shen et al (2024) [DOI: 10.1214/24-BA1430](https://projecteuclid.org/journals/bayesian-analysis/volume--1/issue--1/Estimating-Sparse-Direct-Effects-in-Multivariate-Regression-With-the-Spike/10.1214/24-BA1430.full)
 
 ------------------------------------
 
