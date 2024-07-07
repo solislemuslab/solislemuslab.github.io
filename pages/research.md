@@ -415,12 +415,13 @@ Scientists world-wide are engaged in efforts to understand how all planetary bio
 
 
 #### Publications supported by the award
+- Bjorner et al (2022). [arxiv:2211.00712](https://arxiv.org/abs/2211.00712)
 - Kong et al (2023). [arXiv:2213.16074](https://arxiv.org/abs/2312.16074)
 - Tiley and Solis-Lemus (2023). [biorXiv:2023/564087](https://www.biorxiv.org/content/10.1101/2023.10.25.564087v1)
-- Bjorner et al (2022). [arxiv:2211.00712](https://arxiv.org/abs/2211.00712)
 - Justison et al (2023). [MEE DOI: 10.1111/2041-210X.14116](https://besjournals.onlinelibrary.wiley.com/doi/10.1111/2041-210X.14116)
 - Wu and Solis-Lemus (2024). [DOI: 10.1093/bioadv/vbae014](https://academic.oup.com/bioinformaticsadvances/article/4/1/vbae014/7603984)
 - Tang et al (2024). [DOI: 10.1093/bioadv/vbae022](https://academic.oup.com/bioinformaticsadvances/advance-article/doi/10.1093/bioadv/vbae022/7610879)
+- Gorstein et al (2024). [bioarxiv:10.1101/2024.05.09.593305](https://www.biorxiv.org/content/10.1101/2024.05.09.593305v1)
 
 
 ### USDA Individual Hatch
@@ -500,6 +501,7 @@ The overall objective of this proposal is to pioneer the development of the next
 - Nelson et al (2024) [JOSS DOI: 10.2115/joss.05448](https://joss.theoj.org/papers/10.21105/joss.05448)
 - Ozminkowski and Solis-Lemus, C. (2024) [EcoEvo DOI: 10.1002/ece3.11039](https://onlinelibrary.wiley.com/doi/10.1002/ece3.11039)
 - Shen and Solis-Lemus (2024) [JABES DOI: 10.1007/s13253-024-00621-1](https://link.springer.com/article/10.1007/s13253-024-00621-1)
+- Gorstein et al (2024). [bioarxiv:10.1101/2024.05.09.593305](https://www.biorxiv.org/content/10.1101/2024.05.09.593305v1)
 
 ------------------------------------
 
