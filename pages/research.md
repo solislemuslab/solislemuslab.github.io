@@ -491,15 +491,15 @@ The overall objective of this proposal is to pioneer the development of the next
 - Shen and Solis-Lemus (2020) [arXiv:2012.08397](https://arxiv.org/abs/2012.08397)
 - Zhang et al (2020) [BMC Bioinformatics DOI:10.1186/s12859-022-04660-8](https://rdcu.be/cK1Bd)
 - Liu and Solis-Lemus (2020) [JOSE DOI:10.21105/jose.00159](https://jose.theoj.org/papers/10.21105/jose.00159)
-- Shen and Solis-Lemus (2021) [arXiv:2107.01306](https://arxiv.org/abs/2107.01306)
 - Shen and Solis-Lemus (2021) [arXiv:2107.13763](https://arxiv.org/abs/2107.13763)
-- Ozminkowski and Solis-Lemus, C. (2022) [arXiv:2208.05600](https://arxiv.org/abs/2208.05600)
 - Ozminkowski et al (2022) [arxiv:2209.11730](https://arxiv.org/abs/2209.11730)
 - Bjorner et al (2022) [arxiv:2211.00712](https://arxiv.org/abs/2211.00712)
 - Aghdam et al (2023) [arxiv (2022): 2306.11157](https://arxiv.org/abs/2306.11157)
-- Tang et al (2024) [DOI: 10.1093/bioadv/vbae022](https://academic.oup.com/bioinformaticsadvances/advance-article/doi/10.1093/bioadv/vbae022/7610879)
-- Shen et al (2024) [DOI: 10.1214/24-BA1430](https://projecteuclid.org/journals/bayesian-analysis/volume--1/issue--1/Estimating-Sparse-Direct-Effects-in-Multivariate-Regression-With-the-Spike/10.1214/24-BA1430.full)
-- Nelson et al (2024) [DOI: 10.2115/joss.05448](https://joss.theoj.org/papers/10.21105/joss.05448)
+- Tang et al (2024) [BioAdv DOI: 10.1093/bioadv/vbae022](https://academic.oup.com/bioinformaticsadvances/advance-article/doi/10.1093/bioadv/vbae022/7610879)
+- Shen et al (2024) [BA DOI: 10.1214/24-BA1430](https://projecteuclid.org/journals/bayesian-analysis/volume--1/issue--1/Estimating-Sparse-Direct-Effects-in-Multivariate-Regression-With-the-Spike/10.1214/24-BA1430.full)
+- Nelson et al (2024) [JOSS DOI: 10.2115/joss.05448](https://joss.theoj.org/papers/10.21105/joss.05448)
+- Ozminkowski and Solis-Lemus, C. (2024) [EcoEvo DOI: 10.1002/ece3.11039](https://onlinelibrary.wiley.com/doi/10.1002/ece3.11039)
+- Shen and Solis-Lemus (2024) [JABES DOI: 10.1007/s13253-024-00621-1](https://link.springer.com/article/10.1007/s13253-024-00621-1)
 
 ------------------------------------
 
@@ -536,11 +536,11 @@ In order to identify the driving factors in plant and soil health, we need robus
 
 #### Publications supported by the award
 - Shen and Solis-Lemus (2020) [arXiv:2012.08397](https://arxiv.org/abs/2012.08397)
-- Shen and Solis-Lemus (2021) [arXiv:2107.01306](https://arxiv.org/abs/2107.01306)
-- Shen and Solis-Lemus (2021) [arXiv:2107.13763](https://arxiv.org/abs/2107.13763)
-- Ozminkowski and Solis-Lemus, C. (2022) [arXiv (2022): 2208.05600](https://arxiv.org/abs/2208.05600)
+- Shen and Solis-Lemus (2021) [arXiv:2107.13763](https://arxiv.org/abs/2107.13763)  
 - Ozminkowski et al (2022) [arxiv (2022): 2209.11730](https://arxiv.org/abs/2209.11730)
-- Shen et al (2024) [DOI: 10.1214/24-BA1430](https://projecteuclid.org/journals/bayesian-analysis/volume--1/issue--1/Estimating-Sparse-Direct-Effects-in-Multivariate-Regression-With-the-Spike/10.1214/24-BA1430.full)
+- Shen et al (2024) [BA DOI: 10.1214/24-BA1430](https://projecteuclid.org/journals/bayesian-analysis/volume--1/issue--1/Estimating-Sparse-Direct-Effects-in-Multivariate-Regression-With-the-Spike/10.1214/24-BA1430.full)
+- Ozminkowski and Solis-Lemus, C. (2024) [EcoEvo DOI: 10.1002/ece3.11039](https://onlinelibrary.wiley.com/doi/10.1002/ece3.11039)
+- Shen and Solis-Lemus (2024) [JABES DOI: 10.1007/s13253-024-00621-1](https://link.springer.com/article/10.1007/s13253-024-00621-1)
 
 ------------------------------------
 
