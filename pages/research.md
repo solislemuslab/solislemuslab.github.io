@@ -151,9 +151,6 @@ Extracting diamonds: Identifiability of 4-node cycles in level-1 phylogenetic ne
 
 <strong style="color: SlateBlue;">Ozminkowski, S., Wu, Y., Yang, L., Xu, Z., Selberg, L., Huang, C. </strong>, <b>Sol&iacute;s-Lemus, C.</b> (2022). BioKlustering: a web app for semi-supervised learning of maximally imbalanced genomic data [arxiv (2022): 2209.11730](https://arxiv.org/abs/2209.11730), [github](https://github.com/solislemuslab/bioklustering), [bioklustering.wid.wisc.edu](https://bioklustering.wid.wisc.edu/)
 
-<strong style="color: SlateBlue;">Ozminkowski, S.</strong>, <b>Sol&iacute;s-Lemus, C.</b> (2022). Identifying microbial drivers in biological phenotypes with a Bayesian Network Regression model, [arXiv (2022): 2208.05600](https://arxiv.org/abs/2208.05600), [github](https://github.com/solislemuslab/BayesianNetworkRegression.jl) 
-
-
 <b>Sol&iacute;s-Lemus, C.</b>, A. M. Holleman, A. Todor, B. Bradley, K. J. Ressler, D. Ghosh, M. P. Epstein. (2021). A Kernel Method for Dissecting Genetic Signals in Tests of High-Dimensional Phenotypes, [bioRxiv 2021.07.29.454336](https://doi.org/10.1101/2021.07.29.454336)
 
 <strong style="color: SlateBlue;">Shen, Y.</strong>, <b>Sol&iacute;s-Lemus, C.</b> (2021). CARlasso: An R package for the estimation of sparse microbial networks with predictors, [arXiv (2021): 2107.13763](https://arxiv.org/abs/2107.13763), [github](https://github.com/YunyiShen/CAR-LASSO) 
@@ -166,6 +163,13 @@ Tiley, George P., Andrew A. Crowl, Paul S. Manos, Emily B. Sessa, <b>Sol&iacute;
 
 
 ---
+---
+
+| <span style="font-size:2em;">2024</span> |  | <strong style="color: SlateBlue;">Ozminkowski, S.</strong>, <b>Sol&iacute;s-Lemus, C.</b> | 
+| | | Identifying microbial drivers in biological phenotypes with a Bayesian Network Regression model | 
+| | | [DOI: 10.1002/ece3.11039](https://onlinelibrary.wiley.com/doi/10.1002/ece3.11039) | |
+| | | [![ecoevo (653k)](icons16/ecoevo.png)](https://onlinelibrary.wiley.com/doi/10.1002/ece3.11039) [![arxiv (653k)](icons16/arxiv.png)](https://arxiv.org/abs/2208.05600) [![github (653k)](icons16/github.png)](https://github.com/solislemuslab/BayesianNetworkRegression.jl) [![twitter (653k)](icons16/twitter.png)](https://x.com/solislemuslab/status/1809737901061632102) [![instagram (653k)](icons16/instagram.png)](https://www.instagram.com/reel/C9GbrCoN7bL/) [![youtube (653k)](icons16/youtube.png)](https://youtu.be/bNdiutUzEc4) |
+
 ---
 
 | <span style="font-size:2em;">2024</span> |  | <strong style="color: SlateBlue;">Shen, Y.</strong>, <b>Sol&iacute;s-Lemus, C.</b> | 
