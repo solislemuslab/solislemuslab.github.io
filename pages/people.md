@@ -240,20 +240,6 @@ Name pronunciation: [namedrop.io/claudiasolislemus](https://namedrop.io/claudias
 <div class="container">
     <div class="row-fluid">
         <div class="span2">
-        <a href="../assets/pics/RohanSonthalia.jpg">
-            <img src="../assets/pics/RohanSonthalia.jpg"
-                  title="Rohan Sonthalia" alt="Rohan Sonthalia"/></a>
-        </div>
-
-        <div class="span5">
-            Rohan Sonthalia is a visiting junior undergraduate student majoring in Computer Science. He works on applying transformer models to unlabelled genomic data, along with other embedding techniques such as AutoEncoders, as an extension of the BioKlustering Project.
-     </div>
-    </div>
-</div>
-
-<div class="container">
-    <div class="row-fluid">
-        <div class="span2">
         <a href="../assets/pics/Sophia.JPG">
             <img src="../assets/pics/Sophia.JPG"
                   title="Sophia Yang" alt="Sophia Yang"/></a>
@@ -300,6 +286,7 @@ Name pronunciation: [namedrop.io/claudiasolislemus](https://namedrop.io/claudias
 ---
 
 ### <a name="past"></a>Past members
+- [Rohan Sonthalia](https://www.linkedin.com/in/rohan-sonthalia-3b41b621b/) (Visiting Undergraduate, UW-Madison Fall '23) implemented Transformer models for semi-supervised and unsupervised classification problems using DNA sequence datasets of viruses. 
 - [Yunju Ha](https://www.linkedin.com/in/yunjuha/) (BS Statistics, Computer Science, UW-Madison 2025) worked on applying machine learning techniques using DXA/BIS methods for sarcopenia research (UW Madison Biomedical Data Science SROP 2023).
 - [Yuke Wu](https://www.linkedin.com/in/yuke-wu-8a38a8168/) (BS Computer Science, Statistics, UW-Madison 2023) developed the BioKlustering web application for learning and visualization of genomic data. She is attending Software Engineering MS program at Carnegie Mellon University.
 - [Zhaoxing Wu](linkedin.com/in/zhaoxing-wu-815546199) (BS Statistics, Mathematics, Data Science, UW-Madison 2023) developed the Julia package PhyloDiamond: an ultrafast learning of 4-node hybridization cycles in phylogenetic networks using algebraic invariants. She is attending Statistics PhD program at the University of Washington-Seattle
