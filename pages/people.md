@@ -197,7 +197,7 @@ Name pronunciation: [namedrop.io/claudiasolislemus](https://namedrop.io/claudias
         </div>
 
         <div class="span5">
-        <a href="https://jiayangwang0612.github.io">Jiayang Wang</a> is currently a 2nd year PhD student in the Department of Statistics in University of Wisconsin, Madison. Before that he completed his Master’s degree in Data Science and Statistics in University of Wisconsin, Madison and received his B.S. in the school of the gifted young (SGY) at the University of Science and Technology of China (USTC). His research focuses on the statistical inference on phylogenetic trees and networks.
+        <a href="https://jiayangwang0612.github.io">Jiayang Wang</a> is currently a 2nd year PhD student in the Department of Statistics at the University of Wisconsin, Madison. Before that he completed his Master’s degree in Data Science and Statistics at the University of Wisconsin, Madison and received his B.S. in the school of the gifted young (SGY) at the University of Science and Technology of China (USTC). His research focuses on the statistical inference on phylogenetic trees and networks.
         </div>
     </div>
 
