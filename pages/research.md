@@ -163,6 +163,13 @@ Extracting diamonds: Identifiability of 4-node cycles in level-1 phylogenetic ne
 ---
 ---
 
+| <span style="font-size:2em;">2023</span> |  | Rosas-Puchuri, U., Santaquiteria, A., Khanmohammadi, S., <b>Sol&iacute;s-Lemus, C.</b>, Betancur, R. | 
+| | | Non-linear phylogenetic regression using regularised kernels | 
+| | | [DOI: 10.1111/2041-210X.14385](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/2041-210X.14385) |
+| | | [![ecoind (653k)](icons16/mee.png)](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/2041-210X.14385)  |
+
+---
+
 | <span style="font-size:2em;">2024</span> |  | Tiley, George P., Andrew A. Crowl, Paul S. Manos, Emily B. Sessa, <b>Sol&iacute;s-Lemus, C.</b>, Anne D. Yoder, and J. Gordon Burleigh |
 | | | Benefits and Limits of Phasing Alleles for Network Inference of Allopolyploid Complexes |
 | | | [DOI: 10.1093/sysbio/syae024](https://doi.org/10.1093/sysbio/syae024)|
