@@ -113,20 +113,6 @@ Name pronunciation: [namedrop.io/claudiasolislemus](https://namedrop.io/claudias
 
 </div>
 
-<div class="container">
-    <div class="row-fluid">
-        <div class="span2">
-        <a href="../assets/pics/xudong.PNG">
-            <img src="../assets/pics/xudong.PNG"
-                  title="XudongTang" alt="XudongTang"/></a>
-        </div>
-
-        <div class="span5">
-       		Xudong Tang is a MS student in Statistics: Data Science. He works on neural network models on soil micobiome data to predict characteristics of potato growth. His completed his undergraduate degree in Computer Sciences and Mathematics at the University of Wisconsin-Madison. 
-	 </div>
-    </div>
-
-</div>
 
 <div class="container">
     <div class="row-fluid">
@@ -301,6 +287,7 @@ Name pronunciation: [namedrop.io/claudiasolislemus](https://namedrop.io/claudias
 ---
 
 ### <a name="past"></a>Past members
+- [Xudong Tang](https://www.linkedin.com/in/xudongtang75/) (MSDS, UW-Madison 2022) worked on Neural Networks applications for phylogenetic inference. He focused on Graph Generative Models on tree structures. He is pursuing PhD in CS at Northwestern University.
 - [Rohan Sonthalia](https://www.linkedin.com/in/rohan-sonthalia-3b41b621b/) (Visiting Undergraduate, UW-Madison Fall '23) implemented Transformer models for semi-supervised and unsupervised classification problems using DNA sequence datasets of viruses. 
 - [Yunju Ha](https://www.linkedin.com/in/yunjuha/) (BS Statistics, Computer Science, UW-Madison 2025) worked on applying machine learning techniques using DXA/BIS methods for sarcopenia research (UW Madison Biomedical Data Science SROP 2023).
 - [Yuke Wu](https://www.linkedin.com/in/yuke-wu-8a38a8168/) (BS Computer Science, Statistics, UW-Madison 2023) developed the BioKlustering web application for learning and visualization of genomic data. She is attending Software Engineering MS program at Carnegie Mellon University.
