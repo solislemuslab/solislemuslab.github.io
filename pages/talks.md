@@ -66,6 +66,8 @@ description: Solis-Lemus lab outreach
 
 ## <a name="media"></a>Selected media
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/I-PdXufFKuI?si=lwFMIZ2NSbwzjETV&amp;start=2502" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">We are so excited to feature our faculty spotlight Dr. Claudia Solis Lemus <a href="https://twitter.com/solislemuslab?ref_src=twsrc%5Etfw">@solislemuslab</a> ! Her research expertise involves statistical phylogenetics, genomics, and microbiology. Full interview: <a href="https://t.co/zq4Y1gCAwb">https://t.co/zq4Y1gCAwb</a> <br>Previous highlights (drop down): <a href="https://t.co/nZDl4rXWBK">https://t.co/nZDl4rXWBK</a> <a href="https://t.co/qp9rbjSj3R">pic.twitter.com/qp9rbjSj3R</a></p>&mdash; GWIS Madison Chapter (@GWIS_UWMadison) <a href="https://twitter.com/GWIS_UWMadison/status/1752700474988650844?ref_src=twsrc%5Etfw">January 31, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
