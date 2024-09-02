@@ -189,6 +189,19 @@ Name pronunciation: [namedrop.io/claudiasolislemus](https://namedrop.io/claudias
 
 </div>
 
+<div class="container">
+    <div class="row-fluid">
+        <div class="span2">
+        <a href="../assets/pics/Mason.png">
+            <img src="../assets/pics/Mason.png"
+                  title="MasonGarza" alt="MasonGarza"/></a>
+        </div>
+
+        <div class="span5">
+        Mason Garza is a PhD student in the Department of Biomedical Engineering. He completed his Master’s degree in Biomedical Engineering at the University of Houston and double majored in Electrical Engineering and Computer Science for his B.S. at the University of Texas Rio Grande Valley (UTRGV).
+        </div>
+    </div>
+</div>
 ---
 
 ### <a name="undergraduate"></a>Undergraduate students
