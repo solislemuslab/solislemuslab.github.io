@@ -37,6 +37,14 @@ description: Claudia Solis-Lemus' teaching
 
 # <a name="workshops"></a>Workshops
 
+#### Fall 2024
+
+- Methods for Biological Data Workshop
+  - [Website](https://crsl4.github.io/methods-bio-data-workshop/)
+
+- Julia workshop for Statistical Research
+  - [Website](https://crsl4.github.io/julia-bootcamp/)
+
 #### Spring 2024
 
 - Methods for Biological Data Workshop
