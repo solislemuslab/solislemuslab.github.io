@@ -6,7 +6,7 @@ description: Solis-Lemus lab
 
 ### 2024
 
-- Thanks Ben for inviting me to participate as a scientist in the Sci-prov event at the WI Science Festival!
+- Thanks Ben for inviting me to participate as a scientist in the [Sci-prov event](https://www.wisconsinsciencefest.org/event/pre-festival-event-sci-prov-science-and-improv-combined/) at the WI Science Festival!
 
 <div style="text-align:center"><img src="../assets/pics/sciprov.png" width="450"/></div>
 
