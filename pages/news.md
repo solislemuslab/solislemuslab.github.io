@@ -6,6 +6,8 @@ description: Solis-Lemus lab
 
 ### 2024
 
+- Very grateful to be included in the [Atlas of Inspiring Hispanic/Latinx scientists](https://www.fredhutch.org/en/about/about-the-hutch/faculty-affairs-and-diversity/atlas-of-inspiring-hispanic-latinx-scientists.html)!
+
 - Thanks Ben for inviting me to participate as a scientist in the [Sci-prov event](https://www.wisconsinsciencefest.org/event/pre-festival-event-sci-prov-science-and-improv-combined/) at the WI Science Festival!
 
 <div style="text-align:center"><img src="../assets/pics/sciprov.png" width="450"/></div>
