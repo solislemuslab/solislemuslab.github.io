@@ -265,6 +265,20 @@ Name pronunciation: [namedrop.io/claudiasolislemus](https://namedrop.io/claudias
     </div>
 </div>
 
+<div class="container">
+    <div class="row-fluid">
+        <div class="span2">
+        <a href="../assets/pics/Nan.JPG">
+            <img src="../assets/pics/Nan.JPG"
+                  title="Nan Liu" alt="Nan Liu"/></a>
+        </div>
+
+        <div class="span5">
+            Nan (Nancy) Liu is a senior undergraduate student majoring in Mathematics and Statistics. She works on Goodness-of-fit on phylogenetics, and simulating sequences and trees for diamond.
+     </div>
+    </div>
+</div>
+
 ---
 
 ### <a name="pets"></a>Emotional support staff
