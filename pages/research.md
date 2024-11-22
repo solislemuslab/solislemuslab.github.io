@@ -134,6 +134,12 @@ Examples of our current research involve:
 
 #### Preprints undergoing peer-review
 
+<strong style="color: SlateBlue;">Yang, Q., Aghdam, R.</strong>, Tran, P., Anantharaman, K., <b>Sol&iacute;s-Lemus, C.</b>. (2024)
+Unraveling Keystone Taxa: Interactions Within Microbial Networks and Environmental Dynamics in Lake Mendota, [biorxiv: 10.1101/2024.11.11.623027](https://www.biorxiv.org/content/10.1101/2024.11.11.623027v1), [github](https://github.com/solislemuslab/lake-microbiome-data-analysis) 
+
+<strong style="color: SlateBlue;">Aghdam, R.</strong>, <b>Sol&iacute;s-Lemus, C.</b>. (2024)
+CMiNet: R package for learning the Consensus Microbiome Network, [arXiv:2411.08309](https://arxiv.org/abs/2411.08309), [CMiNet R package](https://github.com/solislemuslab/CMiNet) 
+
 <strong style="color: SlateBlue;">Gorstein, E., Aghdam, R.</strong>, <b>Sol&iacute;s-Lemus, C.</b>. (2024)
 HighDimMixedModels.jl: Robust High Dimensional Mixed Models across Omics Data, [bioarxiv:10.1101/2024.05.09.593305](https://www.biorxiv.org/content/10.1101/2024.05.09.593305v1), [HighDimMixedModels.jl](https://github.com/solislemuslab/HighDimMixedModels.jl), [github](https://github.com/evangorstein/hdmmExperiments) 
 
