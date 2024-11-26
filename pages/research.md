@@ -20,6 +20,8 @@ description: Solis-Lemus publications
 
 <button type="button" onclick="window.location.href='https://scholar.google.com/citations?user=GrUypj8AAAAJ&hl=en&oi=ao';">Google Scholar</button>
 
+<button type="button" onclick="window.location.href='https://figshare.com/authors/Claudia_Solis-Lemus/19964739';">Selected talks in Figshare</button>
+
 <div class="image123">
     <img src="../assets/misc/figures-pubs/overview-wordcloud.drawio2.png" width="800">
 </div>
