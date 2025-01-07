@@ -331,7 +331,7 @@ Bayesian species delimitation integrating genes and traits data.
                 <li>Semi-Parametric Rank-based Correlation and Partial Correlation Estimation (SPRING)</li>
                 <li>Generalized Co-Occurrence Differential Abundance analysis (gCoda)</li>
                 <li>Correlation Inference for Compositional Data through Lasso (CCLasso)</li>
-                <li>A novel algorithm based on conditional mutual information (c_MI)</li>
+                <li>A novel algorithm based on conditional mutual information (CMIMN)</li>
             </ul>
             <br/>
             These algorithms construct individual microbial association networks, which CMiNet then combines into a single, weighted consensus network. By leveraging the strengths of each method, CMiNet provides a comprehensive and reliable representation of microbial interactions.
@@ -342,7 +342,7 @@ Bayesian species delimitation integrating genes and traits data.
         <div class="span2">
             <a href="https://github.com/solislemuslab/CMiNet/">
                 <img src="../assets/pics/CMiNet.png"
-                     title="CMiNet" alt="CMiNet R package logo"/></a>
+                     title="CMiNet" alt="CMiNet R package"/></a>
         </div>
     </div>
 </div>
