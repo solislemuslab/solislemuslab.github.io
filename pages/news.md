@@ -4,6 +4,10 @@ title: news
 description: Solis-Lemus lab
 ---
 
+### 2025
+
+- Thank you to the OSPO for featuring me in the ["Faces of Open Source" section](https://ospo.wisc.edu/community/profiles/claudia-solis-lemus)!
+
 ### 2024
 
 - Thank you for the invitation to join [FLi Sci Allies](https://flisci.org/allies/). FLi SCi is national nonprofit serving first-generation/low-income (FLi) students interested in pursuing careers in science (Sci).
