@@ -38,6 +38,11 @@ description: Claudia Solis-Lemus' teaching
 
 # <a name="workshops"></a>Workshops
 
+#### Spring 2025
+
+- Forensic Justice Institute 2025 by the State Bar of Wisconsin
+  - [Website](https://crsl4.github.io/forensic-stat/)
+
 #### Fall 2024
 
 - Methods for Biological Data Workshop
