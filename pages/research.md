@@ -443,6 +443,8 @@ Scientists world-wide are engaged in efforts to understand how all planetary bio
 - Tang et al (2024). [BioAdv DOI: 10.1093/bioadv/vbae022](https://academic.oup.com/bioinformaticsadvances/advance-article/doi/10.1093/bioadv/vbae022/7610879)
 - Gorstein et al (2024). [bioarxiv:10.1101/2024.05.09.593305](https://www.biorxiv.org/content/10.1101/2024.05.09.593305v1)
 - Tiley et al (2024). [Syst Bio DOI: 10.1093/sysbio/syae024](https://doi.org/10.1093/sysbio/syae024)
+- Aghdam and Solis-Lemus (2024). [arXiv:2411.08309](https://arxiv.org/abs/2411.08309)
+- Yang et al (2024). [biorxiv: 10.1101/2024.11.11.623027](https://www.biorxiv.org/content/10.1101/2024.11.11.623027v1)
 
 
 ### USDA Individual Hatch
