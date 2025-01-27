@@ -415,11 +415,13 @@ Extracting diamonds: Identifiability of 4-node cycles in level-1 phylogenetic ne
                 - PI: Claudia Solis-Lemus <br/>
                 - Ben Rush (postdoc) <br/>
                 - Sungsik Kong (postdoc) <br/>
+                - Rosa Aghdam (postdoc) <br/>
                 - Marianne Bjorner (MS student) <br/>
                 - Xudong Tang (MS student) <br/>
                 - Hailey Louw (MS student) <br/>
                 - Nathan Kolbow (PhD student) <br/>
                 - Evan Gorstein (PhD student) <br/>
+                - Jiayang Wang (PhD student) <br/>
                 - Yuke Wu (undergrad) <br/>
                 - Bella Wu (undergrad) <br/>
                 - Yibo Kong (undergrad) <br/>
