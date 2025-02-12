@@ -6,6 +6,10 @@ description: Solis-Lemus lab
 
 ### 2025
 
+- Thanks WID for featuring me in the posts on the [International Day of Women and Girls in Science](https://www.instagram.com/p/DF8wh48KcHe/?utm_source=ig_web_copy_link)
+
+<div style="text-align:center"><img src="../assets/pics/wid-women-stem-day.png" width="450"/></div>
+
 - Thank you to the OSPO for featuring me in the ["Faces of Open Source" section](https://ospo.wisc.edu/community/profiles/claudia-solis-lemus)!
 
 ### 2024
