@@ -82,19 +82,7 @@ Name pronunciation: [namedrop.io/claudiasolislemus](https://namedrop.io/claudias
     </div>
 </div>
 
-<div class="container">
-    <div class="row-fluid">
-        <div class="span2">
-            <a href="https://sungsik-kong.github.io">
-            <img src="icons16/ssik08.png"
-                  title="Sungsik (Kevin) Kong" alt="Sungsik (Kevin) Kong">
-            </a>
-        </div>
-        <div class="span5">
-            <a href= "https://sungsik-kong.github.io/">Sungsik (Kevin) Kong</a> is a post-doctoral research associate. Kevin is a computational evolutionary biologist who is interested in statistical and computational problems surrounding phylogenetic network estimation and their applications in practice. Kevin conferred his Ph.D. in Evolution, Ecology, and Organismic Biology at the Ohio State University and B.Sc. & M.Sc. at University of Toronto, Canada. Kevin likes traveling and long-distance biking. Emailto: <a href = "mailto: skong32@wisc.edu">skong32@wisc.edu</a>.
-        </div>
-    </div>
-</div>
+
 
 ### <a name="graduate"></a>Graduate students
 
@@ -129,50 +117,7 @@ Name pronunciation: [namedrop.io/claudiasolislemus](https://namedrop.io/claudias
 
 </div>
 
-<div class="container">
-    <div class="row-fluid">
-        <div class="span2">
-        <a href=".../assets/pics/hailey.JPG">
-            <img src="../assets/pics/hailey.JPG"
-                  title="HaileyLouw" alt="HaileyLouw"/></a>
-        </div>
 
-        <div class="span5">
-       		Hailey is a Statistics MS student. She works on inference of viral DNA sequences from phylogenetic trees and corresponding estimation of ancestral DNA sequences in plant viruses.  She received her BA in Statistics from Northwestern College in Orange City, Iowa.  
-	 </div>
-    </div>
-
-</div>
-
-<div class="container">
-    <div class="row-fluid">
-        <div class="span2">
-        <a href="../assets/pics/xiaoyang.jpg">
-            <img src="../assets/pics/xiaoyang.jpg"
-                  title="XiaoyangWang" alt="XiaoyangWang"/></a>
-        </div>
-
-        <div class="span5">
-        Xiaoyang (Peter) Wang is a MS student in Statistic: Data Science. He works on Wisconsin Seed Potato Certification Program, and ANOVA on BHV space. He completed his undergraduate degree in Statistics at East China Normal University. 
-        </div>
-    </div>
-
-</div>
-
-<div class="container">
-    <div class="row-fluid">
-        <div class="span2">
-        <a href="../assets/pics/ZiangZeng.jpg">
-            <img src="../assets/pics/ZiangZeng.jpg"
-                  title="ZiangZeng" alt="ZiangZeng"/></a>
-        </div>
-
-        <div class="span5">
-        Ziang (Sirius) Zeng is a MS Graduate in Statistic: Data Science. He works on Statistical test on BHV space. He received his BA in Statistics from East China Normal University and MS in University of Wisconsin Madison.
-        </div>
-    </div>
-
-</div>
 
 <div class="container">
     <div class="row-fluid">
@@ -314,6 +259,10 @@ Name pronunciation: [namedrop.io/claudiasolislemus](https://namedrop.io/claudias
 ---
 
 ### <a name="past"></a>Past members
+- [Sungsik (Kevin) Kong](https://sungsik-kong.github.io/) (postdoc) is a computational evolutionary biologist who is interested in statistical and computational problems surrounding phylogenetic network estimation and their applications in practice. He is currently a postdoctoral fellow at ICERM.
+- Hailey Bruzzone (MSc Statistics, 2024) worked on inference of viral DNA sequences from phylogenetic trees and corresponding estimation of ancestral DNA sequences in plant viruses.
+- Xiaoyang (Peter) Wang (MSDS, 2024) worked on the Wisconsin Seed Potato Certification Program webapp.
+- Ziang (Sirius) Zeng (MSDS, 2024) worked on Statistical test on BHV space.
 - [Xudong Tang](https://www.linkedin.com/in/xudongtang75/) (MSDS, UW-Madison 2022) worked on Neural Networks applications for phylogenetic inference. He focused on Graph Generative Models on tree structures. He is pursuing PhD in CS at Northwestern University.
 - [Rohan Sonthalia](https://www.linkedin.com/in/rohan-sonthalia-3b41b621b/) (Visiting Undergraduate, UW-Madison Fall '23) implemented Transformer models for semi-supervised and unsupervised classification problems using DNA sequence datasets of viruses. 
 - [Yunju Ha](https://www.linkedin.com/in/yunjuha/) (BS Statistics, Computer Science, UW-Madison 2025) worked on applying machine learning techniques using DXA/BIS methods for sarcopenia research (UW Madison Biomedical Data Science SROP 2023).

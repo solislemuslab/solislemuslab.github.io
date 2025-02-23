@@ -6,6 +6,8 @@ description: Solis-Lemus lab
 
 ### 2025
 
+- Grateful to have received the Bassam Z. Shakhashiri Public Science Engagement Award!
+
 - Thanks WID for featuring me in the posts on the [International Day of Women and Girls in Science](https://www.instagram.com/p/DF8wh48KcHe/?utm_source=ig_web_copy_link)
 
 <div style="text-align:center"><img src="../assets/pics/wid-women-stem-day.png" width="450"/></div>
