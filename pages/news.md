@@ -6,7 +6,7 @@ description: Solis-Lemus lab
 
 ### 2025
 
-- Grateful to have received the Bassam Z. Shakhashiri Public Science Engagement Award!
+- Grateful to have received the [Bassam Z. Shakhashiri Public Science Engagement Award](https://research.wisc.edu/uncategorized/2025/03/05/excellence-in-outreach-recognized-with-bassam-z-shakhashiri-public-science-engagement-award-2/)!
 
 - Thanks WID for featuring me in the posts on the [International Day of Women and Girls in Science](https://www.instagram.com/p/DF8wh48KcHe/?utm_source=ig_web_copy_link)
 
