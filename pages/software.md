@@ -347,5 +347,22 @@ Bayesian species delimitation integrating genes and traits data.
     </div>
 </div>
 
+---
+
+<div class="container">
+    <div class="row-fluid">
+        <div class="span5">
+            <a href="https://cminet.wid.wisc.edu" target="_blank">CMiNet</a><br/>
+            <p>
+                The CMiNet Shiny App is an interactive web-based tool that provides a user-friendly interface for generating consensus microbiome networks. 
+                Built on the CMiNet R package, this app allows users to analyze microbiome data without requiring programming expertise, enabling intuitive visualization and exploration of microbial interactions.
+            </p>
+            <p>
+                Software developed by <a href="https://www.linkedin.com/in/rosa-aghdam/" target="_blank">Rosa Aghdam</a>.
+            </p>
+        </div>
+    </div>
+</div>
+
 
 
