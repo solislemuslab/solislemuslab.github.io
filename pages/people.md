@@ -157,20 +157,6 @@ Name pronunciation: [namedrop.io/claudiasolislemus](https://namedrop.io/claudias
 <div class="container">
     <div class="row-fluid">
         <div class="span2">
-        <a href="../assets/pics/yibo.JPG">
-            <img src="../assets/pics/yibo.JPG"
-                  title="Yibo Kong" alt="Yibo Kong"/></a>
-        </div>
-
-        <div class="span5">
-            Yibo Kong is a senior undergraduate student majoring in Computer Science and Data Science. He works on unsupervised learning of phylogenetic trees.
-     </div>
-    </div>
-</div>
-
-<div class="container">
-    <div class="row-fluid">
-        <div class="span2">
         <a href="../assets/pics/lakes.png">
             <img src="../assets/pics/lakes.png"
                   title="Lakes Tang" alt="Lakes Tang"/></a>
@@ -263,6 +249,7 @@ Name pronunciation: [namedrop.io/claudiasolislemus](https://namedrop.io/claudias
 - Hailey Bruzzone (MSc Statistics, 2024) worked on inference of viral DNA sequences from phylogenetic trees and corresponding estimation of ancestral DNA sequences in plant viruses.
 - Xiaoyang (Peter) Wang (MSDS, 2024) worked on the Wisconsin Seed Potato Certification Program webapp.
 - Ziang (Sirius) Zeng (MSDS, 2024) worked on Statistical test on BHV space.
+- [Yibo Kong](https://www.linkedin.com/in/yibo-kong-48b420235/) (BS Computer Science, Data Science, UW-Madison 2024) worked on embedding algorithm and unsupervised learning of phylogenetic trees. He is attebdubg MCDS program at CMU.
 - [Xudong Tang](https://www.linkedin.com/in/xudongtang75/) (MSDS, UW-Madison 2022) worked on Neural Networks applications for phylogenetic inference. He focused on Graph Generative Models on tree structures. He is pursuing PhD in CS at Northwestern University.
 - [Rohan Sonthalia](https://www.linkedin.com/in/rohan-sonthalia-3b41b621b/) (Visiting Undergraduate, UW-Madison Fall '23) implemented Transformer models for semi-supervised and unsupervised classification problems using DNA sequence datasets of viruses. 
 - [Yunju Ha](https://www.linkedin.com/in/yunjuha/) (BS Statistics, Computer Science, UW-Madison 2025) worked on applying machine learning techniques using DXA/BIS methods for sarcopenia research (UW Madison Biomedical Data Science SROP 2023).
