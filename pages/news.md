@@ -18,6 +18,8 @@ description: Solis-Lemus lab
 
 ### 2024
 
+- Thank you for the [WID Wiley Faculty award](https://wid.wisc.edu/leadership/john-wiley/)!
+
 - Thank you for the invitation to join [FLi Sci Allies](https://flisci.org/allies/). FLi SCi is national nonprofit serving first-generation/low-income (FLi) students interested in pursuing careers in science (Sci).
 
 - Very grateful to be included in the [Atlas of Inspiring Hispanic/Latinx scientists](https://www.fredhutch.org/en/about/about-the-hutch/faculty-affairs-and-diversity/atlas-of-inspiring-hispanic-latinx-scientists.html)!
