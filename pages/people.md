@@ -82,6 +82,19 @@ Name pronunciation: [namedrop.io/claudiasolislemus](https://namedrop.io/claudias
     </div>
 </div>
 
+<div class="container">
+    <div class="row-fluid">
+        <div class="span2">
+            <a href="../assets/pics/josh.png">
+            <img src="../assets/pics/josh.png"
+                  title="Justison" alt="Justison">
+            </a>
+        </div>
+        <div class="span5">
+            Joshuya Justison is a researcher in the area of statistical phylogenetics. His research interests center around reticulate macroevolution and gene flow. Josh develops computational tools for understanding and inferring phylogenetic networks. He earned his PhD in Ecology and Evolutionary Biology from Iowa State University. [<a href="https://github.com/jjustison">github</a>]
+    </div>
+</div>
+
 
 
 ### <a name="graduate"></a>Graduate students
