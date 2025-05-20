@@ -92,8 +92,9 @@ Name pronunciation: [namedrop.io/claudiasolislemus](https://namedrop.io/claudias
         </div>
         <div class="span5">
             Joshuya Justison is a researcher in the area of statistical phylogenetics. His research interests center around reticulate macroevolution and gene flow. Josh develops computational tools for understanding and inferring phylogenetic networks. He earned his PhD in Ecology and Evolutionary Biology from Iowa State University. [<a href="https://github.com/jjustison">github</a>]
+        </div>
     </div>
-</div>
+</div>    
 
 
 
@@ -164,22 +165,6 @@ Name pronunciation: [namedrop.io/claudiasolislemus](https://namedrop.io/claudias
 
 ### <a name="undergraduate"></a>Undergraduate students
 
-<div>
-</div>
-
-<div class="container">
-    <div class="row-fluid">
-        <div class="span2">
-        <a href="../assets/pics/lakes.png">
-            <img src="../assets/pics/lakes.png"
-                  title="Lakes Tang" alt="Lakes Tang"/></a>
-        </div>
-
-        <div class="span5">
-            Lakes (Mengze) Tang is a junior undergraduate student majoring in Computer Science and Mathematics. He works on testing the performance of neural networks on simulated genetic data. 
-     </div>
-    </div>
-</div>
 
 <div class="container">
     <div class="row-fluid">
@@ -258,6 +243,7 @@ Name pronunciation: [namedrop.io/claudiasolislemus](https://namedrop.io/claudias
 ---
 
 ### <a name="past"></a>Past members
+- Lakes (Mengze) Tang graduated in Computer Science and Mathematics in December 2024, and will join the CS graduate program in UW-Madison in Fall 2025.
 - [Sungsik (Kevin) Kong](https://sungsik-kong.github.io/) (postdoc) is a computational evolutionary biologist who is interested in statistical and computational problems surrounding phylogenetic network estimation and their applications in practice. He is currently a postdoctoral fellow at ICERM.
 - Hailey Bruzzone (MSc Statistics, 2024) worked on inference of viral DNA sequences from phylogenetic trees and corresponding estimation of ancestral DNA sequences in plant viruses.
 - Xiaoyang (Peter) Wang (MSDS, 2024) worked on the Wisconsin Seed Potato Certification Program webapp.
