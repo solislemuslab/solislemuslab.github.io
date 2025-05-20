@@ -23,15 +23,15 @@ description: Claudia Solis-Lemus' software
             A <a href="http://julialang.org/">Julia</a> package for statistical inference, data manipulation and visualization of phylogenetic networks<br/><br/>
 
             To receive announcements about updates to PhyloNetworks, join the<br/>
-            <a href="https://groups.google.com/forum/#!forum/phylonetworks-users">PhyloNetworks google group</a><br/>
+            <a href="https://groups.google.com/g/juliaphylo-users">JuliaPhylo google group</a><br/>
 
             Check out the tutorials: <br/>
-            <a href="https://github.com/crsl4/PhyloNetworks.jl/wiki">PhyloNetworks wiki</a><br/> and the shorter and newer <br/>
+            <a href="https://juliaphylo.github.io/PhyloUtilities/">PhyloUtilities website</a><br/> and the shorter and newer <br/>
             <a href="https://solislemuslab.github.io/snaq-tutorial/">SNaQ tutorial</a><br/>
         </div>
 
         <div class="span2">
-        <a href="https://github.com/crsl4/PhyloNetworks.jl">
+        <a href="https://github.com/JuliaPhylo/PhyloNetworks.jl">
             <img src="../assets/pics/phylonetworks-logo.png"
                   title="PhyloNetworks" alt="PhyloNetworks"/></a>
         </div>
@@ -43,14 +43,13 @@ description: Claudia Solis-Lemus' software
 <div class="container">
     <div class="row-fluid">
         <div class="span5">
-            <a href="https://github.com/crsl4/PhyloNetworks.jl">SNaQ</a><br/>
+            <a href="https://github.com/JuliaPhylo/SNaQ.jl">SNaQ</a><br/>
             Maximum pseudolikelihood estimation of species network. The procedure involves a numerical optimization of branch lengths and inheritance probabilities and a heuristic search in the space of phylogenetic networks.<br/><br/>
 
-            SNaQ is one function within the <a href="https://github.com/crsl4/PhyloNetworks.jl">PhyloNetworks</a> Julia package.
         </div>
 
         <div class="span2">
-        <a href="https://github.com/crsl4/PhyloNetworks.jl">
+        <a href="https://github.com/JuliaPhylo/SNaQ.jl">
             <img src="../assets/pics/snaq.png"
                   title="SNaQ" alt="SNaQ"/></a>
         </div>
