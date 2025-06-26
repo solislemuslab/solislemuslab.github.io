@@ -56,6 +56,25 @@ description: Claudia Solis-Lemus' software
     </div>
 </div>
 
+---
+
+<div class="container">
+    <div class="row-fluid">
+        <div class="span5">
+            <a href="https://nathankolbow.github.io/InPhyNet.jl/stable/">InPhyNet</a><br/>
+            A Julia package that merges several disjoint level-1 phylogenetic networks into one large network. This procedure significantly speeds up inference times for all sizes of networks without sacrificing accuracy.
+
+            For an introduction to the software and a real-data example <a href="https://nathankolbow.github.io/InPhyNet.jl/stable/">see the documentation.</a><br/>
+            <br/>Software developed by <a href="https://www.linkedin.com/in/nathankolbow/">Nathan Kolbow</a>.
+        </div>
+
+        <div class="span2">
+            <a href="https://nathankolbow.github.io/InPhyNet.jl/stable/">
+                <img src="../assets/pics/inphynet.png" title="InPhyNet-Logo" alt="InPhyNet-Logo"/>
+            </a>
+        </div>
+    </div>
+</div>
 
 ---
 
