@@ -161,6 +161,21 @@ Name pronunciation: [namedrop.io/claudiasolislemus](https://namedrop.io/claudias
         </div>
     </div>
 </div>
+
+<div class="container">
+    <div class="row-fluid">
+        <div class="span2">
+        <a href="../assets/pics/kritika.png">
+            <img src="../assets/pics/kritika.png"
+                  title="KritikaChopra" alt="KritikaChopra"/></a>
+        </div>
+
+        <div class="span5">
+        Kritika Chopra is a PhD student in the Department of Plant Pathology. She completed her Undergraduate degree in Biotechnology at Punjab Agricultural University, India. She is co-advised by Emile Gluck-Thaler and works in Fungal genomics and Evolution.
+        </div>
+    </div>
+</div>
+
 ---
 
 ### <a name="undergraduate"></a>Undergraduate students
