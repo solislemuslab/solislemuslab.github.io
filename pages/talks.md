@@ -17,7 +17,7 @@ description: Solis-Lemus lab outreach
 </div>
 
 
-## <a name="latinx"></a>Latinx in STEM
+## <a name="latinx"></a>Diverse voices in STEM
 
 <div style="text-align:center"><a href="https://solislemuslab.github.io/el-zoominario">
             <img src="../assets/pics/el-zoominario.png" width="450"
