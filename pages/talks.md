@@ -7,7 +7,7 @@ description: Solis-Lemus lab outreach
 <div class="navbar">
     <div class="navbar-inner">
         <ul class="nav">
-            <li><a href="#latinx">latinx in stem</a></li>
+            <li><a href="#latinx">voices in stem</a></li>
             <li><a href="#stat">stat in the world</a></li>
             <li><a href="#sa">science+art</a></li>
             <li><a href="#media">media</a></li>
