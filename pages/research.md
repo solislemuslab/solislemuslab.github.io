@@ -171,6 +171,13 @@ Extracting diamonds: Identifiability of 4-node cycles in level-1 phylogenetic ne
 ---
 ---
 
+| <span style="font-size:2em;">2024</span> |  | <strong style="color: SlateBlue;">Bjorner, M.</strong>, Molloy, E., Dewey, C., <b>Sol&iacute;s-Lemus, C.</b> | 
+| | | Detectability of Varied Hybridization Scenarios Using Genome-Scale Hybrid Detection Methods | 
+| | | [DOI: 10.18061/bssb.v3i1.9284](https://ssbbulletin.org/index.php/bssb/article/view/9284) |
+| | | [![ecoind (653k)](icons16/bssb.png)](https://ssbbulletin.org/index.php/bssb/article/view/9284) [![arxiv (653k)](icons16/arxiv.png)](https://arxiv.org/abs/2211.00712) [![github (653k)](icons16/github.png)](https://github.com/mbjorner/hybrid-detection-comparison) [![youtube (653k)](icons16/youtube.png)](https://youtu.be/93g7vw1g8_o) |
+
+---
+
 | <span style="font-size:2em;">2024</span> |  | Rosas-Puchuri, U., Santaquiteria, A., Khanmohammadi, S., <b>Sol&iacute;s-Lemus, C.</b>, Betancur, R. | 
 | | | Non-linear phylogenetic regression using regularised kernels | 
 | | | [DOI: 10.1111/2041-210X.14385](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/2041-210X.14385) |
