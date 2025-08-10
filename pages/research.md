@@ -444,7 +444,6 @@ Scientists world-wide are engaged in efforts to understand how all planetary bio
 
 
 #### Publications supported by the award
-- Bjorner et al (2022). [arxiv:2211.00712](https://arxiv.org/abs/2211.00712)
 - Kong et al (2023). [arXiv:2213.16074](https://arxiv.org/abs/2312.16074)
 - Tiley and Solis-Lemus (2023). [biorXiv:2023/564087](https://www.biorxiv.org/content/10.1101/2023.10.25.564087v1)
 - Justison et al (2023). [MEE DOI: 10.1111/2041-210X.14116](https://besjournals.onlinelibrary.wiley.com/doi/10.1111/2041-210X.14116)
@@ -454,6 +453,7 @@ Scientists world-wide are engaged in efforts to understand how all planetary bio
 - Tiley et al (2024). [Syst Bio DOI: 10.1093/sysbio/syae024](https://doi.org/10.1093/sysbio/syae024)
 - Aghdam and Solis-Lemus (2024). [arXiv:2411.08309](https://arxiv.org/abs/2411.08309)
 - Yang et al (2024). [biorxiv: 10.1101/2024.11.11.623027](https://www.biorxiv.org/content/10.1101/2024.11.11.623027v1)
+- Bjorner et al (2024). [DOI: 10.18061/bssb.v3i1.9284](https://ssbbulletin.org/index.php/bssb/article/view/9284)
 
 
 ### USDA Individual Hatch
@@ -526,7 +526,6 @@ The overall objective of this proposal is to pioneer the development of the next
 - Liu and Solis-Lemus (2020) [JOSE DOI:10.21105/jose.00159](https://jose.theoj.org/papers/10.21105/jose.00159)
 - Shen and Solis-Lemus (2021) [arXiv:2107.13763](https://arxiv.org/abs/2107.13763)
 - Ozminkowski et al (2022) [arxiv:2209.11730](https://arxiv.org/abs/2209.11730)
-- Bjorner et al (2022) [arxiv:2211.00712](https://arxiv.org/abs/2211.00712)
 - Aghdam et al (2023) [arxiv (2022): 2306.11157](https://arxiv.org/abs/2306.11157)
 - Tang et al (2024) [BioAdv DOI: 10.1093/bioadv/vbae022](https://academic.oup.com/bioinformaticsadvances/advance-article/doi/10.1093/bioadv/vbae022/7610879)
 - Shen et al (2024) [BA DOI: 10.1214/24-BA1430](https://projecteuclid.org/journals/bayesian-analysis/volume--1/issue--1/Estimating-Sparse-Direct-Effects-in-Multivariate-Regression-With-the-Spike/10.1214/24-BA1430.full)
@@ -534,6 +533,7 @@ The overall objective of this proposal is to pioneer the development of the next
 - Ozminkowski and Solis-Lemus, C. (2024) [EcoEvo DOI: 10.1002/ece3.11039](https://onlinelibrary.wiley.com/doi/10.1002/ece3.11039)
 - Shen and Solis-Lemus (2024) [JABES DOI: 10.1007/s13253-024-00621-1](https://link.springer.com/article/10.1007/s13253-024-00621-1)
 - Gorstein et al (2024). [bioarxiv:10.1101/2024.05.09.593305](https://www.biorxiv.org/content/10.1101/2024.05.09.593305v1)
+- Bjorner et al (2024). [DOI: 10.18061/bssb.v3i1.9284](https://ssbbulletin.org/index.php/bssb/article/view/9284)
 
 ------------------------------------
 
