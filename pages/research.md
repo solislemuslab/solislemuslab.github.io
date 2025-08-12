@@ -136,6 +136,12 @@ Examples of our current research involve:
 
 #### Preprints undergoing peer-review
 
+<strong style="color: SlateBlue;">Yang, Q., Aghdam, R., Nelson, R.</strong>, <b>Sol&iacute;s-Lemus, C.</b>. (2025) MiNAA-WebApp: A Web-Based Tool for the Visualization and Analysis of Microbiome Networks, [arxiv: 10.48550/arXiv:2507.08822](https://arxiv.org/abs/2507.08822), [github](https://github.com/solislemuslab/minaa-webapp), [webapp](https://minaa.wid.wisc.edu/)
+
+<strong style="color: SlateBlue;">Kolbow, N., Kong, S.</strong>, <b>Sol&iacute;s-Lemus, C.</b>. (2025) Massively scalable inference of level-1 phylogenetic networks, [biorxiv: 10.1101/2025.05.05.652278](https://www.biorxiv.org/content/10.1101/2025.05.05.652278v2.abstract), [github](https://github.com/NathanKolbow/InPhyNet.jl) 
+
+<strong style="color: SlateBlue;">Aghdam, R.</strong>, Shan, S., Lankau, R., <b>Sol&iacute;s-Lemus, C.</b>. (2025) Leveraging Bayesian Networks for Consensus Network Construction and Multi-Method Feature Selection to Decode Disease Prediction, [biorxiv: 10.1101/2025.04.07.647660](https://www.biorxiv.org/content/10.1101/2025.04.07.647660v1.abstract), [github](https://github.com/solislemuslab/CMIMN) 
+
 <strong style="color: SlateBlue;">Yang, Q., Aghdam, R.</strong>, Tran, P., Anantharaman, K., <b>Sol&iacute;s-Lemus, C.</b>. (2024)
 Unraveling Keystone Taxa: Interactions Within Microbial Networks and Environmental Dynamics in Lake Mendota, [biorxiv: 10.1101/2024.11.11.623027](https://www.biorxiv.org/content/10.1101/2024.11.11.623027v1), [github](https://github.com/solislemuslab/lake-microbiome-data-analysis) 
 
@@ -163,6 +169,26 @@ Extracting diamonds: Identifiability of 4-node cycles in level-1 phylogenetic ne
 ---
 ---
 
+| <span style="font-size:2em;">2025</span> |  | <strong style="color: SlateBlue;">Kong, S.</strong>, <b>Sol&iacute;s-Lemus, C.</b> and Tiley, G. | 
+| | | Phylogenetic networks empower biodiversity research | 
+| | | [DOI: 10.1073/pnas.2410934122](https://doi.org/10.1073/pnas.2410934122) |
+| | | [![pnas (653k)](icons16/pnas.png)](https://doi.org/10.1073/pnas.2410934122) |
+
+---
+
+| <span style="font-size:2em;">2025</span> |  | Peñaloza-Bojacá, Burleigh, Maciel-Silva, Cargill, Bell, Sessa, McDaniel, Davis, Endara, Salazar Allen, Li, Schafran, Chantanaorrapint, Duckett, Pressel, <b>Sol&iacute;s-Lemus, C.</b>, Renzaglia, Villarreal | 
+| | | Ancient reticulation, incomplete lineage sorting and the evolution of the pyrenoid at the dawn of hornwort diversification | 
+| | | [DOI: 10.1093/aob/mcaf002](https://doi.org/10.1093/aob/mcaf002) |
+| | | [![annbot (653k)](icons16/annbot.png)](https://doi.org/10.1093/aob/mcaf002) |
+
+---
+
+| <span style="font-size:2em;">2025</span> |  | <b>Sol&iacute;s-Lemus, C.</b> and Tiley, G. | 
+| | | Seeing the Network for the Trees: Methodological and Empirical Advances in Reticulate Evolution | 
+| | | [DOI: 10.18061/bssb.v4i1.10445](https://ssbbulletin.org/index.php/bssb/article/view/10445) |
+| | | [![ecoind (653k)](icons16/bssb.png)](https://ssbbulletin.org/index.php/bssb/article/view/10445) |
+
+---
 
 | <span style="font-size:2em;">2025</span> |  | <strong style="color: SlateBlue;">Gorstein, E., Aghdam, R.</strong>, <b>Sol&iacute;s-Lemus, C.</b> | 
 | | | HighDimMixedModels.jl: Robust High Dimensional Mixed Models across Omics Data | 
