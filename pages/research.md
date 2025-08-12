@@ -149,8 +149,6 @@ Unsupervised Learning of Phylogenetic Trees via Split-Weight Embedding, [arXiv:2
 Tiley, G., <strong style="color: SlateBlue;">Liu, N.</strong>, <b>Sol&iacute;s-Lemus, C.</b>. (2023)
 Extracting diamonds: Identifiability of 4-node cycles in level-1 phylogenetic networks under a pseudolikelihood coalescent model, [biorXiv:2023/564087](https://www.biorxiv.org/content/10.1101/2023.10.25.564087v2), [github](https://github.com/gtiley/diamond-identifiability) 
 
-<strong style="color: SlateBlue;">Aghdam, R., Tang., X.</strong>, Shan, S., Lankau, R., <b>Sol&iacute;s-Lemus, C.</b>. (2023). Human Limits in Machine Learning: Prediction of Plant Phenotypes Using Soil Microbiome Data. [arxiv (2022): 2306.11157](https://arxiv.org/abs/2306.11157) [github](https://github.com/solislemuslab/soil-microbiome-nn).
-
 <strong style="color: SlateBlue;">Ozminkowski, S., Wu, Y., Yang, L., Xu, Z., Selberg, L., Huang, C. </strong>, <b>Sol&iacute;s-Lemus, C.</b> (2022). BioKlustering: a web app for semi-supervised learning of maximally imbalanced genomic data [arxiv (2022): 2209.11730](https://arxiv.org/abs/2209.11730), [github](https://github.com/solislemuslab/bioklustering), [bioklustering.wid.wisc.edu](https://bioklustering.wid.wisc.edu/)
 
 <b>Sol&iacute;s-Lemus, C.</b>, A. M. Holleman, A. Todor, B. Bradley, K. J. Ressler, D. Ghosh, M. P. Epstein. (2021). A Kernel Method for Dissecting Genetic Signals in Tests of High-Dimensional Phenotypes, [bioRxiv 2021.07.29.454336](https://doi.org/10.1101/2021.07.29.454336)
@@ -165,10 +163,18 @@ Extracting diamonds: Identifiability of 4-node cycles in level-1 phylogenetic ne
 ---
 ---
 
+
 | <span style="font-size:2em;">2025</span> |  | <strong style="color: SlateBlue;">Gorstein, E., Aghdam, R.</strong>, <b>Sol&iacute;s-Lemus, C.</b> | 
 | | | HighDimMixedModels.jl: Robust High Dimensional Mixed Models across Omics Data | 
 | | | [DOI: 10.1371/journal.pcbi.1012143](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012143) |
 | | | [![ecoind (653k)](icons16/ploscompbio.png)](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012143) [![arxiv (653k)](icons16/bioarxiv.png)](https://www.biorxiv.org/content/10.1101/2024.05.09.593305v1) [![github (653k)](icons16/github.png)](https://github.com/solislemuslab/HighDimMixedModels.jl) [![youtube (653k)](icons16/youtube.png)](https://youtu.be/qxUpRpzZ5b4) |
+
+---
+
+| <span style="font-size:2em;">2024</span> |  | <strong style="color: SlateBlue;">Aghdam, R., Tang., X.</strong>, Shan, S., Lankau, R., <b>Sol&iacute;s-Lemus, C.</b> | 
+| | | Human Limits in Machine Learning: Prediction of Plant Phenotypes Using Soil Microbiome Data. | 
+| | | [DOI: 10.1186/s12859-024-05977-2](https://link.springer.com/article/10.1186/s12859-024-05977-2) |
+| | | [![ecoind (653k)](icons16/bmc.png)](https://link.springer.com/article/10.1186/s12859-024-05977-2) [![arxiv (653k)](icons16/arxiv.png)](https://arxiv.org/abs/2306.11157) [![github (653k)](icons16/github.png)](https://github.com/solislemuslab/soil-microbiome-nn) |
 
 ---
 
@@ -527,13 +533,13 @@ The overall objective of this proposal is to pioneer the development of the next
 - Liu and Solis-Lemus (2020) [JOSE DOI:10.21105/jose.00159](https://jose.theoj.org/papers/10.21105/jose.00159)
 - Shen and Solis-Lemus (2021) [arXiv:2107.13763](https://arxiv.org/abs/2107.13763)
 - Ozminkowski et al (2022) [arxiv:2209.11730](https://arxiv.org/abs/2209.11730)
-- Aghdam et al (2023) [arxiv (2023): 2306.11157](https://arxiv.org/abs/2306.11157)
 - Tang et al (2024) [BioAdv DOI: 10.1093/bioadv/vbae022](https://academic.oup.com/bioinformaticsadvances/advance-article/doi/10.1093/bioadv/vbae022/7610879)
 - Shen et al (2024) [BA DOI: 10.1214/24-BA1430](https://projecteuclid.org/journals/bayesian-analysis/volume--1/issue--1/Estimating-Sparse-Direct-Effects-in-Multivariate-Regression-With-the-Spike/10.1214/24-BA1430.full)
 - Nelson et al (2024) [JOSS DOI: 10.2115/joss.05448](https://joss.theoj.org/papers/10.21105/joss.05448)
 - Ozminkowski and Solis-Lemus, C. (2024) [EcoEvo DOI: 10.1002/ece3.11039](https://onlinelibrary.wiley.com/doi/10.1002/ece3.11039)
 - Shen and Solis-Lemus (2024) [JABES DOI: 10.1007/s13253-024-00621-1](https://link.springer.com/article/10.1007/s13253-024-00621-1)
 - Bjorner et al (2024). [DOI: 10.18061/bssb.v3i1.9284](https://ssbbulletin.org/index.php/bssb/article/view/9284)
+- Aghdam et al (2024) [DOI: 10.1371/journal.pcbi.1012143](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012143)
 - Gorstein et al (2025). [DOI: 10.1371/journal.pcbi.1012143](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012143) 
 
 ------------------------------------
