@@ -6,6 +6,10 @@ description: Solis-Lemus lab
 
 ### 2025
 
+- Our article on "Leveraging Certification Data for Enhanced Seed Potato Production" by Xiaoyang Wang, Haoming Chen and Elaine Wu appears now in pages 42-43 of the [Badger Common Tater](https://issuu.com/bctater/docs/february_2025_badger_common_tater) February edition!
+
+<div style="text-align:center"><img src="../assets/pics/potatodashboard.png" width="450"/></div>
+
 - Very excited to share that the [JuliaPhylo](https://juliaphylo.github.io/JuliaPhyloWebsite/) ecosystem has been added to the [Open Source Hall of Fame](https://ospo.wisc.edu/activities/open-awards) at the Data Science Institute in the University of Wisconsin-Madison!
 
 - Grateful to have received the [Bassam Z. Shakhashiri Public Science Engagement Award](https://research.wisc.edu/uncategorized/2025/03/05/excellence-in-outreach-recognized-with-bassam-z-shakhashiri-public-science-engagement-award-2/)!
