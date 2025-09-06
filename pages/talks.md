@@ -23,6 +23,10 @@ description: Solis-Lemus lab outreach
             <img src="../assets/pics/el-zoominario.png" width="450"
                   title="El Zoominario" alt="El Zoominario"/></a></div>
 
+<div style="text-align:center"><a href="https://solislemuslab.github.io/la-vaporera/">
+            <img src="../assets/pics/Vaporera8.png" width="450"
+                  title="La Vaporera: Ciencia y Arte en Español" alt="La Vaporera: Ciencia y Arte en Español"/></a></div>
+
 <div style="text-align:center"><a href="https://solislemuslab.github.io/latinx-uwmadison/">
             <img src="../assets/pics/LATINXinSTEM2.png" width="450"
                   title="Celebrating Latinx voices in STEM symposium" alt="Celebrating Latinx voices in STEM symposium"/></a></div>
