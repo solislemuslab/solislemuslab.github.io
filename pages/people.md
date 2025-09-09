@@ -51,7 +51,7 @@ Name pronunciation: [namedrop.io/claudiasolislemus](https://namedrop.io/claudias
             </b><code>le</code><b>So</b><code>m</code><b>please</b><code>u</code><b>leave
             </b><code>s</code><b>me</b><code>l</code><b>alone</b><code>a</code><b>!</b><code>b</code><br/>
             Mastodon: <a href="https://mstdn.social/@solislemuslab">https://mstdn.social/@solislemuslab</a><br/>
-            Affiliations at UW-Madison: <a href="https://stat.wisc.edu/">Department of Statistics</a>, <a href="https://math.wisc.edu/">Department of Mathematics</a>, <a href="https://biostat.wiscweb.wisc.edu/">Department of Biostatistics and Medical Informatics</a>, <a href="https://evolution.wisc.edu/">JF Crow Institute for the Study of Evolution</a>, <a href="https://qbi.wisc.edu/">Quantitative Biology Initiative</a>, <a href="https://cgsi.wisc.edu/aboutus/">Center for Genomic Science Innovation</a>, <a href="https://datascience.wisc.edu/institute/">Data Science Institute</a><br/>
+            Affiliations at UW-Madison: <a href="https://stat.wisc.edu/">Department of Statistics</a>, <a href="https://math.wisc.edu/">Department of Mathematics</a>, <a href="https://biostat.wiscweb.wisc.edu/">Department of Biostatistics and Medical Informatics</a>, <a href="https://evolution.wisc.edu/">JF Crow Institute for the Study of Evolution</a>, <a href="https://qbi.wisc.edu/">Quantitative Biology Initiative</a>, <a href="https://cgsi.wisc.edu/aboutus/">Center for Genomic Science Innovation</a>, <a href="https://lacis.wisc.edu/">LACIS</a>, <a href="https://datascience.wisc.edu/institute/">Data Science Institute</a><br/>
             </div>
         </div>
 
