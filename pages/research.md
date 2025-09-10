@@ -712,3 +712,35 @@ The primary goals of this proposal are to assess how fungicide applications dist
 #### Publications supported by the award
 
 - [upcoming]
+
+
+### NSF ADVISE
+
+<div class="container">
+    <div class="row-fluid">
+        <div class="span2">
+        <a href="../assets/pics/nsf.png">
+            <img src="../assets/pics/nsf.png"
+                  title="NSF" alt="NSF"/></a>
+        </div>
+
+        <div class="span5">
+           <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2411956&HistoricalAwards=false</a> <br/>
+            Title: ADVISE: Amplifying Diverse Voices in STEM Education <br/>
+            Dates: October 1, 2024 to May 31, 2029 <br/>
+            Lead PI: Quentin Sedlacek, Southern Methodist U<br/>
+            Personnel: <br/>
+                - co-PI: Claudia Solis-Lemus <br/>
+        </div>
+    </div>
+
+</div>
+
+#### Project summary
+
+The Amplifying Diverse Voices in STEM Education (ADVISE) project will use a cluster randomized experiment across four HSIs and five PWIs to test the causal effects of bringing racially marginalized guest lecturers into college STEM courses. The overarching goal of this collaborative project is to better understand and compare individual- and group-level psychological and sociological processes such as student belonging, stereotype threat, classroom climate, and instructor pedagogy, and how guest lectures may affect these processes in ways that can promote equitable and effective STEM education. Outcomes, mediators, and moderators will be measured using repeated-measures surveys and FERPA-compliant institutional data on student course grades and persistence in STEM majors. Internal and external project evaluation will use a collective impact model to ensure effective, equity-focused STEM education research. Findings will be disseminated through academic presentations and publications as well as reports and publications for policymaker and practitioner audiences in higher education and STEM fields. Beyond basic science contributions to social psychology and sociology and applied science contributions to higher education and STEM education, broader impacts are expected to include improved experiences and outcomes for thousands of college STEM students, professional opportunities for hundreds of early-career STEM scholars, and diversified professional networks for current STEM faculty.
+
+
+#### Publications supported by the award
+
+- [upcoming]
