@@ -384,25 +384,29 @@ Bayesian species delimitation integrating genes and traits data.
 
 ---
 
+
 <div class="container">
     <div class="row-fluid">
         <div class="span5">
             <a href="https://minaa.wid.wisc.edu" target="_blank">MiNAA-WebApp</a><br/>
-            <p>
+            The web app provides an interactive, user-friendly interface for aligning and visualizing microbiome networks.<br/>
                 MiNAA-WebApp is an interactive web-based tool that provides a user-friendly interface for aligning and visualizing microbiome networks.
-                Built on the MiNAA (Microbiome Network Alignment Algorithm), this app enables researchers to explore microbial community structure and ecological relationships without requiring programming expertise, promoting accessible and reproducible microbiome network analysis.
-            </p>
-            <p>
-                Software developed by <a href="https://www.linkedin.com/in/qiyao-yang/" target="_blank">Sophia Yang</a>.
-            </p>
+                Built on the MiNAA (Microbiome Network Alignment Algorithm), this app enables researchers to explore microbial community structure and ecological relationships without requiring programming expertise, promoting accessible and reproducible microbiome network analysis.<br/>
+            <br/>Check out the 
+            <a href="https://github.com/solislemuslab/minaa-webapp" target="_blank">GitHub repo.</a><br/>
+            <br/>Software developed by 
+            <a href="https://www.linkedin.com/in/qiyao-yang/" target="_blank">Sophia Yang.</a><br/>
         </div>
+
         <div class="span2">
-        <a href="https://github.com/solislemuslab/minaa">
-            <img src="../assets/pics/minaa.png"
-                  title="MiNAA" alt="MiNAA"/></a>
+            <a href="https://minaa.wid.wisc.edu" target="_blank">
+                <img src="../assets/pics/minaa.png"
+                     title="MiNAA-WebApp" alt="MiNAA-WebApp"/>
+            </a>
         </div>
     </div>
 </div>
+
 
 
 
