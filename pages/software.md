@@ -396,6 +396,11 @@ Bayesian species delimitation integrating genes and traits data.
                 Software developed by <a href="https://www.linkedin.com/in/qiyao-yang/" target="_blank">Sophia Yang</a>.
             </p>
         </div>
+        <div class="span2">
+        <a href="https://github.com/solislemuslab/minaa">
+            <img src="../assets/pics/minaa.png"
+                  title="MiNAA" alt="MiNAA"/></a>
+        </div>
     </div>
 </div>
 
