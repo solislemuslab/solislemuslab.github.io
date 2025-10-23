@@ -382,5 +382,22 @@ Bayesian species delimitation integrating genes and traits data.
     </div>
 </div>
 
+---
+
+<div class="container">
+    <div class="row-fluid">
+        <div class="span5">
+            <a href="https://minaa.wid.wisc.edu" target="_blank">MiNAA-WebApp</a><br/>
+            <p>
+                MiNAA-WebApp is an interactive web-based tool that provides a user-friendly interface for aligning and visualizing microbiome networks.
+                Built on the MiNAA (Microbiome Network Alignment Algorithm), this app enables researchers to explore microbial community structure and ecological relationships without requiring programming expertise, promoting accessible and reproducible microbiome network analysis.
+            </p>
+            <p>
+                Software developed by <a href="https://www.linkedin.com/in/qiyao-yang/" target="_blank">Sophia Yang</a>.
+            </p>
+        </div>
+    </div>
+</div>
+
 
 
