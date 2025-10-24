@@ -195,33 +195,7 @@ Name pronunciation: [namedrop.io/claudiasolislemus](https://namedrop.io/claudias
     </div>
 </div>
 
-<div class="container">
-    <div class="row-fluid">
-        <div class="span2">
-        <a href="../assets/pics/Sophia.JPG">
-            <img src="../assets/pics/Sophia.JPG"
-                  title="Sophia Yang" alt="Sophia Yang"/></a>
-        </div>
 
-        <div class="span5">
-            Sophia Yang is a junior undergraduate student majoring in Computer Science and Data Science. She works on network analysis of lake microbiome data.
-     </div>
-    </div>
-</div>
-
-<div class="container">
-    <div class="row-fluid">
-        <div class="span2">
-        <a href="../assets/pics/Nan.JPG">
-            <img src="../assets/pics/Nan.JPG"
-                  title="Nan Liu" alt="Nan Liu"/></a>
-        </div>
-
-        <div class="span5">
-            Nan (Nancy) Liu is a senior undergraduate student majoring in Mathematics and Statistics. She works on Goodness-of-fit on phylogenetics, and simulating sequences and trees for diamond.
-     </div>
-    </div>
-</div>
 
 ---
 
@@ -258,6 +232,8 @@ Name pronunciation: [namedrop.io/claudiasolislemus](https://namedrop.io/claudias
 ---
 
 ### <a name="past"></a>Past members
+- Sophia Yang graduated in Computer Science and Data Science and will join the graduate program at UChicago
+- Nan (Nancy) Liu graduated in Mathematics and Statistics in May 2025 and will join the graduate program in NCSU
 - Lakes (Mengze) Tang graduated in Computer Science and Mathematics in December 2024, and will join the CS graduate program in UW-Madison in Fall 2025.
 - [Sungsik (Kevin) Kong](https://sungsik-kong.github.io/) (postdoc) is a computational evolutionary biologist who is interested in statistical and computational problems surrounding phylogenetic network estimation and their applications in practice. He is currently a postdoctoral fellow at ICERM.
 - Hailey Bruzzone (MSc Statistics, 2024) worked on inference of viral DNA sequences from phylogenetic trees and corresponding estimation of ancestral DNA sequences in plant viruses.
