@@ -176,6 +176,21 @@ Name pronunciation: [namedrop.io/claudiasolislemus](https://namedrop.io/claudias
     </div>
 </div>
 
+<div class="container">
+    <div class="row-fluid">
+        <div class="span2">
+        <a href="../assets/pics/yuhan.png">
+            <img src="../assets/pics/yuhan.png"
+                  title="YuhanZheng" alt="YuhanZheng"/></a>
+        </div>
+
+        <div class="span5">
+        Yuhan Zheng is a PhD student in the Department of Statistics. She is interested in longitudinal models for microbiome, specifically inferring networks.
+        </div>
+    </div>
+</div>
+
+
 ---
 
 ### <a name="undergraduate"></a>Undergraduate students
