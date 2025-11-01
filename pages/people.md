@@ -195,6 +195,21 @@ Name pronunciation: [namedrop.io/claudiasolislemus](https://namedrop.io/claudias
     </div>
 </div>
 
+<div class="container">
+  <div class="row-fluid">
+    <div class="span2">
+      <a href="../assets/pics/moshi.jpg">
+        <img src="../assets/pics/moshi.jpg"
+             title="Moshi Fu" alt="Moshi Fu"/>
+      </a>
+    </div>
+
+    <div class="span5">
+      Moshi Fu is a senior undergraduate student majoring in Statistics, Data Science, and Mathematics at the University of Wisconsin–Madison. He works on applying machine learning and deep learning methods to primate acoustic data.
+    </div>
+  </div>
+</div>
+
 
 
 ---
