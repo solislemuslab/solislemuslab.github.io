@@ -198,8 +198,8 @@ Name pronunciation: [namedrop.io/claudiasolislemus](https://namedrop.io/claudias
 <div class="container">
   <div class="row-fluid">
     <div class="span2">
-      <a href="../assets/pics/moshi.jpg">
-        <img src="../assets/pics/moshi.jpg"
+      <a href="../assets/pics/Moshi.jpg">
+        <img src="../assets/pics/Moshi.jpg"
              title="Moshi Fu" alt="Moshi Fu"/>
       </a>
     </div>
