@@ -169,6 +169,14 @@ Extracting diamonds: Identifiability of 4-node cycles in level-1 phylogenetic ne
 ---
 ---
 
+| <span style="font-size:2em;">2025</span> |  | Q. Vidaurre Montoya, N. M. Gerardo, M. J. S. Martiarena, <b>Sol&iacute;s-Lemus, C.</b>, R. Kriebel, T. R. Schultz, J. Sosa-Calvo & A. Rodrigues | 
+| | | Digging into the evolutionary history of the fungus-growing-ant symbiont, Escovopsis (Hypocreaceae) | 
+| | | [DOI: 10.1038/s42003-025-08654-z](https://doi.org/10.1038/s42003-025-08654-z) |
+| | | [![cb (653k)](icons16/comm-bio.png)](https://doi.org/10.1038/s42003-025-08654-z) |
+
+---
+
+
 | <span style="font-size:2em;">2025</span> |  | <strong style="color: SlateBlue;">Kong, S.</strong>, <b>Sol&iacute;s-Lemus, C.</b> and Tiley, G. | 
 | | | Phylogenetic networks empower biodiversity research | 
 | | | [DOI: 10.1073/pnas.2410934122](https://doi.org/10.1073/pnas.2410934122) |
