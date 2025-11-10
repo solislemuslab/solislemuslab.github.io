@@ -182,7 +182,7 @@ Name pronunciation: [namedrop.io/claudiasolislemus](https://namedrop.io/claudias
         <div class="span2">
         <a href="../assets/pics/Yuhan.jpg">
             <img src="../assets/pics/Yuhan.jpg"
-                  title="KritikaChopra" alt="KritikaChopra"/></a>
+                  title="YuhanZheng" alt="YuhanZheng"/></a>
         </div>
 
         <div class="span5">
