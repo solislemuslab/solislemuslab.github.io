@@ -176,6 +176,20 @@ Name pronunciation: [namedrop.io/claudiasolislemus](https://namedrop.io/claudias
     </div>
 </div>
 
+
+<div class="container">
+    <div class="row-fluid">
+        <div class="span2">
+        <a href="../assets/pics/Yuhan.jpg">
+            <img src="../assets/pics/Yuhan.jpg"
+                  title="YuhanZheng" alt="YuhanZheng"/></a>
+        </div>
+
+        <div class="span5">
+        Yuhan Zheng is a PhD student in the Department of Statistics. She completed her Master's degree in Statistics and Data Science at UW-Madison. Her research focuses on statistical methods for inferring longitudinal microbiome networks.
+        </div>
+    </div>
+</div>
 ---
 
 ### <a name="undergraduate"></a>Undergraduate students
