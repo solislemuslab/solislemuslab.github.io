@@ -180,8 +180,8 @@ Name pronunciation: [namedrop.io/claudiasolislemus](https://namedrop.io/claudias
 <div class="container">
     <div class="row-fluid">
         <div class="span2">
-        <a href="../assets/pics/Yuhan.jpg">
-            <img src="../assets/pics/Yuhan.jpg"
+        <a href="../assets/pics/Yuhan.JPG">
+            <img src="../assets/pics/Yuhan.JPG"
                   title="YuhanZheng" alt="YuhanZheng"/></a>
         </div>
 
