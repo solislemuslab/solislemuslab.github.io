@@ -178,7 +178,7 @@ Extracting diamonds: Identifiability of 4-node cycles in level-1 phylogenetic ne
 
 | <span style="font-size:2em;">2025</span> |  | Sedlacek, Q. C., Friend, M., Villa, A. M. V., Dozier, S., León, M., Haeger, H., Lomelí, K., Pérez, G., <b>Sol&iacute;s-Lemus, C.</b>, & Mejia, J. A. | 
 | | | STEM disciplines are more diverse than undergraduate courses depict | 
-| | | [DOI: ]() |
+| | | |
 | | | [![cb (653k)](icons16/sci-ed.png)]() |
 
 ---
