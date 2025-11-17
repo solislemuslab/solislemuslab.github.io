@@ -136,6 +136,8 @@ Examples of our current research involve:
 
 #### Preprints undergoing peer-review
 
+Rosas-Puchuri, U., <strong style="color: SlateBlue;">Kolbow, N.</strong>, <b>Sol&iacute;s-Lemus, C.</b>, S. Khanmohammadi, R. Betancur. (2025) Sparse learning for scalable phylogenetic network inference, [bioarxiv:10.1101/2025.11.16.688704](https://www.biorxiv.org/content/10.1101/2025.11.16.688704v1).
+
 <strong style="color: SlateBlue;">Yang, Q., Aghdam, R., Nelson, R.</strong>, <b>Sol&iacute;s-Lemus, C.</b>. (2025) MiNAA-WebApp: A Web-Based Tool for the Visualization and Analysis of Microbiome Networks, [arxiv: 10.48550/arXiv:2507.08822](https://arxiv.org/abs/2507.08822), [github](https://github.com/solislemuslab/minaa-webapp), [webapp](https://minaa.wid.wisc.edu/)
 
 <strong style="color: SlateBlue;">Kolbow, N., Kong, S.</strong>, <b>Sol&iacute;s-Lemus, C.</b>. (2025) Massively scalable inference of level-1 phylogenetic networks, [biorxiv: 10.1101/2025.05.05.652278](https://www.biorxiv.org/content/10.1101/2025.05.05.652278v2.abstract), [github](https://github.com/NathanKolbow/InPhyNet.jl) 
@@ -151,9 +153,6 @@ CMiNet: R package for learning the Consensus Microbiome Network, [arXiv:2411.083
 
 <strong style="color: SlateBlue;">Kong, Y.</strong>, Tiley, G., <b>Sol&iacute;s-Lemus, C.</b>. (2023)
 Unsupervised Learning of Phylogenetic Trees via Split-Weight Embedding, [arXiv:2213.16074](https://arxiv.org/abs/2312.16074), [PhyloClustering.jl](https://github.com/solislemuslab/PhyloClustering.jl), [github](https://github.com/YiboK/PhyloClustering-scripts) 
-
-Tiley, G., <strong style="color: SlateBlue;">Liu, N.</strong>, <b>Sol&iacute;s-Lemus, C.</b>. (2023)
-Extracting diamonds: Identifiability of 4-node cycles in level-1 phylogenetic networks under a pseudolikelihood coalescent model, [biorXiv:2023/564087](https://www.biorxiv.org/content/10.1101/2023.10.25.564087v2), [github](https://github.com/gtiley/diamond-identifiability) 
 
 <strong style="color: SlateBlue;">Ozminkowski, S., Wu, Y., Yang, L., Xu, Z., Selberg, L., Huang, C. </strong>, <b>Sol&iacute;s-Lemus, C.</b> (2022). BioKlustering: a web app for semi-supervised learning of maximally imbalanced genomic data [arxiv (2022): 2209.11730](https://arxiv.org/abs/2209.11730), [github](https://github.com/solislemuslab/bioklustering), [bioklustering.wid.wisc.edu](https://bioklustering.wid.wisc.edu/)
 
