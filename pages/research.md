@@ -170,7 +170,7 @@ Extracting diamonds: Identifiability of 4-node cycles in level-1 phylogenetic ne
 ---
 
 | <span style="font-size:2em;">2025</span> |  | Tiley, G., <strong style="color: SlateBlue;">Liu, N.</strong>, <b>Sol&iacute;s-Lemus, C.</b> | 
-| | | STEM disciplines are more diverse than undergraduate courses depict | 
+| | | Extracting diamonds: Identifiability of 4-node cycles in level-1 phylogenetic networks | 
 | | | [DOI: 10.1093/evolinnean/kzaf019](https://doi.org/10.1093/evolinnean/kzaf019) |
 | | | [![cb (653k)](icons16/linn-soc.png)](https://doi.org/10.1093/evolinnean/kzaf019) [![github (653k)](icons16/github.png)](https://github.com/gtiley/diamond-identifiability) |
 
