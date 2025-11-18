@@ -136,6 +136,8 @@ Examples of our current research involve:
 
 #### Preprints undergoing peer-review
 
+<strong style="color: SlateBlue;">Kolbow, N., Kong, S., Chafin, T., Justison, J.</strong>, Ane, C., <b>Sol&iacute;s-Lemus, C.</b> (2025) SNaQ.jl: Improved Scalability for Phylogenetic Network Inference [bioarxiv:10.1101/2025.11.17.688917](https://www.biorxiv.org/content/10.1101/2025.11.17.688917v1).
+
 Rosas-Puchuri, U., <strong style="color: SlateBlue;">Kolbow, N.</strong>, <b>Sol&iacute;s-Lemus, C.</b>, S. Khanmohammadi, R. Betancur. (2025) Sparse learning for scalable phylogenetic network inference, [bioarxiv:10.1101/2025.11.16.688704](https://www.biorxiv.org/content/10.1101/2025.11.16.688704v1).
 
 <strong style="color: SlateBlue;">Yang, Q., Aghdam, R., Nelson, R.</strong>, <b>Sol&iacute;s-Lemus, C.</b>. (2025) MiNAA-WebApp: A Web-Based Tool for the Visualization and Analysis of Microbiome Networks, [arxiv: 10.48550/arXiv:2507.08822](https://arxiv.org/abs/2507.08822), [github](https://github.com/solislemuslab/minaa-webapp), [webapp](https://minaa.wid.wisc.edu/)
