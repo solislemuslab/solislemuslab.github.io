@@ -224,7 +224,20 @@ Name pronunciation: [namedrop.io/claudiasolislemus](https://namedrop.io/claudias
   </div>
 </div>
 
+<div class="container">
+  <div class="row-fluid">
+    <div class="span2">
+      <a href="../assets/pics/DaniellaWright.png">
+        <img src="../assets/pics/DaniellaWright.png"
+             title="Daniella Wright Nogueda" alt="Daniella Wright Nogueda"/>
+      </a>
+    </div>
 
+    <div class="span5">
+      <a href="https://daniellawright.com">Daniella Wright Nogueda</a> is an undergraduate student majoring in Computer Science and Data Science at the University of Wisconsin-Madison. Her research focuses on how mathematical network models represent the structure of real microbiome systems.
+    </div>
+  </div>
+</div>
 
 ---
 
