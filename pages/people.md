@@ -239,6 +239,20 @@ Name pronunciation: [namedrop.io/claudiasolislemus](https://namedrop.io/claudias
   </div>
 </div>
 
+<div class="container">
+    <div class="row-fluid">
+        <div class="span2">
+        <a href="../assets/pics/Jiayi (Joyce) Gao.jpg">
+            <img src="../assets/pics/Jiayi (Joyce) Gao.jpg"
+                  title="Jiayi (Joyce) Gao" alt="Jiayi (Joyce) Gao"/></a>
+    </div>
+        
+    <div class="span5">
+        Jiayi (Joyce) Gao is a junior undergraduate student who is major in computer science and statistics at the University of Wisconsin - Madison. She currently works on designing the microbiome comprehensive web app.
+     </div>
+    </div>
+</div>
+
 ---
 
 ### <a name="pets"></a>Emotional support staff
