@@ -6,6 +6,8 @@ description: Solis-Lemus lab
 
 ### 2025
 
+- Check out the complete special edition ["Seeing the network for the trees: Methodological and Empirical Advances in Reticulate Evolution"](https://ssbbulletin.org/news/8/) in the Bulletin of the Society of Systematic Biologists, including [editorial](https://ssbbulletin.org/article/id/4470/) by George Tiley and me!
+
 - Our article on "Leveraging Certification Data for Enhanced Seed Potato Production" by Xiaoyang Wang, Haoming Chen and Elaine Wu appears now in pages 42-43 of the [Badger Common Tater](https://issuu.com/bctater/docs/february_2025_badger_common_tater) February edition!
 
 <div style="text-align:center"><img src="../assets/pics/potatodashboard.png" width="450"/></div>
