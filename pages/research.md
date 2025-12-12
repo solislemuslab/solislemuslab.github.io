@@ -182,8 +182,8 @@ Unsupervised Learning of Phylogenetic Trees via Split-Weight Embedding, [arXiv:2
 
 | <span style="font-size:2em;">2025</span> |  | Sedlacek, Q. C., Friend, M., Villa, A. M. V., Dozier, S., León, M., Haeger, H., Lomelí, K., Pérez, G., <b>Sol&iacute;s-Lemus, C.</b>, & Mejia, J. A. | 
 | | | STEM disciplines are more diverse than undergraduate courses depict | 
-| | | |
-| | | [![cb (653k)](icons16/sci-ed.png)]() |
+| | | [DOI: 10.1007/s11191-025-00701-9](https://link.springer.com/article/10.1007/s11191-025-00701-9) |
+| | | [![cb (653k)](icons16/sci-ed.png)](https://link.springer.com/article/10.1007/s11191-025-00701-9) |
 
 ---
 
