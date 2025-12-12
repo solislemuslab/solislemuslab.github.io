@@ -149,10 +149,6 @@ Rosas-Puchuri, U., <strong style="color: SlateBlue;">Kolbow, N.</strong>, <b>Sol
 <strong style="color: SlateBlue;">Yang, Q., Aghdam, R.</strong>, Tran, P., Anantharaman, K., <b>Sol&iacute;s-Lemus, C.</b>. (2024)
 Unraveling Keystone Taxa: Interactions Within Microbial Networks and Environmental Dynamics in Lake Mendota, [biorxiv: 10.1101/2024.11.11.623027](https://www.biorxiv.org/content/10.1101/2024.11.11.623027v1), [github](https://github.com/solislemuslab/lake-microbiome-data-analysis) 
 
-<strong style="color: SlateBlue;">Aghdam, R.</strong>, <b>Sol&iacute;s-Lemus, C.</b>. (2024)
-CMiNet: R package for learning the Consensus Microbiome Network, [arXiv:2411.08309](https://arxiv.org/abs/2411.08309), [CMiNet R package](https://github.com/solislemuslab/CMiNet) 
-
-
 <strong style="color: SlateBlue;">Kong, Y.</strong>, Tiley, G., <b>Sol&iacute;s-Lemus, C.</b>. (2023)
 Unsupervised Learning of Phylogenetic Trees via Split-Weight Embedding, [arXiv:2213.16074](https://arxiv.org/abs/2312.16074), [PhyloClustering.jl](https://github.com/solislemuslab/PhyloClustering.jl), [github](https://github.com/YiboK/PhyloClustering-scripts) 
 
@@ -168,6 +164,13 @@ Unsupervised Learning of Phylogenetic Trees via Split-Weight Embedding, [arXiv:2
 
 
 ---
+---
+
+| <span style="font-size:2em;">2025</span> |  | <strong style="color: SlateBlue;">Aghdam, R.</strong>, <b>Sol&iacute;s-Lemus, C.</b> | 
+| | | CMiNet: R package for learning the Consensus Microbiome Network | 
+| | | [DOI: 10.1111/2041-210x.70198](https://besjournals.onlinelibrary.wiley.com/doi/10.1111/2041-210x.70198) |
+| | | [![ecoind (653k)](icons16/mee.png)](https://besjournals.onlinelibrary.wiley.com/doi/10.1111/2041-210x.70198) [![arxiv (653k)](icons16/arxiv.png)](https://arxiv.org/abs/2411.08309) [![github (653k)](icons16/github.png)](https://github.com/solislemuslab/CMiNet) |
+
 ---
 
 | <span style="font-size:2em;">2025</span> |  | Tiley, G., <strong style="color: SlateBlue;">Liu, N.</strong>, <b>Sol&iacute;s-Lemus, C.</b> | 
