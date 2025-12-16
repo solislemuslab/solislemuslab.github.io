@@ -30,8 +30,8 @@ You have questions about sample sizes.
 
 ## Option 3: 
 You want to schedule a meeting with the CALS statistics consulting group.
-Check out the main website for the [CALS Statistical Consulting](https://calslab.cals.wisc.edu/stat-consulting/).
+Check out the main website for the [CALS Statistical Consulting](https://calslab.cals.wisc.edu/stat-consulting/). 
 
 ## Option 4: 
 You can schedule a meeting with me.
-Feel free to email me to arrange a meeting. Note that my usual [calendly](https://calendly.com/solislemus/individual-meetings?month=2023-01) event planner is not available this semester.
+Feel free to email me to arrange a meeting. Note that my usual [calendly](https://calendly.com/solislemus/individual-meetings?month=2023-01) event planner is not available this semester. Please note that I do not provide consulting for projects involving experimental research with non-human animals.
