@@ -24,11 +24,15 @@ description: Claudia Solis-Lemus' teaching
 - Spring 2022: 3 credits; WF 2:30-3:45pm
 - Spring 2023: 3 credits; TR 1:00-2:15pm
 - Spring 2024: 3 credits; TR 1:00-2:15pm
-- [Spring 2025](https://crsl4.github.io/phylogenetics-class/): 3 credits; TR 1:00-2:15pm
+- Spring 2025: 3 credits; TR 1:00-2:15pm
+- [Spring 2026](https://crsl4.github.io/phylogenetics-class/): 3 credits; TR 1:00-2:15pm
 
 #### Plant Path 875 Readings in Phylogenomics
 - Spring 2021: 1 credit; F 8:55-9:45am (virtual over zoom)
 - [Spring 2022](https://github.com/crsl4/phylogenetics-class/tree/master/PP875): 1 credit; W 4:30-5:20pm
+
+#### Plant Path 875 Phylogenetics Practicum
+- [Spring 2026](https://solislemuslab.github.io/phylo-practicum): 1 credit; F 10:00-10:50am
 
 <div class="image123">
     <img src="../assets/pics/bot563-pp875-spring2022.png" width="800">
