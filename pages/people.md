@@ -242,9 +242,9 @@ Name pronunciation: [namedrop.io/claudiasolislemus](https://namedrop.io/claudias
 <div class="container">
     <div class="row-fluid">
         <div class="span2">
-        <a href="../assets/pics/Joyce_Gao.JPG">
-            <img src="../assets/pics/Joyce_Gao.JPG"
-                  title="Jiayi (Joyce) Gao" alt="Jiayi (Joyce) Gao"/></a>
+        <a href="../assets/pics/Joyce.jpg">
+            <img src="../assets/pics/Joyce.jpg"
+                  title="Joyce" alt="Joyce"/></a>
     </div>
         
     <div class="span5">
