@@ -517,8 +517,11 @@ Scientists world-wide are engaged in efforts to understand how all planetary bio
 - Solis-Lemus and Tiley (2025). [DOI: 10.18061/bssb.v4i1.10445](https://ssbbulletin.org/index.php/bssb/article/view/10445)
 - Kolbow et al (2025). [biorxiv: 10.1101/2025.05.05.652278](https://www.biorxiv.org/content/10.1101/2025.05.05.652278v2.abstract)
 - Yang et al (2025). [arxiv: 10.48550/arXiv:2507.08822](https://arxiv.org/abs/2507.08822)
-- Kong et al (2024). [DOI: 10.1073/pnas.2410934122](https://doi.org/10.1073/pnas.2410934122)
-
+- Kong et al (2025). [DOI: 10.1073/pnas.2410934122](https://doi.org/10.1073/pnas.2410934122)
+- Tiley et al (2025). [DOI: 10.1093/evolinnean/kzaf019](https://doi.org/10.1093/evolinnean/kzaf019)
+- Aghdam and Solis-Lemus (2025). [DOI: 10.1111/2041-210x.70198](https://besjournals.onlinelibrary.wiley.com/doi/10.1111/2041-210x.70198)
+- Rosas-Puchuri et al (2025). [bioarxiv:10.1101/2025.11.16.688704](https://www.biorxiv.org/content/10.1101/2025.11.16.688704v1)
+- Kolbow et al (2025). [bioarxiv:10.1101/2025.11.17.688917](https://www.biorxiv.org/content/10.1101/2025.11.17.688917v1)
 
 
 ### USDA Individual Hatch
