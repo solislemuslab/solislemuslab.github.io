@@ -158,12 +158,17 @@ Unsupervised Learning of Phylogenetic Trees via Split-Weight Embedding, [arXiv:2
 
 <strong style="color: SlateBlue;">Shen, Y.</strong>, <b>Sol&iacute;s-Lemus, C.</b> (2021). CARlasso: An R package for the estimation of sparse microbial networks with predictors, [arXiv (2021): 2107.13763](https://arxiv.org/abs/2107.13763), [github](https://github.com/YunyiShen/CAR-LASSO) 
 
-<strong style="color: SlateBlue;">Shen, Y.</strong>, <b>Sol&iacute;s-Lemus, C.</b> (2020). Bayesian Conditional Auto-Regressive LASSO Models to Learn Sparse Networks with Predictors, [arXiv (2020): 2012.08397](https://arxiv.org/abs/2012.08397), [github](https://github.com/YunyiShen/CAR-LASSO) 
-
 <b>Sol&iacute;s-Lemus, C.</b>, <strong style="color: SlateBlue;">A. Coen</strong> and Cecile An&eacute;. 2020. On the identifiability of phylogenetic networks under a pseudolikelihood model, [arxiv (2020): 2010.01758](https://arxiv.org/abs/2010.01758), [github](https://github.com/solislemuslab/snaq-identifiability) 
 
 
 ---
+---
+
+| <span style="font-size:2em;">2026</span> |  | <strong style="color: SlateBlue;">Shen, Y.</strong>, <b>Sol&iacute;s-Lemus, C.</b> | 
+| | | Bayesian chain graph models to characterize microbe-environment dynamics | 
+| | | [DOI: 10.3934/mbe.2026020](https://aimspress.com/article/doi/10.3934/mbe.2026020) |
+| | | [![ecoind (653k)](icons16/mathbioeng.png)](https://aimspress.com/article/doi/10.3934/mbe.2026020) [![arxiv (653k)](icons16/arxiv.png)](https://arxiv.org/abs/2012.08397) [![github (653k)](icons16/github.png)](https://github.com/YunyiShen/CAR-LASSO) |
+
 ---
 
 | <span style="font-size:2em;">2025</span> |  | <strong style="color: SlateBlue;">Aghdam, R.</strong>, <b>Sol&iacute;s-Lemus, C.</b> | 
@@ -537,7 +542,7 @@ Scientists world-wide are engaged in efforts to understand how all planetary bio
         <div class="span5">
             Title: Enhanced interaction and network statistical models for microbiome data <br/>
             Dates: October 1, 2024 to September 30, 2028 <br/>
-            Personnel: <br/>
+            Personnel: Evan Gorstein (PhD student)
         </div>
     </div>
 
@@ -551,7 +556,7 @@ The overall objective of this project is to develop a next generation of statist
 
 
 #### Publications supported by the award
-- [upcoming]
+- Shen and Solis-Lemus (2026) [DOI: 10.3934/mbe.2026020](https://aimspress.com/article/doi/10.3934/mbe.2026020)
 
 ### DOE: Computational Tool Development for Integrative Systems Biology Data Analysis
 
@@ -589,7 +594,6 @@ In order to identify the driving factors in soil biological processes, we need r
 The overall objective of this proposal is to pioneer the development of the next generation of statistical theory (accompanied by open-source publicly available software) for soil omics data. Our novel statistical methods will overcome existing challenges in standard approaches in three ways: 1) they will inherently account for high-dimensional highly interconnected data through the development of novel mixed-effects sparse learning models; 2) they will produce valid adaptive p-values through post selection inference, and 3) they will be implemented in open-source publicly available software that will serve the broader scientific community.
 
 #### Publications supported by the award
-- Shen and Solis-Lemus (2020) [arXiv:2012.08397](https://arxiv.org/abs/2012.08397)
 - Zhang et al (2020) [BMC Bioinformatics DOI:10.1186/s12859-022-04660-8](https://rdcu.be/cK1Bd)
 - Liu and Solis-Lemus (2020) [JOSE DOI:10.21105/jose.00159](https://jose.theoj.org/papers/10.21105/jose.00159)
 - Shen and Solis-Lemus (2021) [arXiv:2107.13763](https://arxiv.org/abs/2107.13763)
@@ -602,6 +606,7 @@ The overall objective of this proposal is to pioneer the development of the next
 - Bjorner et al (2024). [DOI: 10.18061/bssb.v3i1.9284](https://ssbbulletin.org/index.php/bssb/article/view/9284)
 - Aghdam et al (2024) [DOI: 10.1371/journal.pcbi.1012143](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012143)
 - Gorstein et al (2025). [DOI: 10.1371/journal.pcbi.1012143](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012143) 
+- Shen and Solis-Lemus (2026) [DOI: 10.3934/mbe.2026020](https://aimspress.com/article/doi/10.3934/mbe.2026020)
 
 ------------------------------------
 
@@ -637,12 +642,12 @@ processes connected to plant and soil health, to identify global practices of su
 In order to identify the driving factors in plant and soil health, we need robust statistical tools that are able to connect a set of predictors with a specific phenotype. Yet, the innovation in the methodological data science tools for agricultural practices has not matched the increasing complexity of soil and plant data. The overall objective of this project is to develop a next generation of statistical theory (accompanied by open-source publicly available software) for soil and plant data by exploiting the high- dimensional highly interconnected data through the development of novel microbiome interaction models. By harnessing the power of big data through new statistical theory in sparse learning, and network regression models, our work will produce tools that can better understand the drivers in soil and plant health to aid in the adoption of global practices of sustainable agriculture, which are vital to meet the ever-increasing need for food availability in the XXI century.
 
 #### Publications supported by the award
-- Shen and Solis-Lemus (2020) [arXiv:2012.08397](https://arxiv.org/abs/2012.08397)
 - Shen and Solis-Lemus (2021) [arXiv:2107.13763](https://arxiv.org/abs/2107.13763)  
 - Ozminkowski et al (2022) [arxiv (2022): 2209.11730](https://arxiv.org/abs/2209.11730)
 - Shen et al (2024) [BA DOI: 10.1214/24-BA1430](https://projecteuclid.org/journals/bayesian-analysis/volume--1/issue--1/Estimating-Sparse-Direct-Effects-in-Multivariate-Regression-With-the-Spike/10.1214/24-BA1430.full)
 - Ozminkowski and Solis-Lemus, C. (2024) [EcoEvo DOI: 10.1002/ece3.11039](https://onlinelibrary.wiley.com/doi/10.1002/ece3.11039)
 - Shen and Solis-Lemus (2024) [JABES DOI: 10.1007/s13253-024-00621-1](https://link.springer.com/article/10.1007/s13253-024-00621-1)
+- Shen and Solis-Lemus (2026) [DOI: 10.3934/mbe.2026020](https://aimspress.com/article/doi/10.3934/mbe.2026020)
 
 ------------------------------------
 
