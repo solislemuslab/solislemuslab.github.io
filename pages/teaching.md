@@ -42,6 +42,11 @@ description: Claudia Solis-Lemus' teaching
 
 # <a name="workshops"></a>Workshops
 
+## Spring 2026
+
+- Forensic Science CLE Minnesota Public Defenders
+  - [Website](https://crsl4.github.io/forensic-stat/)
+
 #### Spring 2025
 
 - Forensic Justice Institute 2025 by the State Bar of Wisconsin
