@@ -4,6 +4,10 @@ title: news
 description: Solis-Lemus lab
 ---
 
+### 2026
+
+- Grateful to receive the 2026 Robert R. Spitzer Teaching Excellence Award!
+
 ### 2025
 
 - Check out the complete special edition ["Seeing the network for the trees: Methodological and Empirical Advances in Reticulate Evolution"](https://ssbbulletin.org/news/8/) in the Bulletin of the Society of Systematic Biologists, including [editorial](https://ssbbulletin.org/article/id/4470/) by George Tiley and me!
