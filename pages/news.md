@@ -8,7 +8,7 @@ description: Solis-Lemus lab
 
 - Excited to be featured as Statistics alum! Read article [here](https://stat.wisc.edu/2026/04/14/tracing-lifes-hidden-histories/).
 
-<div style="text-align:center"><img src="../assets/pics/stat_alum_news.png" width="450"/></div>
+<div style="text-align:center"><img src="../assets/pics/stat-alum-news.png" width="450"/></div>
 
 - Grateful to receive the [2026 Robert R. Spitzer Teaching Excellence Award](https://cals.wisc.edu/about-cals/awards/cals-awards/)!
 
