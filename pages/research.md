@@ -163,7 +163,7 @@ Unsupervised Learning of Phylogenetic Trees via Split-Weight Embedding, [arXiv:2
 | <span style="font-size:2em;">2026</span> |  | <strong style="color: SlateBlue;">Yang, Q., Aghdam, R.</strong>, Tran, P., Anantharaman, K., <b>Sol&iacute;s-Lemus, C.</b> | 
 | | | Activity-Informed Network Analysis Reveals Keystone Microbes Shaping Freshwater Ecosystem Function | 
 | | | [DOI: 10.1111/1758-2229.70245](https://enviromicro-journals.onlinelibrary.wiley.com/doi/10.1111/1758-2229.70245) |
-| | | [![ecoind (653k)](icons16/envmic.png)](https://enviromicro-journals.onlinelibrary.wiley.com/doi/10.1111/1758-2229.70245) [![arxiv (653k)](icons16/arxiv.png)](https://www.biorxiv.org/content/10.1101/2024.11.11.623027v1) [![github (653k)](icons16/github.png)](https://github.com/solislemuslab/minaa-webapp) [![web (653k)](icons16/webicon.png)](https://minaa.wid.wisc.edu/) |
+| | | [![ecoind (653k)](icons16/envmic.png)](https://enviromicro-journals.onlinelibrary.wiley.com/doi/10.1111/1758-2229.70245) [![arxiv (653k)](icons16/arxiv.png)](https://www.biorxiv.org/content/10.1101/2024.11.11.623027v1) [![github (653k)](icons16/github.png)](https://github.com/solislemuslab/lake-microbiome-data-analysis)  |
 
 ---
 
