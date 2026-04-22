@@ -146,8 +146,6 @@ Rosas-Puchuri, U., <strong style="color: SlateBlue;">Kolbow, N.</strong>, <b>Sol
 
 <strong style="color: SlateBlue;">Kolbow, N., Kong, S.</strong>, <b>Sol&iacute;s-Lemus, C.</b>. (2025) Massively scalable inference of level-1 phylogenetic networks, [biorxiv: 10.1101/2025.05.05.652278](https://www.biorxiv.org/content/10.1101/2025.05.05.652278v2.abstract), [github](https://github.com/NathanKolbow/InPhyNet.jl) 
 
-<strong style="color: SlateBlue;">Aghdam, R.</strong>, Shan, S., Lankau, R., <b>Sol&iacute;s-Lemus, C.</b>. (2025) Leveraging Bayesian Networks for Consensus Network Construction and Multi-Method Feature Selection to Decode Disease Prediction, [biorxiv: 10.1101/2025.04.07.647660](https://www.biorxiv.org/content/10.1101/2025.04.07.647660v1.abstract), [github](https://github.com/solislemuslab/CMIMN) 
-
 <strong style="color: SlateBlue;">Yang, Q., Aghdam, R.</strong>, Tran, P., Anantharaman, K., <b>Sol&iacute;s-Lemus, C.</b>. (2024)
 Unraveling Keystone Taxa: Interactions Within Microbial Networks and Environmental Dynamics in Lake Mendota, [biorxiv: 10.1101/2024.11.11.623027](https://www.biorxiv.org/content/10.1101/2024.11.11.623027v1), [github](https://github.com/solislemuslab/lake-microbiome-data-analysis) 
 
@@ -170,6 +168,13 @@ Unsupervised Learning of Phylogenetic Trees via Split-Weight Embedding, [arXiv:2
 | | | Bayesian chain graph models to characterize microbe-environment dynamics | 
 | | | [DOI: 10.3934/mbe.2026020](https://aimspress.com/article/doi/10.3934/mbe.2026020) |
 | | | [![ecoind (653k)](icons16/mathbioeng.png)](https://aimspress.com/article/doi/10.3934/mbe.2026020) [![arxiv (653k)](icons16/arxiv.png)](https://arxiv.org/abs/2012.08397) [![github (653k)](icons16/github.png)](https://github.com/YunyiShen/CAR-LASSO) |
+
+---
+
+| <span style="font-size:2em;">2025</span> |  | <strong style="color: SlateBlue;">Aghdam, R.</strong>, Shan, S., Lankau, R., <b>Sol&iacute;s-Lemus, C.</b> | 
+| | | A hybrid framework for disease biomarker discovery in microbiome research combining Bayesian networks, machine learning, and network-based methods  | 
+| | | [DOI: 10.1093/biomethods/bpaf089](https://academic.oup.com/biomethods/article/11/1/bpaf089/8379655#547643597) |
+| | | [![biomet (653k)](icons16/biomet.png)](https://academic.oup.com/biomethods/article/11/1/bpaf089/8379655#547643597) [![arxiv (653k)](icons16/arxiv.png)](https://www.biorxiv.org/content/10.1101/2025.04.07.647660v1.abstract) [![github (653k)](icons16/github.png)](https://github.com/solislemuslab/CMIMN) |
 
 ---
 
