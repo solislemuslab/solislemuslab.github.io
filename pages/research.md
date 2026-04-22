@@ -144,8 +144,6 @@ Rosas-Puchuri, U., <strong style="color: SlateBlue;">Kolbow, N.</strong>, <b>Sol
 
 <strong style="color: SlateBlue;">Kolbow, N., Kong, S.</strong>, <b>Sol&iacute;s-Lemus, C.</b>. (2025) Massively scalable inference of level-1 phylogenetic networks, [biorxiv: 10.1101/2025.05.05.652278](https://www.biorxiv.org/content/10.1101/2025.05.05.652278v2.abstract), [github](https://github.com/NathanKolbow/InPhyNet.jl) 
 
-<strong style="color: SlateBlue;">Yang, Q., Aghdam, R.</strong>, Tran, P., Anantharaman, K., <b>Sol&iacute;s-Lemus, C.</b>. (2024)
-Unraveling Keystone Taxa: Interactions Within Microbial Networks and Environmental Dynamics in Lake Mendota, [biorxiv: 10.1101/2024.11.11.623027](https://www.biorxiv.org/content/10.1101/2024.11.11.623027v1), [github](https://github.com/solislemuslab/lake-microbiome-data-analysis) 
 
 <strong style="color: SlateBlue;">Kong, Y.</strong>, Tiley, G., <b>Sol&iacute;s-Lemus, C.</b>. (2023)
 Unsupervised Learning of Phylogenetic Trees via Split-Weight Embedding, [arXiv:2213.16074](https://arxiv.org/abs/2312.16074), [PhyloClustering.jl](https://github.com/solislemuslab/PhyloClustering.jl), [github](https://github.com/YiboK/PhyloClustering-scripts) 
@@ -162,10 +160,17 @@ Unsupervised Learning of Phylogenetic Trees via Split-Weight Embedding, [arXiv:2
 ---
 ---
 
+| <span style="font-size:2em;">2026</span> |  | <strong style="color: SlateBlue;">Yang, Q., Aghdam, R.</strong>, Tran, P., Anantharaman, K., <b>Sol&iacute;s-Lemus, C.</b> | 
+| | | Activity-Informed Network Analysis Reveals Keystone Microbes Shaping Freshwater Ecosystem Function | 
+| | | [DOI: 10.1111/1758-2229.70245](https://enviromicro-journals.onlinelibrary.wiley.com/doi/10.1111/1758-2229.70245) |
+| | | [![ecoind (653k)](icons16/envmic.png)](https://enviromicro-journals.onlinelibrary.wiley.com/doi/10.1111/1758-2229.70245) [![arxiv (653k)](icons16/arxiv.png)](https://www.biorxiv.org/content/10.1101/2024.11.11.623027v1) [![github (653k)](icons16/github.png)](https://github.com/solislemuslab/minaa-webapp) [![web (653k)](icons16/webicon.png)](https://minaa.wid.wisc.edu/) |
+
+---
+
 | <span style="font-size:2em;">2026</span> |  | <strong style="color: SlateBlue;">Yang, Q., Aghdam, R., Nelson, R.</strong>, <b>Sol&iacute;s-Lemus, C.</b> | 
 | | | MiNAA-WebApp: A Web-Based Tool for the Visualization and Analysis of Microbiome Networks | 
 | | | [DOI: 10.1016/j.softx.2026.102578](https://www.sciencedirect.com/science/article/pii/S2352711026000725) |
-| | | [![ecoind (653k)](icons16/softx.png)](https://www.sciencedirect.com/science/article/pii/S2352711026000725) [![arxiv (653k)](icons16/arxiv.png)](https://arxiv.org/abs/2507.08822) [![github (653k)](icons16/github.png)](https://github.com/solislemuslab/minaa-webapp) [![web (653k)](icons16/webicon.png)](https://minaa.wid.wisc.edu/) |
+| | | [![ecoind (653k)](icons16/softx.png)](https://www.sciencedirect.com/science/article/pii/S2352711026000725) [![arxiv (653k)](icons16/arxiv.png)](https://arxiv.org/abs/2507.08822) [![github (653k)](icons16/github.png)](https://github.com/solislemuslab/lake-microbiome-data-analysis) |
 
 ---
 
@@ -525,7 +530,6 @@ Scientists world-wide are engaged in efforts to understand how all planetary bio
 - Wu and Solis-Lemus (2024). [DOI: 10.1093/bioadv/vbae014](https://academic.oup.com/bioinformaticsadvances/article/4/1/vbae014/7603984)
 - Tang et al (2024). [DOI: 10.1093/bioadv/vbae022](https://academic.oup.com/bioinformaticsadvances/advance-article/doi/10.1093/bioadv/vbae022/7610879)
 - Tiley et al (2024). [DOI: 10.1093/sysbio/syae024](https://doi.org/10.1093/sysbio/syae024)
-- Yang et al (2024). [biorxiv: 10.1101/2024.11.11.623027](https://www.biorxiv.org/content/10.1101/2024.11.11.623027v1)
 - Bjorner et al (2024). [DOI: 10.18061/bssb.v3i1.9284](https://ssbbulletin.org/index.php/bssb/article/view/9284)
 - Gorstein et al (2025). [DOI: 10.1371/journal.pcbi.1012143](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012143) 
 - Solis-Lemus and Tiley (2025). [DOI: 10.18061/bssb.v4i1.10445](https://ssbbulletin.org/index.php/bssb/article/view/10445)
@@ -537,6 +541,7 @@ Scientists world-wide are engaged in efforts to understand how all planetary bio
 - Kolbow et al (2025). [bioarxiv:10.1101/2025.11.17.688917](https://www.biorxiv.org/content/10.1101/2025.11.17.688917v1)
 - Aghdam et al (2025). [DOI: 10.1093/biomethods/bpaf089](https://academic.oup.com/biomethods/article/11/1/bpaf089/8379655#547643597)
 - Yang et al (2026). [DOI: 10.1016/j.softx.2026.102578](https://www.sciencedirect.com/science/article/pii/S2352711026000725)
+- Yang et al (2026). [DOI: 10.1111/1758-2229.70245](https://enviromicro-journals.onlinelibrary.wiley.com/doi/10.1111/1758-2229.70245)
 
 
 ### USDA Individual Hatch
@@ -787,4 +792,4 @@ The Amplifying Diverse Voices in STEM Education (ADVISE) project will use a clus
 
 #### Publications supported by the award
 
-- [upcoming]
+- Sedlacek et al (2025). [DOI: 10.1007/s11191-025-00701-9](https://link.springer.com/article/10.1007/s11191-025-00701-9)
