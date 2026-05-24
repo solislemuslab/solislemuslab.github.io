@@ -6,6 +6,8 @@ description: Solis-Lemus lab
 
 ### 2026
 
+- Very happy to serve as co-director with [Jeremy Brown](https://phyleauxlab.github.io/) for the [MBL Workshop in Molecular Evolution](https://molevolworkshop.github.io/)!
+
 - Excited to be featured as Statistics alum! Read article [here](https://stat.wisc.edu/2026/04/14/tracing-lifes-hidden-histories/).
 
 <div style="text-align:center"><img src="../assets/pics/stat-alum-news.png" width="450"/></div>
