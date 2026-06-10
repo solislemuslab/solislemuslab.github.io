@@ -45,6 +45,11 @@ description: Solis-Lemus lab outreach
             <img src="../assets/pics/stat-forensics.drawio.png" width="450"
                   title="Statistics in Forensics" alt="Statistics in Forensics"/></a></div>
 
+
+<div style="text-align:center"><a href="https://solislemuslab.github.io/learning-data-science/">
+            <img src="../assets/pics/data-science-intro-banner.png" width="450"
+                  title="Intro to DataSci (WI Fast Plants)" alt="Intro to DataSci (WI Fast Plants)"/></a></div>
+
 ## <a name="sa"></a>Connections between Science and Art
 
 <div style="text-align:center"><a href="https://alfalfita-productions.github.io/there-are-no-bugs-in-winter/">
@@ -69,6 +74,11 @@ description: Solis-Lemus lab outreach
 ------
 
 ## <a name="media"></a>Selected media
+
+<div style="text-align:center"><a href="https://stat.wisc.edu/2026/04/14/tracing-lifes-hidden-histories/">
+            <img src="../assets/pics/stat-alum-news.png" width="550"
+                  title="UW Stat alumni spotlight" alt="UW Stat alumni spotlight"/></a></div>
+
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/I-PdXufFKuI?si=lwFMIZ2NSbwzjETV&amp;start=2502" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
