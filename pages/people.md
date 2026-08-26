@@ -253,6 +253,20 @@ Name pronunciation: [namedrop.io/claudiasolislemus](https://namedrop.io/claudias
     </div>
 </div>
 
+<div class="container">
+    <div class="row-fluid">
+        <div class="span2">
+        <a href="../assets/pics/daksh.jpeg">
+            <img src="../assets/pics/daksh.jpeg"
+                  title="Daksh Kacham" alt="Daksh Kacham"/></a>
+    </div>
+        
+    <div class="span5">
+        Daksh Kacham is an undergraduate student at the University of Wisconsin-Madison. He is majoring in Computer Science, Statistics and Data Science. He currently works on tensor representations and sparsification of phylogenetic quartet graphs.
+     </div>
+    </div>
+</div>
+
 ---
 
 ### <a name="pets"></a>Emotional support staff
