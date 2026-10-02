@@ -298,6 +298,18 @@ Name pronunciation: [namedrop.io/claudiasolislemus](https://namedrop.io/claudias
     </div>
 </div>
 
+<div class="container">
+    <div class="row-fluid">
+        <div class="span2">
+        <a href="../assets/pics/Monica.jpeg">
+            <img src="../assets/pics/Monica.jpeg"
+                    title="Monica" alt="Monica"/></a>
+        </div>
+        <div class="span5">
+            Monica is a domestic shorthair cat adopted from Angel's Wish. Her interests include watching little birds and discovering new ways to climb up things. She is willing to be your friend but only if you rub her belly!
+        </div>
+    </div>
+</div>
 
 ---
 
