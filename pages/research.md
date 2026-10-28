@@ -136,12 +136,13 @@ Examples of our current research involve:
 
 #### Preprints undergoing peer-review
 
+<strong style="color: SlateBlue;">Justison, J.</strong>, Ballen, G., Acosta-Cortés, C., Ceja, R., Baños, H., <b>Sol&iacute;s-Lemus, C.</b> (2026) Assessing the robustness of SNaQ to violations induced by high-level phylogenetic networks [biorxiv: 10.64898/2026.09.01.748505](https://www.biorxiv.org/content/10.64898/2026.09.01.748505v1).
+
+<strong style="color: SlateBlue;">Kolbow, N., Justison, J.</strong>, <b>Sol&iacute;s-Lemus, C.</b> (2026) Fast Inference of Generic Semi-directed Phylogenetic Networks [biorxiv: 10.64898/2026.04.17.719296](https://www.biorxiv.org/content/10.64898/2026.04.17.719296v3).
+
 <strong style="color: SlateBlue;">Rush, B.</strong>, <b>Sol&iacute;s-Lemus, C.</b> (2026) Learning Data Science through Biology: an open web-based introductory course [edarxiv: 10.35542/osf.io/hw3gr_v1](https://osf.io/preprints/edarxiv/hw3gr_v1).
 
 <strong style="color: SlateBlue;">Wang, J.</strong>, Palacios, J., <b>Sol&iacute;s-Lemus, C.</b> (2026) Matrix representations and distance metrics for unlabeled ranked phylogenetic networks [arxiv: 10.48550/arXiv.2606.08409](https://arxiv.org/abs/2606.08409).
-
-<strong style="color: SlateBlue;">Gorstein, E., Tang, M., Bruzzone, H.,</strong>, <b>Sol&iacute;s-Lemus, C.</b> (2026) Ancestral Sequences Cannot be Accurately Reconstructed via Interpolation in a Variational Autoencoder’s Latent Space [bioarxiv:10.1101/2025.11.19.689264](https://www.biorxiv.org/content/10.1101/2025.11.19.689264v1).
-
 
 Rosas-Puchuri, U., <strong style="color: SlateBlue;">Kolbow, N.</strong>, <b>Sol&iacute;s-Lemus, C.</b>, S. Khanmohammadi, R. Betancur. (2025) Sparse learning for scalable phylogenetic network inference, [bioarxiv:10.1101/2025.11.16.688704](https://www.biorxiv.org/content/10.1101/2025.11.16.688704v1).
 
@@ -161,6 +162,13 @@ Unsupervised Learning of Phylogenetic Trees via Split-Weight Embedding, [arXiv:2
 
 
 ---
+---
+
+| <span style="font-size:2em;">2026</span> |  | <strong style="color: SlateBlue;">Gorstein, E., Tang, M., Bruzzone, H.,</strong>, <b>Sol&iacute;s-Lemus, C.</b> |
+| | | Ancestral Sequences Cannot be Accurately Reconstructed via Interpolation in a Variational Autoencoder’s Latent Space |
+| | | [DOI: 10.1007/s11538-026-01749-6](https://link.springer.com/article/10.1007/s11538-026-01749-6)|
+| | | [![bmb (653k)](icons16/bmb.png)](https://link.springer.com/article/10.1007/s11538-026-01749-6) [![arxiv (653k)](icons16/arxiv.png)](https://www.biorxiv.org/content/10.1101/2025.11.19.689264v1) [![github (653k)](icons16/github.png)](https://github.com/solislemuslab/asr-ae/) |
+
 ---
 
 | <span style="font-size:2em;">2026</span> |  | <strong style="color: SlateBlue;">Kolbow, N., Kong, S., Chafin, T., Justison, J.</strong>, Ane, C., <b>Sol&iacute;s-Lemus, C.</b> |
@@ -578,6 +586,9 @@ Scientists world-wide are engaged in efforts to understand how all planetary bio
 - Rush and Solis-Lemus (2026). [edarxiv: 10.35542/osf.io/hw3gr_v1](https://osf.io/preprints/edarxiv/hw3gr_v1)
 - Solis-Lemus (2026). [DOI: 10.1093/sysbio/syag045](https://doi.org/10.1093/sysbio/syag045)
 - Kolbow et al (2026). [DOI: 10.1093/bioinformatics/btag289](https://academic.oup.com/bioinformatics/article/42/6/btag289/8675975)
+- Kolbow et al (2026). [biorxiv: 10.64898/2026.04.17.719296v3](https://www.biorxiv.org/content/10.64898/2026.04.17.719296v3)
+- Justison et al (2026). [biorxiv: 10.64898/2026.09.01.748505](https://www.biorxiv.org/content/10.64898/2026.09.01.748505v1)
+- Gorstein et al (2026). [DOI: 10.1007/s11538-026-01749-6](https://link.springer.com/article/10.1007/s11538-026-01749-6)
 
 
 ### USDA Individual Hatch
@@ -610,6 +621,7 @@ The overall objective of this project is to develop a next generation of statist
 
 #### Publications supported by the award
 - Shen and Solis-Lemus (2026) [DOI: 10.3934/mbe.2026020](https://aimspress.com/article/doi/10.3934/mbe.2026020)
+- Gorstein et al (2026). [DOI: 10.1007/s11538-026-01749-6](https://link.springer.com/article/10.1007/s11538-026-01749-6)
 
 ### DOE: Computational Tool Development for Integrative Systems Biology Data Analysis
 
