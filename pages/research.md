@@ -570,7 +570,6 @@ Scientists world-wide are engaged in efforts to understand how all planetary bio
 - Tiley et al (2025). [DOI: 10.1093/evolinnean/kzaf019](https://doi.org/10.1093/evolinnean/kzaf019)
 - Aghdam and Solis-Lemus (2025). [DOI: 10.1111/2041-210x.70198](https://besjournals.onlinelibrary.wiley.com/doi/10.1111/2041-210x.70198)
 - Rosas-Puchuri et al (2025). [bioarxiv:10.1101/2025.11.16.688704](https://www.biorxiv.org/content/10.1101/2025.11.16.688704v1)
-- Kolbow et al (2025). [bioarxiv:10.1101/2025.11.17.688917](https://www.biorxiv.org/content/10.1101/2025.11.17.688917v1)
 - Aghdam et al (2025). [DOI: 10.1093/biomethods/bpaf089](https://academic.oup.com/biomethods/article/11/1/bpaf089/8379655#547643597)
 - Yang et al (2026). [DOI: 10.1016/j.softx.2026.102578](https://www.sciencedirect.com/science/article/pii/S2352711026000725)
 - Yang et al (2026). [DOI: 10.1111/1758-2229.70245](https://enviromicro-journals.onlinelibrary.wiley.com/doi/10.1111/1758-2229.70245)
@@ -578,6 +577,7 @@ Scientists world-wide are engaged in efforts to understand how all planetary bio
 - Wang et al (2026). [arxiv: 10.48550/arXiv.2606.08409](https://arxiv.org/abs/2606.08409)
 - Rush and Solis-Lemus (2026). [edarxiv: 10.35542/osf.io/hw3gr_v1](https://osf.io/preprints/edarxiv/hw3gr_v1)
 - Solis-Lemus (2026). [DOI: 10.1093/sysbio/syag045](https://doi.org/10.1093/sysbio/syag045)
+- Kolbow et al (2026). [DOI: 10.1093/bioinformatics/btag289](https://academic.oup.com/bioinformatics/article/42/6/btag289/8675975)
 
 
 ### USDA Individual Hatch
