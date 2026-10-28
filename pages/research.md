@@ -136,6 +136,8 @@ Examples of our current research involve:
 
 #### Preprints undergoing peer-review
 
+<strong style="color: SlateBlue;">Rush, B.</strong>, <b>Sol&iacute;s-Lemus, C.</b> (2026) Learning Data Science through Biology: an open web-based introductory course [edarxiv: 10.35542/osf.io/hw3gr_v1](https://osf.io/preprints/edarxiv/hw3gr_v1).
+
 <strong style="color: SlateBlue;">Wang, J.</strong>, Palacios, J., <b>Sol&iacute;s-Lemus, C.</b> (2026) Matrix representations and distance metrics for unlabeled ranked phylogenetic networks [arxiv: 10.48550/arXiv.2606.08409](https://arxiv.org/abs/2606.08409).
 
 <strong style="color: SlateBlue;">Gorstein, E., Tang, M., Bruzzone, H.,</strong>, <b>Sol&iacute;s-Lemus, C.</b> (2026) Ancestral Sequences Cannot be Accurately Reconstructed via Interpolation in a Variational Autoencoder’s Latent Space [bioarxiv:10.1101/2025.11.19.689264](https://www.biorxiv.org/content/10.1101/2025.11.19.689264v1).
@@ -160,6 +162,20 @@ Unsupervised Learning of Phylogenetic Trees via Split-Weight Embedding, [arXiv:2
 
 
 ---
+---
+
+| <span style="font-size:2em;">2026</span> |  | <b>Sol&iacute;s-Lemus, C.</b> |
+| | | Evolving View on Phylogenetic Networks |
+| | | [DOI: 10.1093/sysbio/syag045](https://doi.org/10.1093/sysbio/syag045)|
+| | | [![sysbio (653k)](icons16/systbio.png)](https://doi.org/10.1093/sysbio/syag045) |
+
+---
+
+| <span style="font-size:2em;">2026</span> |  | Tiley, G., <b>Sol&iacute;s-Lemus, C.</b> | 
+| | | Branching out: Resolving plant evolution through phylogenetic networks | 
+| | | [DOI: 10.1002/aps3.70065](https://bsapubs.onlinelibrary.wiley.com/doi/10.1002/aps3.70065) |
+| | | [![apps (653k)](icons16/apps.png)](https://bsapubs.onlinelibrary.wiley.com/doi/10.1002/aps3.70065) |
+
 ---
 
 | <span style="font-size:2em;">2026</span> |  | Schliep, K., M. Vidal-García, L. Biancani, L. F. Henao-Díaz, E. Ada, <strong style="color: SlateBlue;">J. Justison</strong>, <b>Sol&iacute;s-Lemus, C.</b> | 
@@ -553,6 +569,9 @@ Scientists world-wide are engaged in efforts to understand how all planetary bio
 - Yang et al (2026). [DOI: 10.1016/j.softx.2026.102578](https://www.sciencedirect.com/science/article/pii/S2352711026000725)
 - Yang et al (2026). [DOI: 10.1111/1758-2229.70245](https://enviromicro-journals.onlinelibrary.wiley.com/doi/10.1111/1758-2229.70245)
 - Schliep et al (2026). [DOI: 10.1002/aps3.70060](https://doi.org/10.1002/aps3.70060)
+- Wang et al (2026). [arxiv: 10.48550/arXiv.2606.08409](https://arxiv.org/abs/2606.08409)
+- Rush and Solis-Lemus (2026). [edarxiv: 10.35542/osf.io/hw3gr_v1](https://osf.io/preprints/edarxiv/hw3gr_v1)
+- Solis-Lemus (2026). [DOI: 10.1093/sysbio/syag045](https://doi.org/10.1093/sysbio/syag045)
 
 
 ### USDA Individual Hatch

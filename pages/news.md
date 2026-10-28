@@ -4,7 +4,16 @@ title: news
 description: Solis-Lemus lab
 ---
 
+#### 2027
+
+- Very happy to serve as director with [Peter Beerli](https://www.sc.fsu.edu/people?uid=pbeerli) as co-director for the [MBL Workshop in Molecular Evolution](https://molevolworkshop.github.io/) in 2027!
+
+
 ### 2026
+
+- Very honored to write the phylogenetic networks perspective for the 75th anniversary of the Systematic Biology journal. Check out the paper [here](https://academic.oup.com/sysbio/article-abstract/75/6/1033/8729353?redirectedFrom=fulltext) (or email me for open access)!
+
+- Check out the complete special edition ["Branching out: Resolving plant evolution through phylogenetic networks"](https://bsapubs.onlinelibrary.wiley.com/toc/21680450/2026/14/3) in the journal of Applications in Plant Sciences, including [editorial](https://bsapubs.onlinelibrary.wiley.com/doi/10.1002/aps3.70065) by George Tiley and me!
 
 - Very happy to serve as co-director with [Jeremy Brown](https://phyleauxlab.github.io/) for the [MBL Workshop in Molecular Evolution](https://molevolworkshop.github.io/)!
 
