@@ -160,7 +160,7 @@ Unsupervised Learning of Phylogenetic Trees via Split-Weight Embedding, [arXiv:2
 ---
 ---
 
-| <span style="font-size:2em;">2026</span> |  | Schliep, K., M. Vidal-García, L. Biancani, L. F. Henao-Díaz, E. Ada, <strong style="color: SlateBlue;">J. Justison</strong>, and <b>Sol&iacute;s-Lemus, C.</b> | 
+| <span style="font-size:2em;">2026</span> |  | Schliep, K., M. Vidal-García, L. Biancani, L. F. Henao-Díaz, E. Ada, <strong style="color: SlateBlue;">J. Justison</strong>, <b>Sol&iacute;s-Lemus, C.</b> | 
 | | | tanggle: An R package for the visualization of phylogenetic networks | 
 | | | [DOI: 10.1002/aps3.70060](https://doi.org/10.1002/aps3.70060) |
 | | | [![apps (653k)](icons16/apps.png)](https://doi.org/10.1002/aps3.70060) [![logo (653k)](icons16/logo-tanggle.png)](https://github.com/KlausVigo/tanggle)  |
