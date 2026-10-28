@@ -164,6 +164,13 @@ Unsupervised Learning of Phylogenetic Trees via Split-Weight Embedding, [arXiv:2
 ---
 ---
 
+| <span style="font-size:2em;">2026</span> |  | Mukhtar S, <strong style="color: SlateBlue;">Xu, T., Gorstein, E.</strong>, <b>Sol&iacute;s-Lemus, C.</b>, Chou MY, Koch, P. |
+| | | Combined effects of methyl bromide and soil amendments on soil bacterial and fungal communities in turfgrass |
+| | | [DOI: 10.48130/grares-0026-0021](https://www.maxapress.com/article/doi/10.48130/grares-0026-0021)|
+| | | [![grass (653k)](icons16/grass.png)](https://www.maxapress.com/article/doi/10.48130/grares-0026-0021) |
+
+---
+
 | <span style="font-size:2em;">2026</span> |  | <strong style="color: SlateBlue;">Gorstein, E., Tang, M., Bruzzone, H.,</strong>, <b>Sol&iacute;s-Lemus, C.</b> |
 | | | Ancestral Sequences Cannot be Accurately Reconstructed via Interpolation in a Variational Autoencoder’s Latent Space |
 | | | [DOI: 10.1007/s11538-026-01749-6](https://link.springer.com/article/10.1007/s11538-026-01749-6)|
@@ -813,7 +820,7 @@ The primary goals of this proposal are to assess how fungicide applications dist
 
 #### Publications supported by the award
 
-- [upcoming]
+- Mukhtar et al (2026) [DOI: 10.48130/grares-0026-0021](https://www.maxapress.com/article/doi/10.48130/grares-0026-0021)
 
 
 ### NSF ADVISE
