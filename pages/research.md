@@ -142,7 +142,6 @@ Examples of our current research involve:
 
 <strong style="color: SlateBlue;">Gorstein, E., Tang, M., Bruzzone, H.,</strong>, <b>Sol&iacute;s-Lemus, C.</b> (2026) Ancestral Sequences Cannot be Accurately Reconstructed via Interpolation in a Variational Autoencoder’s Latent Space [bioarxiv:10.1101/2025.11.19.689264](https://www.biorxiv.org/content/10.1101/2025.11.19.689264v1).
 
-<strong style="color: SlateBlue;">Kolbow, N., Kong, S., Chafin, T., Justison, J.</strong>, Ane, C., <b>Sol&iacute;s-Lemus, C.</b> (2025) SNaQ.jl: Improved Scalability for Phylogenetic Network Inference [bioarxiv:10.1101/2025.11.17.688917](https://www.biorxiv.org/content/10.1101/2025.11.17.688917v1).
 
 Rosas-Puchuri, U., <strong style="color: SlateBlue;">Kolbow, N.</strong>, <b>Sol&iacute;s-Lemus, C.</b>, S. Khanmohammadi, R. Betancur. (2025) Sparse learning for scalable phylogenetic network inference, [bioarxiv:10.1101/2025.11.16.688704](https://www.biorxiv.org/content/10.1101/2025.11.16.688704v1).
 
@@ -162,6 +161,13 @@ Unsupervised Learning of Phylogenetic Trees via Split-Weight Embedding, [arXiv:2
 
 
 ---
+---
+
+| <span style="font-size:2em;">2026</span> |  | <strong style="color: SlateBlue;">Kolbow, N., Kong, S., Chafin, T., Justison, J.</strong>, Ane, C., <b>Sol&iacute;s-Lemus, C.</b> |
+| | | SNaQ.jl: Improved Scalability for Phylogenetic Network Inference |
+| | | [DOI: 10.1093/bioinformatics/btag289](https://academic.oup.com/bioinformatics/article/42/6/btag289/8675975)|
+| | | [![bioinf (653k)](icons16/bioinf.png)](https://academic.oup.com/bioinformatics/article/42/6/btag289/8675975) [![arxiv (653k)](icons16/arxiv.png)](https://www.biorxiv.org/content/10.1101/2025.11.17.688917v1) [![github (653k)](icons16/github.png)](https://github.com/JuliaPhylo/SNaQ.jl) |
+
 ---
 
 | <span style="font-size:2em;">2026</span> |  | <b>Sol&iacute;s-Lemus, C.</b> |
