@@ -602,6 +602,7 @@ Scientists world-wide are engaged in efforts to understand how all planetary bio
 - Kolbow et al (2026). [biorxiv: 10.64898/2026.04.17.719296v3](https://www.biorxiv.org/content/10.64898/2026.04.17.719296v3)
 - Justison et al (2026). [biorxiv: 10.64898/2026.09.01.748505](https://www.biorxiv.org/content/10.64898/2026.09.01.748505v1)
 - Gorstein et al (2026). [DOI: 10.1007/s11538-026-01749-6](https://link.springer.com/article/10.1007/s11538-026-01749-6)
+- Xu et al (2026) [arxiv: 10.48550/arXiv.2609.15240](https://doi.org/10.48550/arXiv.2609.15240)
 
 
 ### USDA Individual Hatch
@@ -635,6 +636,7 @@ The overall objective of this project is to develop a next generation of statist
 #### Publications supported by the award
 - Shen and Solis-Lemus (2026) [DOI: 10.3934/mbe.2026020](https://aimspress.com/article/doi/10.3934/mbe.2026020)
 - Gorstein et al (2026). [DOI: 10.1007/s11538-026-01749-6](https://link.springer.com/article/10.1007/s11538-026-01749-6)
+- Zheng and Solis-Lemus (2026) [biorxiv: 10.64898/2026.09.25.754276](https://www.biorxiv.org/content/10.64898/2026.09.25.754276v1)
 
 ### DOE: Computational Tool Development for Integrative Systems Biology Data Analysis
 
