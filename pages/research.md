@@ -136,6 +136,12 @@ Examples of our current research involve:
 
 #### Preprints undergoing peer-review
 
+<strong style="color: SlateBlue;">Zheng, Y.</strong>, <b>Sol&iacute;s-Lemus, C.</b> (2026) Sparse dynamic graphical models for longitudinal non-Gaussian data [biorxiv: 10.64898/2026.09.25.754276](https://www.biorxiv.org/content/10.64898/2026.09.25.754276v1)
+
+<strong style="color: SlateBlue;">Xu, T.</strong>, Pimentel-Alarcon, D., Burivalova, Z., <b>Sol&iacute;s-Lemus, C.</b> (2026) MAST: Label-Efficient, Robust, and Generalizable Sound Detection for Biodiversity Monitoring via Masked Audio Pretraining and Self-Training [arxiv: 10.48550/arXiv.2609.15221](https://doi.org/10.48550/arXiv.2609.15221) (accepted NeurIPS 2026).
+
+<strong style="color: SlateBlue;">Xu, T., Narasimhan, S., Gorstein, E.</strong>, Perea, S., <strong style="color: SlateBlue;">Shen, Y.</strong>, <b>Sol&iacute;s-Lemus, C.</b> (2026) Generating the Unheard: Phylogeny-Guided Latent Generation for Ancestral Sound Reconstruction [arxiv: 10.48550/arXiv.2609.15240](https://doi.org/10.48550/arXiv.2609.15240) (accepted NeurIPS 2026).
+
 <strong style="color: SlateBlue;">Justison, J.</strong>, Ballen, G., Acosta-Cortés, C., Ceja, R., Baños, H., <b>Sol&iacute;s-Lemus, C.</b> (2026) Assessing the robustness of SNaQ to violations induced by high-level phylogenetic networks [biorxiv: 10.64898/2026.09.01.748505](https://www.biorxiv.org/content/10.64898/2026.09.01.748505v1).
 
 <strong style="color: SlateBlue;">Kolbow, N., Justison, J.</strong>, <b>Sol&iacute;s-Lemus, C.</b> (2026) Fast Inference of Generic Semi-directed Phylogenetic Networks [biorxiv: 10.64898/2026.04.17.719296](https://www.biorxiv.org/content/10.64898/2026.04.17.719296v3).
