@@ -160,6 +160,13 @@ Unsupervised Learning of Phylogenetic Trees via Split-Weight Embedding, [arXiv:2
 ---
 ---
 
+| <span style="font-size:2em;">2026</span> |  | Schliep, K., M. Vidal-García, L. Biancani, L. F. Henao-Díaz, E. Ada, <strong style="color: SlateBlue;">J. Justison</strong>, and <b>Sol&iacute;s-Lemus, C.</b> | 
+| | | tanggle: An R package for the visualization of phylogenetic networks | 
+| | | [DOI: 10.1002/aps3.70060](https://doi.org/10.1002/aps3.70060) |
+| | | [![apps (653k)](icons16/apps.png)](https://doi.org/10.1002/aps3.70060) [![logo (653k)](icons16/logo-tanggle.png)](https://github.com/KlausVigo/tanggle)  |
+
+---
+
 | <span style="font-size:2em;">2026</span> |  | <strong style="color: SlateBlue;">Yang, Q., Aghdam, R.</strong>, Tran, P., Anantharaman, K., <b>Sol&iacute;s-Lemus, C.</b> | 
 | | | Activity-Informed Network Analysis Reveals Keystone Microbes Shaping Freshwater Ecosystem Function | 
 | | | [DOI: 10.1111/1758-2229.70245](https://enviromicro-journals.onlinelibrary.wiley.com/doi/10.1111/1758-2229.70245) |
@@ -514,6 +521,7 @@ Unsupervised Learning of Phylogenetic Trees via Split-Weight Embedding, [arXiv:2
                 - Bella Wu (undergrad) <br/>
                 - Yibo Kong (undergrad) <br/>
                 - Lakes Tang (undergrad) <br/>
+                - Josh Justison (postdoc) <br/>
         </div>
     </div>
 
@@ -542,6 +550,7 @@ Scientists world-wide are engaged in efforts to understand how all planetary bio
 - Aghdam et al (2025). [DOI: 10.1093/biomethods/bpaf089](https://academic.oup.com/biomethods/article/11/1/bpaf089/8379655#547643597)
 - Yang et al (2026). [DOI: 10.1016/j.softx.2026.102578](https://www.sciencedirect.com/science/article/pii/S2352711026000725)
 - Yang et al (2026). [DOI: 10.1111/1758-2229.70245](https://enviromicro-journals.onlinelibrary.wiley.com/doi/10.1111/1758-2229.70245)
+- Schliep et al (2026). [DOI: 10.1002/aps3.70060](https://doi.org/10.1002/aps3.70060)
 
 
 ### USDA Individual Hatch
@@ -557,7 +566,9 @@ Scientists world-wide are engaged in efforts to understand how all planetary bio
         <div class="span5">
             Title: Enhanced interaction and network statistical models for microbiome data <br/>
             Dates: October 1, 2024 to September 30, 2028 <br/>
-            Personnel: Evan Gorstein (PhD student)
+            Personnel: <br/>
+                - Evan Gorstein (PhD student) <br/>
+                - Yuhan Zheng (PhD student) <br/>
         </div>
     </div>
 
@@ -622,6 +633,7 @@ The overall objective of this proposal is to pioneer the development of the next
 - Aghdam et al (2024) [DOI: 10.1371/journal.pcbi.1012143](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012143)
 - Gorstein et al (2025). [DOI: 10.1371/journal.pcbi.1012143](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012143) 
 - Shen and Solis-Lemus (2026) [DOI: 10.3934/mbe.2026020](https://aimspress.com/article/doi/10.3934/mbe.2026020)
+- Schliep et al (2026). [DOI: 10.1002/aps3.70060](https://doi.org/10.1002/aps3.70060)
 
 ------------------------------------
 
@@ -718,6 +730,8 @@ The overarching objective of this proposal is to initiate development of a virtu
             Lead PI: Ryan Folk, Mississippi State U<br/>
             Personnel: <br/>
                 - co-PI: Claudia Solis-Lemus <br/>
+                - Rosa Aghdam (postdoc) <br/>
+                - Jiayang Wang (PhD student) <br/>
         </div>
     </div>
 
