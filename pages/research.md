@@ -199,6 +199,7 @@ Unsupervised Learning of Phylogenetic Trees via Split-Weight Embedding, [arXiv:2
 | | | Evolving View on Phylogenetic Networks |
 | | | [DOI: 10.1093/sysbio/syag045](https://doi.org/10.1093/sysbio/syag045)|
 | | | [![sysbio (653k)](icons16/systbio.png)](https://doi.org/10.1093/sysbio/syag045) |
+| | | *TLDR: Invited perspective for the 75th anniversary of Syst Bio journal mapping the classes of explicit phylogenetic networks, what they mean biologically, and how well we can actually estimate them from data.* |
 
 ---
 
@@ -206,6 +207,7 @@ Unsupervised Learning of Phylogenetic Trees via Split-Weight Embedding, [arXiv:2
 | | | Branching out: Resolving plant evolution through phylogenetic networks | 
 | | | [DOI: 10.1002/aps3.70065](https://bsapubs.onlinelibrary.wiley.com/doi/10.1002/aps3.70065) |
 | | | [![apps (653k)](icons16/apps.png)](https://bsapubs.onlinelibrary.wiley.com/doi/10.1002/aps3.70065) |
+| | | *TLDR: Introduction to the APPS special issue on how phylogenetic networks are resolving difficult relationships in plant evolution.* |
 
 ---
 
@@ -213,6 +215,7 @@ Unsupervised Learning of Phylogenetic Trees via Split-Weight Embedding, [arXiv:2
 | | | tanggle: An R package for the visualization of phylogenetic networks | 
 | | | [DOI: 10.1002/aps3.70060](https://doi.org/10.1002/aps3.70060) |
 | | | [![apps (653k)](icons16/apps.png)](https://doi.org/10.1002/aps3.70060) [![logo (653k)](icons16/logo-tanggle.png)](https://github.com/KlausVigo/tanggle)  |
+| | | *TLDR: An R package extending ggtree to plot split and explicit phylogenetic networks, including images and mapped traits on the network.* |
 
 ---
 
@@ -220,6 +223,8 @@ Unsupervised Learning of Phylogenetic Trees via Split-Weight Embedding, [arXiv:2
 | | | Activity-Informed Network Analysis Reveals Keystone Microbes Shaping Freshwater Ecosystem Function | 
 | | | [DOI: 10.1111/1758-2229.70245](https://enviromicro-journals.onlinelibrary.wiley.com/doi/10.1111/1758-2229.70245) |
 | | | [![ecoind (653k)](icons16/envmic.png)](https://enviromicro-journals.onlinelibrary.wiley.com/doi/10.1111/1758-2229.70245) [![arxiv (653k)](icons16/arxiv.png)](https://www.biorxiv.org/content/10.1101/2024.11.11.623027v1) [![github (653k)](icons16/github.png)](https://github.com/solislemuslab/lake-microbiome-data-analysis)  |
+| | | *TLDR: Adding metatranscriptomics to metagenomics shows many abundance-based 'keystone' lake microbes aren't actually active, while others emerge as keystone only when activity is considered.* |
+
 
 ---
 
@@ -227,6 +232,7 @@ Unsupervised Learning of Phylogenetic Trees via Split-Weight Embedding, [arXiv:2
 | | | MiNAA-WebApp: A Web-Based Tool for the Visualization and Analysis of Microbiome Networks | 
 | | | [DOI: 10.1016/j.softx.2026.102578](https://www.sciencedirect.com/science/article/pii/S2352711026000725) |
 | | | [![ecoind (653k)](icons16/softx.png)](https://www.sciencedirect.com/science/article/pii/S2352711026000725) [![arxiv (653k)](icons16/arxiv.png)](https://arxiv.org/abs/2507.08822) [![github (653k)](icons16/github.png)](https://github.com/solislemuslab/lake-microbiome-data-analysis) |
+| | | *TLDR: A point-and-click web interface for MiNAA so anyone can align and visualize microbial networks without programming.* |
 
 ---
 
@@ -234,6 +240,7 @@ Unsupervised Learning of Phylogenetic Trees via Split-Weight Embedding, [arXiv:2
 | | | Bayesian chain graph models to characterize microbe-environment dynamics | 
 | | | [DOI: 10.3934/mbe.2026020](https://aimspress.com/article/doi/10.3934/mbe.2026020) |
 | | | [![ecoind (653k)](icons16/mathbioeng.png)](https://aimspress.com/article/doi/10.3934/mbe.2026020) [![arxiv (653k)](icons16/arxiv.png)](https://arxiv.org/abs/2012.08397) [![github (653k)](icons16/github.png)](https://github.com/YunyiShen/CAR-LASSO) |
+| | | *TLDR: Bayesian chain graph models that jointly estimate microbe-microbe interactions and the direct effects of environmental predictors on each microbe.* |
 
 ---
 
@@ -241,6 +248,7 @@ Unsupervised Learning of Phylogenetic Trees via Split-Weight Embedding, [arXiv:2
 | | | A hybrid framework for disease biomarker discovery in microbiome research combining Bayesian networks, machine learning, and network-based methods  | 
 | | | [DOI: 10.1093/biomethods/bpaf089](https://academic.oup.com/biomethods/article/11/1/bpaf089/8379655#547643597) |
 | | | [![biomet (653k)](icons16/biomet.png)](https://academic.oup.com/biomethods/article/11/1/bpaf089/8379655#547643597) [![arxiv (653k)](icons16/arxiv.png)](https://www.biorxiv.org/content/10.1101/2025.04.07.647660v1.abstract) [![github (653k)](icons16/github.png)](https://github.com/solislemuslab/CMIMN) |
+| | | *TLDR: A Bayesian-network method (CMIMN) plus a multi-method ML + network feature-selection framework that identifies soil microbes linked to potato common scab.* |
 
 ---
 
@@ -248,6 +256,8 @@ Unsupervised Learning of Phylogenetic Trees via Split-Weight Embedding, [arXiv:2
 | | | CMiNet: R package for learning the Consensus Microbiome Network | 
 | | | [DOI: 10.1111/2041-210x.70198](https://besjournals.onlinelibrary.wiley.com/doi/10.1111/2041-210x.70198) |
 | | | [![ecoind (653k)](icons16/mee.png)](https://besjournals.onlinelibrary.wiley.com/doi/10.1111/2041-210x.70198) [![arxiv (653k)](icons16/arxiv.png)](https://arxiv.org/abs/2411.08309) [![github (653k)](icons16/github.png)](https://github.com/solislemuslab/CMiNet) [![web (653k)](icons16/webicon.png)](https://cminet.wid.wisc.edu/) |
+| | | *TLDR: An R package that builds a consensus microbiome network by combining multiple network-inference methods with bootstrap-based stability.* |
+
 
 ---
 
@@ -255,6 +265,7 @@ Unsupervised Learning of Phylogenetic Trees via Split-Weight Embedding, [arXiv:2
 | | | Extracting diamonds: Identifiability of 4-node cycles in level-1 phylogenetic networks | 
 | | | [DOI: 10.1093/evolinnean/kzaf019](https://doi.org/10.1093/evolinnean/kzaf019) |
 | | | [![cb (653k)](icons16/linn-soc.png)](https://doi.org/10.1093/evolinnean/kzaf019) [![github (653k)](icons16/github.png)](https://github.com/gtiley/diamond-identifiability) |
+| | | *TLDR: Proves that the hybrid node's position in a 4-node hybridization cycle is generically identifiable, while simulations show taxon sampling, few genes and gene-tree error make it hard to detect in practice.* |
 
 ---
 
@@ -262,6 +273,7 @@ Unsupervised Learning of Phylogenetic Trees via Split-Weight Embedding, [arXiv:2
 | | | STEM disciplines are more diverse than undergraduate courses depict | 
 | | | [DOI: 10.1007/s11191-025-00701-9](https://link.springer.com/article/10.1007/s11191-025-00701-9) |
 | | | [![cb (653k)](icons16/sci-ed.png)](https://link.springer.com/article/10.1007/s11191-025-00701-9) |
+| | | *TLDR: A survey of 712 STEM instructors suggests undergraduate courses under-depict scholars of color and women relative to recent PhD recipients in their fields.* |
 
 ---
 
@@ -269,6 +281,7 @@ Unsupervised Learning of Phylogenetic Trees via Split-Weight Embedding, [arXiv:2
 | | | Digging into the evolutionary history of the fungus-growing-ant symbiont, Escovopsis (Hypocreaceae) | 
 | | | [DOI: 10.1038/s42003-025-08654-z](https://doi.org/10.1038/s42003-025-08654-z) |
 | | | [![cb (653k)](icons16/comm-bio.png)](https://doi.org/10.1038/s42003-025-08654-z) |
+| | | *TLDR: The broadest sampling of the fungus-garden parasite Escovopsis across the Americas shows it associates with only some fungus-growing ant genera and lacks strict co-cladogenesis with them.* |
 
 ---
 
@@ -277,6 +290,7 @@ Unsupervised Learning of Phylogenetic Trees via Split-Weight Embedding, [arXiv:2
 | | | Phylogenetic networks empower biodiversity research | 
 | | | [DOI: 10.1073/pnas.2410934122](https://doi.org/10.1073/pnas.2410934122) |
 | | | [![pnas (653k)](icons16/pnas.png)](https://doi.org/10.1073/pnas.2410934122) |
+| | | *TLDR: A perspective with practical guidelines for inferring and interpreting phylogenetic networks from genomic data, with emphasis on hybridization, allopolyploidy and conservation.* |
 
 ---
 
@@ -284,6 +298,7 @@ Unsupervised Learning of Phylogenetic Trees via Split-Weight Embedding, [arXiv:2
 | | | Ancient reticulation, incomplete lineage sorting and the evolution of the pyrenoid at the dawn of hornwort diversification | 
 | | | [DOI: 10.1093/aob/mcaf002](https://doi.org/10.1093/aob/mcaf002) |
 | | | [![annbot (653k)](icons16/annbot.png)](https://doi.org/10.1093/aob/mcaf002) |
+| | | *TLDR: Hornwort phylogenomics shows ILS and ancient reticulation blur the placement of Leiosporoceros, leaving two plausible scenarios for pyrenoid evolution.* |
 
 ---
 
@@ -291,6 +306,7 @@ Unsupervised Learning of Phylogenetic Trees via Split-Weight Embedding, [arXiv:2
 | | | Seeing the Network for the Trees: Methodological and Empirical Advances in Reticulate Evolution | 
 | | | [DOI: 10.18061/bssb.v4i1.10445](https://ssbbulletin.org/index.php/bssb/article/view/10445) |
 | | | [![ecoind (653k)](icons16/bssb.png)](https://ssbbulletin.org/index.php/bssb/article/view/10445) |
+| | | *TLDR: Introduction to the BSSB special collection on methodological and empirical advances in reticulate evolution.* |
 
 ---
 
@@ -298,6 +314,7 @@ Unsupervised Learning of Phylogenetic Trees via Split-Weight Embedding, [arXiv:2
 | | | HighDimMixedModels.jl: Robust High Dimensional Mixed Models across Omics Data | 
 | | | [DOI: 10.1371/journal.pcbi.1012143](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012143) |
 | | | [![ecoind (653k)](icons16/ploscompbio.png)](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012143) [![arxiv (653k)](icons16/bioarxiv.png)](https://www.biorxiv.org/content/10.1101/2024.05.09.593305v1) [![github (653k)](icons16/github.png)](https://github.com/solislemuslab/HighDimMixedModels.jl) [![youtube (653k)](icons16/youtube.png)](https://youtu.be/qxUpRpzZ5b4) |
+| | | *TLDR: A fast Julia package for penalized high-dimensional mixed models; across transcriptome, GWAS and microbiome data, the SCAD penalty consistently beats LASSO.* |
 
 ---
 
@@ -305,6 +322,7 @@ Unsupervised Learning of Phylogenetic Trees via Split-Weight Embedding, [arXiv:2
 | | | Human Limits in Machine Learning: Prediction of Plant Phenotypes Using Soil Microbiome Data. | 
 | | | [DOI: 10.1186/s12859-024-05977-2](https://link.springer.com/article/10.1186/s12859-024-05977-2) |
 | | | [![ecoind (653k)](icons16/bmc.png)](https://link.springer.com/article/10.1186/s12859-024-05977-2) [![arxiv (653k)](icons16/arxiv.png)](https://arxiv.org/abs/2306.11157) [![github (653k)](icons16/github.png)](https://github.com/solislemuslab/soil-microbiome-nn) |
+| | | *TLDR: Soil microbiome data can predict potato disease (not yield), soil chemistry improves predictions, and accurate labels matter more than the model or normalization choices.* |
 
 ---
 
@@ -312,6 +330,7 @@ Unsupervised Learning of Phylogenetic Trees via Split-Weight Embedding, [arXiv:2
 | | | Detectability of Varied Hybridization Scenarios Using Genome-Scale Hybrid Detection Methods | 
 | | | [DOI: 10.18061/bssb.v3i1.9284](https://ssbbulletin.org/index.php/bssb/article/view/9284) |
 | | | [![ecoind (653k)](icons16/bssb.png)](https://ssbbulletin.org/index.php/bssb/article/view/9284) [![arxiv (653k)](icons16/arxiv.png)](https://arxiv.org/abs/2211.00712) [![github (653k)](icons16/github.png)](https://github.com/mbjorner/hybrid-detection-comparison) [![youtube (653k)](icons16/youtube.png)](https://youtu.be/93g7vw1g8_o) |
+| | | *TLDR: Benchmarks hybridization-detection methods across complex scenarios: MSCquartets is highly precise, and HyDe is the only one that identifies the direction of gene flow.* |
 
 ---
 
@@ -319,6 +338,7 @@ Unsupervised Learning of Phylogenetic Trees via Split-Weight Embedding, [arXiv:2
 | | | Non-linear phylogenetic regression using regularised kernels | 
 | | | [DOI: 10.1111/2041-210X.14385](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/2041-210X.14385) |
 | | | [![ecoind (653k)](icons16/mee.png)](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/2041-210X.14385)  |
+| | | *TLDR: phyloKRR brings kernel ridge regression into phylogenetic regression, cutting prediction error by ~20% over linear PGLS when relationships are non-linear.* |
 
 ---
 
@@ -326,6 +346,7 @@ Unsupervised Learning of Phylogenetic Trees via Split-Weight Embedding, [arXiv:2
 | | | Benefits and Limits of Phasing Alleles for Network Inference of Allopolyploid Complexes |
 | | | [DOI: 10.1093/sysbio/syae024](https://doi.org/10.1093/sysbio/syae024)|
 | | | [![sysbio (653k)](icons16/systbio.png)](https://doi.org/10.1093/sysbio/syae024) |
+| | | *TLDR: Phasing alleles can improve network inference in allopolyploid complexes, but network non-identifiability still limits what can be learned about their origins.* |
 
 ---
 
@@ -333,6 +354,7 @@ Unsupervised Learning of Phylogenetic Trees via Split-Weight Embedding, [arXiv:2
 | | | Identifying microbial drivers in biological phenotypes with a Bayesian Network Regression model | 
 | | | [DOI: 10.1002/ece3.11039](https://onlinelibrary.wiley.com/doi/10.1002/ece3.11039) | |
 | | | [![ecoevo (653k)](icons16/ecoevo.png)](https://onlinelibrary.wiley.com/doi/10.1002/ece3.11039) [![arxiv (653k)](icons16/arxiv.png)](https://arxiv.org/abs/2208.05600) [![github (653k)](icons16/github.png)](https://github.com/solislemuslab/BayesianNetworkRegression.jl) [![twitter (653k)](icons16/twitter.png)](https://x.com/solislemuslab/status/1809737901061632102) [![instagram (653k)](icons16/instagram.png)](https://www.instagram.com/reel/C9GbrCoN7bL/) [![youtube (653k)](icons16/youtube.png)](https://youtu.be/bNdiutUzEc4) |
+| | | *TLDR: A Bayesian network regression model that uses whole microbial networks as predictors to pinpoint which microbes and interactions drive a phenotype.* |
 
 ---
 
@@ -340,6 +362,7 @@ Unsupervised Learning of Phylogenetic Trees via Split-Weight Embedding, [arXiv:2
 | | | The Effect of the Prior and the Experimental Design on the Inference of the Precision Matrix in Gaussian Chain Graph Models | 
 | | | [DOI: 10.1007/s13253-024-00621-1](https://link.springer.com/article/10.1007/s13253-024-00621-1) | |
 | | | [![jabes (653k)](icons16/jabes.png)](https://link.springer.com/article/10.1007/s13253-024-00621-1) [![arxiv (653k)](icons16/arxiv.png)](https://arxiv.org/abs/2107.01306) [![twitter (653k)](icons16/twitter.png)](https://x.com/solislemuslab/status/1809599849542685177) [![instagram (653k)](icons16/instagram.png)](https://www.instagram.com/reel/C9FcvfUtqgx/) [![youtube (653k)](icons16/youtube.png)](https://youtu.be/u2nVP2AMTw4) |
+| | | *TLDR: Under flat or conjugate priors, experimental design cannot improve inference of microbial networks in Gaussian chain graphs; other priors allow it, but with a hard ceiling on information gained.* |
 
 ---
 
@@ -347,6 +370,7 @@ Unsupervised Learning of Phylogenetic Trees via Split-Weight Embedding, [arXiv:2
 | | | MiNAA: Microbiome Network Alignment Algorithm | 
 | | | [DOI: 10.2115/joss.05448](https://joss.theoj.org/papers/10.21105/joss.05448) | |
 | | | [![joss (653k)](icons16/joss.png)](https://joss.theoj.org/papers/10.21105/joss.05448) [![arxiv (653k)](icons16/arxiv.png)](https://arxiv.org/abs/2212.05880) [![github (653k)](icons16/github.png)](https://github.com/solislemuslab/minaa) [![twitter (653k)](icons16/twitter.png)](https://x.com/solislemuslab/status/1809585731465036186) [![instagram (653k)](icons16/instagram.png)](https://www.instagram.com/reel/C9FWrdnAtJx/) [![youtube (653k)](icons16/youtube.png)](https://youtu.be/S9PaA49xyBU) |
+| | | *TLDR: An algorithm to align two microbial networks and find the taxa and interactions that are shared or differ across conditions.* |
 
 ---
 
@@ -354,6 +378,7 @@ Unsupervised Learning of Phylogenetic Trees via Split-Weight Embedding, [arXiv:2
 | | | Estimating sparse direct effects in multivariate regression with the spike-and-slab LASSO |
 | | | [DOI: 10.1214/24-BA1430](https://projecteuclid.org/journals/bayesian-analysis/volume--1/issue--1/Estimating-Sparse-Direct-Effects-in-Multivariate-Regression-With-the-Spike/10.1214/24-BA1430.full)|
 | | | [![ba (653k)](icons16/ba.png)](https://projecteuclid.org/journals/bayesian-analysis/volume--1/issue--1/Estimating-Sparse-Direct-Effects-in-Multivariate-Regression-With-the-Spike/10.1214/24-BA1430.full) [![arxiv (653k)](icons16/arxiv.png)](https://arxiv.org/abs/2207.07020) |
+| | | *TLDR: Spike-and-slab LASSO priors for sparse chain graph models, with theoretical guarantees, used to separate the direct effects of diet and residence on the elderly gut microbiome.* |
 
 ---
 
@@ -361,6 +386,7 @@ Unsupervised Learning of Phylogenetic Trees via Split-Weight Embedding, [arXiv:2
 | | | Ultrafast learning of 4-node hybridization cycles in phylogenetic networks using algebraic invariants | 
 | | | [DOI: 10.1093/bioadv/vbae014](https://academic.oup.com/bioinformaticsadvances/article/4/1/vbae014/7603984) | |
 | | | [![bioadv (653k)](icons16/bioadv.png)](https://academic.oup.com/bioinformaticsadvances/article/4/1/vbae014/7603984) [![arxiv (653k)](icons16/arxiv.png)](https://arxiv.org/abs/2211.16647) [![github (653k)](icons16/github.png)](https://github.com/solislemuslab/phylo-diamond.jl) [![twitter (653k)](icons16/twitter.png)](https://x.com/solislemuslab/status/1781124480569422231) [![instagram (653k)](icons16/instagram.png)](https://www.instagram.com/p/C57IJueNdng/?hl=en) [![youtube (653k)](icons16/youtube.png)](https://youtu.be/pm00iX6NEr8) |
+| | | *TLDR: Optimization-free detection of 4-node hybridization cycles using phylogenetic invariants on concordance factors, at least 10x faster than the fastest network methods.* |
 
 ---
 
@@ -368,6 +394,7 @@ Unsupervised Learning of Phylogenetic Trees via Split-Weight Embedding, [arXiv:2
 | | | Novel Symmetry-preserving Neural Network Model for Phylogenetic Inference | 
 | | | [DOI: 10.1093/bioadv/vbae022](https://academic.oup.com/bioinformaticsadvances/advance-article/doi/10.1093/bioadv/vbae022/7610879) | |
 | | | [![bioadv (653k)](icons16/bioadv.png)](https://academic.oup.com/bioinformaticsadvances/advance-article/doi/10.1093/bioadv/vbae022/7610879) [![arxiv (653k)](icons16/arxiv.png)](https://arxiv.org/abs/2201.04663) [![github (653k)](icons16/github.png)](https://github.com/crsl4/nn-phylogenetics) [![twitter (653k)](icons16/twitter.png)](https://x.com/solislemuslab/status/1781108686775034167) [![instagram (653k)](icons16/instagram.png)](https://www.instagram.com/p/C57DBDJse48/?hl=en) [![youtube (653k)](icons16/youtube.png)](https://youtu.be/EWPvTnVnHAg) |
+| | | *TLDR: A neural network that builds tree symmetries into its architecture, outperforming NJ, ML and Bayesian inference under long-branch attraction while using less memory.* |
 
 ---
 
@@ -375,6 +402,7 @@ Unsupervised Learning of Phylogenetic Trees via Split-Weight Embedding, [arXiv:2
 | | | Machine learning identification of <i>Pseudomonas aeruginosa</i> strains from colony image data. | 
 | | | [DOI: 10.1371/journal.pcbi.1011699](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011699) | |
 | | | [![ecoind (653k)](icons16/ploscompbio.png)](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011699) [![bioarxiv (653k)](icons16/bioarxiv.png)](https://www.biorxiv.org/content/10.1101/2022.09.02.506375v1.abstract)  |
+| | | *TLDR: Deep CNNs with data augmentation and transfer learning identify P. aeruginosa strains from colony photos with ~91% test accuracy.* |
 
 ---
 
@@ -383,6 +411,7 @@ Unsupervised Learning of Phylogenetic Trees via Split-Weight Embedding, [arXiv:2
 | | | SiPhyNetwork: An R package for simulating phylogenetic networks | 
 | | | [DOI: 10.1111/2041-210X.14116](https://besjournals.onlinelibrary.wiley.com/doi/10.1111/2041-210X.14116) | |
 | | | [![ecoind (653k)](icons16/mee.png)](https://besjournals.onlinelibrary.wiley.com/doi/10.1111/2041-210X.14116) [![bioarxiv (653k)](icons16/bioarxiv.png)](https://www.biorxiv.org/content/10.1101/2022.10.26.513953v2) [![github (653k)](icons16/github.png)](https://github.com/jjustison/SiPhyNetwork)  |
+| | | *TLDR: An R package for simulating phylogenetic networks under birth-death-hybridization models.* |
 
 ---
 
@@ -391,6 +420,7 @@ Unsupervised Learning of Phylogenetic Trees via Split-Weight Embedding, [arXiv:2
 | | | Classification of animal sounds in a hyperdiverse rainforest using Convolutional Neural Networks | 
 | | | [DOI: 10.1016/j.ecolind.2022.109621](https://www.sciencedirect.com/science/article/pii/S1470160X22010949) | |
 | | | [![ecoind (653k)](icons16/ecoind.png)](https://www.sciencedirect.com/science/article/pii/S1470160X22010949) [![arxiv (653k)](icons16/arxiv.png)](https://arxiv.org/abs/2111.14971) [![github (653k)](icons16/github.png)](https://github.com/solislemuslab/tropical-stethoscope)  |
+| | | *TLDR: Transfer learning plus data augmentation makes CNN classification of rainforest animal sounds feasible even with very few training examples per call type.* |
 
 ---
 
@@ -398,6 +428,7 @@ Unsupervised Learning of Phylogenetic Trees via Split-Weight Embedding, [arXiv:2
 | | | [WI Fast Stats](https://wi-fast-stats.wid.wisc.edu/): a collection of web apps for the visualization and analysis of WI Fast Plants data | 
 | | | [DOI: 10.21105/jose.00159](https://jose.theoj.org/papers/10.21105/jose.00159) | |
 | | | [![jose (653k)](icons16/jose.png)](https://jose.theoj.org/papers/10.21105/jose.00159) [![arxiv (653k)](icons16/arxiv.png)](https://arxiv.org/abs/2012.03290) [![github (653k)](icons16/github.png)](https://github.com/crsl4/fast-stats) [![twitter (653k)](icons16/twitter.png)](https://twitter.com/solislemuslab/status/1521904890234253313) [![instagram (653k)](icons16/instagram.png)](https://www.instagram.com/p/CdL4R3gOCqC) [![youtube (653k)](icons16/youtube.png)](https://youtu.be/2dk0pdVbCzo) |
+| | | *TLDR: Web apps that let students visualize and analyze data from Wisconsin Fast Plants experiments without coding.* |
 
 ---
 
@@ -405,6 +436,7 @@ Unsupervised Learning of Phylogenetic Trees via Split-Weight Embedding, [arXiv:2
 | | |  Towards a robust out-of-the-box neural network model for genomic data |
 | | | [DOI: 10.1186/s12859-022-04660-8](https://rdcu.be/cK1Bd) |
 | | | [![bmc (653k)](icons16/bmc.png)](https://rdcu.be/cK1Bd) [![arxiv (653k)](icons16/arxiv.png)](https://arxiv.org/abs/2012.05995) [![github (653k)](icons16/github.png)](https://github.com/solislemuslab/dna-nn-theory) [![twitter (653k)](icons16/twitter.png)](https://twitter.com/solislemuslab/status/1517252569046867971) [![instagram (653k)](icons16/instagram.png)](https://www.instagram.com/p/CcoNzduOME8) [![youtube (653k)](icons16/youtube.png)](https://youtu.be/IXLVDIKxPvk) |
+| | | *TLDR: No neural network works out of the box across genomic datasets, but recurrent networks are the most robust baseline.* |
 
 ---
 
@@ -412,6 +444,7 @@ Unsupervised Learning of Phylogenetic Trees via Split-Weight Embedding, [arXiv:2
 | | | Efficient Estimation of Indirect Effects in Case-Control Studies Using a Unified Likelihood Framework |
 | | | [DOI: 10.1002/sim.9390](https://onlinelibrary.wiley.com/doi/10.1002/sim.9390) |
 | | | [![statmed (653k)](icons16/statmed.png)](https://onlinelibrary.wiley.com/doi/10.1002/sim.9390) [![bioarxiv (653k)](icons16/bioarxiv.png)](https://www.biorxiv.org/content/10.1101/2021.07.16.452552v1) |
+| | | *TLDR: A unified likelihood for mediation analysis in case-control studies that jointly models disease, exposure and mediator, giving more efficient indirect-effect estimates.* |
 
 ---
 
@@ -419,6 +452,7 @@ Unsupervised Learning of Phylogenetic Trees via Split-Weight Embedding, [arXiv:2
 | | | Effect of genetic background on the evolution of Vancomycin-Intermediate Staphylococcus aureus (VISA)|
 | | | [DOI: 10.7717/peerj.11764](https://doi.org/10.7717/peerj.11764) |
 | | | [![peerj (653k)](icons16/peerj.png)](https://doi.org/10.7717/peerj.11764) [![github (653k)](icons16/github.png)](https://github.com/crsl4/staph-visa) |
+| | | *TLDR: VISA evolved through mutations in similar genes across three S. aureus backgrounds, but the same mutations had different fitness costs and resistance effects in each.* |
 
 ---
 
@@ -426,6 +460,7 @@ Unsupervised Learning of Phylogenetic Trees via Split-Weight Embedding, [arXiv:2
 | | | Genes Influencing Phage Host Range in _Staphylococcus aureus_ on a Species-Wide Scale |
 | | | [DOI: 10.1128/mSphere.01263-20](https://msphere.asm.org/content/6/1/e01263-20#sec-9) |
 | | | [![msphere (653k)](icons16/msphere.png)](https://msphere.asm.org/content/6/1/e01263-20#sec-9) [![github (653k)](icons16/github.png)](https://github.com/solislemuslab/staph-nn) |
+| | | *TLDR: Screening 259 S. aureus strains against 8 phages plus GWAS uncovered new host-range genes, informing the design of phage-therapy cocktails.* |
 
 ---
 
@@ -433,6 +468,7 @@ Unsupervised Learning of Phylogenetic Trees via Split-Weight Embedding, [arXiv:2
 | | | A generalized measure of relative dispersion|
 | | | [DOI: 10.1016/j.spl.2020.108806](https://www.sciencedirect.com/science/article/pii/S0167715220301097?dgcid=author)|
 | | | [![statprob (653k)](icons16/statprob.png)](https://www.sciencedirect.com/science/article/pii/S0167715220301097?dgcid=author) |
+| | | *TLDR: Proposes a generalized measure of relative dispersion, i.e., of variability relative to the center of a distribution.* |
 
 ---
 
@@ -440,6 +476,7 @@ Unsupervised Learning of Phylogenetic Trees via Split-Weight Embedding, [arXiv:2
 | | | Leveraging Family History in Case-Control Analyses of Rare Variation |
 | | | [DOI: 10.1534/genetics.119.302846](https://doi.org/10.1534/genetics.119.302846) |
 | | | [![genetics (653k)](icons16/genetics.png)](https://doi.org/10.1534/genetics.119.302846) [![github (653k)](icons16/github.png)](https://github.com/crsl4/ordinal-gamut) |
+| | | *TLDR: Recoding case-control status as ordinal (control / sporadic case / familial case) boosts power to detect rare variants, illustrated on cleft lip and palate.* |
 
 ---
 
@@ -447,6 +484,7 @@ Unsupervised Learning of Phylogenetic Trees via Split-Weight Embedding, [arXiv:2
 | | | Genomic analysis of variability in delta-toxin levels between Staphylococcus aureus strains |
 | | | [DOI: 10.7717/peerj.8717](https://peerj.com/articles/8717/) |
 | | | [![peerj (653k)](icons16/peerj.png)](https://peerj.com/articles/8717/) |
+| | | *TLDR: GWAS across 124 S. aureus strains finds many loci of small effect on delta-toxin production and shows the carA gene is required for it.* |
 
 ---
 
@@ -454,12 +492,14 @@ Unsupervised Learning of Phylogenetic Trees via Split-Weight Embedding, [arXiv:2
 | | | Prediction of functional markers of mass cytometry data via deep learning |
 | | | [DOI: 10.1007/978-3-030-33416-1_5](https://link.springer.com/chapter/10.1007/978-3-030-33416-1_5) |
 | | | [![biomed (653k)](icons16/biomed.png)](https://link.springer.com/chapter/10.1007/978-3-030-33416-1_5) |
+| | | *TLDR: A neural network predicts functional markers in mass cytometry data from surface markers, outperforming standard ML methods.* |
 
 ---
 
 | <span style="font-size:2em;">2018</span> |  | <b>Sol&iacute;s-Lemus, C.</b>, Pimentel-Alarc&oacute;n D. |
 | | | Breaking the Limits of Subspace Inference |
 | | | [56th Annual Allerton Conference on Communication, Control, and Computing](http://allerton.csl.illinois.edu/) |
+| | | *TLDR: Explores how the sample covariance can reveal an r-dimensional subspace from far less information than classically required.* |
 
 ---
 
@@ -467,6 +507,7 @@ Unsupervised Learning of Phylogenetic Trees via Split-Weight Embedding, [arXiv:2
 | | | Greatly reduced phylogenetic structure in the cultivated potato clade (Solanum section Petota pro parte) |
 | | | [DOI: 10.1002/ajb2.1008](http://onlinelibrary.wiley.com/doi/10.1002/ajb2.1008/abstract) |
 | | | [![botany (653k)](icons16/botany.png)](http://onlinelibrary.wiley.com/doi/10.1002/ajb2.1008/abstract) |
+| | | *TLDR: Nuclear phylogenetics of 131 diploid potato accessions finds drastically reduced structure in the cultivated potato clade, supporting fewer species there.* |
 
 ---
 
@@ -474,6 +515,7 @@ Unsupervised Learning of Phylogenetic Trees via Split-Weight Embedding, [arXiv:2
 | | | Phylogenetic Comparative Methods on Phylogenetic Networks with Reticulations |
 | | | [DOI: 10.1093/sysbio/syy033](https://academic.oup.com/sysbio/advance-article/doi/10.1093/sysbio/syy033/4985806?guestAccessKey=507189f8-9ff2-4e12-b17e-29c2a1b2e7ec) |
 | | | [![systbio (653k)](icons16/systbio.png)](https://academic.oup.com/sysbio/advance-article/doi/10.1093/sysbio/syy033/4985806?guestAccessKey=507189f8-9ff2-4e12-b17e-29c2a1b2e7ec) [![bioarxiv (653k)](icons16/bioarxiv.png)](https://www.biorxiv.org/content/early/2017/09/28/194050) |
+| | | *TLDR: Extends phylogenetic comparative methods (trait evolution, regression/ANOVA, ancestral state reconstruction) from trees to networks.* |
 
 
 ---
@@ -482,18 +524,21 @@ Unsupervised Learning of Phylogenetic Trees via Split-Weight Embedding, [arXiv:2
 | | | PhyloNetworks: a package for phylogenetic networks |
 | | | [DOI: 10.1093/molbev/msx235](https://academic.oup.com/mbe/article/34/12/3292/4103410?guestAccessKey=1d2c94f2-f064-42ae-a652-ce14cd095442) |
 | | | [![mbe (653k)](icons16/mbe.png)](https://academic.oup.com/mbe/article/34/12/3292/4103410?guestAccessKey=1d2c94f2-f064-42ae-a652-ce14cd095442) [![github (653k)](icons16/github.png)](https://github.com/crsl4/PhyloNetworks.jl) |
+| | | *TLDR: A Julia package to infer, manipulate, visualize and use phylogenetic networks, including SNaQ and comparative methods.* |
 
 ---
 
 | <span style="font-size:2em;">2017</span> |  | An&eacute;, C., Bastide, P., Mariadassou, M., Robin, S., <b>Sol&iacute;s-Lemus, C.</b> |
 | | | Processus d'&eacute;volution r&eacute;ticul&eacute;e: tests de signal phylog&eacute;n&eacute;tique | 
 | | | [Journ&eacute;es de Statistique](http://jds2017.sfds.asso.fr/program/Soumissions/subm211.pdf) |
+| | | *TLDR: Tests of phylogenetic signal for traits evolving on reticulate (network) phylogenies.* |
 
 ---
 
 | <span style="font-size:2em;">2017</span> |  | Pimentel-Alarc&oacute;n D., Biswas A., <b>Sol&iacute;s-Lemus, C.</b> |
 | | | Adversarial Principal Component Analysis | 
 | | | [IEEE International Symposium on Information Theory (ISIT)](https://danielpimentel.github.io/publications.html) |
+| | | *TLDR: Characterizes in closed form the single adversarial data point that tilts the PCA subspace the most.* |
 
 ---
 
@@ -501,6 +546,7 @@ Unsupervised Learning of Phylogenetic Trees via Split-Weight Embedding, [arXiv:2
 | | | Inferring phylogenetic networks with maximum pseudolikelihood under incomplete lineage sorting | 
 | | | [DOI: 10.1371/journal.pgen.1005896](http://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1005896) |
 | | | [![plosgen (653k)](icons16/plosgen.png)](http://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1005896) [![arxiv (653k)](icons16/arxiv.png)](http://arxiv.org/abs/1509.06075) [![github (653k)](icons16/github.png)](https://github.com/crsl4/PhyloNetworks.jl) |
+| | | *TLDR: SNaQ: fast maximum pseudolikelihood inference of phylogenetic networks from gene trees, accounting for incomplete lineage sorting.* |
 
 
 ---
@@ -509,6 +555,7 @@ Unsupervised Learning of Phylogenetic Trees via Split-Weight Embedding, [arXiv:2
 | | | Inconsistency of species-tree methods under gene flow |
 | | | [DOI: 10.1093/sysbio/syw030](http://sysbio.oxfordjournals.org/content/early/2016/05/04/sysbio.syw030.full.pdf?keytype=ref&ijkey=4YgLuAtchHF4QmS) |
 | | | [![systbio (653k)](icons16/systbio.png)](http://sysbio.oxfordjournals.org/content/early/2016/05/04/sysbio.syw030.full.pdf?keytype=ref&ijkey=4YgLuAtchHF4QmS) [![github (653k)](icons16/github.png)](https://github.com/crsl4/InconsistencySpeciesTreeGeneFlow) |
+| | | *TLDR: Species-tree methods can be statistically inconsistent under gene flow, converging to the wrong tree as more data are added.* |
 
 ---
 
@@ -516,12 +563,14 @@ Unsupervised Learning of Phylogenetic Trees via Split-Weight Embedding, [arXiv:2
 | | | Statistical evidence for common ancestry: application to primates |
 | | | [DOI: 10.1111/evo.12934](http://onlinelibrary.wiley.com/doi/10.1111/evo.12934/abstract) |
 | | | [![evol (653k)](icons16/evol.png)](http://onlinelibrary.wiley.com/doi/10.1111/evo.12934/abstract) |
+| | | *TLDR: A formal statistical test that strongly favors common ancestry over separate ancestry for primates.* |
 
 ---
 
 | <span style="font-size:2em;">2016</span> |  | Pimentel-Alarc&oacute;n D., <b>Sol&iacute;s-Lemus, C.</b> |
 | | | Crime detection via crowdsourcing |
 | | | [8th Mexican Conference on Pattern Recognition, Springer International](https://danielpimentel.github.io/publications.html) |
+| | | *TLDR: Ranks houses by their likelihood of hosting a criminal from citizens' tips, with guarantees on how many tips are needed.* |
 
 ---
 
@@ -529,6 +578,7 @@ Unsupervised Learning of Phylogenetic Trees via Split-Weight Embedding, [arXiv:2
 | | | Bayesian species delimitation combining multiple genes and traits in a unified framework |
 | | | [DOI: 10.1111/evo.12582](http://onlinelibrary.wiley.com/doi/10.1111/evo.12582/abstract) |
 | | | [![evol (653k)](icons16/evol.png)](http://onlinelibrary.wiley.com/doi/10.1111/evo.12582/abstract) [![github (653k)](icons16/github.png)](https://github.com/cecileane/iBPP) |
+| | | *TLDR: iBPP: Bayesian species delimitation that integrates multilocus genetic data with trait data.* |
 
 ---
 
