@@ -172,9 +172,10 @@ Unsupervised Learning of Phylogenetic Trees via Split-Weight Embedding, [arXiv:2
 
 | <span style="font-size:2em;">2026</span> |  | Mukhtar S, <strong style="color: SlateBlue;">Xu, T., Gorstein, E.</strong>, <b>Sol&iacute;s-Lemus, C.</b>, Chou MY, Koch, P. |
 | | | Combined effects of methyl bromide and soil amendments on soil bacterial and fungal communities in turfgrass |
-| | | *TLDR: Methyl bromide fumigation reshaped bacterial and fungal communities on a golf putting green, while the follow-up soil amendments had no significant effect.* |
 | | | [DOI: 10.48130/grares-0026-0021](https://www.maxapress.com/article/doi/10.48130/grares-0026-0021)|
 | | | [![grass (653k)](icons16/grass.png)](https://www.maxapress.com/article/doi/10.48130/grares-0026-0021) |
+| | | *TLDR: Methyl bromide fumigation reshaped bacterial and fungal communities on a golf putting green, while the follow-up soil amendments had no significant effect.* |
+
 
 ---
 
