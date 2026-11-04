@@ -183,6 +183,7 @@ Unsupervised Learning of Phylogenetic Trees via Split-Weight Embedding, [arXiv:2
 | | | Ancestral Sequences Cannot be Accurately Reconstructed via Interpolation in a Variational Autoencoder’s Latent Space |
 | | | [DOI: 10.1007/s11538-026-01749-6](https://link.springer.com/article/10.1007/s11538-026-01749-6)|
 | | | [![bmb (653k)](icons16/bmb.png)](https://link.springer.com/article/10.1007/s11538-026-01749-6) [![arxiv (653k)](icons16/arxiv.png)](https://www.biorxiv.org/content/10.1101/2025.11.19.689264v1) [![github (653k)](icons16/github.png)](https://github.com/solislemuslab/asr-ae/) |
+| | | *TLDR: Interpolating in a VAE's latent space can't accurately reconstruct ancestral sequences: the latent space does carry phylogenetic signal, but the decoder loses too much information.* |
 
 ---
 
