@@ -191,6 +191,7 @@ Unsupervised Learning of Phylogenetic Trees via Split-Weight Embedding, [arXiv:2
 | | | SNaQ.jl: Improved Scalability for Phylogenetic Network Inference |
 | | | [DOI: 10.1093/bioinformatics/btag289](https://academic.oup.com/bioinformatics/article/42/6/btag289/8675975)|
 | | | [![bioinf (653k)](icons16/bioinf.png)](https://academic.oup.com/bioinformatics/article/42/6/btag289/8675975) [![arxiv (653k)](icons16/arxiv.png)](https://www.biorxiv.org/content/10.1101/2025.11.17.688917v1) [![github (653k)](icons16/github.png)](https://github.com/JuliaPhylo/SNaQ.jl) |
+| | | *TLDR: SNaQ becomes a standalone Julia package with parallelized quartet calculations, weighted quartet selection and probabilistic search, cutting runtimes by up to 400% with no loss in accuracy.* |
 
 ---
 
