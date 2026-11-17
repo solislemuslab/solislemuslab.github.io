@@ -198,7 +198,7 @@ Unsupervised Learning of Phylogenetic Trees via Split-Weight Embedding, [arXiv:2
 | <span style="font-size:2em;">2026</span> |  | <b>Sol&iacute;s-Lemus, C.</b> |
 | | | Evolving View on Phylogenetic Networks |
 | | | [DOI: 10.1093/sysbio/syag045](https://doi.org/10.1093/sysbio/syag045)|
-| | | [![sysbio (653k)](icons16/systbio.png)](https://doi.org/10.1093/sysbio/syag045) |
+| | | [![sysbio (653k)](icons16/systbio.png)](https://doi.org/10.1093/sysbio/syag045) [![arxiv (653k)](icons16/arxiv.png)](https://arxiv.org/abs/2611.04149) |
 | | | *TLDR: Invited perspective for the 75th anniversary of Syst Bio journal mapping the classes of explicit phylogenetic networks, what they mean biologically, and how well we can actually estimate them from data.* |
 
 ---
