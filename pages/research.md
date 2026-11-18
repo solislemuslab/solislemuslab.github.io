@@ -136,6 +136,8 @@ Examples of our current research involve:
 
 #### Preprints undergoing peer-review
 
+Ballen, G., <b>Sol&iacute;s-Lemus, C.</b>, Tiley, G., Oliveira, C. (2026) Beyond tree-like evolution in ostariophysan fishes [biorxiv: 10.64898/2026.11.09.765406](https://www.biorxiv.org/content/10.64898/2026.11.09.765406v1)
+
 <strong style="color: SlateBlue;">Zheng, Y.</strong>, <b>Sol&iacute;s-Lemus, C.</b> (2026) Sparse dynamic graphical models for longitudinal non-Gaussian data [biorxiv: 10.64898/2026.09.25.754276](https://www.biorxiv.org/content/10.64898/2026.09.25.754276v1)
 
 <strong style="color: SlateBlue;">Xu, T.</strong>, Pimentel-Alarcon, D., Burivalova, Z., <b>Sol&iacute;s-Lemus, C.</b> (2026) MAST: Label-Efficient, Robust, and Generalizable Sound Detection for Biodiversity Monitoring via Masked Audio Pretraining and Self-Training [arxiv: 10.48550/arXiv.2609.15221](https://doi.org/10.48550/arXiv.2609.15221) (accepted NeurIPS 2026).
